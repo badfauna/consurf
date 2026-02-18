@@ -1,0 +1,201 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Consurf.net Open Data Schema",
+  "type": "object",
+  "properties": {
+    "conventions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/convention"
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/event"
+      }
+    },
+    "venues": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/venue"
+      }
+    }
+  },
+  "definitions": {
+    "convention": {
+      "type": "object",
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "hostCountry"
+      ],
+      "properties": {
+        "$ref": {
+          "type": "string",
+          "format": "uri"
+        },
+        "id": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "shortName": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "minAge": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "hostCountry": {
+          "type": "string"
+        },
+        "blueskyHandle": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "moreInformation": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "website": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      }
+    },
+    "event": {
+      "type": "object",
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "conventionId",
+        "startDate",
+        "endDate"
+      ],
+      "properties": {
+        "$ref": {
+          "type": "string",
+          "format": "uri"
+        },
+        "id": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "conventionId": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "startDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "endDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "timezone": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "country": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "isCancelled": {
+          "type": "boolean"
+        },
+        "attendeeCount": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "fursuiterCount": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "vendorCount": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "charityRaised": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "venue": {
+      "type": "object",
+      "required": [
+        "id",
+        "eventId",
+        "name",
+        "address"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "eventId": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "isMain": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

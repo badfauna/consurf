@@ -1,0 +1,408 @@
+[
+  {
+    "id": "cmkc0mtvl0007qk019mnmbm60",
+    "eventId": "cmkc0m16c0005qk018arpq5ov",
+    "name": "Double Tree Hotel",
+    "address": "1 First Stamford Pl, Stamford, CT, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkc0qt1c000bqk015t4repf1",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Sheraton Dallas Hotel",
+    "address": "400 North Olive Street Dallas, TX 75201 USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkc0r3sa000dqk016le85nmz",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Dallas Marriott Downtown",
+    "address": "650 N Pearl St Dallas, TX 75201",
+    "isMain": false
+  },
+  {
+    "id": "cmkc0rcfh000fqk01ia6drw5q",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Hotel Indigo Dallas Downtown",
+    "address": "1933 Main Street Dallas, TX 75201",
+    "isMain": false
+  },
+  {
+    "id": "cmkc0rl3s000hqk01ffy2naem",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Hilton Garden Inn – Downtown Dallas",
+    "address": "1600 Pacific Avenue Dallas, TX 75201",
+    "isMain": false
+  },
+  {
+    "id": "cmkc0rv4g000jqk01fr9byxvt",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Magnolia Downtown Dallas",
+    "address": "1401 Commerce Street Dallas, TX 75201",
+    "isMain": false
+  },
+  {
+    "id": "cmkc0s3hp000lqk01sjtr7xti",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Fairfield by Marriott Inn & Suites Dallas Downtown",
+    "address": "555 Evergreen Street Dallas, TX 75201",
+    "isMain": false
+  },
+  {
+    "id": "cmkc0sb9x000nqk011e4vezl7",
+    "eventId": "cmkc0q4o80009qk01fodx5z3k",
+    "name": "Homewood Suites by Hilton Dallas Downtown",
+    "address": "1025 Elm Street Dallas, TX 75202",
+    "isMain": false
+  },
+  {
+    "id": "cmkc15lud000xqk01vq4evvcs",
+    "eventId": "cmhpe4z3h018gian0u9y4dhhg",
+    "name": "Marriott at City Center",
+    "address": "740 Town Center Drive, Newport News, VA 23606, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkc19wwe0011qk0170chom7i",
+    "eventId": "cmkc19mik000zqk01pybhjbmw",
+    "name": "Albany Capital Center",
+    "address": "55 Eagle St Albany, NY 12207, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkc1fi8c0017qk01xwvn54iv",
+    "eventId": "cmkc1ez7m0015qk01irt6oh8r",
+    "name": "The DoubleTree by Hilton Fairfield",
+    "address": "690 US-46, Fairfield, NJ 07004, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkc1mcf5001bqk01hbf46qjs",
+    "eventId": "cmkc1l85k0019qk01fgejqpou",
+    "name": "Hotel Slovenija",
+    "address": "Obala 33, 6320 Portorož, Slovenia",
+    "isMain": true
+  },
+  {
+    "id": "cmkc267a2001fqk016f89imo2",
+    "eventId": "lp09qun1oiqc0rbhhpugazkr",
+    "name": "Village Vacances Bussang",
+    "address": "2 Rue de Larcenaire, 88540 Bussang, France",
+    "isMain": true
+  },
+  {
+    "id": "cmkc2imv0001nqk01ubyxobdp",
+    "eventId": "cmkc2f5z5001jqk01spvvh1uu",
+    "name": "Sleep Inn Paulínia",
+    "address": "Av. José Lozano Araújo, 4545, Parque Brasil 500, Paulínia, SP, 13141-170, Brazil",
+    "isMain": false
+  },
+  {
+    "id": "cmkc2g1yr001lqk01fucghxrr",
+    "eventId": "cmkc2f5z5001jqk01spvvh1uu",
+    "name": "Premium Hotel Campinas",
+    "address": "R. Novotel, 931, Nova Aparecida, Campinas, SP, 13067-901, Brazil",
+    "isMain": true
+  },
+  {
+    "id": "cmkc2usxa001vqk01t7mdr829",
+    "eventId": "cmkc2tbhj001tqk013nuphyfq",
+    "name": "One Farrer Hotel",
+    "address": "1 Farrer Park Station Rd, 217562, Singapore",
+    "isMain": true
+  },
+  {
+    "id": "cml6uikqk000elx01yb4npijo",
+    "eventId": "cml6ugl3w000alx01v7xsba95",
+    "name": "Hyatt Regency San Francisco Airport",
+    "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
+    "isMain": true
+  },
+  {
+    "id": "cmkg37owf0005qj01dpc9fq0j",
+    "eventId": "cmhpe4z3g016xian04aeqhnzw",
+    "name": "Acampamento Terra do Saber",
+    "address": "Rua Alencar Martins S/N, Aldeia Ivoturucaia, Cajamar - SP",
+    "isMain": true
+  },
+  {
+    "id": "cmkj8c1np0006p4018yziyel2",
+    "eventId": "cmkj89w6a0002p401p9ad7m1a",
+    "name": "Hotel Corregidor",
+    "address": "Calle 6, Nro 1026, La Plata, Argentina ",
+    "isMain": true
+  },
+  {
+    "id": "cmkj8omzb000bp401rdh5c9qq",
+    "eventId": "cmkj8n90k0009p401ax51yl21",
+    "name": "Horizon Hotel",
+    "address": "Kota Kinabalu, Sabah, Malaysia",
+    "isMain": true
+  },
+  {
+    "id": "cmkj9n51y000op4012zvfpuf5",
+    "eventId": "cmkj9mw4o000mp401emv3cj17",
+    "name": "Mercure Hotel Schweinfurt",
+    "address": "Maininsel 10 - 12, 97424 Schweinfurt, Germany",
+    "isMain": true
+  },
+  {
+    "id": "cmkj9t35m000up401gj8x1at9",
+    "eventId": "cmhpe4z3g016wian0ld894083",
+    "name": "Crowne Plaza Executive Center",
+    "address": " Baton Rouge, Baton Rouge, LA",
+    "isMain": true
+  },
+  {
+    "id": "cmkja6iq00010p401rzjcnqat",
+    "eventId": "cmkja5xmp000yp401xw8q862t",
+    "name": "Hilton Strasbourg",
+    "address": "1 Avenue Herrenschmidt, 67000 Strasbourg, France",
+    "isMain": true
+  },
+  {
+    "id": "cmkjb0e570018p401lz0xwm5f",
+    "eventId": "cmhpe4z3h017iian0om6au9z9",
+    "name": "Wyndham Edmonton Hotel and Conference Center",
+    "address": "4440 Gateway Blvd, Edmonton, AB, Canada",
+    "isMain": true
+  },
+  {
+    "id": "cmkjb0s80001ap401yyd5ajxx",
+    "eventId": "cmhpe4z3h017iian0om6au9z9",
+    "name": "Delta Hotels Edmonton South Conference Centre",
+    "address": "4404 Gateway Blvd NW, Edmonton, AB, Canada",
+    "isMain": false
+  },
+  {
+    "id": "cmkr4338f0005rs01qns8fcoe",
+    "eventId": "cmkr407es0001rs01qh5hljih",
+    "name": "Aichi International Exhibition Center",
+    "address": "5 Chome-１０番１号 Centrair, Tokoname, Aichi 479-0881, Japan",
+    "isMain": true
+  },
+  {
+    "id": "cmkr4i52o000brs013qqez63v",
+    "eventId": "cmkr4grfe0009rs01zlxfl0fu",
+    "name": "Esplanade Hotel Fremantle by Rydges",
+    "address": " 46-54 Marine Terrace, Fremantle WA 6160, Australia",
+    "isMain": true
+  },
+  {
+    "id": "cmkt45xfx0001qg01h31t4ems",
+    "eventId": "cmhpe4z3g0179ian0r13dxq5t",
+    "name": "Crowne Plaza Surfer's Paradise",
+    "address": "2801 Gold Coast Highway, Surfers Paradise QLD 4217, Australia",
+    "isMain": true
+  },
+  {
+    "id": "cmkt4nmiz0006qg01hy7olcyx",
+    "eventId": "cmkt4n8t00004qg01velt8y1c",
+    "name": "INTEX OSAKA",
+    "address": "1 Chome-5-102 Nankokita, Suminoe Ward, Osaka, 559-0034, Japan",
+    "isMain": true
+  },
+  {
+    "id": "cmkt52iiq000qqg01fgrcgjy4",
+    "eventId": "cmkt51j20000mqg01pb8gkoye",
+    "name": "Hilton Garden Inn",
+    "address": "762 Heritage Park Blvd, Layton, UT 84041, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkt524mu000oqg0122d8dmro",
+    "eventId": "cmkt51j20000mqg01pb8gkoye",
+    "name": "Davis Conference Center",
+    "address": "1651 North 700 West, Layton, UT 84041, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkt53179000uqg01d376yf9t",
+    "eventId": "cmkt51j20000mqg01pb8gkoye",
+    "name": "Home2 Suites",
+    "address": "803 Heritage Park Blvd, Layton, UT 84041, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkt53crm000wqg01kk2tixny",
+    "eventId": "cmkt51j20000mqg01pb8gkoye",
+    "name": "Hampton Inn",
+    "address": "1700 Woodland Park Dr, Layton, UT 84041, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8b8oo002eqg01p6enjehp",
+    "eventId": "cmkt889o8002cqg01c4hvix53",
+    "name": "Home2 Suites",
+    "address": "Duncan Ave, Pittsburgh, PA 15237",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8c41z002iqg01et0hdtne",
+    "eventId": "cmkt889o8002cqg01c4hvix53",
+    "name": "Fairfield Inn & Suites by Marriott Pittsburgh",
+    "address": "McCandless Crossing, 901 Providence Blvd, Pittsburgh, PA 15237",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8cove002kqg019jc9gvxd",
+    "eventId": "cmkt889o8002cqg01c4hvix53",
+    "name": "Quality Inn (No Shuttle)",
+    "address": "5137 William Flynn Highway, Gibsonia, PA, 15044",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8ld4w002oqg01w9xhbo29",
+    "eventId": "cmkt8iqks002mqg019p5l9cmf",
+    "name": "Courtyard by Marriott",
+    "address": "1946 13th Ave Dr SE, Hickory, NC 28602, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8lzq6002qqg013kqcvr48",
+    "eventId": "cmkt8iqks002mqg019p5l9cmf",
+    "name": "Fairfield by Marriott",
+    "address": "1950 13th Ave Dr SE, Hickory, NC 28602, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkt8mi9l002sqg01e399q2ag",
+    "eventId": "cmkt8iqks002mqg019p5l9cmf",
+    "name": "Best Western",
+    "address": "1520 13th Ave Dr SE, Hickory, NC 28602, USA",
+    "isMain": false
+  },
+  {
+    "id": "cmkulghwp0038qg016l0u64gl",
+    "eventId": "cmhpe4z3j01apian0r7mezbh8",
+    "name": "Novotel Madrid Center",
+    "address": "Calle de O'Donnell, 53, 28009 Madrid, Spain",
+    "isMain": true
+  },
+  {
+    "id": "cmkumeovk003cqg018lbfehva",
+    "eventId": "cmhpe4z3q01j5ian0re3fpqtf",
+    "name": "Crowne Plaza Hotel",
+    "address": "1901 University Blvd NE, Albuquerque, NM, 87102 USA",
+    "isMain": true
+  },
+  {
+    "id": "cmkunbw7f003kqg016mpygbmu",
+    "eventId": "cmkc2ohii001rqk01mu4o4aw8",
+    "name": "Chula Vista Resort",
+    "address": "Wisconsin Dells, WI",
+    "isMain": true
+  },
+  {
+    "id": "cml9p60vv000nlx0126mco26w",
+    "eventId": "cmhpe4z3h0180ian0u1qprtab",
+    "name": "Renaissance Tulsa Hotel & Convention Center",
+    "address": "6808 S 107th E Ave, Tulsa, OK 74133, United States",
+    "isMain": true
+  },
+  {
+    "id": "cmlchq0kh000qlx01tnb2g8kg",
+    "eventId": "cmhpe4z3k01bhian0zi3xvsij",
+    "name": "Holiday Inn Austin Midtown",
+    "address": "6000 Middle Fiskville Rd. Austin, TX 78752",
+    "isMain": true
+  },
+  {
+    "id": "cmlchs1cz000ulx01ix2cyqvx",
+    "eventId": "cmhpe4z3k01bhian0zi3xvsij",
+    "name": "Embassy Suites Austin Central",
+    "address": "5901 North Interstate Hwy 35 Austin, TX 78723",
+    "isMain": false
+  },
+  {
+    "id": "cmle1a6vw0012lx01bjm40f3b",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "Marriott Marquis",
+    "address": "265 Peachtree Center Avenue, Atlanta, GA 30303, US",
+    "isMain": false
+  },
+  {
+    "id": "cmlchrei0000slx01qrcs49xz",
+    "eventId": "cmhpe4z3k01bhian0zi3xvsij",
+    "name": "Courtyard Austin University Area",
+    "address": "5660 North Interstate Hwy 35 Austin, TX, 78751",
+    "isMain": false
+  },
+  {
+    "id": "cmle1aegk0014lx01q574yk04",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "Hyatt Regency Atlanta",
+    "address": "265 Peachtree Street NE, Atlanta, GA, 30303, US",
+    "isMain": false
+  },
+  {
+    "id": "cmle1ak890016lx01jub0kgjv",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "Hilton Atlanta",
+    "address": "255 Courtland Street NE, Atlanta, GA 30303, US",
+    "isMain": false
+  },
+  {
+    "id": "cmle1as0g0018lx01dk74f7n1",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "Courtland Grand Hotel",
+    "address": "165 Courtland Street NE, Atlanta, GA 30303, US",
+    "isMain": false
+  },
+  {
+    "id": "cmle1ay81001alx01yojjut9g",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "The Westin Peachtree Plaza",
+    "address": "210 Peachtree St NW, Atlanta, GA 30303, US",
+    "isMain": false
+  },
+  {
+    "id": "cmle1b4cm001clx01sbrrlpi8",
+    "eventId": "cmhpe4z3g017bian0t3pfrtl5",
+    "name": "Aloft Atlanta Downtown",
+    "address": "300 Ted Turner Drive N.W., Atlanta, GA 30308, US",
+    "isMain": false
+  },
+  {
+    "id": "cmle1s0oq001glx01d3vdckhn",
+    "eventId": "cmhpe4z3g017eian0cfx5ylkr",
+    "name": "Hilton Birmingham Metropole",
+    "address": "Pendigo Way, Marston Green, Birmingham B40 1PP, United Kingdom",
+    "isMain": true
+  },
+  {
+    "id": "cmle1tmfw001ilx01r6oowk72",
+    "eventId": "cmhpe4z3g017eian0cfx5ylkr",
+    "name": "The Crowne Plaza",
+    "address": "Pendigo Way, Marston Green, Birmingham B40 1PS, United Kingdom",
+    "isMain": false
+  },
+  {
+    "id": "cmle1udrt001klx01itxuhpdw",
+    "eventId": "cmhpe4z3g017eian0cfx5ylkr",
+    "name": "AvantGlamp",
+    "address": "Marston Green, Birmingham B40 1AD, United Kingdom",
+    "isMain": false
+  },
+  {
+    "id": "cmle1vuj5001mlx01jq8mnpmw",
+    "eventId": "cmhpe4z3g017eian0cfx5ylkr",
+    "name": "Arden Hotel",
+    "address": "Coventry Rd, Solihull B92 0EH, United Kingdom",
+    "isMain": false
+  },
+  {
+    "id": "cmlh61a670006lj0114nxpy0n",
+    "eventId": "cmhpe4z3k01bfian0pb3ej9dw",
+    "name": "Detroit Marriott at the Renaissance Center",
+    "address": "400 Renaissance Drive, Detroit, Michigan, USA, 48243",
+    "isMain": true
+  },
+  {
+    "id": "cmlq7szdk0003o601k3gezqpc",
+    "eventId": "cmkt7ceks0022qg01alxs51o3",
+    "name": "Novotel Melbourne Preston",
+    "address": "215 Bell St Preston VIC 3072",
+    "isMain": true
+  }
+]
