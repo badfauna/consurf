@@ -1,9 +1,15 @@
+[![Support on Ko-Fi](https://img.shields.io/badge/support-buy_me_a_coffee-blue)](https://ko-fi.com/getnuki)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/consurf.bsky.social)](https://bsky.app/profile/consurf.bsky.social)
+
+
 # Consurf Open Data
 
 Structured dataset of furry conventions and its iterations (events) published by Consurf.
 
 This data is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 This repository provides machine-readable JSON datasets intended for:
 - Developers
