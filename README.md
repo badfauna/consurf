@@ -131,7 +131,7 @@ Issues related to:
 Should be patched via the main Consurf platform, by [creating an account](https://consurf.net/login) and contributing it yourself. Help is always appreciated!
 
 ## Contact
-You can reach out to the admins via [our Bluesky](https://bsky.app/profile/consurf.bsky.social), or by emailing us at `social@consurf.net`
+You can reach out to the admins via [our Bluesky](https://bsky.app/profile/consurf.bsky.social), or by emailing us at `bark@consurf.net`
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
