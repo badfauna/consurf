@@ -404,5 +404,89 @@
     "name": "Novotel Melbourne Preston",
     "address": "215 Bell St Preston VIC 3072",
     "isMain": true
+  },
+  {
+    "id": "cmlv7jivu0026qj01f9ucaxzs",
+    "eventId": "cmlv7h0c00022qj0109a0a8un",
+    "name": "Devero Hotel",
+    "address": "Largo John Fitzgerald Kennedy, 1, 20873 Cavenago di Brianza MB, Italy",
+    "isMain": true
+  },
+  {
+    "id": "cmlv7kac5002aqj015o0pq2d0",
+    "eventId": "cmlv7h0c00022qj0109a0a8un",
+    "name": "AS Hotel Cambiago",
+    "address": "Vle delle Industrie, 20040 Cambiago MI, Italy",
+    "isMain": false
+  },
+  {
+    "id": "cmlv810tr002lqj01f22o36y5",
+    "eventId": "cmlv80jf9002hqj01mygmc4ch",
+    "name": "The Retreat on Charleston Peak",
+    "address": "2755 Kyle Canyon Rd, Mt Charleston, NV 89124",
+    "isMain": true
+  },
+  {
+    "id": "cmm46qzl4001tmp01obg4fj68",
+    "eventId": "cmhpe4z3800xeian0dv6i44ir",
+    "name": "Sheraton Santos Hotel",
+    "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+    "isMain": false
+  },
+  {
+    "id": "cmm46ra48001xmp0130bjmvv1",
+    "eventId": "cmhpe4z3500u3ian0nv54aejn",
+    "name": "Sheraton Santos Hotel",
+    "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+    "isMain": false
+  },
+  {
+    "id": "cmm46tkcz0021mp0134w6tcf6",
+    "eventId": "cmhpe4z3i0198ian0luxkoew8",
+    "name": "Mercure Santos Hotel",
+    "address": "Av. Washington Luís, 565 - Boqueirão, Santos - SP, 11055-001",
+    "isMain": false
+  },
+  {
+    "id": "cmm46vg9r0025mp01szyer67j",
+    "eventId": "cmhpe4z3b010rian0wxp4sltl",
+    "name": "Sheraton Santos Hotel",
+    "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+    "isMain": false
+  },
+  {
+    "id": "cmm76zx5j0007mo014l48uveo",
+    "eventId": "cmhpe4z3g0174ian0hsg1sjk3",
+    "name": "Lord Baltimore Hotel",
+    "address": "20 W Baltimore St, Baltimore, MD 21201",
+    "isMain": true
+  },
+  {
+    "id": "cmm771h1a000bmo01gntyqjq6",
+    "eventId": "cmhpe4z3g0174ian0hsg1sjk3",
+    "name": "Hotel Monaco",
+    "address": "2 N Charles St, Baltimore, MD 21201",
+    "isMain": false
+  },
+  {
+    "id": "cmmbcr4oo006mmo015m98tn9r",
+    "eventId": "cmlsvwd1c0007lc01sbaffgc3",
+    "name": "Acampamento Aruanã",
+    "address": "Rua João Antônio Carlos, 250 Embu-Guaçu | SP",
+    "isMain": true
+  },
+  {
+    "id": "cmmf9iffo00bdmo01mwnn4zsv",
+    "eventId": "cmmf968ka00apmo01l6gi5n33",
+    "name": "Best Western Aberavon Beach Hotel",
+    "address": "Swansea, Port Talbot SA12 6QP, United Kingdom",
+    "isMain": true
+  },
+  {
+    "id": "cmmuvl9po007koa019itfv3s1",
+    "eventId": "cmmusj68j0078oa01jekrnxia",
+    "name": "Best Western Gallup West",
+    "address": "111 Twin Buttes Road, Gallup, NM 87301, United States of America",
+    "isMain": true
   }
 ]
