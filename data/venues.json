@@ -488,5 +488,306 @@
     "name": "Best Western Gallup West",
     "address": "111 Twin Buttes Road, Gallup, NM 87301, United States of America",
     "isMain": true
+  },
+  {
+    "id": "cmmwavhff000xti01zxq2ijbq",
+    "eventId": "cmhpe4z3g0173ian07mgpn7cx",
+    "name": "Westin Harbour Castle",
+    "address": "1 Harbour Square, Toronto, ON M5J 1A6, Canada",
+    "isMain": true
+  },
+  {
+    "id": "cmmwawajn0011ti01mcltt3si",
+    "eventId": "cmhpe4z3g0173ian07mgpn7cx",
+    "name": "Novotel Toronto Centre",
+    "address": "45 The Esplanade, Toronto, Ontario M5E 1W2, Canada",
+    "isMain": false
+  },
+  {
+    "id": "cmn3yild10049ti018qte5tuv",
+    "eventId": "cmkja2hre000wp401z9zue28a",
+    "name": "Hyatt Regency Orlando",
+    "address": "9801 International Drive, Orlando, Florida, 32819, USA",
+    "isMain": true
+  },
+  {
+    "id": "cmn9bpnhr0083ti016gfscj8m",
+    "eventId": "cmhpe4z3h017jian0ii9p5va8",
+    "name": "Hampton Inn by Hilton Ottawa",
+    "address": "100 Coventry Rd, Ottawa, ON K1K 4S3, Canada",
+    "isMain": false
+  },
+  {
+    "id": "cmn9bq5az0087ti01vpb3xi3t",
+    "eventId": "cmhpe4z3h017jian0ii9p5va8",
+    "name": "Courtyard by Marriott Ottawa East",
+    "address": "200 Coventry Rd, Ottawa, ON K1K 4S3, Canada",
+    "isMain": true
+  },
+  {
+    "id": "cmnl6dsfj003xno010m957dzn",
+    "eventId": "cmnl68fsu003nno01wcyjitfz",
+    "name": "Comfort Inn Cleveland Downtown",
+    "address": "1800 Euclid Ave., Cleveland, OH, 44115, US",
+    "isMain": false
+  },
+  {
+    "id": "cmnmgygmb0001mt01ukr3dhir",
+    "eventId": "cmhpe4z3g0176ian0jkagge43",
+    "name": "Serene Vegas Boutique Hotel",
+    "address": "455 E Harmon Ave, Las Vegas, NV 89169",
+    "isMain": false
+  },
+  {
+    "id": "cmnnd49li000rmt01me0y7riv",
+    "eventId": "cmmc74k9c007omo01dxd74xwf",
+    "name": "Grand Hotel Kielce",
+    "address": "Ul. Henryka Sienkiewicza 28, 25-501 Kielce",
+    "isMain": true
+  },
+  {
+    "id": "cmnwjcfly002wmc011rnyvm87",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": " STH Karlsruhe",
+    "address": "Kongresszentrum Karlsruhe, Festplatz 9, D-76137 Karlsruhe, Germany",
+    "isMain": true
+  },
+  {
+    "id": "cmnwjdda80030mc01g6xwqf3i",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "Novotel Karlsruhe City",
+    "address": "Festplatz 2, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnwjdoai0034mc012phqsy61",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "Hotel Motel One Karlsruhe",
+    "address": "Kriegsstraße 25, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnwjdy6x0038mc01jmz92fh4",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "Leonardo Hotel Karlsruhe",
+    "address": "Ettlinger Straße 23, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnwje7ih003cmc01jknjry4o",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "Arthotel ANA Eden",
+    "address": "Bahnhofstraße 15-19, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnwjegb0003gmc01e695bqoz",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "Hotel Kaiserhof",
+    "address": "Karl-Friedrich-Straße 12, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnwjeski003kmc01aua9uley",
+    "eventId": "cmnwj888y002kmc01qjwk4bd8",
+    "name": "ibis Karlsruhe",
+    "address": "Poststraße 1, Germany",
+    "isMain": false
+  },
+  {
+    "id": "cmnx7262a004fmc011qmm8jqk",
+    "eventId": "cmhpe4z2p00atian0cwq55pzu",
+    "name": "Hyatt Regency Boston Cambridge",
+    "address": "575 Memorial Dr, Cambridge, MA 02139",
+    "isMain": true
+  },
+  {
+    "id": "cmnx72j11004jmc01287n061c",
+    "eventId": "cmhpe4z2q00ccian07snccqg1",
+    "name": "Hyatt Regency Cambridge Boston",
+    "address": "575 Memorial Dr, Cambridge, MA 02139",
+    "isMain": true
+  },
+  {
+    "id": "cmnx72t35004nmc013vlvv4az",
+    "eventId": "cmhpe4z2s00edian0rrxz6q6m",
+    "name": "Hyatt Regency Cambridge Boston",
+    "address": "575 Memorial Dr, Cambridge, MA 02139",
+    "isMain": true
+  },
+  {
+    "id": "cmnx73fam004rmc01c3t1ms94",
+    "eventId": "cmhpe4z2u00h2ian01pl9oc91",
+    "name": "Boston Park Plaza",
+    "address": "50 Park Plaza, Boston, MA 02116",
+    "isMain": true
+  },
+  {
+    "id": "cmnx73qa6004vmc018q9vw6yt",
+    "eventId": "cmhpe4z2x00jsian0k3k0g7dx",
+    "name": "Boston Park Plaza",
+    "address": "50 Park Plaza, Boston, MA 02116",
+    "isMain": true
+  },
+  {
+    "id": "cmnx73xgm004zmc01sdopylvc",
+    "eventId": "cmhpe4z2z00naian0m6st8kzx",
+    "name": "Boston Park Plaza",
+    "address": "50 Park Plaza, Boston, MA 02116",
+    "isMain": true
+  },
+  {
+    "id": "cmnx747yy0053mc01jt1por8l",
+    "eventId": "cmhpe4z3400sxian081i9vofh",
+    "name": "Boston Park Plaza",
+    "address": "50 Park Plaza, Boston, MA 02116",
+    "isMain": true
+  },
+  {
+    "id": "cmnx74rhm0057mc01jetrgy3o",
+    "eventId": "cmhpe4z3700vyian08va6ht8g",
+    "name": "Westin Boston Seaport District",
+    "address": "425 Summer St, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmnx7517s005bmc014ezstm8c",
+    "eventId": "cmhpe4z3a00zfian0tx2aov5i",
+    "name": "Westin Boston Seaport District",
+    "address": "425 Summer St, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmnx75o0g005fmc015q5hqz60",
+    "eventId": "cmhpe4z3a00zfian0tx2aov5i",
+    "name": "Element Boston Seaport District",
+    "address": "391-395 D St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx760iw005jmc01jsvz4jm3",
+    "eventId": "cmhpe4z3a00zfian0tx2aov5i",
+    "name": "Aloft Boston Seaport District",
+    "address": "401-403 D St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx769e8005nmc01iasbpykg",
+    "eventId": "cmhpe4z3d012xian06hxuno0h",
+    "name": "Aloft Boston Seaport District",
+    "address": "401-403 D St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx76ifu005rmc01c19gnhzy",
+    "eventId": "cmhpe4z3d012xian06hxuno0h",
+    "name": "Westin Boston Seaport District",
+    "address": "425 Summer St, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmnx76qr1005vmc01c965zatt",
+    "eventId": "cmhpe4z3d012xian06hxuno0h",
+    "name": "Element Boston Seaport District",
+    "address": "391-395 D St, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmnx775lh005zmc016du01mwn",
+    "eventId": "cmhpe4z3g016pian0o1yaaj9v",
+    "name": "Element Boston Seaport District",
+    "address": "391-395 D St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx77dqm0063mc01riyugowd",
+    "eventId": "cmhpe4z3g016pian0o1yaaj9v",
+    "name": "Westin Boston Seaport District",
+    "address": "425 Summer St, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmnx77nkk0067mc0152ene3jl",
+    "eventId": "cmhpe4z3g016pian0o1yaaj9v",
+    "name": "Aloft Boston Seaport District",
+    "address": "401-403 D St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx782fa006bmc01hlm154xo",
+    "eventId": "cmhpe4z3g016pian0o1yaaj9v",
+    "name": "Renaissance Boston Seaport District",
+    "address": "606 Congress St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmnx78j9t006fmc01n8nh9sie",
+    "eventId": "cmhpe4z3g016pian0o1yaaj9v",
+    "name": "Hampton Inn Boston Seaport District",
+    "address": "670 Summer St, Boston, MA 02210",
+    "isMain": false
+  },
+  {
+    "id": "cmoa0k22j002nkp01d2m6gg6d",
+    "eventId": "cmoa06v0h000pkp01odll1qyu",
+    "name": "Metropol Hotel Katowice",
+    "address": "Bytkowska 1A, 40-147 Katowice, Poland",
+    "isMain": true
+  },
+  {
+    "id": "cmoa18ujf003bkp010hcfyqap",
+    "eventId": "cmhpe4z3g016eian0lnsjiddj",
+    "name": "Grand Hotel Kielce",
+    "address": "Henryka Sienkiewicza 78, 25-501 Kielce, Poland ",
+    "isMain": true
+  },
+  {
+    "id": "cmoa1a3qh003fkp01b1wvzf28",
+    "eventId": "cmhpe4z3g016eian0lnsjiddj",
+    "name": "Qubus Hotel Kielce (overflow hotel)",
+    "address": "Składowa 2, 25-505 Kielce, Poland",
+    "isMain": false
+  },
+  {
+    "id": "cmoa1aqym003jkp017zbdby2d",
+    "eventId": "cmhpe4z3g016eian0lnsjiddj",
+    "name": "Hotel SILL (overflow hotel)",
+    "address": "Urzędnicza 13, 25-729 Kielce, Poland",
+    "isMain": false
+  },
+  {
+    "id": "cmod3y5rs004ckp01l4hsp54i",
+    "eventId": "cmkofudbx0005mu015ur9lnie",
+    "name": "Westin Boston Seaport District",
+    "address": "425 Summer Street, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmod3yv87004gkp01suofbite",
+    "eventId": "cmkofudbx0005mu015ur9lnie",
+    "name": "Omni Boston at the Seaport",
+    "address": "450 Summer Street, Boston, MA 02210",
+    "isMain": true
+  },
+  {
+    "id": "cmoj8q1mg003bmn01wpv7sf4r",
+    "eventId": "cmhpe4z3h017jian0ii9p5va8",
+    "name": "LES SUITES",
+    "address": "130 Besserer Street Ottawa ON K1N 9M9",
+    "isMain": false
+  },
+  {
+    "id": "cmoqhxdo20047mw01aoie4l30",
+    "eventId": "cmnmjvt270009mt01jocrs4eg",
+    "name": "Serene Vegas Boutique Hotel",
+    "address": "455 E Harmon Ave, Las Vegas, NV 89169",
+    "isMain": false
+  },
+  {
+    "id": "cmovu7833005zmw01l4jo7dq2",
+    "eventId": "cmhpe4z3o01g8ian0sf56ioxv",
+    "name": "La Bouëxière",
+    "address": "35340 BRE, France",
+    "isMain": true
   }
 ]

@@ -126,20 +126,6 @@
     "$ref": "https://consurf.net/conventions/furcation"
   },
   {
-    "id": "cmgiswmge000liae0v5tppe0e",
-    "slug": "mephit-mini-con",
-    "name": "Mephit Mini Con",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "DEU",
-    "minAge": 18,
-    "website": "https://mephitminicon.de",
-    "$ref": "https://consurf.net/conventions/mephit-mini-con"
-  },
-  {
     "id": "cmgiswmge000miae0azqgbvpr",
     "slug": "mnfurs",
     "name": "MNFurs",
@@ -406,6 +392,20 @@
     "$ref": "https://consurf.net/conventions/furpocalypse"
   },
   {
+    "id": "cmgiswmge000liae0v5tppe0e",
+    "slug": "mephit-mini-con",
+    "name": "Mephit Mini Con",
+    "shortName": "MMC",
+    "description": null,
+    "blueskyHandle": "mephitminicon.bsky.social",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "DEU",
+    "minAge": 18,
+    "website": "https://mephitminicon.de",
+    "$ref": "https://consurf.net/conventions/mephit-mini-con"
+  },
+  {
     "id": "cmgiswmge000niae0kzysbkt9",
     "slug": "anthro-weekend-utah",
     "name": "Anthro Weekend Utah",
@@ -502,20 +502,6 @@
     "minAge": null,
     "website": "https://vk.com/lvivfur",
     "$ref": "https://consurf.net/conventions/lvivfur"
-  },
-  {
-    "id": "cmgiswmgg001qiae0xzqiero7",
-    "slug": "galactic-camp",
-    "name": "Galactic Camp",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": 18,
-    "website": "https://galacticcamp.com",
-    "$ref": "https://consurf.net/conventions/galactic-camp"
   },
   {
     "id": "cmgiswmgg001riae06h6pi9e9",
@@ -616,20 +602,6 @@
     "$ref": "https://consurf.net/conventions/morph-parade"
   },
   {
-    "id": "cmgiswmgh0024iae0hlkvmf6b",
-    "slug": "fuve",
-    "name": "Fuve",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "VNM",
-    "minAge": null,
-    "website": "https://www.facebook.com/FUVE.vietnam",
-    "$ref": "https://consurf.net/conventions/fuve"
-  },
-  {
     "id": "cmgiswmgh0026iae0n0cqmr79",
     "slug": "furlandia",
     "name": "Furlandia",
@@ -700,20 +672,6 @@
     "$ref": "https://consurf.net/conventions/fangcon"
   },
   {
-    "id": "cmgiswmgh002eiae0xeisfui3",
-    "slug": "babyfur-con",
-    "name": "Babyfur Con",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://babyfurcon.com",
-    "$ref": "https://consurf.net/conventions/babyfur-con"
-  },
-  {
     "id": "cmgiswmgh002hiae0my59r88f",
     "slug": "furvana",
     "name": "Furvana",
@@ -756,20 +714,6 @@
     "$ref": "https://consurf.net/conventions/furloween"
   },
   {
-    "id": "cmgiswmgh002miae00e9aee18",
-    "slug": "south-afrifur",
-    "name": "South Afrifur",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "ZAF",
-    "minAge": null,
-    "website": "https://south-afrifur.co.za",
-    "$ref": "https://consurf.net/conventions/south-afrifur"
-  },
-  {
     "id": "cmgiswmgh002niae0kvku0rus",
     "slug": "fur-out-west",
     "name": "Fur Out West",
@@ -796,20 +740,6 @@
     "minAge": null,
     "website": "https://nwcampcon.com",
     "$ref": "https://consurf.net/conventions/northwest-campcon"
-  },
-  {
-    "id": "cmgiswmgh002piae0ts00hp7n",
-    "slug": "anthrohio",
-    "name": "AnthrOhio",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://anthrohio.org",
-    "$ref": "https://consurf.net/conventions/anthrohio"
   },
   {
     "id": "cmgiswmgh002qiae05kr4xlnh",
@@ -1022,18 +952,18 @@
     "$ref": "https://consurf.net/conventions/zodiacon"
   },
   {
-    "id": "cmgiswmgh0027iae05q9bpmp3",
-    "slug": "furcan",
-    "name": "FurCan",
+    "id": "cmgiswmgh002eiae0xeisfui3",
+    "slug": "babyfur-con",
+    "name": "Babyfur Con",
     "shortName": null,
     "description": null,
     "blueskyHandle": null,
     "moreInformation": null,
     "codeOfConduct": null,
-    "hostCountry": "MEX",
-    "minAge": null,
-    "website": "https://furcan.org",
-    "$ref": "https://consurf.net/conventions/furcan"
+    "hostCountry": "USA",
+    "minAge": 21,
+    "website": "https://babyfurcon.com",
+    "$ref": "https://consurf.net/conventions/babyfur-con"
   },
   {
     "id": "cmgiswmgi002wiae06guafax4",
@@ -1064,18 +994,46 @@
     "$ref": "https://consurf.net/conventions/furrnion"
   },
   {
-    "id": "cmgiswmgi0036iae0lfw13soh",
-    "slug": "garden-state-fur-the-weekend",
-    "name": "Garden State Fur The Weekend",
+    "id": "cmgiswmgh0024iae0hlkvmf6b",
+    "slug": "fuve",
+    "name": "Furry Vietnam Eternity",
+    "shortName": "FUVE",
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": "https://x.com/FUVE_VN",
+    "codeOfConduct": null,
+    "hostCountry": "VNM",
+    "minAge": null,
+    "website": "https://www.fuve.vn/",
+    "$ref": "https://consurf.net/conventions/fuve"
+  },
+  {
+    "id": "cmgiswmgg001qiae0xzqiero7",
+    "slug": "galactic-camp",
+    "name": "Galactic Camp",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": "galacticcamp.bsky.social",
+    "moreInformation": null,
+    "codeOfConduct": "https://www.galacticcamp.com/code-of-conduct",
+    "hostCountry": "USA",
+    "minAge": 18,
+    "website": "https://galacticcamp.com",
+    "$ref": "https://consurf.net/conventions/galactic-camp"
+  },
+  {
+    "id": "cmgiswmgh0027iae05q9bpmp3",
+    "slug": "furcan",
+    "name": "FurCan",
     "shortName": null,
     "description": null,
     "blueskyHandle": null,
-    "moreInformation": null,
+    "moreInformation": "https://t.me/Furcanoficial",
     "codeOfConduct": null,
-    "hostCountry": "USA",
+    "hostCountry": "MEX",
     "minAge": null,
-    "website": "https://gsftw.org",
-    "$ref": "https://consurf.net/conventions/garden-state-fur-the-weekend"
+    "website": "https://furcan.com.mx",
+    "$ref": "https://consurf.net/conventions/furcan"
   },
   {
     "id": "cmgiswmgi0039iae0t8bf8ggg",
@@ -1204,20 +1162,6 @@
     "$ref": "https://consurf.net/conventions/zillercon"
   },
   {
-    "id": "cmgiswmgj0040iae0pu562yiz",
-    "slug": "furvester",
-    "name": "Furvester",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "DEU",
-    "minAge": 18,
-    "website": "https://furvester.org",
-    "$ref": "https://consurf.net/conventions/furvester"
-  },
-  {
     "id": "cmgiswmgk0041iae08nvr8ej9",
     "slug": "world-wild-fur-camp",
     "name": "World Wild Fur Camp",
@@ -1288,20 +1232,6 @@
     "$ref": "https://consurf.net/conventions/kemoket"
   },
   {
-    "id": "cmgiswmgk004eiae0eyzszv0p",
-    "slug": "howloween",
-    "name": "Howloween",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "CAN",
-    "minAge": null,
-    "website": "https://howloween.ca",
-    "$ref": "https://consurf.net/conventions/howloween"
-  },
-  {
     "id": "cmgiswmgk004fiae0k4hu72o1",
     "slug": "spokanthro",
     "name": "SpokAnthro",
@@ -1356,20 +1286,6 @@
     "minAge": null,
     "website": "https://fb.me/FurrySummer",
     "$ref": "https://consurf.net/conventions/furry-summer-mexico"
-  },
-  {
-    "id": "cmgiswmgl004piae0hqp9jzzu",
-    "slug": "ainmhicon",
-    "name": "Ainmhícon",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "IRL",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/ainmhicon"
   },
   {
     "id": "cmgiswmgl004qiae054kl54hy",
@@ -1582,6 +1498,34 @@
     "$ref": "https://consurf.net/conventions/furry-retreat"
   },
   {
+    "id": "cmgiswmgl004piae0hqp9jzzu",
+    "slug": "ainmhicon",
+    "name": "Ainmhícon",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": "ainmhicon.ie",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "IRL",
+    "minAge": null,
+    "website": "https://ainmhicon.ie/",
+    "$ref": "https://consurf.net/conventions/ainmhicon"
+  },
+  {
+    "id": "cmgiswmgi0036iae0lfw13soh",
+    "slug": "garden-state-fur-the-weekend",
+    "name": "Garden State Fur The Weekend",
+    "shortName": "GSFTW",
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/+LlZiz0VomBs4ZDc5",
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://gsftw.org",
+    "$ref": "https://consurf.net/conventions/garden-state-fur-the-weekend"
+  },
+  {
     "id": "cmgiswmgl004viae0jbpnieda",
     "slug": "anthro-northern-lights",
     "name": "Anthro Northern Lights",
@@ -1594,20 +1538,6 @@
     "minAge": null,
     "website": null,
     "$ref": "https://consurf.net/conventions/anthro-northern-lights"
-  },
-  {
-    "id": "cmgiswmgl004xiae0fp5i5048",
-    "slug": "anthrotales",
-    "name": "AnthroTales",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "BEL",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/anthrotales"
   },
   {
     "id": "cmgiswmgl004yiae0mc8yeb2p",
@@ -1706,20 +1636,6 @@
     "minAge": null,
     "website": null,
     "$ref": "https://consurf.net/conventions/camp-furst-state"
-  },
-  {
-    "id": "cmgiswmgl0058iae0s9fxzcuf",
-    "slug": "cmt",
-    "name": "Camp Mani-Toebeans",
-    "shortName": null,
-    "description": "Camping furry convention in Manitoba Canada. Cabins, food, and activities all provided with registration.",
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "CAN",
-    "minAge": 18,
-    "website": "https://fur.camp/",
-    "$ref": "https://consurf.net/conventions/cmt"
   },
   {
     "id": "cmgiswmgl0059iae0o03l72ql",
@@ -1876,34 +1792,6 @@
     "$ref": "https://consurf.net/conventions/furconz"
   },
   {
-    "id": "cmgiswmgm005viae0bsnjmr6m",
-    "slug": "furdance-budapest",
-    "name": "Furdance Budapest",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "HUN",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/furdance-budapest"
-  },
-  {
-    "id": "cmgiswmgm005wiae0e90c77o5",
-    "slug": "fureast",
-    "name": "FurEast",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "FRA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/fureast"
-  },
-  {
     "id": "cmgiswmgn0061iae0nta319ai",
     "slug": "furidaho",
     "name": "FurIdaho",
@@ -1960,34 +1848,6 @@
     "$ref": "https://consurf.net/conventions/furoween"
   },
   {
-    "id": "cmgiswmgn0065iae0cul1j023",
-    "slug": "furpile",
-    "name": "Furpile",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "POL",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/furpile"
-  },
-  {
-    "id": "cmgiswmgn0066iae0m2we3o6k",
-    "slug": "furrest-city",
-    "name": "Furrest City",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/furrest-city"
-  },
-  {
     "id": "cmgiswmgn0067iae06hvw00c8",
     "slug": "furror",
     "name": "Furror",
@@ -2028,20 +1888,6 @@
     "minAge": null,
     "website": null,
     "$ref": "https://consurf.net/conventions/furry-connection-north"
-  },
-  {
-    "id": "cmgiswmgn006biae0twrch2os",
-    "slug": "furry-joa",
-    "name": "Furry JoA",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/furry-joa"
   },
   {
     "id": "cmgiswmgn006ciae02f666gzv",
@@ -2128,20 +1974,6 @@
     "$ref": "https://consurf.net/conventions/furryteaparty"
   },
   {
-    "id": "cmgiswmgn006jiae095twotv8",
-    "slug": "furs-upon-malaysia",
-    "name": "Furs Upon Malaysia",
-    "shortName": "FURUM",
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "MYS",
-    "minAge": 13,
-    "website": "https://furum.org",
-    "$ref": "https://consurf.net/conventions/furs-upon-malaysia"
-  },
-  {
     "id": "cmgiswmgn006kiae07mrxt1ci",
     "slug": "fursang",
     "name": "Fursang",
@@ -2212,20 +2044,6 @@
     "$ref": "https://consurf.net/conventions/fur-xoticon"
   },
   {
-    "id": "cmgiswmgo006siae07jpgz42h",
-    "slug": "genderverse-furcon",
-    "name": "Genderverse FurCon",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "CAN",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/genderverse-furcon"
-  },
-  {
     "id": "cmgiswmgo006uiae02my4fhls",
     "slug": "goldenhorn",
     "name": "GoldenHorn",
@@ -2252,20 +2070,6 @@
     "minAge": null,
     "website": "https://en.wikifur.com/wiki/Emerald%27s_Fur_Summit",
     "$ref": "https://consurf.net/conventions/emerald-s-fur-summit"
-  },
-  {
-    "id": "cmgiswmgm005xiae0y13wdsa5",
-    "slug": "furever-west",
-    "name": "Furever West",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": "https://t.me/fureverwest",
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://www.wyofurcon.com/",
-    "$ref": "https://consurf.net/conventions/furever-west"
   },
   {
     "id": "cmgiswmgn006fiae05icyebx4",
@@ -2308,6 +2112,76 @@
     "minAge": null,
     "website": "https://canthrofur.org/",
     "$ref": "https://consurf.net/conventions/canthrofur"
+  },
+  {
+    "id": "cmgiswmgn006biae0twrch2os",
+    "slug": "furry-joa",
+    "name": "Furry JoA",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "KOR",
+    "minAge": null,
+    "website": "https://furryjoa.com/",
+    "$ref": "https://consurf.net/conventions/furry-joa"
+  },
+  {
+    "id": "cmgiswmgn0066iae0m2we3o6k",
+    "slug": "furrest-city",
+    "name": "Furrest City",
+    "shortName": null,
+    "description": "Furrest City originated in 2024 after we noticed a lack of transit-accessible events in the Greater Cleveland area and a lack of events in the city of Cleveland.",
+    "blueskyHandle": "furrestcity.org",
+    "moreInformation": "https://t.me/furrestcity",
+    "codeOfConduct": "https://furrestcity.org/code-of-conduct",
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://furrestcity.org/",
+    "$ref": "https://consurf.net/conventions/furrest-city"
+  },
+  {
+    "id": "cmgiswmgm005xiae0y13wdsa5",
+    "slug": "furever-west",
+    "name": "Furever West",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": "fureverwest.bsky.social",
+    "moreInformation": "https://t.me/fureverwest",
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://www.wyofurcon.com/",
+    "$ref": "https://consurf.net/conventions/furever-west"
+  },
+  {
+    "id": "cmgiswmgo006siae07jpgz42h",
+    "slug": "genderverse-furcon",
+    "name": "Genderverse FurCon",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": "genderversefurcon.com",
+    "moreInformation": "https://t.me/gvfurcon",
+    "codeOfConduct": "https://genderversefurcon.com/code-of-conduct/",
+    "hostCountry": "CAN",
+    "minAge": null,
+    "website": "https://genderversefurcon.com/",
+    "$ref": "https://consurf.net/conventions/genderverse-furcon"
+  },
+  {
+    "id": "cmgiswmgl0058iae0s9fxzcuf",
+    "slug": "cmt",
+    "name": "Camp Mani-Toebeans",
+    "shortName": null,
+    "description": "Camping furry convention in Manitoba Canada. Cabins, food, and activities all provided with registration.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/+U7_aZg6cBTy6paWk",
+    "codeOfConduct": null,
+    "hostCountry": "CAN",
+    "minAge": 18,
+    "website": "https://fur.camp/",
+    "$ref": "https://consurf.net/conventions/cmt"
   },
   {
     "id": "cmgiswmgo006viae0pn65yuyy",
@@ -2380,20 +2254,6 @@
     "$ref": "https://consurf.net/conventions/kansas-furcon"
   },
   {
-    "id": "cmgiswmgo0076iae07c5cibmu",
-    "slug": "les-furfurieux",
-    "name": "Les Furfurieux",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "FRA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/les-furfurieux"
-  },
-  {
     "id": "cmgiswmgp0079iae0iis8l9yy",
     "slug": "maltese-fur-con",
     "name": "Maltese Fur-Con",
@@ -2450,20 +2310,6 @@
     "$ref": "https://consurf.net/conventions/nackte-furry-camping-con"
   },
   {
-    "id": "cmgiswmgp007iiae0ookla8r4",
-    "slug": "nashum-furcon",
-    "name": "Nashum FurCon",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/nashum-furcon"
-  },
-  {
     "id": "cmgiswmgp007jiae0q50r5kxy",
     "slug": "nep-dustpaws",
     "name": "NEP DustPaws",
@@ -2518,20 +2364,6 @@
     "minAge": null,
     "website": null,
     "$ref": "https://consurf.net/conventions/oklacon"
-  },
-  {
-    "id": "cmgiswmgp007qiae0hvwkgbvt",
-    "slug": "orli-forsztival",
-    "name": "Örli Försztivál",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "HUN",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/orli-forsztival"
   },
   {
     "id": "cmgiswmgp007riae0zy6jwo1j",
@@ -2758,20 +2590,6 @@
     "$ref": "https://consurf.net/conventions/soda-city-fur-con"
   },
   {
-    "id": "cmgiswmgq008hiae0ruhnhlu6",
-    "slug": "spooktacufur",
-    "name": "Spooktacufur",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/spooktacufur"
-  },
-  {
     "id": "cmgiswmgq008jiae0c67xve3u",
     "slug": "super-furry-fusion",
     "name": "Super Furry Fusion",
@@ -2784,20 +2602,6 @@
     "minAge": null,
     "website": null,
     "$ref": "https://consurf.net/conventions/super-furry-fusion"
-  },
-  {
-    "id": "cmgiswmgr008liae0mlcs67xw",
-    "slug": "furry-fiesta",
-    "name": "Texas Furry Fiesta",
-    "shortName": "TFF",
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://furryfiesta.org",
-    "$ref": "https://consurf.net/conventions/furry-fiesta"
   },
   {
     "id": "cmgiswmgr008miae0g5ew2jqy",
@@ -2982,6 +2786,20 @@
     "$ref": "https://consurf.net/conventions/stratosfur"
   },
   {
+    "id": "cmgiswmgr008liae0mlcs67xw",
+    "slug": "furry-fiesta",
+    "name": "Texas Furry Fiesta",
+    "shortName": "TFF",
+    "description": null,
+    "blueskyHandle": "furryfiesta.org",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://furryfiesta.org",
+    "$ref": "https://consurf.net/conventions/furry-fiesta"
+  },
+  {
     "id": "cmgiswmgq007wiae0y32fh78i",
     "slug": "pawska",
     "name": "Pawska",
@@ -3036,6 +2854,48 @@
     "minAge": null,
     "website": "https://heartlandhowloween.com/",
     "$ref": "https://consurf.net/conventions/heartland-howloween"
+  },
+  {
+    "id": "cmgiswmgo0076iae07c5cibmu",
+    "slug": "les-furfurieux",
+    "name": "Les Furfurieux",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "FRA",
+    "minAge": null,
+    "website": "https://furfurieux.com",
+    "$ref": "https://consurf.net/conventions/les-furfurieux"
+  },
+  {
+    "id": "cmgiswmgp007qiae0hvwkgbvt",
+    "slug": "orli-forsztival",
+    "name": "Örli Försztivál",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": "https://x.com/orliforsztival",
+    "codeOfConduct": null,
+    "hostCountry": "HUN",
+    "minAge": null,
+    "website": null,
+    "$ref": "https://consurf.net/conventions/orli-forsztival"
+  },
+  {
+    "id": "cmgiswmgq008hiae0ruhnhlu6",
+    "slug": "spooktacufur",
+    "name": "Spooktacufur",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": "spooktacufur.com",
+    "moreInformation": "https://t.me/spooktacufur",
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://spooktacufur.com/",
+    "$ref": "https://consurf.net/conventions/spooktacufur"
   },
   {
     "id": "cmgiswmgr0093iae0pwyixzwc",
@@ -3290,20 +3150,6 @@
     "$ref": "https://consurf.net/conventions/rbw"
   },
   {
-    "id": "cmgiswmgm005ziae0bvfxi9dz",
-    "slug": "furgeddaboutit",
-    "name": "Furgeddaboutit",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": "furgeddaboutit.org",
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://furgeddaboutit.org/",
-    "$ref": "https://consurf.net/conventions/furgeddaboutit"
-  },
-  {
     "id": "bws7uxmzum1rjlvg888k7zlw",
     "slug": "anthropolis",
     "name": "Anthropolis",
@@ -3346,20 +3192,6 @@
     "$ref": "https://consurf.net/conventions/abando"
   },
   {
-    "id": "cmgiswmgg001iiae0meniht14",
-    "slug": "furcamp",
-    "name": "FURCAMP",
-    "shortName": null,
-    "description": "FURCAMP is a furry event created in Brazil that takes place every year in mid-February (during Carnival). With its pilot edition in March 2019 being a success, the event captivated its participants and the team that created it.",
-    "blueskyHandle": "furcamp.com",
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "BRA",
-    "minAge": 18,
-    "website": "https://furcamp.com/",
-    "$ref": "https://consurf.net/conventions/furcamp"
-  },
-  {
     "id": "cmkj85khl0000p401o9yw9mdb",
     "slug": "howlcon",
     "name": "HowlCon",
@@ -3372,20 +3204,6 @@
     "minAge": null,
     "website": "https://www.howlcon.com/",
     "$ref": "https://consurf.net/conventions/howlcon"
-  },
-  {
-    "id": "cmgiswmgr0091iae0qe3wrgxq",
-    "slug": "wuellas-furfest",
-    "name": "Wüellas FurFest",
-    "shortName": null,
-    "description": "From the Spanish word “HUELLAS”, which means footprint, pawprint or trace:\r\nThe mark left by a human or animal when stepping on a surface.\r\nA trace, sign, or vestige left by someone or something.\r\n\r\nThe prefix “Hu-” is changed to “Wü-” to resemble the romanized writing of the indigenous peoples.",
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": null,
-    "hostCountry": "CHL",
-    "minAge": null,
-    "website": "https://www.wuff.cl",
-    "$ref": "https://consurf.net/conventions/wuellas-furfest"
   },
   {
     "id": "cmkj8uvjm000cp40183cuyvyv",
@@ -3442,6 +3260,34 @@
     "minAge": null,
     "website": "https://woodsflock.com/",
     "$ref": "https://consurf.net/conventions/woods-flock"
+  },
+  {
+    "id": "cmgiswmgg001iiae0meniht14",
+    "slug": "furcamp",
+    "name": "FURCAMP",
+    "shortName": null,
+    "description": "FURCAMP is a furry event created in Brazil that takes place every year in mid-February (during Carnival). With its pilot edition in March 2019 being a success, the event captivated its participants and the team that created it.",
+    "blueskyHandle": "furcamp.com",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "BRA",
+    "minAge": 18,
+    "website": "https://furcamp.com/",
+    "$ref": "https://consurf.net/conventions/furcamp"
+  },
+  {
+    "id": "cmgiswmgm005ziae0bvfxi9dz",
+    "slug": "furgeddaboutit",
+    "name": "Furgeddaboutit",
+    "shortName": "Furg",
+    "description": null,
+    "blueskyHandle": "furgeddaboutit.org",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://furgeddaboutit.org/",
+    "$ref": "https://consurf.net/conventions/furgeddaboutit"
   },
   {
     "id": "cmkj9alxl000jp401ad4ye0sw",
@@ -3794,20 +3640,6 @@
     "$ref": "https://consurf.net/conventions/baltifur"
   },
   {
-    "id": "cmkzpbr63000bp001oln3rqpp",
-    "slug": "patas",
-    "name": "Patas",
-    "shortName": null,
-    "description": "Patas is a hotel furry convention set on Sorocaba, Sao Paulo.",
-    "blueskyHandle": null,
-    "moreInformation": "https://t.me/eventopatas",
-    "codeOfConduct": null,
-    "hostCountry": "BRA",
-    "minAge": null,
-    "website": null,
-    "$ref": "https://consurf.net/conventions/patas"
-  },
-  {
     "id": "cmgiswmgl004wiae0cfc5d1p7",
     "slug": "anthros-alpine",
     "name": "Anthros & Alpine",
@@ -4116,20 +3948,6 @@
     "$ref": "https://consurf.net/conventions/anthro-socal"
   },
   {
-    "id": "cmgiswmgm005riae0lln7raiv",
-    "slug": "frosty-fur-fest",
-    "name": "Frosty Fur Fest",
-    "shortName": null,
-    "description": "Welcome to Frosty Fur Fest! Get ready for a pawsome weekend packed with fursuit shenanigans, a tail-wagging talent show and a Night Dance Party that'll have you howling at the moon!",
-    "blueskyHandle": "frostyfurfest.com",
-    "moreInformation": null,
-    "codeOfConduct": "https://www.frostyfurfest.com/event-policies",
-    "hostCountry": "USA",
-    "minAge": null,
-    "website": "https://www.frostyfurfest.com/",
-    "$ref": "https://consurf.net/conventions/frosty-fur-fest"
-  },
-  {
     "id": "cmgiswmgk0043iae0chjtxd44",
     "slug": "nordicfuzzcon",
     "name": "NordicFuzzCon",
@@ -4172,20 +3990,6 @@
     "$ref": "https://consurf.net/conventions/little-island-furcon"
   },
   {
-    "id": "cmmfsmzx400bomo01mm4gs34y",
-    "slug": "furrest-con",
-    "name": "Furrest Con",
-    "shortName": null,
-    "description": "FurrestCon is a Ukrainian furry convention that celebrates the freedom of nature by moving the fandom experience out of traditional \"four-wall\" hotel settings and into the great outdoors.",
-    "blueskyHandle": null,
-    "moreInformation": null,
-    "codeOfConduct": "https://furrest.com.ua/terms",
-    "hostCountry": "UKR",
-    "minAge": null,
-    "website": "https://furrest.con.ua",
-    "$ref": "https://consurf.net/conventions/furrest-con"
-  },
-  {
     "id": "cmlv7ykef002fqj014top53ze",
     "slug": "flop",
     "name": "Furry Legends of Paradise",
@@ -4212,20 +4016,6 @@
     "minAge": null,
     "website": "https://pawsoutdoors.au/",
     "$ref": "https://consurf.net/conventions/paws-outdoors"
-  },
-  {
-    "id": "cmgiswmgn0060iae093xxf5vn",
-    "slug": "furgiv",
-    "name": "FurGIV",
-    "shortName": null,
-    "description": null,
-    "blueskyHandle": null,
-    "moreInformation": "https://go.furgiv.org/telegram",
-    "codeOfConduct": null,
-    "hostCountry": "VNM",
-    "minAge": null,
-    "website": "https://furgiv.org/",
-    "$ref": "https://consurf.net/conventions/furgiv"
   },
   {
     "id": "cmgiswmgk004liae0c3zmeyk7",
@@ -4394,5 +4184,411 @@
     "minAge": null,
     "website": "https://www.fernm.org/",
     "$ref": "https://consurf.net/conventions/fern"
+  },
+  {
+    "id": "cmmfsmzx400bomo01mm4gs34y",
+    "slug": "furrest-con",
+    "name": "Furrest Con",
+    "shortName": null,
+    "description": "FurrestCon is a Ukrainian furry convention that celebrates the freedom of nature by moving the fandom experience out of traditional \"four-wall\" hotel settings and into the great outdoors.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/FurrestCon",
+    "codeOfConduct": "https://furrest.com.ua/terms",
+    "hostCountry": "UKR",
+    "minAge": null,
+    "website": "https://furrest.con.ua",
+    "$ref": "https://consurf.net/conventions/furrest-con"
+  },
+  {
+    "id": "cmmxodtwo0018ti01r68zdzfs",
+    "slug": "pfg",
+    "name": "Poznan Furry Gathering",
+    "shortName": "PFG",
+    "description": "Poznań Fursuit Walk, which has been going on for five editions already (2021-2025), from now on becomes a part of the larger ecosystem called Poznań Furry Gathering (PFG).",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/PoznanFurryGatheringNews",
+    "codeOfConduct": null,
+    "hostCountry": "POL",
+    "minAge": null,
+    "website": "https://poznan.furrygathering.com/",
+    "$ref": "https://consurf.net/conventions/pfg"
+  },
+  {
+    "id": "cmmxokbo3001pti01nyg6zd8e",
+    "slug": "sfj",
+    "name": "Sachsen Furs Jahreswechsel",
+    "shortName": "SFJ",
+    "description": "Over 4 days, you’ll have a small program as well as various group activities.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/sachsenfurs",
+    "codeOfConduct": null,
+    "hostCountry": "DEU",
+    "minAge": null,
+    "website": "https://www.sachsenfurs.de/en/sfj/",
+    "$ref": "https://consurf.net/conventions/sfj"
+  },
+  {
+    "id": "cmn4rmwx2005tti01dtmmg97s",
+    "slug": "wfw",
+    "name": "Wild Furloween West",
+    "shortName": "WFW",
+    "description": "Howdy, and welcome to Wild Furloween West (WFW)—your new furry Halloween hoedown festival.",
+    "blueskyHandle": "wildfurloweenwest.bsky.social",
+    "moreInformation": "https://t.me/wfwofficial",
+    "codeOfConduct": "https://wildfurloweenwest.org/wfw_coc",
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://wildfurloweenwest.org/",
+    "$ref": "https://consurf.net/conventions/wfw"
+  },
+  {
+    "id": "cmn4rwx9q005yti01j43027pr",
+    "slug": "lethfuridge-mini-con",
+    "name": "LethFURidge Mini-Con",
+    "shortName": null,
+    "description": "A two day mini-sized furry convention!",
+    "blueskyHandle": "lethfuridge.ca",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "CAN",
+    "minAge": null,
+    "website": "https://lethfuridge.ca/",
+    "$ref": "https://consurf.net/conventions/lethfuridge-mini-con"
+  },
+  {
+    "id": "cmgiswmgm005viae0bsnjmr6m",
+    "slug": "furdance-budapest",
+    "name": "Furdance Budapest",
+    "shortName": null,
+    "description": "Furdance Budapest is an annual furry gathering organized by dedicated volunteers from the furry community, welcoming both local and international furries. Over the years, it has become one of the most important and popular events in Hungary.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/+rqVpdpu9QOE5YmU8",
+    "codeOfConduct": null,
+    "hostCountry": "HUN",
+    "minAge": null,
+    "website": "https://furdance.hu/",
+    "$ref": "https://consurf.net/conventions/furdance-budapest"
+  },
+  {
+    "id": "cmkzpbr63000bp001oln3rqpp",
+    "slug": "patas",
+    "name": "Patas",
+    "shortName": null,
+    "description": "Patas is a hotel furry convention set on Sorocaba, Sao Paulo.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/eventopatas",
+    "codeOfConduct": null,
+    "hostCountry": "BRA",
+    "minAge": null,
+    "website": "https://eventopatas.com/",
+    "$ref": "https://consurf.net/conventions/patas"
+  },
+  {
+    "id": "cmny3q9ew000qsb01c8urtdg8",
+    "slug": "muzzled",
+    "name": "MUZZLED",
+    "shortName": null,
+    "description": "MUZZLED was founded and is run by two furs who have been active members of both the local and international furry communities for well over a decade. We are inspired by the creativity, openness and self expression of our community and are excited to bring some awesome events to Toronto.",
+    "blueskyHandle": null,
+    "moreInformation": "http://t.me/GET_MUZZLED",
+    "codeOfConduct": "https://www.getmuzzled.ca/codeofconduct",
+    "hostCountry": "CAN",
+    "minAge": 19,
+    "website": "https://www.getmuzzled.ca/",
+    "$ref": "https://consurf.net/conventions/muzzled"
+  },
+  {
+    "id": "cmneqtb9t000fno01o24ieuf3",
+    "slug": "furcalvadance",
+    "name": "FurCalvaDance",
+    "shortName": null,
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/FurCalvaDance",
+    "codeOfConduct": null,
+    "hostCountry": "FRA",
+    "minAge": 18,
+    "website": "https://www.normandifurs.fr/en/home/",
+    "$ref": "https://consurf.net/conventions/furcalvadance"
+  },
+  {
+    "id": "cmnex06ps0028no0102ztvl7t",
+    "slug": "capital-furcon",
+    "name": "Capital Furcon",
+    "shortName": "CFC",
+    "description": "Capital FurCon (CFC) is a new 21+ furry convention which will be held annually at the Gaylord National Resort & Convention Center! And you heard that right, 21+! We know what you're all here for!",
+    "blueskyHandle": "capitalfurcon.org",
+    "moreInformation": "https://t.me/capitalfurconsfw",
+    "codeOfConduct": "https://capitalfurcon.org/code-of-conduct",
+    "hostCountry": "USA",
+    "minAge": 21,
+    "website": "https://capitalfurcon.org/",
+    "$ref": "https://consurf.net/conventions/capital-furcon"
+  },
+  {
+    "id": "cmgiswmgj0040iae0pu562yiz",
+    "slug": "furvester",
+    "name": "Furvester",
+    "shortName": null,
+    "description": "We are an annual furry convention which takes place in the south of Germany and is always held around New Year's Eve, shortly after Christmas, organized by the \"Flussfussels e. V.\" association.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/furvester_announcements",
+    "codeOfConduct": "https://furvester.org/attending/rules-of-conduct",
+    "hostCountry": "DEU",
+    "minAge": 18,
+    "website": "https://furvester.org",
+    "$ref": "https://consurf.net/conventions/furvester"
+  },
+  {
+    "id": "cmnwk0g800049mc011x2mi3in",
+    "slug": "2dance",
+    "name": "2Dance",
+    "shortName": null,
+    "description": "Wanna go crazy on our bouncy castle or have a wild ride on the rodeo bull?\r\nSure! Just want to flop somewhere? There will be a comfy lounge area next to the dancefloor. Or enjoy our new, weather independend outside area.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/TwoDanceInfo",
+    "codeOfConduct": null,
+    "hostCountry": "DEU",
+    "minAge": 18,
+    "website": "https://two-dance.de/",
+    "$ref": "https://consurf.net/conventions/2dance"
+  },
+  {
+    "id": "cmgiswmgn006jiae095twotv8",
+    "slug": "furs-upon-malaysia",
+    "name": "Furs Upon Malaysia",
+    "shortName": "FURUM",
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "MYS",
+    "minAge": 13,
+    "website": "https://furum.org",
+    "$ref": "https://consurf.net/conventions/furs-upon-malaysia"
+  },
+  {
+    "id": "cmgiswmgk004eiae0eyzszv0p",
+    "slug": "howloween",
+    "name": "Howloween",
+    "shortName": null,
+    "description": "Howloween is an annual event that invades the hallows of the Metro Vancouver area every Halloween time, catering to furries and friends who appreciate a great time with a spooky twist!",
+    "blueskyHandle": "howloween.ca",
+    "moreInformation": "https://t.me/HowloweenAnnouncements",
+    "codeOfConduct": null,
+    "hostCountry": "CAN",
+    "minAge": 18,
+    "website": "https://howloween.ca",
+    "$ref": "https://consurf.net/conventions/howloween"
+  },
+  {
+    "id": "cmgiswmgl004xiae0fp5i5048",
+    "slug": "anthrotales",
+    "name": "AnthroTales",
+    "shortName": null,
+    "description": "Be part of the Story, and follow the Narrator to enjoy new fluffy adventures in a fantastic journey. AnthroTales is a brand new Furry convention in Belgium that will happen in the fabulous and historical city of Mons You do not speak Dutch, German nor French? No worries, the convention is held in French and in English.",
+    "blueskyHandle": "anthrotales.eu",
+    "moreInformation": null,
+    "codeOfConduct": "https://www.anthrotales.eu/wp-content/uploads/2025/10/Internal-regulations-AnthroTales-Convention.pdf",
+    "hostCountry": "BEL",
+    "minAge": null,
+    "website": "https://www.anthrotales.eu/",
+    "$ref": "https://consurf.net/conventions/anthrotales"
+  },
+  {
+    "id": "cmgiswmgn0065iae0cul1j023",
+    "slug": "furpile",
+    "name": "Furpile",
+    "shortName": "FPE",
+    "description": null,
+    "blueskyHandle": "furpile.pl",
+    "moreInformation": "https://t.me/info_furpile",
+    "codeOfConduct": "https://furpile.pl/convention-rules",
+    "hostCountry": "POL",
+    "minAge": 18,
+    "website": "https://furpile.pl",
+    "$ref": "https://consurf.net/conventions/furpile"
+  },
+  {
+    "id": "cmgiswmgh002miae00e9aee18",
+    "slug": "south-afrifur",
+    "name": "South Afrifur",
+    "shortName": "SAFC",
+    "description": null,
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/+p9JMDIwXZ_8wMmQ0",
+    "codeOfConduct": "https://www.south-afrifur.co.za/rules",
+    "hostCountry": "ZAF",
+    "minAge": null,
+    "website": "https://south-afrifur.co.za",
+    "$ref": "https://consurf.net/conventions/south-afrifur"
+  },
+  {
+    "id": "cmgiswmgr0091iae0qe3wrgxq",
+    "slug": "wuellas-furfest",
+    "name": "Wüellas FurFest",
+    "shortName": "WuFF",
+    "description": "From the Spanish word “HUELLAS”, which means footprint, pawprint or trace:\r\nThe mark left by a human or animal when stepping on a surface.\r\nA trace, sign, or vestige left by someone or something.\r\n\r\nThe prefix “Hu-” is changed to “Wü-” to resemble the romanized writing of the indigenous peoples.",
+    "blueskyHandle": "wuellas.bsky.social",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "CHL",
+    "minAge": 18,
+    "website": "https://www.wuff.cl",
+    "$ref": "https://consurf.net/conventions/wuellas-furfest"
+  },
+  {
+    "id": "cmgiswmgh002piae0ts00hp7n",
+    "slug": "anthrohio",
+    "name": "AnthrOhio",
+    "shortName": null,
+    "description": "AnthrOhio is an annual furry convention located in Columbus, Ohio, sporting a relaxed atmosphere, nightly dances, and a wide variety of events.",
+    "blueskyHandle": "anthrohio.org",
+    "moreInformation": null,
+    "codeOfConduct": "https://anthrohio.org/policies/code-of-conduct",
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://anthrohio.org",
+    "$ref": "https://consurf.net/conventions/anthrohio"
+  },
+  {
+    "id": "cmoq2iw3s0020mw01lwzsaiz6",
+    "slug": "myfur",
+    "name": "MYFurCon",
+    "shortName": "MYFur",
+    "description": "MYFur features a Dealers Den organised by Paws & Pencils, a Fursuit Lounge, Photoshoot Corner, educational seminars, panels (featuring Guest of Honors or community members), entertainment events (Board Games, Fursuit Games and Karaoke) and general social activities (Furry Dances) during the convention.",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/myfurofficial",
+    "codeOfConduct": null,
+    "hostCountry": "MYS",
+    "minAge": null,
+    "website": "https://myfur.org/",
+    "$ref": "https://consurf.net/conventions/myfur"
+  },
+  {
+    "id": "cmgiswmgp007iiae0ookla8r4",
+    "slug": "nashum-furcon",
+    "name": "Nashum FurCon",
+    "shortName": null,
+    "description": "Welcome all to Nashum FurCon! We are Nashville's new furry convention, to be held at the Sheraton Music City Hotel in 2026. We look forward to all of you joining us in our latest adventure into a forgotten world and beyond!",
+    "blueskyHandle": "nashumfurcon.org",
+    "moreInformation": null,
+    "codeOfConduct": "https://www.nashumfurcon.org/attendee-policy",
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://nashumfurcon.org",
+    "$ref": "https://consurf.net/conventions/nashum-furcon"
+  },
+  {
+    "id": "cmpf8ytxl0001mk013te8g17v",
+    "slug": "powsup-night",
+    "name": "PowsUp! Night",
+    "shortName": null,
+    "description": "Celebrate the arrival of the new year with us with a unique experience!\r\nJoin PowsUp! Night, our first hotel event just a few metro stops from the heart of the capital, for three unforgettable days. We look forward to seeing you in Rome to celebrate with music, games, great food, and tons of fun, welcoming 2026 in style! ",
+    "blueskyHandle": null,
+    "moreInformation": null,
+    "codeOfConduct": "https://powsup.net/coc&tos",
+    "hostCountry": "ITA",
+    "minAge": 18,
+    "website": "https://powsup.net/",
+    "$ref": "https://consurf.net/conventions/powsup-night"
+  },
+  {
+    "id": "cmgiswmgm005riae0lln7raiv",
+    "slug": "louisianthro",
+    "name": "Louisianthro",
+    "shortName": null,
+    "description": "Welcome to Frosty Fur Fest! Get ready for a pawsome weekend packed with fursuit shenanigans, a tail-wagging talent show and a Night Dance Party that'll have you howling at the moon!",
+    "blueskyHandle": "‪louisianthro.org‬",
+    "moreInformation": null,
+    "codeOfConduct": "https://www.louisianthro.com/event-policies",
+    "hostCountry": "USA",
+    "minAge": null,
+    "website": "https://www.louisianthro.com/",
+    "$ref": "https://consurf.net/conventions/louisianthro"
+  },
+  {
+    "id": "cmp2vqn6h001nlf01cx1lltrb",
+    "slug": "maw",
+    "name": "Michigan Anthro Weekend",
+    "shortName": "MAW",
+    "description": "A new 18+ furry convention offering an unforgettable weekend of nightlife, gaming, creativity, dancing, and fun!",
+    "blueskyHandle": "mianthroweekend.bsky.social",
+    "moreInformation": "https://t.me/MIAnthroWkndChat",
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": 18,
+    "website": "https://michigananthroweekend.com/",
+    "$ref": "https://consurf.net/conventions/maw"
+  },
+  {
+    "id": "cmp4cntzj0042lf01vx9gx2e3",
+    "slug": "camp-conifur",
+    "name": "Camp Conifur",
+    "shortName": null,
+    "description": "Conifur is an upcoming summer camp experience for furries! Were looking to host a 2 night camping event in september, near Niagara.\r\n\r\nThis is a ticketed event, where you'd reg like a con to get an attendance badge, reg packet, and exclusive merch. This is ournfirst year, so please be gentle!",
+    "blueskyHandle": null,
+    "moreInformation": "https://t.me/CampConifur",
+    "codeOfConduct": null,
+    "hostCountry": "CAN",
+    "minAge": 18,
+    "website": "https://www.campconifur.ca/",
+    "$ref": "https://consurf.net/conventions/camp-conifur"
+  },
+  {
+    "id": "cmpicew28000omk01er9u4wok",
+    "slug": "adelaide-anthros",
+    "name": "Adelaide Anthros",
+    "shortName": "A2",
+    "description": "Adelaide Anthros is a multi day furry convention. A place where like-minded people come together to experience and express their furry side. For a deeper dive in to what a furry convention is and how they’ve come to be we recommend the documentary The Fandom by Ash Coyote.",
+    "blueskyHandle": "adlanthros.bsky.social",
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "AUS",
+    "minAge": null,
+    "website": "https://www.adelaideanthros.com",
+    "$ref": "https://consurf.net/conventions/adelaide-anthros"
+  },
+  {
+    "id": "cmp5mqxcg004clf01lzkmbvjp",
+    "slug": "nyff",
+    "name": "New Year's Furry Festival",
+    "shortName": "NYFF",
+    "description": "NYFF is a 21+ event where the party is the main event. Built around a massive stage and live entertainment, it’s a high-energy space for those who want to spend their New Year’s celebrating with the furry community. Let’s ring in the new year together.",
+    "blueskyHandle": null,
+    "moreInformation": null,
+    "codeOfConduct": null,
+    "hostCountry": "USA",
+    "minAge": 21,
+    "website": "https://newyearsfurryfestival.com/",
+    "$ref": "https://consurf.net/conventions/nyff"
+  },
+  {
+    "id": "cmgiswmgn0060iae093xxf5vn",
+    "slug": "furgiv",
+    "name": "Furry Gathering in Vietnam",
+    "shortName": "FurGIV",
+    "description": "FurGIV (Furry Gathering in Vietnam) is a Vietnam-based furry event, where every member of the local furry fandom can come together to connect, share their passion and welcome their international friends alike.",
+    "blueskyHandle": null,
+    "moreInformation": "https://go.furgiv.org/telegram",
+    "codeOfConduct": "https://go.furgiv.org/codeofconduct",
+    "hostCountry": "VNM",
+    "minAge": 16,
+    "website": "https://furgiv.org/",
+    "$ref": "https://consurf.net/conventions/furgiv"
+  },
+  {
+    "id": "cmgiswmgm005wiae0e90c77o5",
+    "slug": "fureast",
+    "name": "FurEast",
+    "shortName": null,
+    "description": "FurEast is an annual furry convention based in Strasbourg, France, designed to celebrate the furry fandom and anthropomorphic art. First launched in 2024, it provides a warm, elegant, and social environment for artists, fursuiters, and fans to connect, share their passions, and participate in community activities.",
+    "blueskyHandle": "fureast.fr",
+    "moreInformation": null,
+    "codeOfConduct": "https://fureast.fr/rules",
+    "hostCountry": "FRA",
+    "minAge": 18,
+    "website": "https://fureast.fr/",
+    "$ref": "https://consurf.net/conventions/fureast"
   }
 ]
