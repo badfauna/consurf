@@ -1,0 +1,18 @@
+{
+  "name": "consurf-open-data",
+  "private": true,
+  "description": "Tooling that publishes and validates the Consurf open dataset",
+  "type": "module",
+  "license": "CC-BY-SA-4.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "sync": "node scripts/sync.mjs write",
+    "manifest": "node scripts/sync.mjs manifest"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
