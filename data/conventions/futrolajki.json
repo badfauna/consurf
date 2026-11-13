@@ -1,0 +1,229 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006riae0q3a9rk9n",
+  "slug": "futrolajki",
+  "name": "Futrołajki",
+  "shortName": "Futrolajki",
+  "description": "The biggest and fluffiest furry convention in Poland. Join us in this amazing adventure!\r\n\r\nTwitter: https://x.com/futrolajki\r\nInfo in PL: https://t.me/infofutrolajki\r\n\r\n\r\n",
+  "blueskyHandle": "futrolajki.pl",
+  "moreInformation": "https://t.me/infofutrolajki_en",
+  "codeOfConduct": "https://futrolajki.pl/page/rules",
+  "hostCountry": "POL",
+  "minAge": 18,
+  "website": "https://futrolajki.pl/",
+  "url": "https://consurf.net/conventions/futrolajki",
+  "lastModified": "2026-11-01T17:17:32.480Z",
+  "events": [
+    {
+      "id": "cmhpe4z3400saian00vmf3rhs",
+      "slug": "futrolajki-2021",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2021",
+      "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2021-11-03",
+      "endDate": "2021-11-05",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 100,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1000,
+      "charityName": "DKMS",
+      "guestsOfHonor": [
+        "Dariusz Gacek"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700vlian0pk8g55kb",
+      "slug": "futrolajki-2022",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2022",
+      "address": "Hotel Great Polonia Conrad Kraków, Josepha Conrada 29, 30-357 Krakow, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2022-12-01",
+      "endDate": "2022-12-04",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 5000,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Surreaktor"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3900z4ian0nlrg3fak",
+      "slug": "futrolajki-2023",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2023",
+      "address": "Hotel Great Polonia Conrad Kraków, Josepha Conrada 29, 30-357 Krakow, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2023-12-06",
+      "endDate": "2023-12-10",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 373,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 10178.37,
+      "charityName": "Children's Oncology in Kielce",
+      "guestsOfHonor": [
+        "Przemysław Szczepańczyk"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3c012kian0kup1oc3s",
+      "slug": "futrolajki-2024",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2024",
+      "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2024-11-13",
+      "endDate": "2024-11-17",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 431,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 18482,
+      "charityName": "Children's Oncology and Hematology Ward in Kielce",
+      "guestsOfHonor": [
+        "WHSPRS",
+        "Surreaktor",
+        "Przemysław Szczepańczyk"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g016eian0lnsjiddj",
+      "slug": "futrolajki-2025",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2025",
+      "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2025-11-12",
+      "endDate": "2025-11-16",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 643,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 16288.36,
+      "charityName": "Schronisko dla Bezdomnych Zwierząt w Józefowie Foundation",
+      "guestsOfHonor": [
+        "WHSPRS",
+        "Fons & Friends",
+        "xCirrex",
+        "Snakepill"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmoa18ujf003bkp010hcfyqap",
+          "name": "Grand Hotel Kielce",
+          "address": "Henryka Sienkiewicza 78, 25-501 Kielce, Poland ",
+          "isMain": true
+        },
+        {
+          "id": "cmoa1aqym003jkp017zbdby2d",
+          "name": "Hotel SILL (overflow hotel)",
+          "address": "Urzędnicza 13, 25-729 Kielce, Poland",
+          "isMain": false
+        },
+        {
+          "id": "cmoa1a3qh003fkp01b1wvzf28",
+          "name": "Qubus Hotel Kielce (overflow hotel)",
+          "address": "Składowa 2, 25-505 Kielce, Poland",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmmc74k9c007omo01dxd74xwf",
+      "slug": "futrolajki-2026",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2026",
+      "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-15",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-04T15:33:05.808Z",
+      "venues": [
+        {
+          "id": "cmnnd49li000rmt01me0y7riv",
+          "name": "Grand Hotel Kielce",
+          "address": "Ul. Henryka Sienkiewicza 28, 25-501 Kielce",
+          "isMain": true
+        },
+        {
+          "id": "cmqipjibb00cjlh01ksed3nkt",
+          "name": "B&B Hotel Kielce Centrum (overflow hotel)",
+          "address": "Ul. Warszawska 19, 25-516 Kielce",
+          "isMain": false
+        },
+        {
+          "id": "cmqipi5b900cblh01vhbyg0v6",
+          "name": "Hotel SILL (overflow hotel)",
+          "address": "Ul. Urzędnicza 13, 25-729 Kielce",
+          "isMain": false
+        },
+        {
+          "id": "cmqipiq1800cflh0153s4gvk1",
+          "name": "Qubus Hotel Kielce (overflow hotel)",
+          "address": "Ul. Składowa 2, 25-505 Kielce",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 390,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 570,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Supersponsor",
+          "amount": 800,
+          "currency": "PLN",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

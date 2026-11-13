@@ -1,0 +1,103 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmksy9of004ioa0110jk6762",
+  "slug": "tails-of-summer",
+  "name": "Tails of Summer",
+  "shortName": "Tails",
+  "description": "A playful summer gathering for the Pacific Northwest furry community. Sunshine, suits, and endless summer vibes await. Tails of Summer is splashing down at the Executive Hotel Vancouver Airport for a cozy, colourful weekend of fuzzy friendships, panels, and sunset shenanigans.",
+  "blueskyHandle": "tailsofsummer.com",
+  "moreInformation": "https://t.me/+1axs_hsPuN4xZDNh",
+  "codeOfConduct": "https://tailsofsummer.com/code-of-conduct/",
+  "hostCountry": "CAN",
+  "minAge": 19,
+  "website": "https://tailsofsummer.com",
+  "url": "https://consurf.net/conventions/tails-of-summer",
+  "lastModified": "2026-11-01T17:20:32.457Z",
+  "events": [
+    {
+      "id": "cmmkszy9r004koa01rxmve2n3",
+      "slug": "tails-of-summer-2026",
+      "name": "Tails of Summer",
+      "url": "https://consurf.net/tails-of-summer-2026",
+      "address": "7311 Westminster Highway, Richmond, BC V6X 3K3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-08-08",
+      "endDate": "2026-08-09",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 752,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-10T16:07:31.648Z",
+      "venues": [
+        {
+          "id": "cmqfmbpbv005xlh01bbs0cz2h",
+          "name": "Executive Hotel Vancouver Airport",
+          "address": "7311 Westminster Hwy, Richmond, BC V6X 1A1",
+          "isMain": true
+        },
+        {
+          "id": "cmqfmaz9i005tlh01jmwre7lz",
+          "name": "Comfort Hotel Vancouver Airport",
+          "address": "7228 Westminster Hwy, Richmond, BC V6X 1A1",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Patron",
+          "amount": 250,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Pre-Reg",
+          "amount": 65,
+          "currency": "CAD",
+          "rateCutoff": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "priceType": "Saturday only",
+          "amount": 55,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 120,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sunday only",
+          "amount": 45,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Supporter",
+          "amount": 80,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend",
+          "amount": 75,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend (Pre)",
+          "amount": 70,
+          "currency": "CAD",
+          "rateCutoff": "2026-07-24T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

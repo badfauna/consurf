@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmn4rmwx2005tti01dtmmg97s",
+  "slug": "wfw",
+  "name": "Wild Furloween West",
+  "shortName": "WFW",
+  "description": "Howdy, and welcome to Wild Furloween West (WFW)—your new furry Halloween hoedown festival.",
+  "blueskyHandle": "wildfurloweenwest.bsky.social",
+  "moreInformation": "https://t.me/wfwofficial",
+  "codeOfConduct": "https://wildfurloweenwest.org/wfw_coc",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://wildfurloweenwest.org/",
+  "url": "https://consurf.net/conventions/wfw",
+  "lastModified": "2026-11-04T19:58:53.274Z",
+  "events": [
+    {
+      "id": "cmn4rop2e005vti017sp8du7i",
+      "slug": "wfw-2026",
+      "name": "Wild Furloween West",
+      "url": "https://consurf.net/wfw-2026",
+      "address": "DoubleTree by Hilton Fort Worth South Hotel & Conference Center, 100 Altamesa Boulevard East, Fort Worth, TX 76134, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "timezone": "America/Chicago",
+      "attendeeCount": 881,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://bsky.app/profile/wildfurloweenwest.bsky.social/post/3mze6vnaa2c23"
+      ],
+      "createdAt": "2026-03-24T15:26:10.406Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgh002aiae0m35n1n90",
+  "slug": "anthrocon",
+  "name": "Anthrocon",
+  "shortName": null,
+  "description": "Anthrocon is an annual furry convention and one of the largest in the world, held at the David L. Lawrence Convention Center in Pittsburgh, Pennsylvania, since 2006. It began in 1997 as Albany AnthroCon in Albany, New York, with an estimated 300 attendees, then moved to Valley Forge in 1999 and Philadelphia in 2001. It is run by Anthrocon, Inc., a Pennsylvania not-for-profit, and has been chaired since 1999 by Dr. Samuel Conway, known as Uncle Kage. Attendance reached 20,618 in 2026, its twentieth year in Pittsburgh, when the city declared July 1 \"Anthrocon Day\". Each year it partners with a local Pennsylvania charity, and its mascot is Anthrocat.",
+  "blueskyHandle": "anthrocon.org",
+  "moreInformation": null,
+  "codeOfConduct": "https://www.anthrocon.org/standards-of-conduct/",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://anthrocon.org",
+  "url": "https://consurf.net/conventions/anthrocon",
+  "lastModified": "2026-11-03T23:33:30.468Z",
+  "events": [
+    {
+      "id": "cmhpe4z2g000eian0x12omwr9",
+      "slug": "anthrocon-1997",
+      "name": "Albany Anthrocon",
+      "url": "https://consurf.net/anthrocon-1997",
+      "address": "Albany, NY, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "1997-07-04",
+      "endDate": "1997-07-06",
+      "timezone": "America/New_York",
+      "attendeeCount": 300,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 2200,
+      "charityName": "Therapy Dogs",
+      "guestsOfHonor": [
+        "Daphne Lage",
+        "Watts Martin"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2g000iian0ga0kejdl",
+      "slug": "anthrocon-1998",
+      "name": "Albany Anthrocon",
+      "url": "https://consurf.net/anthrocon-1998",
+      "address": "Albany, NY, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "1998-07-03",
+      "endDate": "1998-07-05",
+      "timezone": "America/New_York",
+      "attendeeCount": 600,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 3092,
+      "charityName": "Whiskers",
+      "guestsOfHonor": [
+        "Jeffrey A. Carver",
+        "Jim Groat"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2g000oian06vqnd1gm",
+      "slug": "anthrocon-1999",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-1999",
+      "address": "Doubletree By Hilton Philadelphia - Valley Forge, King of Prussia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "1999-07-02",
+      "endDate": "1999-07-04",
+      "timezone": "America/New_York",
+      "attendeeCount": 845,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 3600,
+      "charityName": "Great Valley Nature Center",
+      "guestsOfHonor": [
+        "S. Andrew Swann",
+        "Vicky Wyman"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_1999"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2g000uian0mf9l3rli",
+      "slug": "anthrocon-2000",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2000",
+      "address": "Doubletree By Hilton Philadelphia - Valley Forge, King of Prussia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2000-06-30",
+      "endDate": "2000-07-02",
+      "timezone": "America/New_York",
+      "attendeeCount": 1128,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 6534,
+      "charityName": "National Greyhound Adoption Program",
+      "guestsOfHonor": [
+        "Caribou",
+        "Paul Kidd"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2000"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2g0013ian0i8f8dx85",
+      "slug": "anthrocon-2001",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2001",
+      "address": "Philadelphia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2001-07-27",
+      "endDate": "2001-07-29",
+      "timezone": "America/New_York",
+      "attendeeCount": 1457,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7273,
+      "charityName": "Reins of Life",
+      "guestsOfHonor": [
+        "Dan DeCarlo",
+        "Bill Holbrook"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2001"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2g001aian0qrsrm4s3",
+      "slug": "anthrocon-2002",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2002",
+      "address": "Philadelphia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2002-07-11",
+      "endDate": "2002-07-14",
+      "timezone": "America/New_York",
+      "attendeeCount": 1648,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 13280,
+      "charityName": "Canine Partners for Life",
+      "guestsOfHonor": [
+        "Heather Bruton",
+        "Lisanne Norman"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2002"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2h001jian0w94j12rf",
+      "slug": "anthrocon-2003",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2003",
+      "address": "Philadelphia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2003-07-17",
+      "endDate": "2003-07-20",
+      "timezone": "America/New_York",
+      "attendeeCount": 1949,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 8348,
+      "charityName": "Support Our Shelters",
+      "guestsOfHonor": [
+        "Guy Gilchrist",
+        "Mark E. Rogers"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2003"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2h001xian0yvitvwzm",
+      "slug": "anthrocon-2004",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2004",
+      "address": "Philadelphia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2004-07-08",
+      "endDate": "2004-07-11",
+      "timezone": "America/New_York",
+      "attendeeCount": 2404,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7200,
+      "charityName": "Forgotten Felines & Fidos",
+      "guestsOfHonor": [
+        "Michel Gagné",
+        "Stan Sakai"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2004"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2h002aian0niqqnqau",
+      "slug": "anthrocon-2005",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2005",
+      "address": "Philadelphia, PA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2005-07-07",
+      "endDate": "2005-07-10",
+      "timezone": "America/New_York",
+      "attendeeCount": 2370,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 6470,
+      "charityName": "Greater Philadelphia Search and Rescue",
+      "guestsOfHonor": [
+        "Peter Laird",
+        "Timothy Albee"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2005"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2i002oian0l4iv8tis",
+      "slug": "anthrocon-2006",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2006",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2006-06-15",
+      "endDate": "2006-06-18",
+      "timezone": "America/New_York",
+      "attendeeCount": 2489,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 8407,
+      "charityName": "Western Pennsylvania National Wild Animal Orphanage",
+      "guestsOfHonor": [
+        "Diane Duane",
+        "Scott Shaw!",
+        "Tom Smith"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2006"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2i0037ian086f3ns8u",
+      "slug": "anthrocon-2007",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2007",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2007-07-05",
+      "endDate": "2007-07-08",
+      "timezone": "America/New_York",
+      "attendeeCount": 2849,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7608,
+      "charityName": "Animal Friends",
+      "guestsOfHonor": [
+        "Mark Evanier",
+        "Carolyn Kelly",
+        "Rob Paulsen"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2007"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2j003uian06j525k37",
+      "slug": "anthrocon-2008",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2008",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2008-06-26",
+      "endDate": "2008-06-29",
+      "timezone": "America/New_York",
+      "attendeeCount": 3390,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 13154,
+      "charityName": "Pittsburgh Parrot Rescue",
+      "guestsOfHonor": [
+        "Floyd Norman"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2008"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2j004kian0q21ibh79",
+      "slug": "anthrocon-2009",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2009",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2009-07-02",
+      "endDate": "2009-07-05",
+      "timezone": "America/New_York",
+      "attendeeCount": 3777,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 8992,
+      "charityName": "Animal Rescue League Wildlife Rehabilitation Center",
+      "guestsOfHonor": [
+        "Ben Balistreri",
+        "Joe Harris",
+        "Bob Boyle"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2009"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2k005eian0rl94b645",
+      "slug": "anthrocon-2010",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2010",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2010-06-24",
+      "endDate": "2010-06-27",
+      "timezone": "America/New_York",
+      "attendeeCount": 4238,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 12849,
+      "charityName": "Fayette Friends Of Animals",
+      "guestsOfHonor": [
+        "James Gurney",
+        "Jim Martin"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2010"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2l006aian0x6ucz4ss",
+      "slug": "anthrocon-2011",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2011",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2011-06-23",
+      "endDate": "2011-06-26",
+      "timezone": "America/New_York",
+      "attendeeCount": 4400,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 11522,
+      "charityName": "ToonSeum: Pittsburgh Museum of Cartoon Art",
+      "guestsOfHonor": [
+        "Andy Runton",
+        "Peter S. Beagle"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2011"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2m007cian0c4d7gi57",
+      "slug": "anthrocon-2012",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2012",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2012-06-14",
+      "endDate": "2012-06-17",
+      "timezone": "America/New_York",
+      "attendeeCount": 5179,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20656,
+      "charityName": "Hello Bully",
+      "guestsOfHonor": [
+        "Dev Madan",
+        "Mike Kazaleh",
+        "Sardyuon"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2012"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2n008jian0lhrnnlsr",
+      "slug": "anthrocon-2013",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2013",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2013-07-04",
+      "endDate": "2013-07-07",
+      "timezone": "America/New_York",
+      "attendeeCount": 5577,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 31255,
+      "charityName": "Equine Angels Rescue",
+      "guestsOfHonor": [
+        "Larry Dixon",
+        "Mercedes Lackey",
+        "Tom Minton",
+        "Sardyuon"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2013"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2o009yian0iimf9lth",
+      "slug": "anthrocon-2014",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2014",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2014-07-03",
+      "endDate": "2014-07-06",
+      "timezone": "America/New_York",
+      "attendeeCount": 5861,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 32372,
+      "charityName": "The National Aviary",
+      "guestsOfHonor": [
+        "Jim Cummings",
+        "Lee Tockar"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2014"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00bgian0qsl0b8h8",
+      "slug": "anthrocon-2015",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2015",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2015-07-09",
+      "endDate": "2015-07-12",
+      "timezone": "America/New_York",
+      "attendeeCount": 6348,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 35910,
+      "charityName": "Western Pennsylvania Humane Society",
+      "guestsOfHonor": [
+        "Kimlinh Tran",
+        "The San Diego Chicken"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2015"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2r00d7ian00qczmp8p",
+      "slug": "anthrocon-2016",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2016",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2016-06-30",
+      "endDate": "2016-07-03",
+      "timezone": "America/New_York",
+      "attendeeCount": 7308,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 32579,
+      "charityName": "Pittsburgh Zoo & PPG Aquarium",
+      "guestsOfHonor": [
+        "Joaquin Baldwin",
+        "Trevor Devall",
+        "Tracy Butler"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2016"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00f7ian02ajpmeb7",
+      "slug": "anthrocon-2017",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2017",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2017-06-29",
+      "endDate": "2017-07-02",
+      "timezone": "America/New_York",
+      "attendeeCount": 7544,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 37598,
+      "charityName": "Hope Haven Farm Sanctuary",
+      "guestsOfHonor": [
+        "Charlie Adler"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2017"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2v00hwian0f9y420pd",
+      "slug": "anthrocon-2018",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2018",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2018-07-05",
+      "endDate": "2018-07-08",
+      "timezone": "America/New_York",
+      "attendeeCount": 8407,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 42051,
+      "charityName": "South Hills Pet Rescue",
+      "guestsOfHonor": [
+        "Len Simon",
+        "Ursula Vernon"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2018"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00krian0komf9k73",
+      "slug": "anthrocon-2019",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2019",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2019-07-04",
+      "endDate": "2019-07-07",
+      "timezone": "America/New_York",
+      "attendeeCount": 9358,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 45852,
+      "charityName": "PEARL Parrot Rescue",
+      "guestsOfHonor": [
+        "Benjamin Diskin",
+        "Steve Gallacci",
+        "SonicFox5000"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2019"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3000obian0f89gatk5",
+      "slug": "anthrocon-2020",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2020",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-07-02",
+      "endDate": "2020-07-05",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2020"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qvian04mpov0au",
+      "slug": "anthrocon-2021",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2021",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-07-01",
+      "endDate": "2021-07-04",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20000,
+      "charityName": "Wildlife Works, Inc.",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2021"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500tsian0reo3ij6l",
+      "slug": "anthrocon-2022",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2022",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2022-06-30",
+      "endDate": "2022-07-03",
+      "timezone": "America/New_York",
+      "attendeeCount": 9702,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 41553,
+      "charityName": "Wildlife Works Inc",
+      "guestsOfHonor": [
+        "SueDeer",
+        "Kékéflipnote"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2022"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3800x3ian025k574cg",
+      "slug": "anthrocon-2023",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2023",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-06-29",
+      "endDate": "2023-07-02",
+      "timezone": "America/New_York",
+      "attendeeCount": 13644,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 52000,
+      "charityName": "Rabbit Wranglers",
+      "guestsOfHonor": [
+        "City of Pittsburgh"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2023"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3b010jian08ehjxr1a",
+      "slug": "anthrocon-2024",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2024",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-07-04",
+      "endDate": "2024-07-07",
+      "timezone": "America/New_York",
+      "attendeeCount": 17639,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 100000,
+      "charityName": "Gray Paws Sanctuary",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2024"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e014gian0vjzwaayn",
+      "slug": "anthrocon-2025",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2025",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-07-03",
+      "endDate": "2025-07-06",
+      "timezone": "America/New_York",
+      "attendeeCount": 18357,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 87267,
+      "charityName": "Nose 2 Tail Cat Rescue",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2025"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g017gian09s12uahn",
+      "slug": "anthrocon-2026",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2026",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-05",
+      "timezone": "America/New_York",
+      "attendeeCount": 20618,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 86000,
+      "charityName": "J & J Farms Animal Sanctuary",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2026"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attending",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Children 12 or younger (At Door)",
+          "amount": 5,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (At Door)",
+          "amount": 50,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 140,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Supersponsor",
+          "amount": 350,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Ultrasponsor",
+          "amount": 1200,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmr9v68bd000ilh019zkfyy9x",
+      "slug": "anthrocon-2027",
+      "name": "Anthrocon",
+      "url": "https://consurf.net/anthrocon-2027",
+      "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-07-01",
+      "endDate": "2027-07-04",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Anthrocon_2027",
+        "https://en.wikifur.com/wiki/Anthrocon"
+      ],
+      "createdAt": "2026-07-06T23:41:27.577Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

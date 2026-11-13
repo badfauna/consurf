@@ -1,0 +1,128 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmny3q9ew000qsb01c8urtdg8",
+  "slug": "muzzled",
+  "name": "MUZZLED",
+  "shortName": null,
+  "description": "MUZZLED was founded and is run by two furs who have been active members of both the local and international furry communities for well over a decade. We are inspired by the creativity, openness and self expression of our community and are excited to bring some awesome events to Toronto.",
+  "blueskyHandle": null,
+  "moreInformation": "http://t.me/GET_MUZZLED",
+  "codeOfConduct": "https://www.getmuzzled.ca/codeofconduct",
+  "hostCountry": "CAN",
+  "minAge": 19,
+  "website": "https://www.getmuzzled.ca/",
+  "url": "https://consurf.net/conventions/muzzled",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmoempseu0004mn01kr1iwa4o",
+      "slug": "muzzled-2025",
+      "name": "MUZZLED",
+      "url": "https://consurf.net/muzzled-2025",
+      "address": "209 Geary Avenue, Old Toronto, Toronto, ON M6H 2C1, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2025-02-07",
+      "endDate": "2025-02-07",
+      "timezone": "America/Toronto",
+      "attendeeCount": 250,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-25T17:44:27.413Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Admission",
+          "amount": 20,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmoen3zoo000wmn01p41usz8z",
+      "slug": "muzzled-2026-01",
+      "name": "MUZZLED",
+      "url": "https://consurf.net/muzzled-2026-01",
+      "address": "209 Geary Avenue, Old Toronto, Toronto, ON M6H 2C1, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-01-17",
+      "endDate": "2026-01-17",
+      "timezone": "America/Toronto",
+      "attendeeCount": 200,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-25T17:55:30.024Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmny3ym6i000ssb01npxrsh2k",
+      "slug": "muzzled-2026",
+      "name": "MUZZLED",
+      "url": "https://consurf.net/muzzled-2026",
+      "address": "The Dopamine Lounge, 2415 Yonge Street, North Toronto, Toronto, ON M4P 2H5, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-17",
+      "timezone": "America/Toronto",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-14T04:15:07.722Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Standard",
+          "amount": 20,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmo4p0ode0005kf01xpscb2to",
+      "slug": "muzzled-2026-06",
+      "name": "MUZZLED",
+      "url": "https://consurf.net/muzzled-2026-06",
+      "address": "The Parkdale Hall, 1605 Queen Street West, Suite 3, Toronto, ON M6R 1A9, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "timezone": "America/Toronto",
+      "attendeeCount": 600,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-18T18:51:12.865Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Standard",
+          "amount": 30,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

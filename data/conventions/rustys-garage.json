@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgr0094iae0u94gm8vs",
+  "slug": "rustys-garage",
+  "name": "Rusty's Garage",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "BRA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/rustys-garage",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3o01gfian0rjma7cje",
+      "slug": "rustys-garage-2024",
+      "name": "Rusty's Garage",
+      "url": "https://consurf.net/rustys-garage-2024",
+      "address": "Camping Cabreúva, Estrada do Major, Cabreúva - SP, 13315-288, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2024-11-22",
+      "endDate": "2024-11-23",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgj003ziae0welqtjno",
+  "slug": "anthro-new-england",
+  "name": "Anthro New England",
+  "shortName": "ANE",
+  "description": "Anthro New England was organized in 2014 with the goal of hosting a furry convention in Greater Boston.[3] Their first event was held from February 27 to March 1, 2015, at the Hyatt Regency Cambridge in Cambridge, Massachusetts. During the first convention, 165 people took part in the fursuit parade.",
+  "blueskyHandle": "ane.boston",
+  "moreInformation": "https://t.me/OfficialANE",
+  "codeOfConduct": "https://www.anthronewengland.com/policies/#coc",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://anthronewengland.com",
+  "url": "https://consurf.net/conventions/anthro-new-england",
+  "lastModified": "2026-11-02T00:22:58.014Z",
+  "events": [
+    {
+      "id": "cmhpe4z2p00atian0cwq55pzu",
+      "slug": "anthro-new-england-2015",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2015",
+      "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2015-02-27",
+      "endDate": "2015-03-01",
+      "timezone": "America/New_York",
+      "attendeeCount": 757,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 10000,
+      "charityName": "Massachusetts Vest-A-Dog",
+      "guestsOfHonor": [
+        "Vallhund",
+        "Fivel"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx7262a004fmc011qmm8jqk",
+          "name": "Hyatt Regency Boston Cambridge",
+          "address": "575 Memorial Dr, Cambridge, MA 02139",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2q00ccian07snccqg1",
+      "slug": "anthro-new-england-2016",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2016",
+      "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2016-01-21",
+      "endDate": "2016-01-24",
+      "timezone": "America/New_York",
+      "attendeeCount": 965,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 11000,
+      "charityName": "Massachusetts Vest-A-Dog",
+      "guestsOfHonor": [
+        "Kittiara",
+        "Jennifer Rodriguez"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx72j11004jmc01287n061c",
+          "name": "Hyatt Regency Cambridge Boston",
+          "address": "575 Memorial Dr, Cambridge, MA 02139",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00edian0rrxz6q6m",
+      "slug": "anthro-new-england-2017",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2017",
+      "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2017-01-19",
+      "endDate": "2017-01-22",
+      "timezone": "America/New_York",
+      "attendeeCount": 1384,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 15000,
+      "charityName": "Massachusetts Vest-A-Dog",
+      "guestsOfHonor": [
+        "Wintersnowolf",
+        "Riley"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx72t35004nmc013vlvv4az",
+          "name": "Hyatt Regency Cambridge Boston",
+          "address": "575 Memorial Dr, Cambridge, MA 02139",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2u00h2ian01pl9oc91",
+      "slug": "anthro-new-england-2018",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2018",
+      "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2018-02-23",
+      "endDate": "2018-02-25",
+      "timezone": "America/New_York",
+      "attendeeCount": 2050,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 21000,
+      "charityName": "Massachusetts Vest-A-Dog",
+      "guestsOfHonor": [
+        "Rabbit Valley Comics",
+        "NowAndLater"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx73fam004rmc01c3t1ms94",
+          "name": "Boston Park Plaza",
+          "address": "50 Park Plaza, Boston, MA 02116",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00jsian0k3k0g7dx",
+      "slug": "anthro-new-england-2019",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2019",
+      "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-24",
+      "timezone": "America/New_York",
+      "attendeeCount": 2251,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 22500,
+      "charityName": "Massachusetts Vest-A-Dog",
+      "guestsOfHonor": [
+        "Meesh",
+        "Enro the Mutt"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx73qa6004vmc018q9vw6yt",
+          "name": "Boston Park Plaza",
+          "address": "50 Park Plaza, Boston, MA 02116",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2z00naian0m6st8kzx",
+      "slug": "anthro-new-england-2020",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2020",
+      "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-02-20",
+      "endDate": "2020-02-23",
+      "timezone": "America/New_York",
+      "attendeeCount": 2570,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 25700,
+      "charityName": "NEADS World Class Service Dogs, Massachusetts ALS Society",
+      "guestsOfHonor": [
+        "BooBun",
+        "Pulex"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx73xgm004zmc01sdopylvc",
+          "name": "Boston Park Plaza",
+          "address": "50 Park Plaza, Boston, MA 02116",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qfian04f2s1szs",
+      "slug": "anthro-new-england-2021",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2021",
+      "address": "Online Event",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-02-19",
+      "endDate": "2021-02-21",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400sxian081i9vofh",
+      "slug": "anthro-new-england-2022",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2022",
+      "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2022-02-17",
+      "endDate": "2022-02-20",
+      "timezone": "America/New_York",
+      "attendeeCount": 2530,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 27500,
+      "charityName": "NEADS World Class Service Dogs, Youth on Fire",
+      "guestsOfHonor": [
+        "Steve Domanski",
+        "Andrew French",
+        "Scott Fabianek",
+        "NightlineZ",
+        "Chise"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx747yy0053mc01jt1por8l",
+          "name": "Boston Park Plaza",
+          "address": "50 Park Plaza, Boston, MA 02116",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700vyian08va6ht8g",
+      "slug": "anthro-new-england-2023",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2023",
+      "address": "Boston, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-01-20",
+      "endDate": "2023-01-22",
+      "timezone": "America/New_York",
+      "attendeeCount": 3548,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 21000,
+      "charityName": "NEADS World Class Service Dogs, Youth on Fire",
+      "guestsOfHonor": [
+        "Braeburned",
+        "Tanya Song",
+        "Hearthfox"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx74rhm0057mc01jetrgy3o",
+          "name": "Westin Boston Seaport District",
+          "address": "425 Summer St, Boston, MA 02210",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a00zfian0tx2aov5i",
+      "slug": "anthro-new-england-2024",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2024",
+      "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-01-18",
+      "endDate": "2024-01-21",
+      "timezone": "America/New_York",
+      "attendeeCount": 4482,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 30000,
+      "charityName": "Youth on Fire, WINGS Wildlife",
+      "guestsOfHonor": [
+        "DJ Woozie",
+        "Declan Mouse",
+        "HOWL OUT"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx7517s005bmc014ezstm8c",
+          "name": "Westin Boston Seaport District",
+          "address": "425 Summer St, Boston, MA 02210",
+          "isMain": true
+        },
+        {
+          "id": "cmnx760iw005jmc01jsvz4jm3",
+          "name": "Aloft Boston Seaport District",
+          "address": "401-403 D St, Boston, MA 02210",
+          "isMain": false
+        },
+        {
+          "id": "cmnx75o0g005fmc015q5hqz60",
+          "name": "Element Boston Seaport District",
+          "address": "391-395 D St, Boston, MA 02210",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d012xian06hxuno0h",
+      "slug": "anthro-new-england-2025",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2025",
+      "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-01-16",
+      "endDate": "2025-01-19",
+      "timezone": "America/New_York",
+      "attendeeCount": 5761,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 40000,
+      "charityName": "Queer Scouts, WINGS Wildlife",
+      "guestsOfHonor": [
+        "Jaystor",
+        "NONSTOPPUP",
+        "GODBIRDART"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx76qr1005vmc01c965zatt",
+          "name": "Element Boston Seaport District",
+          "address": "391-395 D St, Boston, MA 02210",
+          "isMain": true
+        },
+        {
+          "id": "cmnx76ifu005rmc01c19gnhzy",
+          "name": "Westin Boston Seaport District",
+          "address": "425 Summer St, Boston, MA 02210",
+          "isMain": true
+        },
+        {
+          "id": "cmnx769e8005nmc01iasbpykg",
+          "name": "Aloft Boston Seaport District",
+          "address": "401-403 D St, Boston, MA 02210",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g016pian0o1yaaj9v",
+      "slug": "anthro-new-england-2026",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2026",
+      "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-18",
+      "timezone": "America/New_York",
+      "attendeeCount": 7284,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 50000,
+      "charityName": "Queer Scouts, WINGS Wildlife",
+      "guestsOfHonor": [
+        "The Stupendium",
+        "RitoBandito",
+        "Sleepy Stag Suits"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnx77dqm0063mc01riyugowd",
+          "name": "Westin Boston Seaport District",
+          "address": "425 Summer St, Boston, MA 02210",
+          "isMain": true
+        },
+        {
+          "id": "cmnx77nkk0067mc0152ene3jl",
+          "name": "Aloft Boston Seaport District",
+          "address": "401-403 D St, Boston, MA 02210",
+          "isMain": false
+        },
+        {
+          "id": "cmnx775lh005zmc016du01mwn",
+          "name": "Element Boston Seaport District",
+          "address": "391-395 D St, Boston, MA 02210",
+          "isMain": false
+        },
+        {
+          "id": "cmnx78j9t006fmc01n8nh9sie",
+          "name": "Hampton Inn Boston Seaport District",
+          "address": "670 Summer St, Boston, MA 02210",
+          "isMain": false
+        },
+        {
+          "id": "cmnx782fa006bmc01hlm154xo",
+          "name": "Renaissance Boston Seaport District",
+          "address": "606 Congress St, Boston, MA 02210",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmkofudbx0005mu015ur9lnie",
+      "slug": "anthro-new-england-2027",
+      "name": "Anthro New England",
+      "url": "https://consurf.net/anthro-new-england-2027",
+      "address": "The Westin Boston Seaport District, 425 Summer St, Boston, MA 02210, United States",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-17",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Queer Scouts, Connecticut Draft Horse Rescue",
+      "guestsOfHonor": [
+        "SnackPony",
+        "PrismPaws",
+        "Sean Chiplock"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-21T19:50:56.253Z",
+      "venues": [
+        {
+          "id": "cmod3yv87004gkp01suofbite",
+          "name": "Omni Boston at the Seaport",
+          "address": "450 Summer Street, Boston, MA 02210",
+          "isMain": true
+        },
+        {
+          "id": "cmod3y5rs004ckp01l4hsp54i",
+          "name": "Westin Boston Seaport District",
+          "address": "425 Summer Street, Boston, MA 02210",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee (Early-Bird)",
+          "amount": 90,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Attendee (Pre-Sale)",
+          "amount": 85,
+          "currency": "USD",
+          "rateCutoff": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Attendee (Standard)",
+          "amount": 95,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Donor (Pre-Sale)",
+          "amount": 1000,
+          "currency": "USD",
+          "rateCutoff": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Patron (Pre-Sale)",
+          "amount": 525,
+          "currency": "USD",
+          "rateCutoff": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Early-Bird)",
+          "amount": 170,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Pre-Sale)",
+          "amount": 165,
+          "currency": "USD",
+          "rateCutoff": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Standard)",
+          "amount": 175,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super-Sponsor (Early-Bird)",
+          "amount": 255,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Super-Sponsor (Pre-Sale)",
+          "amount": 245,
+          "currency": "USD",
+          "rateCutoff": "2026-08-31T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

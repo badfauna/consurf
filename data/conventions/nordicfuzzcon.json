@@ -1,0 +1,479 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgk0043iae0chjtxd44",
+  "slug": "nordicfuzzcon",
+  "name": "NordicFuzzCon",
+  "shortName": "NFC",
+  "description": "NordicFuzzCon is an annual event taking place in Sweden. It is aimed at members of the international furry community – people with an interest in animals with human characteristics, such as Bugs Bunny or Donald Duck – but all are welcome to attend.",
+  "blueskyHandle": "nordicfuzzcon.org",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "SWE",
+  "minAge": 18,
+  "website": "https://nordicfuzzcon.org",
+  "url": "https://consurf.net/conventions/nordicfuzzcon",
+  "lastModified": "2026-11-01T17:13:31.843Z",
+  "events": [
+    {
+      "id": "cmhpe4z2m0087ian03t7biy7k",
+      "slug": "nordicfuzzcon-2013",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2013",
+      "address": "Quality Hotel Winn, Rudsjöterrassen 3, 136 81 Handen, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2013-03-28",
+      "endDate": "2013-03-31",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 172,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 30000,
+      "charityName": "Södertälje Katthem",
+      "guestsOfHonor": [
+        "DivineVixen",
+        "Snout"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2n009aian0540oja0e",
+      "slug": "nordicfuzzcon-2014",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2014",
+      "address": "Quality Hotel Winn, Rudsjöterrassen 3, 136 81 Handen, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2014-02-27",
+      "endDate": "2014-03-02",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 268,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 57408,
+      "charityName": "Djurens Ö",
+      "guestsOfHonor": [
+        "Bryan Talbot"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00asian0pe5iu4zh",
+      "slug": "nordicfuzzcon-2015",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2015",
+      "address": "Utsikten Meetings, Utsiktsvägen 10, 149 41 Nynäshamn, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2015-02-26",
+      "endDate": "2015-03-01",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 382,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 53675,
+      "charityName": "Hittehund",
+      "guestsOfHonor": [
+        "EosFoxx",
+        "EZWolf"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2q00ciian0xzyg7wdh",
+      "slug": "nordicfuzzcon-2016",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2016",
+      "address": "Utsikten Meetings, Utsiktsvägen 10, 149 41 Nynäshamn, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2016-03-03",
+      "endDate": "2016-03-06",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 513,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 55000,
+      "charityName": "Kottecentralen",
+      "guestsOfHonor": [
+        "Silverfox"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00ekian0a66ndilz",
+      "slug": "nordicfuzzcon-2017",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2017",
+      "address": "Scandic Infra City, Infracity, 194 61 Upplands Väsby, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2017-03-09",
+      "endDate": "2017-03-12",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 814,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 73744,
+      "charityName": "Fågelcentralen",
+      "guestsOfHonor": [
+        "JD",
+        "Spocha"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2u00h5ian04kpz6m6t",
+      "slug": "nordicfuzzcon-2018",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2018",
+      "address": "Scandic Infra City, Infracity, 194 61 Upplands Väsby, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2018-02-28",
+      "endDate": "2018-03-04",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 918,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 92659,
+      "charityName": "Assistenthunden",
+      "guestsOfHonor": [
+        "Kazul G Fox",
+        "Ailah"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00jvian0mv7334uo",
+      "slug": "nordicfuzzcon-2019",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2019",
+      "address": "Scandic Infra City, Infracity, 194 61 Upplands Väsby, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2019-02-27",
+      "endDate": "2019-03-03",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 1149,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 85000,
+      "charityName": "Svenska Djurambulansen",
+      "guestsOfHonor": [
+        "Kéké Flipnote",
+        "Oakspirit"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2z00n9ian0dsrne8to",
+      "slug": "nordicfuzzcon-2020",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2020",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2020-02-19",
+      "endDate": "2020-02-23",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 1499,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 126206.21,
+      "charityName": "Katthjälpen i Malmö",
+      "guestsOfHonor": [
+        "Pointedfox",
+        "Burr Koda"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400syian0iav51kha",
+      "slug": "nordicfuzzcon-2022",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2022",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": true,
+      "startDate": "2022-02-23",
+      "endDate": "2022-02-27",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700w4ian0sm9wnmfv",
+      "slug": "nordicfuzzcon-2023",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2023",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2023-02-22",
+      "endDate": "2023-02-26",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 2349,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 126087,
+      "charityName": "Odsherred Zoo Rescue",
+      "guestsOfHonor": [
+        "Berneri",
+        "Johis"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a00zlian0ixyllcbp",
+      "slug": "nordicfuzzcon-2024",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2024",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2024-02-21",
+      "endDate": "2024-02-25",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 3704,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 323452,
+      "charityName": "UAnimals",
+      "guestsOfHonor": [
+        "FurScience",
+        "Grimner"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d0134ian0gnzhhs1p",
+      "slug": "nordicfuzzcon-2025",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2025",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2025-02-19",
+      "endDate": "2025-02-23",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 5255,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 462022,
+      "charityName": "Dýrahjálp",
+      "guestsOfHonor": [
+        "TAIKO BASTARDS",
+        "WannaBeast"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g016yian0227xtn1l",
+      "slug": "nordicfuzzcon-2026",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2026",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2026-02-18",
+      "endDate": "2026-02-22",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 5962,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Råtthjälpen",
+      "guestsOfHonor": [
+        "Circus Florida",
+        "Batería Malmö",
+        "FurScience",
+        "Grimner"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmnb1jw8g0002no01q459pf6b",
+      "slug": "nordicfuzzcon-2027",
+      "name": "NordicFuzzCon",
+      "url": "https://consurf.net/nordicfuzzcon-2027",
+      "address": "Clarion Hotel & Congress Malmö Live, Malmo, Sweden",
+      "country": "SWE",
+      "isCancelled": false,
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-28",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-29T00:48:59.632Z",
+      "venues": [
+        {
+          "id": "cmtw2bol20011p601svhqhooc",
+          "name": "Best Western Hotel Royal",
+          "address": "Norra Vallgatan 94, 211 22 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw1q4nu000tp60175pycovy",
+          "name": "Best Western Noble House",
+          "address": "Per Weijersgatan 6, 211 34 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw1qml0000xp601ux7gzsre",
+          "name": "Best Western Plus Park City Malmö",
+          "address": "Sjömansgatan 2, 211 11 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2gpdd0021p601fyvixk4f",
+          "name": "Comfort Hotel Malmö",
+          "address": "Carlsgatan 10 C, 211 20 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2c9s50015p601zzxscamh",
+          "name": "Elite Hotel Esplanade",
+          "address": "Mäster Johansgatan 15, 211 21 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2dokn001dp601bcmu6czq",
+          "name": "Elite Hotel Plaza",
+          "address": "Gustav Adolfs torg 49, 201 80 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2e6em001hp601t9vmz230",
+          "name": "Elite Hotel Savoy",
+          "address": "Norra Vallgatan 62, 211 22 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2hp6p0025p601wrsku4rg",
+          "name": "Home Hotel Temperance",
+          "address": "Engelbrektsgatan 16, 211 33 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2cwsb0019p6014bggjq0t",
+          "name": "Hotel Bishops Arms Malmö",
+          "address": "Malmö Adelgatan 7, 211 22 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2enq6001lp601uoq0c51t",
+          "name": "Moment Hotel",
+          "address": "Vallgatan 54, 211 22 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2i4rv0029p601i1bpnd33",
+          "name": "Quality Hotel The Mill",
+          "address": "Amiralsgatan 19, 21155, Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmusadesg008op601blritocp",
+          "name": "Radisson Blu Hotel Malmö",
+          "address": "Östergatan 10, Norr, 211 25 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2fm52001tp601m1x5zkdq",
+          "name": "Scandic Kramer",
+          "address": "Stortorget 7, 211 22 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2f29i001pp6019wsr5kbf",
+          "name": "Scandic St Jörgen",
+          "address": "Stora Nygatan 35, 211 37 Malmö, Sweden",
+          "isMain": false
+        },
+        {
+          "id": "cmtw2g74n001xp60129q6c6tc",
+          "name": "Scandic Stortorget",
+          "address": "Stortorget 15, 211 37 Malmö, Sweden",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 2000,
+          "currency": "SEK",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Bronze",
+          "amount": 2500,
+          "currency": "SEK",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold",
+          "amount": 4200,
+          "currency": "SEK",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 3000,
+          "currency": "SEK",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

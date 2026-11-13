@@ -1,0 +1,83 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn0066iae0m2we3o6k",
+  "slug": "furrest-city",
+  "name": "Furrest City",
+  "shortName": "FCY",
+  "description": "\r\nWe are a 501(c)(3) non-profit organization operating out of Cleveland, Ohio. We aim to connect the local furry community while celebrating the city and its amenities by running fun and accessible events- from fur walks to game nights and rapid rides.\r\n\r\nFurrest City originated in 2024 after we noticed a lack of transit-accessible events in the Greater Cleveland area and a lack of events in the city of Cleveland. Our efforts at supporting the furry community soon evolved into an attempt to bring back a furry convention to the Cleveland area after Confurence East 1996 ended almost 30 years ago. Furrest City is named after “Forest City,” a nickname for the city of Cleveland.",
+  "blueskyHandle": "furrestcity.org",
+  "moreInformation": "https://t.me/furrestcity",
+  "codeOfConduct": "https://furrestcity.org/code-of-conduct",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://furrestcity.org/",
+  "url": "https://consurf.net/conventions/furrest-city",
+  "lastModified": "2026-11-10T00:44:15.228Z",
+  "events": [
+    {
+      "id": "cmhpe4z3f015hian0ca520fer",
+      "slug": "furrest-city-2025",
+      "name": "Furrest City",
+      "url": "https://consurf.net/furrest-city-2025",
+      "address": "Cleveland, OH, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-09-13",
+      "endDate": "2025-09-13",
+      "timezone": "America/New_York",
+      "attendeeCount": 192,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmnl68fsu003nno01wcyjitfz",
+      "slug": "furrest-city-2026",
+      "name": "Furrest City",
+      "url": "https://consurf.net/furrest-city-2026",
+      "address": "Cleveland State University Student Center, 2121 Euclid Avenue, Cleveland Ohio 44115, USA",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "timezone": "America/New_York",
+      "attendeeCount": 591,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-05T02:57:44.957Z",
+      "venues": [
+        {
+          "id": "cmnl6dsfj003xno010m957dzn",
+          "name": "Comfort Inn Cleveland Downtown",
+          "address": "1800 Euclid Ave., Cleveland, OH, 44115, US",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard Registration",
+          "amount": 45,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

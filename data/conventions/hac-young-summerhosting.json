@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006wiae0hs3sberp",
+  "slug": "hac-young-summerhosting",
+  "name": "HAC#young: SummerHosting",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "ESP",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/hac-young-summerhosting",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3800xoian03q6a5uqf",
+      "slug": "hac-young-summerhosting-2023",
+      "name": "HAC#young: SummerHosting",
+      "url": "https://consurf.net/hac-young-summerhosting-2023",
+      "address": "Hotel Avenida de Canarias, Avenida de Canarias, 35110 Santa Lucía de Tirajana, Spain",
+      "country": "ESP",
+      "isCancelled": false,
+      "startDate": "2023-08-11",
+      "endDate": "2023-08-13",
+      "timezone": "Atlantic/Canary",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

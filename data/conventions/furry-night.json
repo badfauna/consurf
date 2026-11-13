@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgi002viae03bi15e2h",
+  "slug": "furry-night",
+  "name": "Furry Night",
+  "shortName": null,
+  "description": "Furry Night (FN) was the first furry rave party in Argentina, held at Farfalla's Theater in Buenos Aires. The first edition took place on December 8, 2018, with 86 attendees, and it led to the creation of Sin Bozales, a series of monthly meets held every second Sunday. A second edition planned for October 2019 was not held.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "ARG",
+  "minAge": 18,
+  "website": "https://furrynight.com",
+  "url": "https://consurf.net/conventions/furry-night",
+  "lastModified": "2026-11-01T17:11:03.128Z",
+  "events": [
+    {
+      "id": "cmhpe4z3p01hsian0k55a63gm",
+      "slug": "furry-night-2018",
+      "name": "Furry Night",
+      "url": "https://consurf.net/furry-night-2018",
+      "address": "Farfalla, Avenida Federico Lacroze 2308, Palermo, C1426 Buenos Aires, Argentina",
+      "country": "ARG",
+      "isCancelled": false,
+      "startDate": "2018-12-08",
+      "endDate": "2018-12-08",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "attendeeCount": 86,
+      "fursuiterCount": 36,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

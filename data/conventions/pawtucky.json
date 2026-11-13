@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cms7yonqo0062p601v93a4rsu",
+  "slug": "pawtucky",
+  "name": "Pawtucky Fur Con",
+  "shortName": "PWKY",
+  "description": "Pawtucky Fur Con is a brand new furry convention located in the heart of the Bluegrass State – Georgetown, KY! ",
+  "blueskyHandle": "pawtucky.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": "https://pawtucky.org/code-of-conduct/",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://pawtucky.org",
+  "url": "https://consurf.net/conventions/pawtucky",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cms7yt3w70066p601nld0xz7x",
+      "slug": "pawtucky-2026",
+      "name": "Pawtucky Fur Con",
+      "url": "https://consurf.net/pawtucky-2026",
+      "address": "Hilton Garden Inn, 110 Grandstand Drive, Georgetown, KY 40324, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-27",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-07-30T20:27:23.767Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 61,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 28.5,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Supersponsor",
+          "amount": 101,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

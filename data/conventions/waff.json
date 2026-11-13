@@ -1,0 +1,287 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmg80000iae0d0pg783d",
+  "slug": "waff",
+  "name": "West Aussie Fur Frenzy",
+  "shortName": "WAFF",
+  "description": "West Aussie Fur Frenzy (WAFF) is an annual furry convention in Perth, Western Australia. It was first organized in October 2016 and held September 2 to 3, 2017, at the Pagoda Resort and Spa on the Swan River, after being rescheduled from March. It later moved to the DoubleTree Perth Northbridge in 2019 and to the Esplanade Hotel Fremantle by Rydges in 2022. Programming includes a dealers' den, a fursuit walk, fursuit games, a social lounge with tabletop gaming, a DJ and dance party, and a pub quiz that was replaced by Drag Diva Bingo in 2025. Each year has a theme, a local guest of honor and a Western Australian charity.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "AUS",
+  "minAge": 18,
+  "website": "https://waff.net.au",
+  "url": "https://consurf.net/conventions/waff",
+  "lastModified": "2026-11-01T17:04:27.539Z",
+  "events": [
+    {
+      "id": "cmhpe4z3h017tian0ipmq41xx",
+      "slug": "waff-2017",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2017",
+      "address": "Pagoda Resort & Spa, Como, Western Australia, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2017-09-02",
+      "endDate": "2017-09-03",
+      "timezone": "Australia/Adelaide",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Toxi De Vyne"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2w00iqian0lsx0iir4",
+      "slug": "waff-2018",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2018",
+      "address": "Pagoda Resort & Spa, Como, Western Australia, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2018-09-07",
+      "endDate": "2018-09-09",
+      "timezone": "Australia/Adelaide",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Lifeline WA",
+      "guestsOfHonor": [
+        "Carnival",
+        "Changes the Skunk",
+        "Pocari Roo"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2y00ltian0e3rypjhi",
+      "slug": "waff-2019",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2019",
+      "address": "DoubleTree by Hilton Perth Northbridge, 100 James Street, Northbridge WA 6003, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2019-09-13",
+      "endDate": "2019-09-15",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Lifeline WA",
+      "guestsOfHonor": [
+        "Sneaky Lion"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3100pgian0kjkk0g8h",
+      "slug": "waff-2020",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2020",
+      "address": "DoubleTree by Hilton Perth Northbridge, 100 James Street, Northbridge WA 6003, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2020-09-25",
+      "endDate": "2020-09-27",
+      "timezone": "Australia/Perth",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "MagicDaWolfy"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3300ruian0gdeo24bw",
+      "slug": "waff-2021",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2021",
+      "address": "DoubleTree by Hilton Perth Northbridge, 100 James Street, Northbridge WA 6003, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2021-09-24",
+      "endDate": "2021-09-26",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 167,
+      "fursuiterCount": 42,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Greener Pastures Sanctuary",
+      "guestsOfHonor": [
+        "SqueakDrakeArt"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3600uuian0tb7i1edt",
+      "slug": "waff-2022",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2022",
+      "address": "Esplanade Hotel Fremantle - By Rydges, Fremantle, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2022-09-16",
+      "endDate": "2022-09-18",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 247,
+      "fursuiterCount": 70,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Greyhound Adoptions WA",
+      "guestsOfHonor": [
+        "Meekor"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3900y7ian0r8dea9gf",
+      "slug": "waff-2023",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2023",
+      "address": "Esplanade Hotel Fremantle - By Rydges, Fremantle, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2023-09-08",
+      "endDate": "2023-09-10",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 316,
+      "fursuiterCount": 118,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Aussie's Raptor Rehabilitation Association",
+      "guestsOfHonor": [
+        "8Bit-Works"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3c011pian0qmpunt2s",
+      "slug": "waff-2024",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2024",
+      "address": "Esplanade Hotel Fremantle - By Rydges, Fremantle, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2024-09-20",
+      "endDate": "2024-09-22",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 451,
+      "fursuiterCount": 171,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "WA Wildlife",
+      "guestsOfHonor": [
+        "Kusaki"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3f015lian0lelta4cr",
+      "slug": "waff-2025",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2025",
+      "address": "Esplanade Hotel Fremantle - By Rydges, Fremantle, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2025-09-19",
+      "endDate": "2025-09-21",
+      "timezone": "Australia/Perth",
+      "attendeeCount": 609,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 20000,
+      "charityName": "Aussie's Raptor Rehabilitation Association",
+      "guestsOfHonor": [
+        "Silvixen"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkr4grfe0009rs01zlxfl0fu",
+      "slug": "waff-2026",
+      "name": "West Aussie Fur Frenzy",
+      "url": "https://consurf.net/waff-2026",
+      "address": "Esplanade Hotel Fremantle - By Rydges, Fremantle, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-30",
+      "timezone": "Australia/Perth",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Cat Haven",
+      "guestsOfHonor": [
+        "OROCKSEAL"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-23T16:55:44.091Z",
+      "venues": [
+        {
+          "id": "cmkr4i52o000brs013qqez63v",
+          "name": "Esplanade Hotel Fremantle by Rydges",
+          "address": " 46-54 Marine Terrace, Fremantle WA 6160, Australia",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Premium",
+          "amount": 260,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 500,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 150,
+          "currency": "AUD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmoq2iw3s0020mw01lwzsaiz6",
+  "slug": "myfur",
+  "name": "MYFurCon",
+  "shortName": "MYFur",
+  "description": "MYFur features a Dealers Den organised by Paws & Pencils, a Fursuit Lounge, Photoshoot Corner, educational seminars, panels (featuring Guest of Honors or community members), entertainment events (Board Games, Fursuit Games and Karaoke) and general social activities (Furry Dances) during the convention.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/myfurofficial",
+  "codeOfConduct": null,
+  "hostCountry": "MYS",
+  "minAge": null,
+  "website": "https://myfur.org/",
+  "url": "https://consurf.net/conventions/myfur",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmoq2l86e0022mw018fqnwkj3",
+      "slug": "myfur-2026",
+      "name": "MYFur",
+      "url": "https://consurf.net/myfur-2026",
+      "address": "Hotel Armada, 12 Jalan SS 15/4B, Pusat Bandar Subang Jaya, 47500 Subang Jaya City Council, Selangor, Malaysia",
+      "country": "MYS",
+      "isCancelled": false,
+      "startDate": "2026-05-02",
+      "endDate": "2026-05-02",
+      "timezone": "Asia/Singapore",
+      "attendeeCount": 500,
+      "fursuiterCount": 160,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-03T17:54:16.358Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Contestant",
+          "amount": 60,
+          "currency": "MYR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Idol",
+          "amount": 120,
+          "currency": "MYR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Superstar",
+          "amount": 240,
+          "currency": "MYR",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmoq2o0q7002amw01f64t8b2y",
+      "slug": "myfur-2027",
+      "name": "MYFur",
+      "url": "https://consurf.net/myfur-2027",
+      "address": "Dorsett Grand Subang, Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
+      "country": "MYS",
+      "isCancelled": false,
+      "startDate": "2027-04-24",
+      "endDate": "2027-04-25",
+      "timezone": "Asia/Singapore",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-03T17:56:26.671Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

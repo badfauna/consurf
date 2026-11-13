@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmpzowsr5000mlh0185lme7zf",
+  "slug": "new-anthrodam",
+  "name": "New Anthrodam",
+  "shortName": null,
+  "description": "A new convention in the heart of New York City",
+  "blueskyHandle": "newanthrodam.com",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://newanthrodam.com/",
+  "url": "https://consurf.net/conventions/new-anthrodam",
+  "lastModified": "2026-11-01T17:20:38.085Z",
+  "events": [
+    {
+      "id": "cmpzoydmy000olh01ctd5rd5q",
+      "slug": "new-anthrodam-2026",
+      "name": "New Anthrodam",
+      "url": "https://consurf.net/new-anthrodam-2026",
+      "address": "New York Marriott at the Brooklyn Bridge, 333 Adams Street, Brooklyn, New York, NY 11201, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Prism Counseling & Advocacy",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-06-04T16:09:59.435Z",
+      "venues": [
+        {
+          "id": "cmw5kfa89002ro801zl0jqahl",
+          "name": "New York Marriott",
+          "address": "333 Adams Street, Brooklyn, New York, NY 11201, United States of America",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

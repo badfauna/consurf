@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cms9ungdr006pp601z9vgwgqh",
+  "slug": "palmetto-anthro-weekend",
+  "name": "Palmetto Anthro Weekend",
+  "shortName": "PAW",
+  "description": "Palmetto Anthro Weekend is the Palmetto State's FIRST furry convention brought to you by the Palmetto Anthro Collective, a 501(c)(3) Nonprofit. ",
+  "blueskyHandle": "palmanthroweekend.bsky.social",
+  "moreInformation": "https://t.me/PalmettoAnthroWeekend",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://www.palmettoanthroweekend.org/",
+  "url": "https://consurf.net/conventions/palmetto-anthro-weekend",
+  "lastModified": "2026-11-01T17:20:42.480Z",
+  "events": [
+    {
+      "id": "cms9uomws006rp601sy06wnay",
+      "slug": "palmetto-anthro-weekend-2027",
+      "name": "Palmetto Anthro Weekend",
+      "url": "https://consurf.net/palmetto-anthro-weekend-2027",
+      "address": "Crowne Plaza Greenville, 851 Congaree Road, Greenville, SC 29607, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-08",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Wyviryn"
+      ],
+      "sources": [],
+      "createdAt": "2026-08-01T04:07:29.020Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

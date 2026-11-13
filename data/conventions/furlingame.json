@@ -1,0 +1,76 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cml6uekjo0008lx01g3k4yjv2",
+  "slug": "furlingame",
+  "name": "Furlingame",
+  "shortName": null,
+  "description": "Furlingame is an annual furry convention in Burlingame, California, near San Francisco International Airport, organized by Furlingame LLC. The first edition was held April 3 to 5, 2026, at the Hyatt Regency San Francisco Airport, with 825 attendees. Its charity partner is the National Institute of Canine Service and Training.",
+  "blueskyHandle": "furlingame.bsky.social",
+  "moreInformation": "http://t.me/furlingame",
+  "codeOfConduct": "https://furlingame.com/code-of-conduct",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://furlingame.com/",
+  "url": "https://consurf.net/conventions/furlingame",
+  "lastModified": "2026-11-01T17:20:23.591Z",
+  "events": [
+    {
+      "id": "cml6ugl3w000alx01v7xsba95",
+      "slug": "furlingame-2026",
+      "name": "Furlingame",
+      "url": "https://consurf.net/furlingame-2026",
+      "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-04-03",
+      "endDate": "2026-04-05",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 825,
+      "fursuiterCount": 0,
+      "vendorCount": 32,
+      "charityRaised": 8057,
+      "charityName": "National Institute of Canine Service and Training",
+      "guestsOfHonor": [
+        "Limey the Cheetah",
+        "Justyne Gurley"
+      ],
+      "sources": [],
+      "createdAt": "2026-02-03T16:59:58.556Z",
+      "venues": [
+        {
+          "id": "cml6uikqk000elx01yb4npijo",
+          "name": "Hyatt Regency San Francisco Airport",
+          "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmnor4d1i001hmt01aditku9j",
+      "slug": "furlingame-2027",
+      "name": "Furlingame",
+      "url": "https://consurf.net/furlingame-2027",
+      "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-28",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Esky",
+        "FORFUN Bangkok"
+      ],
+      "sources": [],
+      "createdAt": "2026-04-07T15:05:45.221Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmqqtxnec0000lh01ajoms02c",
+  "slug": "trashcan",
+  "name": "TrashCån",
+  "shortName": "TrashCan",
+  "description": "TrashCån is a small yearly furry convention taking place in Switzerland, brought to you by Verein TrashFurs, a non profit oriented assosiation based in Switzerland.",
+  "blueskyHandle": "trashcan.zone",
+  "moreInformation": "https://t.me/trashcan_announcements",
+  "codeOfConduct": "https://trashcan.zone/policies",
+  "hostCountry": "CHE",
+  "minAge": 18,
+  "website": "https://trashcan.zone/",
+  "url": "https://consurf.net/conventions/trashcan",
+  "lastModified": "2026-11-01T17:20:40.275Z",
+  "events": [
+    {
+      "id": "cmujngans0025p60153l65tfo",
+      "slug": "trashcan-2024",
+      "name": "TrashCån",
+      "url": "https://consurf.net/trashcan-2024",
+      "address": "Ferienhaus Itelfingen, Itelfingen 3, 6344 Meierskappel",
+      "country": "CHE",
+      "isCancelled": false,
+      "startDate": "2024-09-06",
+      "endDate": "2024-09-08",
+      "timezone": "Europe/Zurich",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-27T10:02:09.017Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmqqv26bb0006lh01idf59kmq",
+      "slug": "trashcan-2025",
+      "name": "TrashCån",
+      "url": "https://consurf.net/trashcan-2025",
+      "address": "Stettli 23, 7075 Churwalden, Switzerland",
+      "country": "CHE",
+      "isCancelled": false,
+      "startDate": "2025-07-31",
+      "endDate": "2025-08-03",
+      "timezone": "Europe/Zurich",
+      "attendeeCount": 59,
+      "fursuiterCount": 24,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Kerpė"
+      ],
+      "sources": [],
+      "createdAt": "2026-06-23T16:30:41.015Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 490,
+          "currency": "CHF",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 450,
+          "currency": "CHF",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 530,
+          "currency": "CHF",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmqqtzh060002lh01d1vfv3a7",
+      "slug": "trashcan-2026",
+      "name": "TrashCån",
+      "url": "https://consurf.net/trashcan-2026",
+      "address": "Stettli 23, 7075 Churwalden, Switzerland",
+      "country": "CHE",
+      "isCancelled": false,
+      "startDate": "2026-08-05",
+      "endDate": "2026-08-09",
+      "timezone": "Europe/Zurich",
+      "attendeeCount": 50,
+      "fursuiterCount": 27,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-06-23T16:00:35.286Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Regular",
+          "amount": 615,
+          "currency": "CHF",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 655,
+          "currency": "CHF",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 695,
+          "currency": "CHF",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmuk6gvnw003yp601xzpde67w",
+      "slug": "trashcan-2027",
+      "name": "TrashCån",
+      "url": "https://consurf.net/trashcan-2027",
+      "address": "Stettli 23, 7075 Churwalden, Switzerland",
+      "country": "CHE",
+      "isCancelled": false,
+      "startDate": "2027-09-15",
+      "endDate": "2027-09-19",
+      "timezone": "Europe/Zurich",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-27T18:54:28.940Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

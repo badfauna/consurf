@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn006eiae0u9rofxau",
+  "slug": "furry-summer-festival",
+  "name": "Furry Summer Festival",
+  "shortName": null,
+  "description": "The Shanghai Furry Summer Festival (魔都兽夏祭) was a furry convention held on July 23, 2016, at the Leopard Hotel in Shanghai, China. It was the second furry event in mainland China, after Canton Furry Only in 2015, and the first independent furry event there, held jointly with an event for the jingai community. It began a series of events promoted in English as the Furry Event of China, and the 2017 edition was replaced by the Guangzhou Furry Event.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CHN",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furry-summer-festival",
+  "lastModified": "2026-11-01T17:17:08.663Z",
+  "events": [
+    {
+      "id": "cmhpe4z2t00ffian0b8gwbg9f",
+      "slug": "furry-summer-festival-2017",
+      "name": "Furry Summer Festival",
+      "url": "https://consurf.net/furry-summer-festival-2017",
+      "address": "Tianhe Road, Huanghuagang, 510080 Guangdong, China",
+      "country": "CHN",
+      "isCancelled": true,
+      "startDate": "2017-07-22",
+      "endDate": "2017-07-22",
+      "timezone": "Asia/Shanghai",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

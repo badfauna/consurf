@@ -1,0 +1,368 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf0017iae0womhmlt2",
+  "slug": "canfurence",
+  "name": "CanFURence",
+  "shortName": null,
+  "description": "CanFURence is Eastern Canada's premier furry convention, proudly held each year in Ottawa, Ontario. Since our founding in 2016, we've grown into a welcoming gathering space for fans of anthropomorphic art, literature, costumes, and creativity of all kinds. Whether you're a seasoned member of the fandom or just starting to explore, CanFURence offers a fun, inclusive environment to connect, celebrate, and express yourself.",
+  "blueskyHandle": "canfurence.bsky.social",
+  "moreInformation": "https://t.me/canfurence",
+  "codeOfConduct": "https://canfurence.ca/policies/code-of-conduct",
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": "https://canfurence.ca",
+  "url": "https://consurf.net/conventions/canfurence",
+  "lastModified": "2026-11-01T17:06:56.486Z",
+  "events": [
+    {
+      "id": "cmhpe4z2r00e3ian03ic9t7v8",
+      "slug": "canfurence-2016",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2016",
+      "address": "Alt Hotel Ottawa, 185 Slater Street, Ottawa, ON K1P 0C8, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2016-11-11",
+      "endDate": "2016-11-13",
+      "timezone": "America/Toronto",
+      "attendeeCount": 321,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 5675.3,
+      "charityName": "Ottawa Stray Cat Rescue",
+      "guestsOfHonor": [
+        "Heather Bruton"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2u00glian0jf9iy7uk",
+      "slug": "canfurence-2017",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2017",
+      "address": "Alt Hotel Ottawa, 185 Slater Street, Ottawa, ON K1P 0C8, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2017-11-10",
+      "endDate": "2017-11-12",
+      "timezone": "America/Toronto",
+      "attendeeCount": 373,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 5071,
+      "charityName": "Ottawa Stray Cat Rescue",
+      "guestsOfHonor": [
+        "Anyare"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2v00i7ian00yxpud6v",
+      "slug": "canfurence-2018",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2018",
+      "address": "Brookstreet Hotel, 525 Legget Drive, Ottawa, ON K2K 3G4, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2018-08-03",
+      "endDate": "2018-08-05",
+      "timezone": "America/Toronto",
+      "attendeeCount": 457,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 10000.61,
+      "charityName": "Courageous Companions",
+      "guestsOfHonor": [
+        "AirGuiTaR"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2y00l7ian0e5wus09k",
+      "slug": "canfurence-2019",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2019",
+      "address": "Brookstreet Hotel, 525 Legget Drive, Ottawa, ON K2K 3G4, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2019-08-02",
+      "endDate": "2019-08-04",
+      "timezone": "America/Toronto",
+      "attendeeCount": 568,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 9055.7,
+      "charityName": "Courageous Companions",
+      "guestsOfHonor": [
+        "Betsy Beaver"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3100onian0ljtlms7a",
+      "slug": "canfurence-2020",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2020",
+      "address": "The Westin Ottawa, 11 Colonel By Drive, Ottawa, ON K1N 9H4, Canada",
+      "country": "CAN",
+      "isCancelled": true,
+      "startDate": "2020-07-31",
+      "endDate": "2020-08-02",
+      "timezone": "America/Toronto",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400shian08m8opki6",
+      "slug": "canfurence-2021",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2021",
+      "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2021-11-12",
+      "endDate": "2021-11-14",
+      "timezone": "America/Toronto",
+      "attendeeCount": 500,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Courageous Companions",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500uaian0t9iywc4g",
+      "slug": "canfurence-2022",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2022",
+      "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2022-07-29",
+      "endDate": "2022-07-31",
+      "timezone": "America/Toronto",
+      "attendeeCount": 863,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 11225,
+      "charityName": "Ottawa Paw Pantry",
+      "guestsOfHonor": [
+        "Nicnak",
+        "Dodge"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3800xlian0xca9hu4p",
+      "slug": "canfurence-2023",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2023",
+      "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2023-08-04",
+      "endDate": "2023-08-06",
+      "timezone": "America/Toronto",
+      "attendeeCount": 1107,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 11638.3,
+      "charityName": "Ottawa Paw Pantry",
+      "guestsOfHonor": [
+        "Ookami Kemono",
+        "Soryane",
+        "Feli"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3b010yian0dddre2h9",
+      "slug": "canfurence-2024",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2024",
+      "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2024-08-02",
+      "endDate": "2024-08-04",
+      "timezone": "America/Toronto",
+      "attendeeCount": 1137,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 9747.7,
+      "charityName": "Ottawa Paw Pantry",
+      "guestsOfHonor": [
+        "Grace Kraft",
+        "Aver the Dorbley"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e014uian00xaq332w",
+      "slug": "canfurence-2025",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2025",
+      "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-03",
+      "timezone": "America/Toronto",
+      "attendeeCount": 1602,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 13209.69,
+      "charityName": "Holly's Haven Wildlife Rescue",
+      "guestsOfHonor": [
+        "IronRaptor",
+        "Anubis Tenebrous"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3h017jian0ii9p5va8",
+      "slug": "canfurence-2026",
+      "name": "CanFURence",
+      "url": "https://consurf.net/canfurence-2026",
+      "address": "Ottawa Conference & Event Centre, 200 Coventry Road, Ottawa, ON K1K 4S3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-09",
+      "timezone": "America/Toronto",
+      "attendeeCount": 1733,
+      "fursuiterCount": 878,
+      "vendorCount": 0,
+      "charityRaised": 22000,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmn9bq5az0087ti01vpb3xi3t",
+          "name": "Courtyard by Marriott Ottawa East",
+          "address": "200 Coventry Rd, Ottawa, ON K1K 4S3, Canada",
+          "isMain": true
+        },
+        {
+          "id": "cmn9bpnhr0083ti016gfscj8m",
+          "name": "Hampton Inn by Hilton Ottawa",
+          "address": "100 Coventry Rd, Ottawa, ON K1K 4S3, Canada",
+          "isMain": false
+        },
+        {
+          "id": "cmoj8q1mg003bmn01wpv7sf4r",
+          "name": "LES SUITES",
+          "address": "130 Besserer Street Ottawa ON K1N 9M9",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee (At Con)",
+          "amount": 100,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Attendee (Pre-Reg)",
+          "amount": 90,
+          "currency": "CAD",
+          "rateCutoff": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "priceType": "Benefactor (Pre-Reg)",
+          "amount": 650,
+          "currency": "CAD",
+          "rateCutoff": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "priceType": "Day Pass (Friday)",
+          "amount": 55,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Saturday)",
+          "amount": 65,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sunday)",
+          "amount": 55,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Patron (Pre-Reg)",
+          "amount": 300,
+          "currency": "CAD",
+          "rateCutoff": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (At Con)",
+          "amount": 150,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor (Pre-Reg)",
+          "amount": 140,
+          "currency": "CAD",
+          "rateCutoff": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "priceType": "Super Sponsor (At Con)",
+          "amount": 210,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor (Pre-Reg)",
+          "amount": 200,
+          "currency": "CAD",
+          "rateCutoff": "2026-08-07T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmpicew28000omk01er9u4wok",
+  "slug": "adelaide-anthros",
+  "name": "Adelaide Anthros",
+  "shortName": "A2",
+  "description": "Adelaide Anthros is a multi day furry convention. A place where like-minded people come together to experience and express their furry side. For a deeper dive in to what a furry convention is and how they’ve come to be we recommend the documentary The Fandom by Ash Coyote.",
+  "blueskyHandle": "adlanthros.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "AUS",
+  "minAge": null,
+  "website": "https://www.adelaideanthros.com",
+  "url": "https://consurf.net/conventions/adelaide-anthros",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmpichhmj000qmk01lo9ajqgt",
+      "slug": "adelaide-anthros-2026",
+      "name": "Adelaide Anthros",
+      "url": "https://consurf.net/adelaide-anthros-2026",
+      "address": "16 Holdfast Promenade, Glenelg SA 5045, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "timezone": "Australia/Adelaide",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-23T12:48:51.067Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Day Pass",
+          "amount": 50,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Kids Saturday Pass",
+          "amount": 0,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Regular",
+          "amount": 100,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 250,
+          "currency": "AUD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

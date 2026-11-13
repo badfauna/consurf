@@ -1,0 +1,111 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn0065iae0cul1j023",
+  "slug": "furpile",
+  "name": "Furpile",
+  "shortName": "FPE",
+  "description": null,
+  "blueskyHandle": "furpile.pl",
+  "moreInformation": "https://t.me/info_furpile",
+  "codeOfConduct": "https://furpile.pl/convention-rules",
+  "hostCountry": "POL",
+  "minAge": 18,
+  "website": "https://furpile.pl",
+  "url": "https://consurf.net/conventions/furpile",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3a010cian0lv1xefd0",
+      "slug": "furpile-2024",
+      "name": "Furpile",
+      "url": "https://consurf.net/furpile-2024",
+      "address": "Boutique Hotel's III Łódź, Łódź, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2024-05-17",
+      "endDate": "2024-05-19",
+      "timezone": null,
+      "attendeeCount": 250,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e013zian01z88lv8c",
+      "slug": "furpile-2025",
+      "name": "Furpile",
+      "url": "https://consurf.net/furpile-2025",
+      "address": "Boutique Hotel's III Łódź, Łódź, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2025-05-09",
+      "endDate": "2025-05-11",
+      "timezone": null,
+      "attendeeCount": 300,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmoa06v0h000pkp01odll1qyu",
+      "slug": "furpile-2026",
+      "name": "Furpile",
+      "url": "https://consurf.net/furpile-2026",
+      "address": "Metropol Hotel Katowice, Bytkowska 1a, 40-148 Katowice, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-26",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-22T12:02:48.065Z",
+      "venues": [
+        {
+          "id": "cmoa0k22j002nkp01d2m6gg6d",
+          "name": "Metropol Hotel Katowice",
+          "address": "Bytkowska 1A, 40-147 Katowice, Poland",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Czeladnik",
+          "amount": 200,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Fachowiec",
+          "amount": 450,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Rzemieślnik",
+          "amount": 300,
+          "currency": "PLN",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

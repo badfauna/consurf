@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmnwk0g800049mc011x2mi3in",
+  "slug": "2dance",
+  "name": "2Dance",
+  "shortName": null,
+  "description": "Wanna go crazy on our bouncy castle or have a wild ride on the rodeo bull?\r\nSure! Just want to flop somewhere? There will be a comfy lounge area next to the dancefloor. Or enjoy our new, weather independend outside area.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/TwoDanceInfo",
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": 18,
+  "website": "https://two-dance.de/",
+  "url": "https://consurf.net/conventions/2dance",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmnwk1t1z004bmc01jy6nddlz",
+      "slug": "2dance-2026",
+      "name": "2Dance",
+      "url": "https://consurf.net/2dance-2026",
+      "address": "Giesendahlhalle, Im Giesendahl 15, 59071 Hamm, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-12",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-13T02:09:58.104Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

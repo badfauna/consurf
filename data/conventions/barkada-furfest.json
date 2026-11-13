@@ -1,0 +1,69 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl0050iae0wakidsar",
+  "slug": "barkada-furfest",
+  "name": "Barkada Furfest",
+  "shortName": null,
+  "description": "Barkada FurFest is a furry convention held in the Philippines, created with the goal of giving our local furry community a safe, fun, and inclusive place to gather.",
+  "blueskyHandle": null,
+  "moreInformation": "https://x.com/BarkadaCon",
+  "codeOfConduct": "https://barkadafurfest.ph/terms",
+  "hostCountry": "PHL",
+  "minAge": null,
+  "website": "https://barkadafurfest.ph/",
+  "url": "https://consurf.net/conventions/barkada-furfest",
+  "lastModified": "2026-11-01T17:15:28.982Z",
+  "events": [
+    {
+      "id": "cmhpe4z3f015fian0c0ug9bmx",
+      "slug": "barkada-furfest-2025",
+      "name": "Barkada Furfest",
+      "url": "https://consurf.net/barkada-furfest-2025",
+      "address": "Sequoia Hotel, 91-93 Mother Ignacia Avenue, Quezon City, 1103 Metro Manila, Philippines",
+      "country": "PHL",
+      "isCancelled": false,
+      "startDate": "2025-09-06",
+      "endDate": "2025-09-07",
+      "timezone": "Asia/Manila",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Gintan",
+        "steviefeesh"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cml6t116v0005lx01ajeyyj8v",
+      "slug": "barkada-furfest-2026",
+      "name": "Barkada Furfest",
+      "url": "https://consurf.net/barkada-furfest-2026",
+      "address": "Sequoia Hotel, 91-93 Mother Ignacia Avenue, Quezon City, 1103 Metro Manila, Philippines",
+      "country": "PHL",
+      "isCancelled": false,
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "timezone": "Asia/Manila",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "ABConservation Foundation Inc",
+      "guestsOfHonor": [
+        "Koku Boku Boo",
+        "Sorami"
+      ],
+      "sources": [],
+      "createdAt": "2026-02-03T16:19:53.285Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

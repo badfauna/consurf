@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmua2rto1001fp601jjao4c8z",
+  "slug": "fox-den-con",
+  "name": "Fox Den Con",
+  "shortName": null,
+  "description": "Denver's newest furry convention! Come join the Cult Of The Fox!* (*Not a real cult).\r\n\r\nFox Den Con is organized and run by Fox Den Club. We are a non-profit corporation under IRS code 501(c)(7), which means any money we get goes right back to all of you!",
+  "blueskyHandle": "foxdencon.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": "https://foxdenclub.org/#/code-of-conduct",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://foxdenclub.org/",
+  "url": "https://consurf.net/conventions/fox-den-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmua2wt9d001hp601uk2y9qgg",
+      "slug": "fox-den-con-2027",
+      "name": "Fox Den Con",
+      "url": "https://consurf.net/fox-den-con-2027",
+      "address": "DoubleTree by Hilton Hotel Denver, 3203 Quebec Street, Denver, CO 80207, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-21",
+      "timezone": "America/Denver",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-20T17:17:12.097Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Adept",
+          "amount": 199.99,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Elder",
+          "amount": 399.99,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Initiate",
+          "amount": 99.99,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

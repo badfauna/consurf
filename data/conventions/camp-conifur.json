@@ -1,0 +1,72 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmp4cntzj0042lf01vx9gx2e3",
+  "slug": "camp-conifur",
+  "name": "Camp Conifur",
+  "shortName": null,
+  "description": "Conifur is an upcoming summer camp experience for furries! Were looking to host a 2 night camping event in september, near Niagara.\r\n\r\nThis is a ticketed event, where you'd reg like a con to get an attendance badge, reg packet, and exclusive merch. This is ournfirst year, so please be gentle!",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/CampConifur",
+  "codeOfConduct": null,
+  "hostCountry": "CAN",
+  "minAge": 18,
+  "website": "https://www.campconifur.ca/",
+  "url": "https://consurf.net/conventions/camp-conifur",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmp4cwogy0044lf01elvwh8w0",
+      "slug": "camp-conifur-2026",
+      "name": "Camp Conifur",
+      "url": "https://consurf.net/camp-conifur-2026",
+      "address": "Niagara Region, ON, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-14",
+      "timezone": "America/Toronto",
+      "attendeeCount": 101,
+      "fursuiterCount": 50,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-13T17:51:53.315Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 80,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Cabin (Add-on)",
+          "amount": 60,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Food Catering (Add-on)",
+          "amount": 100,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Patron",
+          "amount": 750,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 250,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

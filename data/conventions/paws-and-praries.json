@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmrfjm1um003clh0181zs71pj",
+  "slug": "paws-and-praries",
+  "name": "Paws & Prairies",
+  "shortName": null,
+  "description": "We are bringing the furry community together in Kansas for fun, creativity, and giving back. Paws And Prairies is designed to create a welcoming space where furries of all ages and backgrounds can hang out, enjoy art shows, panels, a dealers den, and charity events.\r\n\r\nWe believe in community, creativity, and charity—and want everyone to feel included and safe, no matter who they are.",
+  "blueskyHandle": "pawsnprairies.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://www.pawsandprairies.com",
+  "url": "https://consurf.net/conventions/paws-and-praries",
+  "lastModified": "2026-11-01T17:20:41.852Z",
+  "events": [
+    {
+      "id": "cmrfjpomz003glh014ytev783",
+      "slug": "paws-and-praries-2027",
+      "name": " Paws & Prairies",
+      "url": "https://consurf.net/paws-and-praries-2027",
+      "address": "Marriott Kansas City Overland Park, 10800 Metcalf Avenue, Overland Park, KS 66210, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-04-30",
+      "endDate": "2027-05-02",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-07-10T23:07:16.859Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "5-Year Ultra Super Sponsor",
+          "amount": 2000,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Attending",
+          "amount": 60,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 150,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 280,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

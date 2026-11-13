@@ -1,0 +1,101 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgm005riae0lln7raiv",
+  "slug": "louisianthro",
+  "name": "Louisianthro",
+  "shortName": null,
+  "description": "Welcome to Frosty Fur Fest! Get ready for a pawsome weekend packed with fursuit shenanigans, a tail-wagging talent show and a Night Dance Party that'll have you howling at the moon!",
+  "blueskyHandle": "",
+  "moreInformation": null,
+  "codeOfConduct": "https://www.louisianthro.com/event-policies",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://www.louisianthro.com/",
+  "url": "https://consurf.net/conventions/louisianthro",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3g016wian0ld894083",
+      "slug": "frosty-fur-fest-2026",
+      "name": "Frosty Fur Fest",
+      "url": "https://consurf.net/frosty-fur-fest-2026",
+      "address": "Crowne Plaza Executive Center Baton Rouge, 4728 Constitution Avenue, Baton Rouge, LA 70808, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-02-14",
+      "endDate": "2026-02-15",
+      "timezone": "America/Chicago",
+      "attendeeCount": 515,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 1800,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmkj9t35m000up401gj8x1at9",
+          "name": "Crowne Plaza Executive Center",
+          "address": " Baton Rouge, Baton Rouge, LA",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmlsvkzfc0005lc01sq2zdnb1",
+      "slug": "frosty-fur-fest-2027",
+      "name": "Louisianthro",
+      "url": "https://consurf.net/frosty-fur-fest-2027",
+      "address": "Crowne Plaza Executive Center Baton Rouge, 4728 Constitution Avenue, Baton Rouge, LA 70808, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-31",
+      "timezone": "America/Chicago",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-19T03:02:19.224Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "1-Day Pass",
+          "amount": 30,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Full Weekend Pass",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold VIP Pass",
+          "amount": 250,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor Pass",
+          "amount": 120,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Ultimate VIP Pass",
+          "amount": 1500,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

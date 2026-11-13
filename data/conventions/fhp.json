@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmqo44fhh00kqlh017bl13k5o",
+  "slug": "fhp",
+  "name": "Fursuit Halloween Prague",
+  "shortName": "FHP",
+  "description": "After starting as an Outing, Fursuit Halloween Prague has transformed into a full-fledged convention, with a whole hotel for us (with a great accessibility by public transport for visiting Prague's historical center), daily Furdances, workshops, lectures, Artist Alley, Fursuiter Gameshow and more! Two bars opened for the whole duration of the convention plus a magnificent Grand Lounge with a capacity for 300 fluffs accessible throughout the whole con. And of course, Halloween Outing is a part of it! ",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": "https://www.fursuithalloween.eu/en/rules/",
+  "hostCountry": "CZE",
+  "minAge": 18,
+  "website": "https://www.fursuithalloween.eu/en/",
+  "url": "https://consurf.net/conventions/fhp",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmqo67rfx00kulh017ydsucn9",
+      "slug": "fhp-2026",
+      "name": "Fursuit Halloween Prague",
+      "url": "https://consurf.net/fhp-2026",
+      "address": "Hotel Belvedere, Milady Horákové 479/19, 170 00 Prague, Czechia",
+      "country": "CZE",
+      "isCancelled": true,
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-08",
+      "timezone": "Europe/Prague",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-06-21T19:19:38.925Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

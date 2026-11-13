@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgr008qiae011l4i5r0",
+  "slug": "tropical-furry-islands",
+  "name": "Tropical Furry Islands",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/tropical-furry-islands",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3900xzian07dkxaviv",
+      "slug": "tropical-furry-islands-2023",
+      "name": "Tropical Furry Islands",
+      "url": "https://consurf.net/tropical-furry-islands-2023",
+      "address": "Krausnick-Groß Wasserburg, BB, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2023-08-31",
+      "endDate": "2023-09-02",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq007yiae0yhz04pyc",
+  "slug": "pawstral",
+  "name": "Pawstral",
+  "shortName": null,
+  "description": "Pawstral, also known as La Paw, is an annual furry convention in Santiago, Chile, organized by Pawstral Furcon SpA. The first was held August 29 to 31, 2025, at the Icon Hotel Santiago in Las Condes, themed \"Monster Invasion\", and the second returned to the same hotel in August 2026. Its charities have been Fundación Esperanza Animal and Fundación Sudamérica Diversa.",
+  "blueskyHandle": "pawstral.bsky.social",
+  "moreInformation": "https://t.me/PawstralNews",
+  "codeOfConduct": null,
+  "hostCountry": "CHL",
+  "minAge": null,
+  "website": "https://pawstral.cl/",
+  "url": "https://consurf.net/conventions/pawstral",
+  "lastModified": "2026-11-01T17:18:32.959Z",
+  "events": [
+    {
+      "id": "cmhpe4z3f0158ian032tqos9c",
+      "slug": "pawstral-2025",
+      "name": "Pawstral",
+      "url": "https://consurf.net/pawstral-2025",
+      "address": "ICON Hotel Santiago, Avenida Alonso de Córdova 6050, 832 0000 Santiago, Chile",
+      "country": "CHL",
+      "isCancelled": false,
+      "startDate": "2025-08-29",
+      "endDate": "2025-08-31",
+      "timezone": "America/Santiago",
+      "attendeeCount": 504,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4392,
+      "charityName": "Fundación Esperanza Animal",
+      "guestsOfHonor": [
+        "BennyCartoonist",
+        "Peritian"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmlv4h9zs0012qj01zgcakjs1",
+      "slug": "pawstral-2026",
+      "name": "Pawstral",
+      "url": "https://consurf.net/pawstral-2026",
+      "address": "Hotel Le Méridien, Av. Alameda Libertador Bernardo O'Higgins 136, 6513491 Santiago de Chle, Santiago, Libertador General Bernardo O'Higgins, Chile",
+      "country": "CHL",
+      "isCancelled": false,
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-23",
+      "timezone": "America/Santiago",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Fundación Sudamérica Diversa",
+      "guestsOfHonor": [
+        "YeenTrash",
+        "Herutastic",
+        "Cochayuyo"
+      ],
+      "sources": [],
+      "createdAt": "2026-02-20T16:46:55.193Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "General",
+          "amount": 95000,
+          "currency": "CLP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Mega",
+          "amount": 420000,
+          "currency": "CLP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 140000,
+          "currency": "CLP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 230000,
+          "currency": "CLP",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

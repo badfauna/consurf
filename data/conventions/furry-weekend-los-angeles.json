@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn006giae0abyvg449",
+  "slug": "furry-weekend-los-angeles",
+  "name": "Furry Weekend Los Angeles",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furry-weekend-los-angeles",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3e014dian0cd8u5sws",
+      "slug": "furry-weekend-los-angeles-2025",
+      "name": "Furry Weekend Los Angeles",
+      "url": "https://consurf.net/furry-weekend-los-angeles-2025",
+      "address": "Los Angeles, CA, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2025-06-19",
+      "endDate": "2025-06-22",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006qiae0w54tj4c5",
+  "slug": "fur-xoticon",
+  "name": "Fur-Xoticon",
+  "shortName": null,
+  "description": "Fur-Xoticon was a furry convention held in West Springfield, Massachusetts, at the Clarion Hotel & Aqua Lagoon Water Park, owned and chaired by Krank the Crux. Two editions were held, in May 2016 and May 2017, and each supported the charity Sweetpea F.O.R. Animals.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/fur-xoticon",
+  "lastModified": "2026-11-01T17:17:30.606Z",
+  "events": [
+    {
+      "id": "cmhpe4z2r00d4ian033u4guac",
+      "slug": "fur-xoticon-2016",
+      "name": "Fur-Xoticon",
+      "url": "https://consurf.net/fur-xoticon-2016",
+      "address": "West Springfield, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2016-05-27",
+      "endDate": "2016-05-29",
+      "timezone": "America/New_York",
+      "attendeeCount": 137,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1137.43,
+      "charityName": "Sweetpea F.O.R. Animals",
+      "guestsOfHonor": [
+        "Sheppy Momma",
+        "Logarth Sheppy",
+        "Kyle McCarthy",
+        "Seth Drake"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00f1ian09np2ii5l",
+      "slug": "fur-xoticon-2017",
+      "name": "Fur-Xoticon",
+      "url": "https://consurf.net/fur-xoticon-2017",
+      "address": "West Springfield, MA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2017-05-26",
+      "endDate": "2017-05-28",
+      "timezone": "America/New_York",
+      "attendeeCount": 180,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 2583,
+      "charityName": "Sweetpea F.O.R. Animals",
+      "guestsOfHonor": [
+        "Craz"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

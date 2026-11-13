@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmkj85khl0000p401o9yw9mdb",
+  "slug": "howlcon",
+  "name": "HowlCon",
+  "shortName": null,
+  "description": "HowlCon (HowlFest) is an annual Argentinian furry convention organized by HowlCore. It is the third hotel-based furry convention in Argentina and the first in La Plata, Buenos Aires, held at the Hotel Corregidor. The first edition was announced for May 15 to 17, 2026.",
+  "blueskyHandle": "howlcore.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "ARG",
+  "minAge": null,
+  "website": "https://www.howlcon.com/",
+  "url": "https://consurf.net/conventions/howlcon",
+  "lastModified": "2026-11-01T17:20:17.271Z",
+  "events": [
+    {
+      "id": "cmkj89w6a0002p401p9ad7m1a",
+      "slug": "howlcon-2026",
+      "name": "HowlCon",
+      "url": "https://consurf.net/howlcon-2026",
+      "address": "Calle 6, B1900 CHM La Plata, Argentina",
+      "country": "ARG",
+      "isCancelled": false,
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-18T04:20:12.706Z",
+      "venues": [
+        {
+          "id": "cmkj8c1np0006p4018yziyel2",
+          "name": "Hotel Corregidor",
+          "address": "Calle 6, Nro 1026, La Plata, Argentina ",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

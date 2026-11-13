@@ -1,0 +1,126 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmtaq4dzc0012p601fnghnaex",
+  "slug": "anthroverse",
+  "name": "Anthroverse",
+  "shortName": null,
+  "description": "Anthroverse is a 501(c)(3) nonprofit organization that brings people together in celebration of the pursuits of exploration, soulful creativity, and self-expression, fueling our mission to support animal welfare on planet Earth.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/anthroversesfw",
+  "codeOfConduct": "https://anthroverse.org/policies/code-of-conduct/",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://anthroverse.org/",
+  "url": "https://consurf.net/conventions/anthroverse",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmtaq623o0014p601zjl02wl5",
+      "slug": "anthroverse-2027",
+      "name": "Anthroverse",
+      "url": "https://consurf.net/anthroverse-2027",
+      "address": "DoubleTree - Dayton Miamisburg, 300 Prestige Place Drive, Miamisburg, OH 45342, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-02-18",
+      "endDate": "2027-02-21",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-08-26T23:28:32.292Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 70,
+          "currency": "USD",
+          "rateCutoff": "2027-01-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Attendee (Early-Bird)",
+          "amount": 60,
+          "currency": "USD",
+          "rateCutoff": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Day Pass (Friday)",
+          "amount": 75,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Saturday)",
+          "amount": 70,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sunday)",
+          "amount": 65,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Thursday)",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Junior Recruit (Youth 15 years old or less)",
+          "amount": 25,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Recruit (Youth 16 to 17 years old)",
+          "amount": 35,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 150,
+          "currency": "USD",
+          "rateCutoff": "2027-01-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Early-Bird)",
+          "amount": 125,
+          "currency": "USD",
+          "rateCutoff": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 300,
+          "currency": "USD",
+          "rateCutoff": "2027-01-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Super Sponsor (Early-Bird)",
+          "amount": 250,
+          "currency": "USD",
+          "rateCutoff": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Ultra Sponsor",
+          "amount": 450,
+          "currency": "USD",
+          "rateCutoff": "2027-01-15T00:00:00.000Z"
+        },
+        {
+          "priceType": "Ultra Sponsor (Early Bird)",
+          "amount": 400,
+          "currency": "USD",
+          "rateCutoff": "2026-10-15T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

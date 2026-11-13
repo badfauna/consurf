@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmpf8ytxl0001mk013te8g17v",
+  "slug": "powsup-night",
+  "name": "PowsUp! Night",
+  "shortName": null,
+  "description": "Celebrate the arrival of the new year with us with a unique experience!\r\nJoin PowsUp! Night, our first hotel event just a few metro stops from the heart of the capital, for three unforgettable days. We look forward to seeing you in Rome to celebrate with music, games, great food, and tons of fun, welcoming 2026 in style! ",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": "https://powsup.net/coc&tos",
+  "hostCountry": "ITA",
+  "minAge": 18,
+  "website": "https://powsup.net/",
+  "url": "https://consurf.net/conventions/powsup-night",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmpf90hb70005mk01xqks59rn",
+      "slug": "powsup-night-2025",
+      "name": "PowsUp! Night",
+      "url": "https://consurf.net/powsup-night-2025",
+      "address": "Via di Rebibbia, 18, 00156 Rome RM, Italy",
+      "country": "ITA",
+      "isCancelled": false,
+      "startDate": "2025-12-30",
+      "endDate": "2026-01-02",
+      "timezone": "Europe/Rome",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-21T08:48:20.131Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmrviwtl1002glh01o8genl4u",
+      "slug": "powsup-night-2026",
+      "name": "PowsUp! Night",
+      "url": "https://consurf.net/powsup-night-2026",
+      "address": "Via Arola, 53, 00166 Rome RM, Italy",
+      "country": "ITA",
+      "isCancelled": false,
+      "startDate": "2026-12-30",
+      "endDate": "2027-01-02",
+      "timezone": "Europe/Rome",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-07-22T03:29:09.061Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "3-Day & Hotel",
+          "amount": 310,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "3-Day Pass",
+          "amount": 130,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Ticket",
+          "amount": 35,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

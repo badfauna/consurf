@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmxokbo3001pti01nyg6zd8e",
+  "slug": "sfj",
+  "name": "Sachsen Furs Jahreswechsel",
+  "shortName": "SFJ",
+  "description": "Over 4 days, you’ll have a small program as well as various group activities.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/sachsenfurs",
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": null,
+  "website": "https://www.sachsenfurs.de/en/sfj/",
+  "url": "https://consurf.net/conventions/sfj",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmmxomij4001tti015me6symq",
+      "slug": "sfj-2026",
+      "name": "Sachsen Furs Jahreswechsel",
+      "url": "https://consurf.net/sfj-2026",
+      "address": "DJH Jugendherberge Dessau-Roßlau, Dessau-Roßlau, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2026-12-29",
+      "endDate": "2027-01-01",
+      "timezone": null,
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-19T16:26:06.544Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "2 Days",
+          "amount": 150,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "3 Days",
+          "amount": 210,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "4 Days",
+          "amount": 275,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "5 Days",
+          "amount": 340,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

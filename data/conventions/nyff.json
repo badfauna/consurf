@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmp5mqxcg004clf01lzkmbvjp",
+  "slug": "nyff",
+  "name": "New Year's Furry Festival",
+  "shortName": "NYFF",
+  "description": "NYFF is a 21+ event where the party is the main event. Built around a massive stage and live entertainment, it’s a high-energy space for those who want to spend their New Year’s celebrating with the furry community. Let’s ring in the new year together.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://newyearsfurryfestival.com/",
+  "url": "https://consurf.net/conventions/nyff",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmp5x8sfc004glf01w4q59hef",
+      "slug": "nyff-2026",
+      "name": "New Year's Furry Festival",
+      "url": "https://consurf.net/nyff-2026",
+      "address": "Fandangles, 165 Courtland Street Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-12-30",
+      "endDate": "2027-01-01",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-14T20:08:56.808Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

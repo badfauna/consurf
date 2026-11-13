@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006piae0bqt51w0x",
+  "slug": "furwood-campout",
+  "name": "Furwood Campout",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furwood-campout",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3e014aian0f472i60z",
+      "slug": "furwood-campout-2025",
+      "name": "Furwood Campout",
+      "url": "https://consurf.net/furwood-campout-2025",
+      "address": "Granite Falls, WA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-06-13",
+      "endDate": "2025-06-15",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

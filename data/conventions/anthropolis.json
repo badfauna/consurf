@@ -1,0 +1,89 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "bws7uxmzum1rjlvg888k7zlw",
+  "slug": "anthropolis",
+  "name": "Anthropolis",
+  "shortName": "",
+  "description": "Une expérience conviviale dans un lieu idyllique. Votre convention entre montagnes et forêts.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "FRA",
+  "minAge": null,
+  "website": "https://furagora.com/anthropolis",
+  "url": "https://consurf.net/conventions/anthropolis",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "lp09qun1oiqc0rbhhpugazkr",
+      "slug": "anthropolis-2026",
+      "name": "Anthropolis",
+      "url": "https://consurf.net/anthropolis-2026",
+      "address": "Bussang, GES, France",
+      "country": "FRA",
+      "isCancelled": false,
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "timezone": "Europe/Paris",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmkc267a2001fqk016f89imo2",
+          "name": "Village Vacances Bussang",
+          "address": "2 Rue de Larcenaire, 88540 Bussang, France",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 390,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 350,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 430,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmnr5ctyy001ymt01esm67h03",
+      "slug": "anthropolis-2027",
+      "name": "Anthropolis",
+      "url": "https://consurf.net/anthropolis-2027",
+      "address": "Bussang, GES, France",
+      "country": "FRA",
+      "isCancelled": false,
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-21",
+      "timezone": "Europe/Paris",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-09T07:19:47.386Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

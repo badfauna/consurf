@@ -1,0 +1,67 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl004tiae03ubea38z",
+  "slug": "antheria",
+  "name": "Antheria",
+  "shortName": null,
+  "description": "Antheria was a furry convention located in Redondo Beach, California, USA. Originally slated to be at the Westin Los Angeles Airport, the venue was changed to the Best Western Sunrise just over a week before the inaugural convention.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://en.wikifur.com/wiki/Antheria",
+  "url": "https://consurf.net/conventions/antheria",
+  "lastModified": "2026-11-01T17:15:22.821Z",
+  "events": [
+    {
+      "id": "cmhpe4z2k005nian02k7td2lr",
+      "slug": "antheria-2010",
+      "name": "Antheria",
+      "url": "https://consurf.net/antheria-2010",
+      "address": "Redondo Beach, CA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2010-10-01",
+      "endDate": "2010-10-03",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Stan Sakai"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2l006lian0ie8zd68f",
+      "slug": "antheria-2011",
+      "name": "Antheria",
+      "url": "https://consurf.net/antheria-2011",
+      "address": "Redondo Beach, CA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2011-09-30",
+      "endDate": "2011-10-02",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Mike Kazaleh"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmwcip8tb0001rx01ly1qf60a",
+  "slug": "furry-constellation-nippon",
+  "name": "Furry Constellation Nippon",
+  "shortName": "FCN",
+  "description": "Furry Constellation Nippon (FCN) is a new furry convention holding its first ever event in 2027. It serves as a gathering place for anyone who loves furry culture to connect, create, and enjoy diverse forms of self-expression.\r\n\r\nWhether it’s fursuiting, illustration, music, dance, or simply sharing a casual conversation, everyone has their own way of participating and their own reason for attending. Meet others who share the same passion, discover unfamiliar works, and experience new artistic expressions. FCN's vision is to create a space where these experiences come to life.",
+  "blueskyHandle": null,
+  "moreInformation": "https://x.com/FCN_PR",
+  "codeOfConduct": "https://studio643.jp/rules.html",
+  "hostCountry": "JPN",
+  "minAge": null,
+  "website": "https://studio643.jp/",
+  "url": "https://consurf.net/conventions/furry-constellation-nippon",
+  "lastModified": "2026-11-11T20:00:14.945Z",
+  "events": [
+    {
+      "id": "cmwciri850003rx0180jzd8vx",
+      "slug": "furry-constellation-nippon-2027",
+      "name": "Furry Constellation Nippon",
+      "url": "https://consurf.net/furry-constellation-nippon-2027",
+      "address": "TKP Tokyo Bay Makuhari Hall - 2-3 Hibino, Mihama-ku, Chiba-shi, Chiba 261-0021, Japan",
+      "country": "JPN",
+      "isCancelled": false,
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-11",
+      "timezone": "Asia/Tokyo",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Chiba Zoological Park",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-11-11T19:35:55.396Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 18000,
+          "currency": "JPY",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 8000,
+          "currency": "JPY",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 35000,
+          "currency": "JPY",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

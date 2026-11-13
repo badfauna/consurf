@@ -1,0 +1,178 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgj003oiae04ydj6v7n",
+  "slug": "furcationland",
+  "name": "Furcationland",
+  "shortName": "FCL",
+  "description": "Furcationland is an annual furry convention in Portland, Maine, held at the Holiday Inn Portland-By The Bay, usually on the second weekend of April. It is a 501(c)(3) non-profit run by volunteers, with KovuTheHusky as chairperson and Codex as vice-chairperson, and is the spiritual successor to Pine Fur Con, held in South Portland in 2018 and 2019. Planning began around October 2020, and the first convention took place April 14 to 16, 2023. Its charity is the Short Folks For Hope Foundation, and since 2023 the convention has joined the Pride Portland parade with a merchandise booth and a pop-up headless lounge. Attendance has grown from 822 to over 1,900.",
+  "blueskyHandle": "furcationland.org",
+  "moreInformation": null,
+  "codeOfConduct": "https://furcationland.org/policies/conduct",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://furcationland.com",
+  "url": "https://consurf.net/conventions/furcationland",
+  "lastModified": "2026-11-01T17:12:45.221Z",
+  "events": [
+    {
+      "id": "cmhpe4z3700wkian0cmm050zf",
+      "slug": "furcationland-2023",
+      "name": "Furcationland",
+      "url": "https://consurf.net/furcationland-2023",
+      "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-04-14",
+      "endDate": "2023-04-16",
+      "timezone": "America/New_York",
+      "attendeeCount": 822,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 7135.77,
+      "charityName": "Short Folks For Hope Foundation",
+      "guestsOfHonor": [
+        "Lagoona",
+        "Barton Fox"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a0101ian0t18idg28",
+      "slug": "furcationland-2024",
+      "name": "Furcationland",
+      "url": "https://consurf.net/furcationland-2024",
+      "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-04-12",
+      "endDate": "2024-04-14",
+      "timezone": "America/New_York",
+      "attendeeCount": 1210,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 9609.58,
+      "charityName": "Short Folks For Hope Foundation",
+      "guestsOfHonor": [
+        "Fleur",
+        "Chise"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d013jian0609om0bu",
+      "slug": "furcationland-2025",
+      "name": "Furcationland",
+      "url": "https://consurf.net/furcationland-2025",
+      "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-13",
+      "timezone": "America/New_York",
+      "attendeeCount": 1677,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 11097.81,
+      "charityName": "Short Folks For Hope Foundation",
+      "guestsOfHonor": [
+        "PrismPaws",
+        "Gojii"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3k01beian0zk2tahsc",
+      "slug": "furcationland-2026",
+      "name": "Furcationland",
+      "url": "https://consurf.net/furcationland-2026",
+      "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-12",
+      "timezone": "America/New_York",
+      "attendeeCount": 1903,
+      "fursuiterCount": 523,
+      "vendorCount": 0,
+      "charityRaised": 10584.81,
+      "charityName": "Short Folks For Hope Foundation",
+      "guestsOfHonor": [
+        "Bird Warde",
+        "Bearic"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor (At-door)",
+          "amount": 110.75,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor (Pre-reg)",
+          "amount": 100.75,
+          "currency": "USD",
+          "rateCutoff": "2026-03-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Supersponsor",
+          "amount": 250.75,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Ultrasponsor",
+          "amount": 500.75,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend (At-door)",
+          "amount": 70.75,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend (Pre-reg)",
+          "amount": 60.75,
+          "currency": "USD",
+          "rateCutoff": "2026-03-31T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cmrarhh84000nlh0175pipjmo",
+      "slug": "furcationland-2027",
+      "name": "Furcationland",
+      "url": "https://consurf.net/furcationland-2027",
+      "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-11",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-07-07T14:46:00.052Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

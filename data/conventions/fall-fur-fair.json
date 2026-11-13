@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmguqtgv00brmo01yn8gal7w",
+  "slug": "fall-fur-fair",
+  "name": "Fall Fur Fair",
+  "shortName": null,
+  "description": "A family-friendly furry fair with art, games, costumes, and creative fun for all ages in Plymouth.\r\n\r\nFall Fur Fair in Plymouth, MA this November is a wholesome celebration of creativity, community, and all things furry designed for fans of every age and interest. Held in a bright, welcoming space, Fall Fur Fair invites families, friends, and curious newcomers to explore an array of playful and imaginative experiences. Attendees can browse artist booths featuring custom prints and crafts inspired by anthropomorphic characters, take part in hands-on workshops where participants make their own fursona art or accessories, and enjoy interactive activities.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://www.eventbrite.com/e/fall-fur-fair-2026-tickets-1982119821744",
+  "url": "https://consurf.net/conventions/fall-fur-fair",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmmgusl2x00btmo01rx3989q6",
+      "slug": "fall-fur-fair-2026",
+      "name": "Fall Fur Fair",
+      "url": "https://consurf.net/fall-fur-fair-2026",
+      "address": "25 Summer Street, Kingston, MA 02364, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-07T21:46:42.490Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

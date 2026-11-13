@@ -1,0 +1,74 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmp2vqn6h001nlf01cx1lltrb",
+  "slug": "maw",
+  "name": "Michigan Anthro Weekend",
+  "shortName": "MAW",
+  "description": "A new 18+ furry convention offering an unforgettable weekend of nightlife, gaming, creativity, dancing, and fun!",
+  "blueskyHandle": "mianthroweekend.bsky.social",
+  "moreInformation": "https://t.me/MIAnthroWkndChat",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 18,
+  "website": "https://michigananthroweekend.com/",
+  "url": "https://consurf.net/conventions/maw",
+  "lastModified": "2026-11-01T17:20:36.609Z",
+  "events": [
+    {
+      "id": "cmp2w7h59001plf01xr2p72oi",
+      "slug": "maw-2026",
+      "name": "Michigan Anthro Weekend",
+      "url": "https://consurf.net/maw-2026",
+      "address": "Sheraton Grand Rapids Airport Hotel, 5700 28th Street Southeast, Grand Rapids, MI 49546, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "timezone": "America/Detroit",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Grand Rapids Trans Foundation",
+      "guestsOfHonor": [
+        "Little Alpha Pup"
+      ],
+      "sources": [],
+      "createdAt": "2026-05-12T17:16:37.390Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Day Pass (Friday)",
+          "amount": 35,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Saturday)",
+          "amount": 45,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sunday)",
+          "amount": 30,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 110,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 70,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

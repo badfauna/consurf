@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq008giae03utdmhgf",
+  "slug": "soda-city-fur-con",
+  "name": "Soda City Fur Con",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/soda-city-fur-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3a00zyian0obvd7emn",
+      "slug": "soda-city-fur-con-2024",
+      "name": "Soda City Fur Con",
+      "url": "https://consurf.net/soda-city-fur-con-2024",
+      "address": "Medallion Conference Center, 7309 Top Forest Drive, Columbia, SC 29209, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2024-03-29",
+      "endDate": "2024-03-31",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

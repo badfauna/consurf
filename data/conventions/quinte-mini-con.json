@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq0084iae0ror8vdeq",
+  "slug": "quinte-mini-con",
+  "name": "Quinte Mini Con",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/quinte-mini-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z2u00goian0dwr5rcuz",
+      "slug": "quinte-mini-con-2017",
+      "name": "Quinte Mini Con",
+      "url": "https://consurf.net/quinte-mini-con-2017",
+      "address": "Quinte Sports & Wellness Centre, 265 Cannifton Road, Belleville, ON K8N 4V8, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2017-11-18",
+      "endDate": "2017-11-19",
+      "timezone": "America/Toronto",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

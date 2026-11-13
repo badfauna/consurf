@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmkzpbr63000bp001oln3rqpp",
+  "slug": "patas",
+  "name": "Patas",
+  "shortName": null,
+  "description": "Patas is a hotel furry convention set on Sorocaba, Sao Paulo.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/eventopatas",
+  "codeOfConduct": null,
+  "hostCountry": "BRA",
+  "minAge": null,
+  "website": "https://eventopatas.com/",
+  "url": "https://consurf.net/conventions/patas",
+  "lastModified": "2026-10-30T19:52:46.940Z",
+  "events": [
+    {
+      "id": "cmkzpcx4k000dp0016gibo0ah",
+      "slug": "patas-2024",
+      "name": "Patas",
+      "url": "https://consurf.net/patas-2024",
+      "address": "Sorocaba Park Hotel, Avenida Professor Joaquim Silva 205, Sorocaba - Southeast, 18085-000, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2024-05-17",
+      "endDate": "2024-05-19",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 130,
+      "fursuiterCount": 31,
+      "vendorCount": 0,
+      "charityRaised": 2090,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-29T17:02:46.196Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkzpemnp000hp0016q38vhss",
+      "slug": "patas-2025",
+      "name": "Patas",
+      "url": "https://consurf.net/patas-2025",
+      "address": "Sorocaba Park Hotel, Avenida Professor Joaquim Silva 205, Sorocaba - Southeast, 18085-000, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-21",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 103,
+      "fursuiterCount": 51,
+      "vendorCount": 0,
+      "charityRaised": 5360,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-29T17:04:05.942Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkzpfhw3000lp001fgav0mc4",
+      "slug": "patas-2026",
+      "name": "Patas",
+      "url": "https://consurf.net/patas-2026",
+      "address": "Sorocaba Park Hotel, Avenida Professor Joaquim Silva 205, Sorocaba - Southeast, 18085-000, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-29T17:04:46.419Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Diamante (Add-on)",
+          "amount": 1100,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Ouro (Add-on)",
+          "amount": 350,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Participate",
+          "amount": 600,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Participate (Donation Needed)",
+          "amount": 350,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Participate (Student Card)",
+          "amount": 300,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Prata (Add-on)",
+          "amount": 150,
+          "currency": "BRL",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

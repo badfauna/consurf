@@ -1,0 +1,296 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "title": "Consurf convention",
+  "description": "A furry convention and all of its editions (events), including venues and prices.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schemaVersion",
+    "id",
+    "slug",
+    "name",
+    "hostCountry",
+    "url",
+    "lastModified",
+    "events"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "schemaVersion": {
+      "const": 2
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "shortName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "blueskyHandle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "moreInformation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "codeOfConduct": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "hostCountry": {
+      "type": "string",
+      "description": "ISO 3166-1 alpha-3 country code"
+    },
+    "minAge": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "website": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Convention page on consurf.net"
+    },
+    "lastModified": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When the convention or any of its editions last changed on Consurf"
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/event"
+      }
+    }
+  },
+  "$defs": {
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "url",
+        "isCancelled",
+        "startDate",
+        "endDate",
+        "guestsOfHonor",
+        "sources",
+        "createdAt",
+        "venues",
+        "prices"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Event page on consurf.net"
+        },
+        "address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "country": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ISO 3166-1 alpha-3 country code"
+        },
+        "isCancelled": {
+          "type": "boolean"
+        },
+        "startDate": {
+          "type": "string",
+          "format": "date",
+          "description": "Local calendar date (no time zone conversion)"
+        },
+        "endDate": {
+          "type": "string",
+          "format": "date",
+          "description": "Local calendar date (no time zone conversion)"
+        },
+        "timezone": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "IANA time zone, e.g. America/New_York"
+        },
+        "attendeeCount": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "fursuiterCount": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "vendorCount": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "charityRaised": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Amount in the host country's currency"
+        },
+        "charityName": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "guestsOfHonor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "venues": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/venue"
+          }
+        },
+        "prices": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/price"
+          }
+        }
+      }
+    },
+    "venue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "address",
+        "isMain"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "isMain": {
+          "type": "boolean",
+          "description": "The venue hosting, or closest to, the event"
+        }
+      }
+    },
+    "price": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "priceType",
+        "amount",
+        "currency",
+        "rateCutoff"
+      ],
+      "properties": {
+        "priceType": {
+          "type": "string",
+          "description": "Ticket or room rate type"
+        },
+        "amount": {
+          "type": "number",
+          "minimum": 0
+        },
+        "currency": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$",
+          "description": "ISO 4217 currency code"
+        },
+        "rateCutoff": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time",
+          "description": "When this rate stops being available"
+        }
+      }
+    }
+  }
+}

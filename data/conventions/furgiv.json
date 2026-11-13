@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn0060iae093xxf5vn",
+  "slug": "furgiv",
+  "name": "Furry Gathering in Vietnam",
+  "shortName": "FurGIV",
+  "description": "FurGIV (Furry Gathering in Vietnam) is a Vietnam-based furry event, where every member of the local furry fandom can come together to connect, share their passion and welcome their international friends alike.",
+  "blueskyHandle": null,
+  "moreInformation": "https://go.furgiv.org/telegram",
+  "codeOfConduct": "https://go.furgiv.org/codeofconduct",
+  "hostCountry": "VNM",
+  "minAge": 16,
+  "website": "https://furgiv.org/",
+  "url": "https://consurf.net/conventions/furgiv",
+  "lastModified": "2026-11-01T17:16:51.416Z",
+  "events": [
+    {
+      "id": "cmhpe4z3c011mian0z2fdn0xa",
+      "slug": "furgiv-2024",
+      "name": "FurGIV",
+      "url": "https://consurf.net/furgiv-2024",
+      "address": "Complex 01, 29 Ngách 31 Ng. 167 P. Tây Sơn, Kim Liên, Hà Nội",
+      "country": "VNM",
+      "isCancelled": false,
+      "startDate": "2024-09-14",
+      "endDate": "2024-09-14",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3o01fzian05ai3ytjg",
+      "slug": "furgiv-2025",
+      "name": "FurGIV",
+      "url": "https://consurf.net/furgiv-2025",
+      "address": "Complex 01, 29 Ngách 31 Ng. 167 P. Tây Sơn, Kim Liên, Hà Nội",
+      "country": "VNM",
+      "isCancelled": false,
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-20",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Kusunagi",
+        "Karava",
+        "Kero"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmlwmfecw000kmp010m85ds87",
+      "slug": "furgiv-2026",
+      "name": "FurGIV",
+      "url": "https://consurf.net/furgiv-2026",
+      "address": "Grand Vista Hotel, 146 P. Giảng Võ, Khu tập thể Giảng Võ, Giảng Võ, Hà Nội",
+      "country": "VNM",
+      "isCancelled": false,
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Chucky"
+      ],
+      "sources": [],
+      "createdAt": "2026-02-21T17:57:06.800Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Tier 1",
+          "amount": 250000,
+          "currency": "VND",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Tier 2",
+          "amount": 500000,
+          "currency": "VND",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Tier 3",
+          "amount": 900000,
+          "currency": "VND",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Tier 4",
+          "amount": 1300000,
+          "currency": "VND",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Tier 5",
+          "amount": 7600000,
+          "currency": "VND",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

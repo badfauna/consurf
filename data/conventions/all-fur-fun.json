@@ -1,0 +1,91 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmhnwxcq40001ia942i0mjwfw",
+  "slug": "all-fur-fun",
+  "name": "All Fur Fun",
+  "shortName": "AFF",
+  "description": "All Fur Fun was a furry convention that was first held from Friday March 30 to Sunday April 1, 2007 at the Ridpath Hotel in Spokane, Washington, U.S.A. All Fur Fun 2008 took place April 18-20, 2008, at the same location, with attendance of 165. All Fur Fun 2009 took place at the Mirabeau hotel.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://en.wikifur.com/wiki/All_Fur_Fun",
+  "url": "https://consurf.net/conventions/all-fur-fun",
+  "lastModified": "2026-11-01T17:19:43.418Z",
+  "events": [
+    {
+      "id": "cmhpe4z3q01j2ian0g79ancqe",
+      "slug": "all-fur-fun-2007",
+      "name": "All Fur Fun",
+      "url": "https://consurf.net/all-fur-fun-2007",
+      "address": "Otis Hotel, West Railroad Alley, Spokane, WA 99201, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2007-03-30",
+      "endDate": "2007-04-01",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 110,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Katie Hofgard"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3q01j3ian0y7ffg6on",
+      "slug": "all-fur-fun-2008",
+      "name": "All Fur Fun",
+      "url": "https://consurf.net/all-fur-fun-2008",
+      "address": "Otis Hotel, West Railroad Alley, Spokane, WA 99201, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2008-04-18",
+      "endDate": "2008-04-20",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 165,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "FoxyFennec"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3q01j4ian0bh29drsn",
+      "slug": "all-fur-fun-2009",
+      "name": "All Fur Fun",
+      "url": "https://consurf.net/all-fur-fun-2009",
+      "address": "Spokane, WA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2009-05-15",
+      "endDate": "2009-05-17",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 197,
+      "fursuiterCount": 50,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Flinters"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq0083iae09quoq8dg",
+  "slug": "pride-unbound-london",
+  "name": "Pride Unbound*London",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "GBR",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/pride-unbound-london",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3800x4ian0yy6l6jzd",
+      "slug": "pride-unbound-london-2023",
+      "name": "Pride Unbound*London",
+      "url": "https://consurf.net/pride-unbound-london-2023",
+      "address": "Savoy Theatre, Savoy Court, London, WC2R 0ET, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2023-06-30",
+      "endDate": "2023-07-02",
+      "timezone": "Europe/London",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

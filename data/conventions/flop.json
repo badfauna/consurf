@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmlv7ykef002fqj014top53ze",
+  "slug": "flop",
+  "name": "Furry Legends of Paradise",
+  "shortName": "FLoP",
+  "description": "Furry Legends of Paradise is a furry social event where we buyout hotels and have fun! The events are free to attend and are fursuit friendly!",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/FLoPchatroom",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 18,
+  "website": "https://flop.vegas/",
+  "url": "https://consurf.net/conventions/flop",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmlv80jf9002hqj01mygmc4ch",
+      "slug": "flop-2026",
+      "name": "Furry Legends of Paradise",
+      "url": "https://consurf.net/flop-2026",
+      "address": "2755 Kyle Canyon Road, Mount Charleston, NV 89124, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-02-06",
+      "endDate": "2026-02-08",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-20T18:25:52.726Z",
+      "venues": [
+        {
+          "id": "cmlv810tr002lqj01f22o36y5",
+          "name": "The Retreat on Charleston Peak",
+          "address": "2755 Kyle Canyon Rd, Mt Charleston, NV 89124",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

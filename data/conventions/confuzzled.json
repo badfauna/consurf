@@ -1,0 +1,641 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgh002jiae0tvyrcqd8",
+  "slug": "confuzzled",
+  "name": "ConFuzzled",
+  "shortName": "CFz",
+  "description": "ConFuzzled is an annual furry convention in England for adults aged 18 and over. The first edition took place in June 2008 at YHA Manchester, and the event stayed in Manchester until 2011 before moving to the Barceló Hinckley Island Hotel in Leicestershire for 2012 and 2013. Since 2014 it has been held at the Hilton Birmingham Metropole, close to the National Exhibition Centre. The 2020 and 2021 editions were replaced by online events. Its organisers describe it as the UK's largest furry convention, and the 2026 edition counted 3,225 attendees. Each year it supports an animal charity; the official tally passed £377,000 by 2026, with a high of £41,224 in 2025.",
+  "blueskyHandle": "confuzzled.org.uk",
+  "moreInformation": "https://t.me/ConFuzzledNews",
+  "codeOfConduct": "https://confuzzled.org.uk/attending/code-of-conduct/",
+  "hostCountry": "GBR",
+  "minAge": 18,
+  "website": "https://confuzzled.org.uk",
+  "url": "https://consurf.net/conventions/confuzzled",
+  "lastModified": "2026-11-03T23:33:30.468Z",
+  "events": [
+    {
+      "id": "cmhpe4z2j003tian0s7gyvlx0",
+      "slug": "confuzzled-2008",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2008",
+      "address": "Manchester International Youth Hostel, Manchester, UK",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2008-06-20",
+      "endDate": "2008-06-23",
+      "timezone": "Europe/London",
+      "attendeeCount": 136,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1600,
+      "charityName": "The Badger Trust",
+      "guestsOfHonor": [
+        "BigBlueFox"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2008"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2j004gian0qrwfd3fr",
+      "slug": "confuzzled-2009",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2009",
+      "address": "Manchester International Youth Hostel, Manchester, UK",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2009-05-22",
+      "endDate": "2009-05-25",
+      "timezone": "Europe/London",
+      "attendeeCount": 182,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 2000,
+      "charityName": "The Badger Trust, Manchester Dogs Home",
+      "guestsOfHonor": [
+        "Tabbiefox",
+        "Cheetah"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2009"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2k0058ian0j7bc8qu5",
+      "slug": "confuzzled-2010",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2010",
+      "address": "Britannia Country House Hotel, Palatine Road, Manchester, M20 2WG, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2010-05-07",
+      "endDate": "2010-05-10",
+      "timezone": "Europe/London",
+      "attendeeCount": 346,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 6200,
+      "charityName": "Wildlife Heritage Foundation",
+      "guestsOfHonor": [
+        "TaniDaReal"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2010"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2l0065ian0ci6vhcos",
+      "slug": "confuzzled-2011",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2011",
+      "address": "Britannia Country House Hotel, Palatine Road, Manchester, M20 2WG, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2011-05-06",
+      "endDate": "2011-05-09",
+      "timezone": "Europe/London",
+      "attendeeCount": 499,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 10000,
+      "charityName": "International Otter Survival Fund",
+      "guestsOfHonor": [
+        "John \"The Gneech\" Robey"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2011"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2l0078ian0pbtba94c",
+      "slug": "confuzzled-2012",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2012",
+      "address": "Hinckley Island, Hinckley and Bosworth, LE10 3JA, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2012-05-25",
+      "endDate": "2012-05-28",
+      "timezone": "Europe/London",
+      "attendeeCount": 726,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7700,
+      "charityName": "Nuneaton and Warwickshire Wildlife Sanctuary",
+      "guestsOfHonor": [
+        "Colson Grainger",
+        "Mangusu"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2012"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2n008gian0daod6e1c",
+      "slug": "confuzzled-2013",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2013",
+      "address": "Hinckley Island, Hinckley and Bosworth, LE10 3JA, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2013-05-30",
+      "endDate": "2013-06-03",
+      "timezone": "Europe/London",
+      "attendeeCount": 872,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 11484,
+      "charityName": "STA Ferret Rescue",
+      "guestsOfHonor": [
+        "Melissa \"Gab\" Douglas",
+        "Kyell Gold"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2013"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2o009rian0tinub9lw",
+      "slug": "confuzzled-2014",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2014",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2014-05-23",
+      "endDate": "2014-05-27",
+      "timezone": "Europe/London",
+      "attendeeCount": 1082,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 14265,
+      "charityName": "The Cat Survival Trust",
+      "guestsOfHonor": [
+        "Rick Griffin",
+        "Alexis Rudd"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2014"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00b9ian0gqsjtv6x",
+      "slug": "confuzzled-2015",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2015",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2015-05-22",
+      "endDate": "2015-05-26",
+      "timezone": "Europe/London",
+      "attendeeCount": 1228,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 13552,
+      "charityName": "Fat Fluffs Rabbit Rescue",
+      "guestsOfHonor": [
+        "Henrieke",
+        "Jeff ‘Yak’ Minter"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2015"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2r00d1ian03lzpiol5",
+      "slug": "confuzzled-2016",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2016",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2016-05-27",
+      "endDate": "2016-05-31",
+      "timezone": "Europe/London",
+      "attendeeCount": 1451,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 21946,
+      "charityName": "Prickles Hedgehog Rescue",
+      "guestsOfHonor": [
+        "Alkora",
+        "WhiteyFawks"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2016"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00ezian0o9ngzo85",
+      "slug": "confuzzled-2017",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2017",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2017-05-26",
+      "endDate": "2017-05-30",
+      "timezone": "Europe/London",
+      "attendeeCount": 1645,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 21113.36,
+      "charityName": "The Badger Trust",
+      "guestsOfHonor": [
+        "Volf",
+        "Shay"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2017"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2v00hpian02cdvmpco",
+      "slug": "confuzzled-2018",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2018",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2018-05-25",
+      "endDate": "2018-05-29",
+      "timezone": "Europe/London",
+      "attendeeCount": 1908,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 26037.4,
+      "charityName": "Vale Wildlife Hospital",
+      "guestsOfHonor": [
+        "Dark Natasha",
+        "Ryan Campbell"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2018"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00kdian0yhhtihoj",
+      "slug": "confuzzled-2019",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2019",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2019-05-24",
+      "endDate": "2019-05-28",
+      "timezone": "Europe/London",
+      "attendeeCount": 2116,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 33300.69,
+      "charityName": "Gentleshaw Wildlife Centre",
+      "guestsOfHonor": [
+        "Joaquin Baldwin",
+        "Gem Squirrel"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2019"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3000o0ian0q4fc309h",
+      "slug": "confuzzled-2020",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2020",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2020-05-22",
+      "endDate": "2020-05-26",
+      "timezone": "Europe/London",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 17785.55,
+      "charityName": "Secret World Wildlife Rescue",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2020"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qtian0heeqfj4e",
+      "slug": "confuzzled-2021",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2021",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2021-05-28",
+      "endDate": "2021-06-01",
+      "timezone": "Europe/London",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 8486.19,
+      "charityName": "Secret World Wildlife Rescue",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2021"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500tlian0x49i594r",
+      "slug": "confuzzled-2022",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2022",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2022-05-27",
+      "endDate": "2022-05-31",
+      "timezone": "Europe/London",
+      "attendeeCount": 2079,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 25258.82,
+      "charityName": "The Bumblebee Conservation Trust",
+      "guestsOfHonor": [
+        "Adler the Eagle"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2022"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3800wuian0dxau3b6p",
+      "slug": "confuzzled-2023",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2023",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2023-05-26",
+      "endDate": "2023-05-30",
+      "timezone": "Europe/London",
+      "attendeeCount": 2661,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 40133.39,
+      "charityName": "Wolf Watch UK",
+      "guestsOfHonor": [
+        "Tonya Song",
+        "Kathryn Inkson"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2023"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3b010fian0ig4piqso",
+      "slug": "confuzzled-2024",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2024",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2024-05-24",
+      "endDate": "2024-05-28",
+      "timezone": "Europe/London",
+      "attendeeCount": 2881,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 39122.36,
+      "charityName": "British Wildlife Rescue Centre",
+      "guestsOfHonor": [
+        "Haps",
+        "Branston"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2024",
+        "https://en.wikifur.com/wiki/ConFuzzled"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e0142ian0at45518m",
+      "slug": "confuzzled-2025",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2025",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2025-05-23",
+      "endDate": "2025-05-27",
+      "timezone": "Europe/London",
+      "attendeeCount": 3179,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 41224,
+      "charityName": "Saints Sled Dog Rescue",
+      "guestsOfHonor": [
+        "Hexi",
+        "Hiyu"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2025"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g017eian0cfx5ylkr",
+      "slug": "confuzzled-2026",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2026",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Birmingham, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-26",
+      "timezone": "Europe/London",
+      "attendeeCount": 3225,
+      "fursuiterCount": 0,
+      "vendorCount": 132,
+      "charityRaised": 35831,
+      "charityName": "Tiny Paws MCR",
+      "guestsOfHonor": [
+        "Nyhgault",
+        "Regdeh"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2026"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmle1s0oq001glx01d3vdckhn",
+          "name": "Hilton Birmingham Metropole",
+          "address": "Pendigo Way, Marston Green, Birmingham B40 1PP, United Kingdom",
+          "isMain": true
+        },
+        {
+          "id": "cmle1vuj5001mlx01jq8mnpmw",
+          "name": "Arden Hotel",
+          "address": "Coventry Rd, Solihull B92 0EH, United Kingdom",
+          "isMain": false
+        },
+        {
+          "id": "cmle1udrt001klx01itxuhpdw",
+          "name": "AvantGlamp",
+          "address": "Marston Green, Birmingham B40 1AD, United Kingdom",
+          "isMain": false
+        },
+        {
+          "id": "cmle1tmfw001ilx01r6oowk72",
+          "name": "The Crowne Plaza",
+          "address": "Pendigo Way, Marston Green, Birmingham B40 1PS, United Kingdom",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmpmncm490029mk010675u1oq",
+      "slug": "confuzzled-2027",
+      "name": "ConFuzzled",
+      "url": "https://consurf.net/confuzzled-2027",
+      "address": "Hilton Birmingham Metropole, Pendigo Way, Bickenhill, B40 1PP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2027-05-28",
+      "endDate": "2027-06-01",
+      "timezone": "Europe/London",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/ConFuzzled_2027",
+        "https://en.wikifur.com/wiki/ConFuzzled"
+      ],
+      "createdAt": "2026-05-26T13:04:04.089Z",
+      "venues": [
+        {
+          "id": "cmuk6opmi004ip601uzyi3i41",
+          "name": "Hilton Birmingham Metropole",
+          "address": "Hilton Birmingham Metropole, Pendigo Way, Marston Green, Birmingham B40 1PP",
+          "isMain": true
+        },
+        {
+          "id": "cmuk6yvwh005ep601bwkl6er1",
+          "name": "Arden Hotel & Leisure Club",
+          "address": "Arden Hotel & Leisure Club, Coventry Rd, Solihull B92 0EH",
+          "isMain": false
+        },
+        {
+          "id": "cmuk6popj004qp601iu7kvfea",
+          "name": "Crowne Plaza Birmingham Nec by IHG",
+          "address": "Crowne Plaza Birmingham Nec by IHG, NEC, Pendigo Way, Marston Green, Birmingham B40 1PS",
+          "isMain": false
+        },
+        {
+          "id": "cmuk6p7t2004mp6018o44m7j4",
+          "name": "Moxy Birmingham NEC and Airport",
+          "address": "Moxy Birmingham NEC and Airport, Marston Green, Birmingham B40 1NT",
+          "isMain": false
+        },
+        {
+          "id": "cmuk6rkci005ap601ru10zbon",
+          "name": "Premier Inn Birmingham NEC Airport hotel",
+          "address": "Premier Inn Birmingham NEC Airport hotel, Bickenhill Parkway, Bickenhill Pkwy, Marston Green, Birmingham B40 1QA",
+          "isMain": false
+        },
+        {
+          "id": "cmuk6qaih004up601rg5s9e4m",
+          "name": "ibis Birmingham Airport - NEC",
+          "address": "ibis Birmingham Airport - NEC, Ambassador Rd, Birmingham B26 3AW",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "1-Day",
+          "amount": 55,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "2-Day",
+          "amount": 85,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "3-Day",
+          "amount": 105,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 205,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard Ticket",
+          "amount": 145,
+          "currency": "GBP",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf000viae0201083tc",
+  "slug": "brasil-furfest",
+  "name": "Brasil FurFest",
+  "shortName": "BFF",
+  "description": "Brasil FurFest (BFF) is an annual furry convention in Brazil, created in 2016 by members of the Brazilian fandom and launched through a crowdfunding campaign. The first edition, held September 9 to 11, 2016, at the Mercure Santos Hotel in Santos, São Paulo, drew 169 attendees. The convention stayed in Santos through 2024, held online events in 2020 and 2021, and then moved to São Paulo city in 2025 and Campinas in 2026, when it had 1,512 attendees. Each edition raises money for animal welfare projects, mainly SOS Vida Pet Litoral. The 2027 edition moves to CENACON in Poços de Caldas, Minas Gerais. Since 2026 it has been organized by BFF Eventos e Intermediação LTDA.",
+  "blueskyHandle": "brasilfurfest.bsky.social",
+  "moreInformation": "https://t.me/brasilfurfest",
+  "codeOfConduct": "https://bff.brasilfurfest.com.br/en/informacoes/regulamentos",
+  "hostCountry": "BRA",
+  "minAge": null,
+  "website": "https://brasilfurfest.com.br",
+  "url": "https://consurf.net/conventions/brasil-furfest",
+  "lastModified": "2026-11-05T23:28:38.445Z",
+  "events": [
+    {
+      "id": "cmhpe4z3i0198ian0luxkoew8",
+      "slug": "brasil-furfest-2016",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2016",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2016-09-09",
+      "endDate": "2016-09-11",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 169,
+      "fursuiterCount": 54,
+      "vendorCount": 0,
+      "charityRaised": 435.45,
+      "charityName": "MAPAN – Movimento de Apoio aos Protetores de Animais e da Natureza",
+      "guestsOfHonor": [
+        "El Ranno",
+        "Latin Vixen"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2016"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmm46tkcz0021mp0134w6tcf6",
+          "name": "Mercure Santos Hotel",
+          "address": "Av. Washington Luís, 565 - Boqueirão, Santos - SP, 11055-001",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2t00frian0vw5qa9nq",
+      "slug": "brasil-furfest-2017",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2017",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2017-08-25",
+      "endDate": "2017-08-27",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 287,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 2668.1,
+      "charityName": "SOS Vida Pet Baixada Santista",
+      "guestsOfHonor": [
+        "Igor Cebarros",
+        "Felipe Marcantonio"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2017"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2v00ifian0pgwj9xkh",
+      "slug": "brasil-furfest-2018",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2018",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2018-08-17",
+      "endDate": "2018-08-19",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 431,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 12359.15,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Crash Azarel",
+        "Fox Amoore"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2018"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2y00lkian08ttd7k0u",
+      "slug": "brasil-furfest-2019",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2019",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2019-08-23",
+      "endDate": "2019-08-25",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 571,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 11000,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Pepper Coyote",
+        "Zeng Tiger"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2019"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3100omian0hqm21jso",
+      "slug": "brasil-furfest-2020",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2020",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2020-08-01",
+      "endDate": "2020-08-01",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7300,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2020"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3300r1ian0q7sbspou",
+      "slug": "brasil-furfest-2021",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2021",
+      "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2021-07-16",
+      "endDate": "2021-07-18",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 244,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 26000,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2021"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500u3ian0nv54aejn",
+      "slug": "brasil-furfest-2022",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2022",
+      "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2022-07-15",
+      "endDate": "2022-07-17",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 872,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 33570.69,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Uncle Kage"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2022"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmm46ra48001xmp0130bjmvv1",
+          "name": "Sheraton Santos Hotel",
+          "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3800xeian0dv6i44ir",
+      "slug": "brasil-furfest-2023",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2023",
+      "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2023-07-14",
+      "endDate": "2023-07-16",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 911,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 26574.13,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Ash Coyote"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2023"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmm46qzl4001tmp01obg4fj68",
+          "name": "Sheraton Santos Hotel",
+          "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3b010rian0wxp4sltl",
+      "slug": "brasil-furfest-2024",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2024",
+      "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2024-07-19",
+      "endDate": "2024-07-21",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 1121,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 32136.93,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Telephone"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2024"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmm46vg9r0025mp01szyer67j",
+          "name": "Sheraton Santos Hotel",
+          "address": "Al. Armênio Mendes, 70 - Aparecida, Santos - SP, 11035-260",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e014nian0wp5zjmib",
+      "slug": "brasil-furfest-2025",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2025",
+      "address": "Hotel Nacional Inn, Avenida Cásper Líbero 125, Santa Ifigênia, São Paulo - SP, 01033-001, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2025-07-18",
+      "endDate": "2025-07-20",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 1356,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 46100,
+      "charityName": "SOS Vida Pet Litoral",
+      "guestsOfHonor": [
+        "Aurora Bloom"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2025"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkc2f5z5001jqk01spvvh1uu",
+      "slug": "brasil-furfest-2026",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2026",
+      "address": "Premium Hotel, Rua Novotel, Vila Padre Anchieta, Campinas - SP, 13067-360, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-19",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 1512,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 75000,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Illumi-Nation Cyberwear",
+        "Astra"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest_2026"
+      ],
+      "createdAt": "2026-01-13T04:01:57.762Z",
+      "venues": [
+        {
+          "id": "cmkc2g1yr001lqk01fucghxrr",
+          "name": "Premium Hotel Campinas",
+          "address": "R. Novotel, 931, Nova Aparecida, Campinas, SP, 13067-901, Brazil",
+          "isMain": true
+        },
+        {
+          "id": "cmkc2imv0001nqk01ubyxobdp",
+          "name": "Sleep Inn Paulínia",
+          "address": "Av. José Lozano Araújo, 4545, Parque Brasil 500, Paulínia, SP, 13141-170, Brazil",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Entrada",
+          "amount": 600,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Entrada Social (Requires food donation)",
+          "amount": 350,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Fursona+ (Add-on)",
+          "amount": 160,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Meia Entrada (Conditions apply)",
+          "amount": 300,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF - Very Important Furry (Add-on)",
+          "amount": 570,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF Platinum (Add-on)",
+          "amount": 1500,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF Star for 2 people (Add-on)",
+          "amount": 9850,
+          "currency": "BRL",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmvemmmq2001pp20164qv6rii",
+      "slug": "brasil-furfest-2027",
+      "name": "Brasil FurFest",
+      "url": "https://consurf.net/brasil-furfest-2027",
+      "address": "Av. Vereador Edmundo Cardillo, 3500, Jardim Del Rey, Poços de Caldas - MG, 37706-106, Brazil",
+      "country": "BRA",
+      "isCancelled": false,
+      "startDate": "2027-09-10",
+      "endDate": "2027-09-12",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Paciulo",
+        "WHSPRS",
+        "Guilherme Briggs"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Brasil_FurFest"
+      ],
+      "createdAt": "2026-10-19T02:19:56.426Z",
+      "venues": [
+        {
+          "id": "cmvfn6077000bpc015bv9zbla",
+          "name": "Hotel Vilage Inn",
+          "address": "Av. Vereador Edmundo Cardillo, 3500, Jardim Del Rey, Poços de Caldas - MG, 37706-106, Brazil",
+          "isMain": true
+        },
+        {
+          "id": "cmvfn6w8m000fpc01qnndpk7q",
+          "name": "Hotel Golden Park",
+          "address": "Avenida Vereador Edmundo Cardillo 3608 - Parque Vivaldi Leite Ribeiro, Poços de Caldas - MG, 37706-106, Brazil",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Full Ticket (Same as Social, but with a donation to BFF)",
+          "amount": 998,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Fursona Plus (Add-on)",
+          "amount": 160,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Half Price (Conditions apply)",
+          "amount": 499,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Social Ticket",
+          "amount": 549,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF (Add-on)",
+          "amount": 570,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF Platinum (Add-on)",
+          "amount": 1500,
+          "currency": "BRL",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "VIF Star (Add-on, includes lodging for 2)",
+          "amount": 11500,
+          "currency": "BRL",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

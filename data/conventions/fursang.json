@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn006kiae07mrxt1ci",
+  "slug": "fursang",
+  "name": "Fursang",
+  "shortName": null,
+  "description": "Fursang was a Hungarian furry event held in late January or early February in Budapest from 2015 to 2020, organized by F Terminal. It began in 2015 as a fursuit walk through the streets of Budapest and grew each year, and in 2020 it became a full furry convention at the Bara Hotel, the first in Hungary. The name is a pun on the Hungarian word for carnival, \"farsang\". Both the website and live events were translated into English. A seventh edition planned for 2021 was repeatedly postponed and then cancelled, and the organizers shifted their focus to their other Hungarian event, Örli Försztivál.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "HUN",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/fursang",
+  "lastModified": "2026-11-01T17:17:18.868Z",
+  "events": [
+    {
+      "id": "cmhpe4z2z00n5ian0gwre1wls",
+      "slug": "fursang-2020",
+      "name": "Fursang",
+      "url": "https://consurf.net/fursang-2020",
+      "address": "Hotel Bara Budapest, Budapest, Hegyalja út 34-36, 1118, Hungary",
+      "country": "HUN",
+      "isCancelled": false,
+      "startDate": "2020-01-31",
+      "endDate": "2020-02-03",
+      "timezone": "Europe/Budapest",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl004wiae0cfc5d1p7",
+  "slug": "anthros-alpine",
+  "name": "Anthros & Alpine",
+  "shortName": "A&A",
+  "description": "Anthros & Alpine is a non-profit organization created to host Scandinavia’s first and only furry winter convention. We’re a team of dedicated volunteers led by Læxi, working on bringing together furs from across the world to ski and snowboard. All in one unforgettable experience! \r\n\r\nWe aim to build a home for winter-loving furries here in the Nordics. ",
+  "blueskyHandle": "anthroalpine.bsky.social",
+  "moreInformation": null,
+  "codeOfConduct": "https://anthroalpine.org/terms-of-service/",
+  "hostCountry": "NOR",
+  "minAge": 18,
+  "website": "https://anthroalpine.org/",
+  "url": "https://consurf.net/conventions/anthros-alpine",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3g016rian0r3qlapt7",
+      "slug": "anthros-alpine-2026",
+      "name": "Anthros & Alpine",
+      "url": "https://consurf.net/anthros-alpine-2026",
+      "address": "Sole Hotell, 3536 Noresund, Norway",
+      "country": "NOR",
+      "isCancelled": false,
+      "startDate": "2026-01-29",
+      "endDate": "2026-02-01",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmtufyl9v0007p601antdz5bl",
+      "slug": "anthros-alpine-2027",
+      "name": "Anthros & Alpine",
+      "url": "https://consurf.net/anthros-alpine-2027",
+      "address": "Krøderfjordveien 1610, 3536 Noresund, Norway",
+      "country": "NOR",
+      "isCancelled": false,
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-17",
+      "timezone": "Europe/Oslo",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-09T18:38:11.249Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "No ski pass Ticket",
+          "amount": 800,
+          "currency": "NOK",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor upgrade (Add-on)",
+          "amount": 900,
+          "currency": "NOK",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard Ticket",
+          "amount": 1800,
+          "currency": "NOK",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

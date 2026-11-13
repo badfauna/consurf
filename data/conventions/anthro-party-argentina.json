@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmf35xtp00ahmo01nre1chl9",
+  "slug": "anthro-party-argentina",
+  "name": "Anthro Party Argentina!",
+  "shortName": "APA",
+  "description": "Anthro Party Argentina, or APA!, is a furry convention organized by and for members of the furry fandom from both Argentina and around the world.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/+fng80MNQ_IpmNGIx",
+  "codeOfConduct": "https://anthropartyargentina.com/legal/reglamento",
+  "hostCountry": "ARG",
+  "minAge": null,
+  "website": "https://anthropartyargentina.com/",
+  "url": "https://consurf.net/conventions/anthro-party-argentina",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmmf39a7w00almo01rg2j7g44",
+      "slug": "anthro-party-argentina-2026",
+      "name": "Anthro Party Argentina!",
+      "url": "https://consurf.net/anthro-party-argentina-2026",
+      "address": "Duarte Quirós 1300, Alberdi, X5000 Córdoba, Argentina",
+      "country": "ARG",
+      "isCancelled": false,
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "timezone": "America/Argentina/Cordoba",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-06T16:08:06.141Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

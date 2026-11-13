@@ -1,0 +1,108 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo0078iae0g0ider7u",
+  "slug": "lone-star-fur-con",
+  "name": "Lone Star Fur Con",
+  "shortName": "LSFC",
+  "description": "Lone Star Fur Con is proudly brought to you by Anthro Outreach LLC—a small, passionate Texas-based team with a huge love for the fandom. We launched Anthro Outreach in early 2024 to handle all the planning and logistics required to make LSFC a reality.",
+  "blueskyHandle": "lonestarfurcon.bsky.social",
+  "moreInformation": "https://t.me/+5KHPlnCT6J83ZmMx",
+  "codeOfConduct": "https://lonestarfurcon.com/attend/code-of-conduct/",
+  "hostCountry": "USA",
+  "minAge": 16,
+  "website": "https://lonestarfurcon.com/",
+  "url": "https://consurf.net/conventions/lone-star-fur-con",
+  "lastModified": "2026-11-01T17:18:03.227Z",
+  "events": [
+    {
+      "id": "cmhpe4z3d0139ian0dpcpky9q",
+      "slug": "lone-star-fur-con-2025",
+      "name": "Lone Star Fur Con",
+      "url": "https://consurf.net/lone-star-fur-con-2025",
+      "address": "Middle Fiskville Road, Austin, TX 78752, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-02-28",
+      "endDate": "2025-03-02",
+      "timezone": "America/Chicago",
+      "attendeeCount": 880,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 4198,
+      "charityName": "Queertopia",
+      "guestsOfHonor": [
+        "Semira"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3k01bhian0zi3xvsij",
+      "slug": "lone-star-fur-con-2026",
+      "name": "Lone Star Fur Con",
+      "url": "https://consurf.net/lone-star-fur-con-2026",
+      "address": "Middle Fiskville Road, Austin, TX 78752, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-02-19",
+      "endDate": "2026-02-22",
+      "timezone": "America/Chicago",
+      "attendeeCount": 1179,
+      "fursuiterCount": 226,
+      "vendorCount": 0,
+      "charityRaised": 4000,
+      "charityName": "Queertopia",
+      "guestsOfHonor": [
+        "Neffertity"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmlchq0kh000qlx01tnb2g8kg",
+          "name": "Holiday Inn Austin Midtown",
+          "address": "6000 Middle Fiskville Rd. Austin, TX 78752",
+          "isMain": true
+        },
+        {
+          "id": "cmlchrei0000slx01qrcs49xz",
+          "name": "Courtyard Austin University Area",
+          "address": "5660 North Interstate Hwy 35 Austin, TX, 78751",
+          "isMain": false
+        },
+        {
+          "id": "cmlchs1cz000ulx01ix2cyqvx",
+          "name": "Embassy Suites Austin Central",
+          "address": "5901 North Interstate Hwy 35 Austin, TX 78723",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmm5ce5j00001mo01popfqghu",
+      "slug": "lone-star-fur-con-2027",
+      "name": "Lone Star Fur Con",
+      "url": "https://consurf.net/lone-star-fur-con-2027",
+      "address": "Hilton Austin Airport, 9515 Hotel Drive, Austin, TX 78719",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-02-25",
+      "endDate": "2027-02-28",
+      "timezone": "America/Chicago",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-27T20:26:08.124Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

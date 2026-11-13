@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmkj9isqw000kp401szcqmzcr",
+  "slug": "spring-fur-con",
+  "name": "SpringFurCon",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": 18,
+  "website": "https://springfurcon.de/",
+  "url": "https://consurf.net/conventions/spring-fur-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmkj9mw4o000mp401emv3cj17",
+      "slug": "spring-fur-con-2026",
+      "name": "SpringFurCon",
+      "url": "https://consurf.net/spring-fur-con-2026",
+      "address": "Mercure Hotel Schweinfurt Maininsel, Maininsel 10-12, 97424 Schweinfurt, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2026-04-08",
+      "endDate": "2026-04-12",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-18T04:58:18.793Z",
+      "venues": [
+        {
+          "id": "cmkj9n51y000op4012zvfpuf5",
+          "name": "Mercure Hotel Schweinfurt",
+          "address": "Maininsel 10 - 12, 97424 Schweinfurt, Germany",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

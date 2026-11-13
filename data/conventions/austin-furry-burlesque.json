@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl004ziae0as2r6vla",
+  "slug": "austin-furry-burlesque",
+  "name": "Austin Furry Burlesque",
+  "shortName": null,
+  "description": "Austin Furry Burlesque (AFB) was a proposed 18+ furry convention organized by Austinfurs, the group behind the monthly Park Bark meetup and the Austin Furry Dance. Planned for January 8 to 9, 2021, at the Austin-Pflugerville Courtyard Marriott in Texas, it was themed after a stage burlesque show, nodding to Austin's strong queer community, with a drag show and fashion-themed events such as a fursuit catwalk alongside a dealers' den, artists' alley and panels. The 2021 event did not take place, and registrations were refunded.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/austin-furry-burlesque",
+  "lastModified": "2026-11-01T17:15:28.563Z",
+  "events": [
+    {
+      "id": "cmhpe4z3200qbian06kznb1bd",
+      "slug": "austin-furry-burlesque-2021",
+      "name": "Austin Furry Burlesque",
+      "url": "https://consurf.net/austin-furry-burlesque-2021",
+      "address": "Courtyard Austin Pflugerville and Pflugerville Conference Center, 16100 Impact Way, Pflugerville, TX 78660, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2021-01-08",
+      "endDate": "2021-01-09",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

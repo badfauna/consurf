@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmv0b1bpz000moz01ya1f5lu7",
+  "slug": "la-kdd",
+  "name": "LA KDD",
+  "shortName": null,
+  "description": "LA KDD is an in-person event created primarily to bring the furry community together in a close, safe, and organized environment.\r\n\r\nAlthough it is rooted in the furry fandom, it is also an inclusive space where people from other fandoms are welcome to meet others, share interests, and enjoy the experience.",
+  "blueskyHandle": null,
+  "moreInformation": "https://x.com/lakddfurry",
+  "codeOfConduct": null,
+  "hostCountry": "ESP",
+  "minAge": 18,
+  "website": "https://lakdd.es/",
+  "url": "https://consurf.net/conventions/la-kdd",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmv0b1zyz000ooz016lo50wba",
+      "slug": "la-kdd-2026",
+      "name": "LA KDD",
+      "url": "https://consurf.net/la-kdd-2026",
+      "address": "Hotel Ilunion Pío XII, Avenida de Pío XII, 77, Chamartín, 28016 Madrid, Spain",
+      "country": "ESP",
+      "isCancelled": false,
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "timezone": "Europe/Madrid",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-10-09T01:47:11.579Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Bronze",
+          "amount": 85,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold",
+          "amount": 160,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Platinum",
+          "amount": 190,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 115,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

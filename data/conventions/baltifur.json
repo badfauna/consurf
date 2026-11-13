@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cml9ktfj6000flx01vmuhimxt",
+  "slug": "baltifur",
+  "name": "Baltifur",
+  "shortName": null,
+  "description": "Latvia’s furry convention in a beautiful, remote setting! We are a passionate team of fur-organizers, ready to make this year unforgettable. Join us for fun, relaxation, and community connection in a cozy location.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/baltifur",
+  "codeOfConduct": null,
+  "hostCountry": "LVA",
+  "minAge": null,
+  "website": "https://baltifur.org/",
+  "url": "https://consurf.net/conventions/baltifur",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cml9kvn9r000hlx01hcxs0kfm",
+      "slug": "baltifur-2025",
+      "name": "Baltifur",
+      "url": "https://consurf.net/baltifur-2025",
+      "address": "guest house \"Šķilas\", Liepāja — Lietuvas robeža (Rucava), Nīcas pagasts, LV-3473, Latvia",
+      "country": "LVA",
+      "isCancelled": false,
+      "startDate": "2025-11-13",
+      "endDate": "2025-11-16",
+      "timezone": "Europe/Riga",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-05T14:55:03.567Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

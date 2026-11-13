@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmleh5egm002alx01ld6k3jex",
+  "slug": "techfurmeet",
+  "name": "TechFurMeet",
+  "shortName": "TFM",
+  "description": "TFM is not a typical furry convention. It is a convention for furries, people who feel connected to animals, but it is dedicated to electronics, technology, programming.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/ZodiaCon",
+  "codeOfConduct": null,
+  "hostCountry": "CZE",
+  "minAge": null,
+  "website": "https://www.techfurmeet.org",
+  "url": "https://consurf.net/conventions/techfurmeet",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmleh7g1o002clx011ffia8kd",
+      "slug": "techfurmeet-2026",
+      "name": "TechFurMeet",
+      "url": "https://consurf.net/techfurmeet-2026",
+      "address": "19, 11264, 588 54 Řásná, Czechia",
+      "country": "CZE",
+      "isCancelled": false,
+      "startDate": "2026-02-12",
+      "endDate": "2026-02-15",
+      "timezone": "Europe/Prague",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-09T01:11:06.492Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

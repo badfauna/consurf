@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmnex06ps0028no0102ztvl7t",
+  "slug": "capital-furcon",
+  "name": "Capital Furcon",
+  "shortName": "CFC",
+  "description": "Capital FurCon (CFC) is a new 21+ furry convention which will be held annually at the Gaylord National Resort & Convention Center! And you heard that right, 21+! We know what you're all here for!",
+  "blueskyHandle": "capitalfurcon.org",
+  "moreInformation": "https://t.me/capitalfurconsfw",
+  "codeOfConduct": "https://capitalfurcon.org/code-of-conduct",
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://capitalfurcon.org/",
+  "url": "https://consurf.net/conventions/capital-furcon",
+  "lastModified": "2026-11-01T17:20:35.568Z",
+  "events": [
+    {
+      "id": "cmnex1w0m002ano01rk2ut8oe",
+      "slug": "capital-furcon-2027",
+      "name": "Capital Furcon",
+      "url": "https://consurf.net/capital-furcon-2027",
+      "address": "Gaylord National Resort and Convention Center, 201 Waterfront Street, National Harbor, MD 20745, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-02-18",
+      "endDate": "2027-02-21",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "NoVA Prism Center, Inc.",
+      "guestsOfHonor": [
+        "Mark's Barks"
+      ],
+      "sources": [],
+      "createdAt": "2026-03-31T17:54:05.782Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

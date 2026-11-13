@@ -1,0 +1,2767 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/index.schema.json",
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-13T01:54:55.414Z",
+  "conventions": [
+    {
+      "id": "cmnwk0g800049mc011x2mi3in",
+      "slug": "2dance",
+      "name": "2Dance",
+      "path": "data/conventions/2dance.json",
+      "sha256": "6737e2e4fa748d0df14ff93edc14b3764287791eca670ff9fd5bce13dfc44382",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgk004niae01ihwtn8w",
+      "slug": "abando",
+      "name": "Abando",
+      "path": "data/conventions/abando.json",
+      "sha256": "58b76c33beb1046b71d98a8bc8390e34e15ab9468d3bde5c97542cb5ea004423",
+      "lastModified": "2026-11-05T05:25:59.660Z"
+    },
+    {
+      "id": "cmgiswmgk004oiae0o1vjiqto",
+      "slug": "aberacon",
+      "name": "Aberacon",
+      "path": "data/conventions/aberacon.json",
+      "sha256": "d52dce9d6fc46e7450449b94d3ac5751ab452c2fc2e6407996d04234d379d3fa",
+      "lastModified": "2026-11-01T17:15:17.069Z"
+    },
+    {
+      "id": "cmpicew28000omk01er9u4wok",
+      "slug": "adelaide-anthros",
+      "name": "Adelaide Anthros",
+      "path": "data/conventions/adelaide-anthros.json",
+      "sha256": "cc00f4426744f013444b287b7d0dfd3b2eb98e23de7087c8e8a5bf14fe942bbb",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgl004piae0hqp9jzzu",
+      "slug": "ainmhicon",
+      "name": "Ainmhícon",
+      "path": "data/conventions/ainmhicon.json",
+      "sha256": "a37f7e38e059c93023d4b151ba5dcdc9a08c41f97c0d8acc73db32ee74196525",
+      "lastModified": "2026-11-01T17:15:19.692Z"
+    },
+    {
+      "id": "cmgiswmgh002ciae0kg5fi3de",
+      "slug": "alamo-city-furry-invasion",
+      "name": "Alamo City Furry Invasion",
+      "path": "data/conventions/alamo-city-furry-invasion.json",
+      "sha256": "e92127bf6ab69b3603356f3baa5ed2052f7ba4448e4e55d2c3801dcc4ca6fcaf",
+      "lastModified": "2026-11-01T17:09:41.828Z"
+    },
+    {
+      "id": "cmgiswmgl004qiae054kl54hy",
+      "slug": "alfurnative",
+      "name": "Alfurnative",
+      "path": "data/conventions/alfurnative.json",
+      "sha256": "6c66c2722fd7daddc3f2a278d84998982fa1e27d575c45c0eafc110f6cdeecc6",
+      "lastModified": "2026-11-01T17:15:20.740Z"
+    },
+    {
+      "id": "cmhnwxcq40001ia942i0mjwfw",
+      "slug": "all-fur-fun",
+      "name": "All Fur Fun",
+      "path": "data/conventions/all-fur-fun.json",
+      "sha256": "892d206e81f4063c723c84747fedc90f0a64573563da60bff37deac9b58b98e4",
+      "lastModified": "2026-11-01T17:19:43.418Z"
+    },
+    {
+      "id": "cmuhgyhhm001wp601skfx0d4q",
+      "slug": "ane-recess",
+      "name": "ANE: Recess!",
+      "path": "data/conventions/ane-recess.json",
+      "sha256": "1439ddc8e197a6dd2d3bf2b97964511d85eaa17be81173927c762ee672459dd2",
+      "lastModified": "2026-11-01T17:20:43.519Z"
+    },
+    {
+      "id": "cmgiswmgl004tiae03ubea38z",
+      "slug": "antheria",
+      "name": "Antheria",
+      "path": "data/conventions/antheria.json",
+      "sha256": "3ab41e226f8b271dd3683d41dff883761c06bba0bbc99865eb6c50f2805ecf8e",
+      "lastModified": "2026-11-01T17:15:22.821Z"
+    },
+    {
+      "id": "cmgiswmgj003riae03pto7qb2",
+      "slug": "anthro-crossroads-east",
+      "name": "Anthro Crossroads East",
+      "path": "data/conventions/anthro-crossroads-east.json",
+      "sha256": "ace0b5b5996e9cdd3733dbe56e97befe6510b8893728d9538d11ed0f8004295e",
+      "lastModified": "2026-11-01T17:12:51.189Z"
+    },
+    {
+      "id": "cmgiswmgl004uiae0ta0b2xtk",
+      "slug": "anthro-east-coast",
+      "name": "Anthro East Coast",
+      "path": "data/conventions/anthro-east-coast.json",
+      "sha256": "ad6fd87eba378b2b841bbe145aad7cde9e5b8b746340a302dab0f0e2b3cb87e1",
+      "lastModified": "2026-11-01T17:15:24.587Z"
+    },
+    {
+      "id": "cmgiswmgj003ziae0welqtjno",
+      "slug": "anthro-new-england",
+      "name": "Anthro New England",
+      "path": "data/conventions/anthro-new-england.json",
+      "sha256": "50301eac0c16e3b57195565bae7f8bb0d10d394657026d9a7380242ec207f16c",
+      "lastModified": "2026-11-02T00:22:58.014Z"
+    },
+    {
+      "id": "cmhnx8rat0002ia947hcess15",
+      "slug": "anthro-new-mexico",
+      "name": "Anthro New Mexico",
+      "path": "data/conventions/anthro-new-mexico.json",
+      "sha256": "86bb5b16a7d94e5ebdc9328763ee53700e5f36fc2fd9ec89b417e5e3c82c3b61",
+      "lastModified": "2026-11-01T17:19:46.011Z"
+    },
+    {
+      "id": "cmgiswmgl004viae0jbpnieda",
+      "slug": "anthro-northern-lights",
+      "name": "Anthro Northern Lights",
+      "path": "data/conventions/anthro-northern-lights.json",
+      "sha256": "0a91f4a019b03a3cd461738d8ecab4939def8c45d0cb5ccdea913e5162699efd",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgg001viae0070y7dmh",
+      "slug": "anthro-northwest",
+      "name": "Anthro Northwest",
+      "path": "data/conventions/anthro-northwest.json",
+      "sha256": "b173525ac4feba360c515196b5b2e77b66ce3252058141daced6ac853a1ceb26",
+      "lastModified": "2026-11-01T17:08:11.856Z"
+    },
+    {
+      "id": "cmmf35xtp00ahmo01nre1chl9",
+      "slug": "anthro-party-argentina",
+      "name": "Anthro Party Argentina!",
+      "path": "data/conventions/anthro-party-argentina.json",
+      "sha256": "a505fbde1aace82085c9b5e3ba2d7766f40855dfa188688f643073f52739c465",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgl004siae00ne40koi",
+      "slug": "anthro-socal",
+      "name": "Anthro SoCal",
+      "path": "data/conventions/anthro-socal.json",
+      "sha256": "0990d788785594a0cf64ae29926643a013b3004b55f54f81f52da0b7be18ebdf",
+      "lastModified": "2026-11-01T17:15:21.779Z"
+    },
+    {
+      "id": "cmgiswmgk0049iae0m8zdub6z",
+      "slug": "anthro-southeast",
+      "name": "Anthro SouthEast",
+      "path": "data/conventions/anthro-southeast.json",
+      "sha256": "410fc89d458beda1d69315cccd29913aa8e16c4d995aa7d7092bbe33f710cedb",
+      "lastModified": "2026-11-01T17:13:47.355Z"
+    },
+    {
+      "id": "cmgiswmge000niae0kzysbkt9",
+      "slug": "anthro-weekend-utah",
+      "name": "Anthro Weekend Utah",
+      "path": "data/conventions/anthro-weekend-utah.json",
+      "sha256": "4a682c2619a9252b3f8c24b04e926aa6d42b40c703664248a61460c939fa9917",
+      "lastModified": "2026-11-01T17:06:00.412Z"
+    },
+    {
+      "id": "cmgiswmgh002aiae0m35n1n90",
+      "slug": "anthrocon",
+      "name": "Anthrocon",
+      "path": "data/conventions/anthrocon.json",
+      "sha256": "14db1639aeac64a2a7c4a717db1272a95655c5fc6767a190dd096a6dcf8e3d8a",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmgiswmgf000xiae0bb2rcok2",
+      "slug": "anthroexpo",
+      "name": "AnthroExpo",
+      "path": "data/conventions/anthroexpo.json",
+      "sha256": "43de63d70c2cf8b5813fe1c9addbb416020b88e63fe5527e0f5ce20f4779794e",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmhnwt2740000ia94a902f2d0",
+      "slug": "anthrofest",
+      "name": "Anthrofest",
+      "path": "data/conventions/anthrofest.json",
+      "sha256": "4803427659e707cab8b538ecde7db35b4c2aa153cbdb611e13c87152c44563e0",
+      "lastModified": "2026-11-01T17:19:41.648Z"
+    },
+    {
+      "id": "cmgiswmgh002piae0ts00hp7n",
+      "slug": "anthrohio",
+      "name": "AnthrOhio",
+      "path": "data/conventions/anthrohio.json",
+      "sha256": "edb226ee1511618ad6df9ca2e206f1bbde6d9b64ebe5537e7c66fcb180a68f54",
+      "lastModified": "2026-11-01T17:10:35.393Z"
+    },
+    {
+      "id": "cmhnxfisv0003ia94gkhpdunf",
+      "slug": "anthroirish",
+      "name": "AnthroIrish",
+      "path": "data/conventions/anthroirish.json",
+      "sha256": "eb76bf9139c8a880c75a877c33c54279d8e8948b5d3c664ac0dd1bab712615cd",
+      "lastModified": "2026-11-01T17:19:47.151Z"
+    },
+    {
+      "id": "bws7uxmzum1rjlvg888k7zlw",
+      "slug": "anthropolis",
+      "name": "Anthropolis",
+      "path": "data/conventions/anthropolis.json",
+      "sha256": "eb084de9cc78a2edb80e4aa74e85fb53ce79e92e4507be5a87f73eec32cf4e50",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmga0008iae0zq1b5ltt",
+      "slug": "anthropomme",
+      "name": "AnthroPomme",
+      "path": "data/conventions/anthropomme.json",
+      "sha256": "a065af2d0a32c676cdd0a05b2f0c66921d7d950961f0f7e919390dfd03df34c6",
+      "lastModified": "2026-11-01T17:04:56.889Z"
+    },
+    {
+      "id": "cmgiswmgl004wiae0cfc5d1p7",
+      "slug": "anthros-alpine",
+      "name": "Anthros & Alpine",
+      "path": "data/conventions/anthros-alpine.json",
+      "sha256": "e9d557add1922379bee5934a15d16a98d99263beba0c7c73c183d4893579de5a",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgl004xiae0fp5i5048",
+      "slug": "anthrotales",
+      "name": "AnthroTales",
+      "path": "data/conventions/anthrotales.json",
+      "sha256": "d539c4a70f909007a087a5a8ba242804a8ac3b520a07132630bd21827c2184b2",
+      "lastModified": "2026-11-01T17:15:26.478Z"
+    },
+    {
+      "id": "cmtaq4dzc0012p601fnghnaex",
+      "slug": "anthroverse",
+      "name": "Anthroverse",
+      "path": "data/conventions/anthroverse.json",
+      "sha256": "bbcf5a059e27b4597206a0d74a07914402d517aa8194f4c4cfab85695fa7baa3",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgh0029iae077034cq9",
+      "slug": "aquatifur",
+      "name": "AquatiFur",
+      "path": "data/conventions/aquatifur.json",
+      "sha256": "04c1c44e7e43ca68177fc0bea9d99f28cbc8e3e584698a8a1f8b0eebd63f3edd",
+      "lastModified": "2026-11-01T17:09:03.313Z"
+    },
+    {
+      "id": "cmgiswmge000qiae0cnx63myt",
+      "slug": "argentina-furfiesta",
+      "name": "Argentina FurFiesta",
+      "path": "data/conventions/argentina-furfiesta.json",
+      "sha256": "8f8580e618ae6ea3736af0bdd79323245ddeff906ac2ff6b1db1700c7c472029",
+      "lastModified": "2026-11-01T17:06:07.965Z"
+    },
+    {
+      "id": "cmgiswmgi002yiae0ld0jhxdf",
+      "slug": "arizona-fur-con",
+      "name": "Arizona Fur Con",
+      "path": "data/conventions/arizona-fur-con.json",
+      "sha256": "449ddd801d3bc7cc133194a161a6b438904912c070121e5c28786a695aee711a",
+      "lastModified": "2026-11-01T17:11:08.276Z"
+    },
+    {
+      "id": "cmgiswmgl004yiae0mc8yeb2p",
+      "slug": "arkconsas",
+      "name": "ArkConsas",
+      "path": "data/conventions/arkconsas.json",
+      "sha256": "a322487adc7ad751832b1598e5e5d9da535f45eeeb8aa7270ea4d70d665bb93d",
+      "lastModified": "2026-11-01T17:15:27.414Z"
+    },
+    {
+      "id": "cmhnxy2yy0004ia94e60qemzc",
+      "slug": "aural-alliance-festival",
+      "name": "Aural Alliance Festival",
+      "path": "data/conventions/aural-alliance-festival.json",
+      "sha256": "71d690234b071444f8164911312c3e94cefc20a54f01d11fc1475b4382969836",
+      "lastModified": "2026-11-01T17:19:50.598Z"
+    },
+    {
+      "id": "cmgiswmgj003diae0wnuuzi87",
+      "slug": "aurawra",
+      "name": "Aurawra",
+      "path": "data/conventions/aurawra.json",
+      "sha256": "d2736e5dfc9ee856b63a67b239d1858abf1fec0a787ba6ef6ac7b8ef512d70de",
+      "lastModified": "2026-11-01T17:12:19.027Z"
+    },
+    {
+      "id": "cmgiswmgl004ziae0as2r6vla",
+      "slug": "austin-furry-burlesque",
+      "name": "Austin Furry Burlesque",
+      "path": "data/conventions/austin-furry-burlesque.json",
+      "sha256": "f2cd6512267ed31d9b69d66dcb473e1533d694657b801e11aa51989c3ebf9cfa",
+      "lastModified": "2026-11-01T17:15:28.563Z"
+    },
+    {
+      "id": "cmgiswmgf0011iae0askpzi1q",
+      "slug": "awoostria",
+      "name": "Awoostria",
+      "path": "data/conventions/awoostria.json",
+      "sha256": "f022e206e788d353b211bddc5bf591d4fea0ee2bb6166492f41b8516f3e6ea37",
+      "lastModified": "2026-11-01T17:06:33.683Z"
+    },
+    {
+      "id": "cmgiswmgh002eiae0xeisfui3",
+      "slug": "babyfur-con",
+      "name": "Babyfur Con",
+      "path": "data/conventions/babyfur-con.json",
+      "sha256": "91ec1489af936ee4f5bb856cd7c80afa568859f0731ed69de4f290984a9f8706",
+      "lastModified": "2026-11-10T20:19:10.825Z"
+    },
+    {
+      "id": "cml9ktfj6000flx01vmuhimxt",
+      "slug": "baltifur",
+      "name": "Baltifur",
+      "path": "data/conventions/baltifur.json",
+      "sha256": "a3b1760a830fbf58541d87902864af7c82da8e1d22f7182184f7b776f2d37f50",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmlegmaee001xlx01x7i2x6ak",
+      "slug": "bangkokbeasts",
+      "name": "BangkokBeasts",
+      "path": "data/conventions/bangkokbeasts.json",
+      "sha256": "8b6040464a6cdf53aac3d6dd44ece27eb5e12a27300315837cc616c5af4e78c8",
+      "lastModified": "2026-11-01T17:20:25.860Z"
+    },
+    {
+      "id": "cmgiswmgl0050iae0wakidsar",
+      "slug": "barkada-furfest",
+      "name": "Barkada Furfest",
+      "path": "data/conventions/barkada-furfest.json",
+      "sha256": "4072e4fb3843f9b36f40a727ad2a8543170ddb0f3209c70f2e09842bb33a071b",
+      "lastModified": "2026-11-01T17:15:28.982Z"
+    },
+    {
+      "id": "cmhny97oj0005ia94x44cjtwe",
+      "slug": "berlicon",
+      "name": "BerliCon",
+      "path": "data/conventions/berlicon.json",
+      "sha256": "f70ce9e4c8b28fdc8cb8fdc211b4134f79b3816319d3875afa6e0df8bb6cc0c7",
+      "lastModified": "2026-11-01T17:19:52.046Z"
+    },
+    {
+      "id": "cmgiswmgl0052iae07curvfjt",
+      "slug": "bewhiskered",
+      "name": "Bewhiskered",
+      "path": "data/conventions/bewhiskered.json",
+      "sha256": "6fab9f56ff1bb57016a1114ea0c81eed6fa154b1f6cb0e283fc8e48eb0c26f51",
+      "lastModified": "2026-11-01T17:15:30.853Z"
+    },
+    {
+      "id": "cmgiswmgf0016iae0fjqrjxzb",
+      "slug": "big-sky-camp-paw",
+      "name": "Big Sky Camp Paw",
+      "path": "data/conventions/big-sky-camp-paw.json",
+      "sha256": "2eda65244a2643cc524f9a8d3bee94d9a1e2da1bf31caecdb2be26660cc218d2",
+      "lastModified": "2026-11-01T17:06:53.052Z"
+    },
+    {
+      "id": "cmgiswmg90001iae0cdkjpy68",
+      "slug": "blfc",
+      "name": "Biggest Little Fur Con",
+      "path": "data/conventions/blfc.json",
+      "sha256": "e4f9d057eb0e4430ba70d189edc837792f5602de7e0343baef827f5a632388cc",
+      "lastModified": "2026-11-06T02:00:17.421Z"
+    },
+    {
+      "id": "cmkj8k4yx0007p4017u15h6pc",
+      "slug": "borneo-anthro-hub",
+      "name": "Borneo Anthro Hub",
+      "path": "data/conventions/borneo-anthro-hub.json",
+      "sha256": "69c7ac82cf948b89b5a7a24fc2bf07a4d74fdf2b4d068aec693b2a716d71622b",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgf000viae0201083tc",
+      "slug": "brasil-furfest",
+      "name": "Brasil FurFest",
+      "path": "data/conventions/brasil-furfest.json",
+      "sha256": "d066c0811e91f4bacd81353685d81f9d1f6df9381a239f767f32d54f4db72e78",
+      "lastModified": "2026-11-05T23:28:38.445Z"
+    },
+    {
+      "id": "cmgiswmgl0054iae0mrf52l4r",
+      "slug": "c-ace",
+      "name": "C-ACE",
+      "path": "data/conventions/c-ace.json",
+      "sha256": "7dff7d71174642d7a7b5104afd725877e3ff5acd86e4781166235cf5f09a22b2",
+      "lastModified": "2026-11-01T17:15:35.228Z"
+    },
+    {
+      "id": "cmgiswmgl0055iae0jny9w2j6",
+      "slug": "calfurry",
+      "name": "Calfurry",
+      "path": "data/conventions/calfurry.json",
+      "sha256": "743604ed58aaed4d35656d99bc5972793a957734d8ef252cfc32a1509a23d6fb",
+      "lastModified": "2026-11-01T17:15:37.518Z"
+    },
+    {
+      "id": "cmgiswmgl0056iae0e931p729",
+      "slug": "califur",
+      "name": "Califur",
+      "path": "data/conventions/califur.json",
+      "sha256": "01bd6b84cdadd4956dee543181f206565c45b1f3bbb13bd4408f006044f9c526",
+      "lastModified": "2026-11-01T17:15:38.764Z"
+    },
+    {
+      "id": "cmp4cntzj0042lf01vx9gx2e3",
+      "slug": "camp-conifur",
+      "name": "Camp Conifur",
+      "path": "data/conventions/camp-conifur.json",
+      "sha256": "32b28df99ff6f2236039891a99c1f6c2f35f2a87af1f9816c3791d97d1f0b1d9",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgc000giae03yws4qli",
+      "slug": "camp-feral",
+      "name": "Camp Feral!",
+      "path": "data/conventions/camp-feral.json",
+      "sha256": "87b1dfb00dc35bdd25e84b5f4d5d52cf0316cae6847af4206bcfc89f0e44e503",
+      "lastModified": "2026-10-29T03:05:53.993Z"
+    },
+    {
+      "id": "cmgiswmgl0057iae0umgdk5kl",
+      "slug": "camp-furst-state",
+      "name": "Camp Furst State",
+      "path": "data/conventions/camp-furst-state.json",
+      "sha256": "c0dae62e28725078776931cd3c1855eee28f81d5b91fc18fced1b55f33c4e693",
+      "lastModified": "2026-11-01T17:15:47.815Z"
+    },
+    {
+      "id": "cmgiswmgl0059iae0o03l72ql",
+      "slug": "camp-tiny-paws",
+      "name": "Camp Tiny Paws",
+      "path": "data/conventions/camp-tiny-paws.json",
+      "sha256": "8846861aec553a96ef6b3edd414bcacfe6e13e303078eb67ab69beef3799fe71",
+      "lastModified": "2026-11-01T17:15:50.433Z"
+    },
+    {
+      "id": "cmgiswmga0007iae05tm2rxrf",
+      "slug": "campfire-tails",
+      "name": "Campfire Tails",
+      "path": "data/conventions/campfire-tails.json",
+      "sha256": "033d746a37d92dbfb73047498b2757fc7ab3f1a70e19074bc169d020f788f735",
+      "lastModified": "2026-11-01T17:04:51.667Z"
+    },
+    {
+      "id": "cmgiswmge000oiae05llqyw64",
+      "slug": "camping-paws",
+      "name": "Camping Paws",
+      "path": "data/conventions/camping-paws.json",
+      "sha256": "e256d72d6ddae6b74aec0812af860e83a7b16b7a6f0ecb123abddb0c8a279b4d",
+      "lastModified": "2026-11-01T17:06:06.921Z"
+    },
+    {
+      "id": "cmgiswmgf0017iae0womhmlt2",
+      "slug": "canfurence",
+      "name": "CanFURence",
+      "path": "data/conventions/canfurence.json",
+      "sha256": "3a1483efe5adafb10b5e5b67659d4633a2ee0659dc9c01670de1bb0e7f01190f",
+      "lastModified": "2026-11-01T17:06:56.486Z"
+    },
+    {
+      "id": "cmgiswmgl005aiae0wrhoxoux",
+      "slug": "canthrofur",
+      "name": "CanthroFur",
+      "path": "data/conventions/canthrofur.json",
+      "sha256": "c59663c58d7bc527110be5b74b074f5d309d3002b7e37e179a6f8f6ee8410225",
+      "lastModified": "2026-11-04T02:15:50.414Z"
+    },
+    {
+      "id": "cmgiswmgl005biae08agiz7i3",
+      "slug": "capital-city-fur-con",
+      "name": "Capital City Fur Con",
+      "path": "data/conventions/capital-city-fur-con.json",
+      "sha256": "0e167c0f733b6cf7a577ca85919e471b2016fae4adee38b420e022c1fd24ffe4",
+      "lastModified": "2026-11-01T17:15:55.026Z"
+    },
+    {
+      "id": "cmkj9alxl000jp401ad4ye0sw",
+      "slug": "capital-fur-con",
+      "name": "Capital Fur Con",
+      "path": "data/conventions/capital-fur-con.json",
+      "sha256": "4440fe34ce9de0b3ccd11fb3ab3a000069aa2e2902999a4ac338fa59921f0f42",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmnex06ps0028no0102ztvl7t",
+      "slug": "capital-furcon",
+      "name": "Capital Furcon",
+      "path": "data/conventions/capital-furcon.json",
+      "sha256": "7f59f472b001c49aba2c0f2380a9dc62a440b569235884201e73868c0812621c",
+      "lastModified": "2026-11-01T17:20:35.568Z"
+    },
+    {
+      "id": "cmgiswmgc000eiae00wr24w16",
+      "slug": "carolina-furfare",
+      "name": "Carolina Furfare",
+      "path": "data/conventions/carolina-furfare.json",
+      "sha256": "658a5429233c620d68d0ec4f160c9713d628d46564c7dce45c5c6e554358651e",
+      "lastModified": "2026-11-01T17:05:27.445Z"
+    },
+    {
+      "id": "cmgiswmgk004miae04me1ofxm",
+      "slug": "castlecon",
+      "name": "CastleCon",
+      "path": "data/conventions/castlecon.json",
+      "sha256": "e47c1eb2be1304b33e4d36f6df1a55df15e50a05d482da30fe549fddaba33f62",
+      "lastModified": "2026-11-01T17:15:09.349Z"
+    },
+    {
+      "id": "cmgiswmgc000hiae0r5ywn4zk",
+      "slug": "cbrfur",
+      "name": "CBRFUR",
+      "path": "data/conventions/cbrfur.json",
+      "sha256": "3add06ccc9bee61eeeec393f3834e9ead73e54188ede6c74ce47b00cdc438e3d",
+      "lastModified": "2026-11-01T17:05:36.982Z"
+    },
+    {
+      "id": "cmgiswmgm005diae0oo3fg528",
+      "slug": "central-plains-fur-con",
+      "name": "Central Plains Fur Con",
+      "path": "data/conventions/central-plains-fur-con.json",
+      "sha256": "3e35e1bceff9e237c479e52185704f8c2b8d6e4ad3814c6c0e91e0338bee485e",
+      "lastModified": "2026-11-01T17:15:56.171Z"
+    },
+    {
+      "id": "cmgiswmgj003wiae0pvfc4dx4",
+      "slug": "central-plains-fur-meet",
+      "name": "Central Plains Fur Meet",
+      "path": "data/conventions/central-plains-fur-meet.json",
+      "sha256": "5acef587e6d1f95bb6432841389c04e45259238e2c4acd5c2af1c7cbe8688b9e",
+      "lastModified": "2026-11-01T17:13:03.619Z"
+    },
+    {
+      "id": "cmgiswmgh002giae0rgiiibkh",
+      "slug": "cesfur",
+      "name": "ČeSFuR",
+      "path": "data/conventions/cesfur.json",
+      "sha256": "624d84715d0963be8055b23a448d918b987ae1cff996e88ee038e378080a8693",
+      "lastModified": "2026-11-01T17:10:00.475Z"
+    },
+    {
+      "id": "cmhnylv420006ia942gv91snt",
+      "slug": "ch-on",
+      "name": "CH-on",
+      "path": "data/conventions/ch-on.json",
+      "sha256": "a0eaa6b127e638b2e457ba2b741e865b0f11946bf139c9fc400b2151cb957733",
+      "lastModified": "2026-11-01T17:19:56.150Z"
+    },
+    {
+      "id": "cmgiswmgl0058iae0s9fxzcuf",
+      "slug": "cmt",
+      "name": "Camp Mani-Toebeans",
+      "path": "data/conventions/cmt.json",
+      "sha256": "7ca0a77b8ecd25fb3a4fdce1f41b8bfdfa990c407282f227979eca47f4cc6f39",
+      "lastModified": "2026-11-01T17:15:49.804Z"
+    },
+    {
+      "id": "cmgiswmgm005giae0jrrss75z",
+      "slug": "condition",
+      "name": "Condition",
+      "path": "data/conventions/condition.json",
+      "sha256": "8c46281f502131160b9580e8418991206e82536435d974b29a808abb7a87fd62",
+      "lastModified": "2026-11-01T17:15:58.758Z"
+    },
+    {
+      "id": "cmgiswmgm005hiae0bpa4kd5z",
+      "slug": "confurence",
+      "name": "ConFurence",
+      "path": "data/conventions/confurence.json",
+      "sha256": "068f319b7883176ea547fce61541962cb0343cd293c7b3920d63d8d6828026d3",
+      "lastModified": "2026-11-01T17:16:02.984Z"
+    },
+    {
+      "id": "cmgiswmgr0094iae0u3e7v7zg",
+      "slug": "confurence-east",
+      "name": "ConFurence East",
+      "path": "data/conventions/confurence-east.json",
+      "sha256": "a94f8ab89890ec10fc74ec1fdae87d38750510520671946cb4c9af17d29654c4",
+      "lastModified": "2026-11-01T17:19:38.840Z"
+    },
+    {
+      "id": "cmgiswmgm005iiae0o9pjxqyg",
+      "slug": "confurgence",
+      "name": "ConFurgence",
+      "path": "data/conventions/confurgence.json",
+      "sha256": "c6e75c9476e543a9a0e496cef86aeb13e311cd82efcb9150d5c7e9d0a13143ed",
+      "lastModified": "2026-11-01T17:16:14.018Z"
+    },
+    {
+      "id": "cmgiswmgh002fiae0wgvrpadr",
+      "slug": "confuror",
+      "name": "Confuror",
+      "path": "data/conventions/confuror.json",
+      "sha256": "9055df087790f80a2d2cc1fa7ca84460dd9f4725e9ab2cfc811fc1604ae65c63",
+      "lastModified": "2026-11-10T22:30:34.507Z"
+    },
+    {
+      "id": "cmgiswmgj003miae0qlcvcm0z",
+      "slug": "confurtiva",
+      "name": "ConFurtiva",
+      "path": "data/conventions/confurtiva.json",
+      "sha256": "1737522dfdf6e4deb8cbde0d577babcbcb73ef687e766d537034e56d7721b61c",
+      "lastModified": "2026-11-01T17:12:43.865Z"
+    },
+    {
+      "id": "cmgiswmgh002jiae0tvyrcqd8",
+      "slug": "confuzzled",
+      "name": "ConFuzzled",
+      "path": "data/conventions/confuzzled.json",
+      "sha256": "0648f76b1f1aa924417272bfa735a36e8d9d49c94b7a6a50d504cbf049cc395d",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmhnzesp80008ia94b4clb5m3",
+      "slug": "conifur-northwest",
+      "name": "Conifur Northwest",
+      "path": "data/conventions/conifur-northwest.json",
+      "sha256": "741a1ea119e779fe4d57e2852cb775f3d00a81c73286f400184576474c609a3f",
+      "lastModified": "2026-11-01T17:19:58.217Z"
+    },
+    {
+      "id": "cmhnz036g0007ia943jaxs2ob",
+      "slug": "crittercondiego",
+      "name": "CritterConDiego",
+      "path": "data/conventions/crittercondiego.json",
+      "sha256": "5985386ab59bfaed0d41eb04a62ebf69bb42a9b2d41ff3880097b129f05ab015",
+      "lastModified": "2026-11-01T17:19:57.803Z"
+    },
+    {
+      "id": "cmho0k84u0009ia94z73iyflj",
+      "slug": "defcon-furs",
+      "name": "DEFCON Furs",
+      "path": "data/conventions/defcon-furs.json",
+      "sha256": "5eed07640d84c8caccb33a42ff3213e5a5a488a7a9310399471c1f6cac6fa1de",
+      "lastModified": "2026-11-01T17:20:04.681Z"
+    },
+    {
+      "id": "cmgiswmgi0038iae0rzarfp8b",
+      "slug": "denfur",
+      "name": "DenFur",
+      "path": "data/conventions/denfur.json",
+      "sha256": "4115a55c42bee8ea57534f50d3a2c0ec9d8fdbd78463c4e78ba6a23b4821c44b",
+      "lastModified": "2026-11-01T17:11:56.477Z"
+    },
+    {
+      "id": "cmgiswmgf0018iae0irrqxx3i",
+      "slug": "dutch-furcon",
+      "name": "Dutch FurCon",
+      "path": "data/conventions/dutch-furcon.json",
+      "sha256": "51afdd8f7106c0df62d723ac25eab38dd41dd3f9d22bb2a8bd1f1e6b6b3f49f1",
+      "lastModified": "2026-11-01T17:07:03.052Z"
+    },
+    {
+      "id": "cmgiswmgj003siae0rc7pxwof",
+      "slug": "east",
+      "name": "EAST",
+      "path": "data/conventions/east.json",
+      "sha256": "47bd651df6b45d27b4817f9e1637de4fa3dc6cb947f5ec815437aca0fe878fe6",
+      "lastModified": "2026-11-01T17:12:52.139Z"
+    },
+    {
+      "id": "cmgiswmgm005liae0dw1sznxz",
+      "slug": "emerald-s-fur-summit",
+      "name": "Emerald's Fur Summit",
+      "path": "data/conventions/emerald-s-fur-summit.json",
+      "sha256": "313566bc3ceaa77a24d0a42ddf4b756b7f495a4a0dceb3fac1d2df0c8c2f7731",
+      "lastModified": "2026-11-01T17:16:17.757Z"
+    },
+    {
+      "id": "cmgiswmgj003tiae07gon1axd",
+      "slug": "eufuria",
+      "name": "Eufuria",
+      "path": "data/conventions/eufuria.json",
+      "sha256": "b755f8a5ad841c741ecb25c1937add93ef9efc4085c80b94356bde743865e16a",
+      "lastModified": "2026-11-01T17:13:01.123Z"
+    },
+    {
+      "id": "cmgiswmgi002riae0b8sibevk",
+      "slug": "eurofurence",
+      "name": "Eurofurence",
+      "path": "data/conventions/eurofurence.json",
+      "sha256": "2bd067401ad75b2eb305bdf82904dadfb7e5a9f6d0d748e0b5e59295618b7d1a",
+      "lastModified": "2026-11-01T17:10:46.307Z"
+    },
+    {
+      "id": "cmgiswmgm005niae0ggtsmmpf",
+      "slug": "expofur",
+      "name": "Expofur",
+      "path": "data/conventions/expofur.json",
+      "sha256": "fc23ef52a37bd124d4c2c7a7471eaeba55209c4ac497aac09f66d9f15960a74d",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmho1az6r000bia94r8bpff4z",
+      "slug": "f3con",
+      "name": "F3 Convention",
+      "path": "data/conventions/f3con.json",
+      "sha256": "1e0763166ccf3c2d47655497a305fe1cb35ec1012a0aebb5da785c608a6e9f03",
+      "lastModified": "2026-11-01T17:20:05.122Z"
+    },
+    {
+      "id": "cmgiswmgm005oiae06y8i9ll3",
+      "slug": "fa-united",
+      "name": "FA United",
+      "path": "data/conventions/fa-united.json",
+      "sha256": "e0efad326d73f9f26369f6965faa440a5510a1af66858d9a7ca3cc65b5fc6e58",
+      "lastModified": "2026-11-01T17:16:18.793Z"
+    },
+    {
+      "id": "cmmguqtgv00brmo01yn8gal7w",
+      "slug": "fall-fur-fair",
+      "name": "Fall Fur Fair",
+      "path": "data/conventions/fall-fur-fair.json",
+      "sha256": "1386f6b2106bbeac6ac1163604dad903ab418b5b585e6fd1ad460b5ebf6be7e1",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgh002diae076ermq7b",
+      "slug": "fangcon",
+      "name": "Fangcon",
+      "path": "data/conventions/fangcon.json",
+      "sha256": "f20db581fb7db53bf8bb194363a84c1fbe261e41e83a2b4dc9cd8e7656b31b72",
+      "lastModified": "2026-11-01T17:09:45.300Z"
+    },
+    {
+      "id": "cmgiswmgi002wiae06guafax4",
+      "slug": "fauntastic",
+      "name": "Fauntastic",
+      "path": "data/conventions/fauntastic.json",
+      "sha256": "f6e3c46c453bb24da0c15da4b239d3acb085485651b9e6b9c3b54d609e7969d3",
+      "lastModified": "2026-11-01T17:11:03.865Z"
+    },
+    {
+      "id": "cmmusg29f0074oa01yg49778f",
+      "slug": "fern",
+      "name": "Furry Enthusiast's Rendezvous in New Mexico",
+      "path": "data/conventions/fern.json",
+      "sha256": "ba2005445580ecbf340f8897689657f8b2f1bd3e49b4d15578b10c06a92d2e33",
+      "lastModified": "2026-11-01T17:20:33.081Z"
+    },
+    {
+      "id": "cmqo44fhh00kqlh017bl13k5o",
+      "slug": "fhp",
+      "name": "Fursuit Halloween Prague",
+      "path": "data/conventions/fhp.json",
+      "sha256": "800c6ed02ad8e617dfdaf3a113439243f35c7c19d6d782568b533360e70ff411",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgf001biae0coapg14y",
+      "slug": "finfur-animus",
+      "name": "FinFur Animus",
+      "path": "data/conventions/finfur-animus.json",
+      "sha256": "f1b1086b1d4d688b7125f9e760eb3aef9121a3de9f74c11165da495787999a0a",
+      "lastModified": "2026-11-01T17:07:12.741Z"
+    },
+    {
+      "id": "cmlv7ykef002fqj014top53ze",
+      "slug": "flop",
+      "name": "Furry Legends of Paradise",
+      "path": "data/conventions/flop.json",
+      "sha256": "d2803f35cd3b8de2ba0d8d6d367a9fe3ef7436557cc840607c743c10d97f0eb6",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgi0037iae0vhysy0f7",
+      "slug": "fluufff",
+      "name": "Flüüfff",
+      "path": "data/conventions/fluufff.json",
+      "sha256": "8b249208c4a84f44377cb672d76908f1d7b7ceeb7cb0948bd86813f1e0a70b1e",
+      "lastModified": "2026-11-01T17:11:54.077Z"
+    },
+    {
+      "id": "cmua2rto1001fp601jjao4c8z",
+      "slug": "fox-den-con",
+      "name": "Fox Den Con",
+      "path": "data/conventions/fox-den-con.json",
+      "sha256": "ec97ffb63bc9569d011420b3f987c0fe96e3234546dc862a655acf545a7d4415",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgm005qiae04kta9tyl",
+      "slug": "free-fur-all",
+      "name": "Free Fur All",
+      "path": "data/conventions/free-fur-all.json",
+      "sha256": "342095a3c387bb1f422913d52d87604d396bf6d3c8cd88b4dc36b4e018fd3f9a",
+      "lastModified": "2026-11-01T17:16:27.500Z"
+    },
+    {
+      "id": "cmgiswmgm005siae0kocr11y2",
+      "slug": "fumps-weekend-off-fest",
+      "name": "Fumps Weekend Off Fest",
+      "path": "data/conventions/fumps-weekend-off-fest.json",
+      "sha256": "d50069c69d9f4cc5aaad2142a6667bfe2fd75a3c7de66416f9cd71585a02c4bc",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgf001fiae0lk2o413d",
+      "slug": "fur-eh",
+      "name": "Fur-Eh!",
+      "path": "data/conventions/fur-eh.json",
+      "sha256": "3e0e0b74b28d957e38ee89af60ac3531dc4f91062885c4884a3963e523a70b7e",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmgiswmgh002niae0kvku0rus",
+      "slug": "fur-out-west",
+      "name": "Fur Out West",
+      "path": "data/conventions/fur-out-west.json",
+      "sha256": "3a08871bee4d2a99c811bccfc9e679cf6304612e02d02a3560a385aa5964f540",
+      "lastModified": "2026-11-01T17:10:31.417Z"
+    },
+    {
+      "id": "cmgiswmgd000iiae0ol753ywd",
+      "slug": "fur-reality",
+      "name": "Fur Reality",
+      "path": "data/conventions/fur-reality.json",
+      "sha256": "069ba6514cd35e89c9369f3cea53d5d0a8eb37311a20703d0538b1cfaf016694",
+      "lastModified": "2026-11-01T17:05:39.290Z"
+    },
+    {
+      "id": "cmgiswmgn006liae0fricmwoi",
+      "slug": "fur-squared",
+      "name": "FurSquared",
+      "path": "data/conventions/fur-squared.json",
+      "sha256": "a954fe5e9e93e746d2007f9403b5a23d89bf021abdba4e5e3445a92d1d8306ca",
+      "lastModified": "2026-11-01T17:17:19.595Z"
+    },
+    {
+      "id": "cmgiswmgb000diae07gka2pv9",
+      "slug": "fur-the-more",
+      "name": "Fur the 'More",
+      "path": "data/conventions/fur-the-more.json",
+      "sha256": "6cd9f9131c2f74842938eaf2cd7afbb267d750857eabff6b66dac80f929ac812",
+      "lastModified": "2026-11-01T17:05:20.376Z"
+    },
+    {
+      "id": "cmgiswmgo006qiae0w54tj4c5",
+      "slug": "fur-xoticon",
+      "name": "Fur-Xoticon",
+      "path": "data/conventions/fur-xoticon.json",
+      "sha256": "352e0ed229c136e5e55f9bf9cd2621e76f6991fdc96db2d751da3554c36526d2",
+      "lastModified": "2026-11-01T17:17:30.606Z"
+    },
+    {
+      "id": "cmneqtb9t000fno01o24ieuf3",
+      "slug": "furcalvadance",
+      "name": "FurCalvaDance",
+      "path": "data/conventions/furcalvadance.json",
+      "sha256": "c1cd92b9941683ca6e8a679795a697dd22c57ff25c55987293c4ca84228ab28e",
+      "lastModified": "2026-11-01T17:20:34.216Z"
+    },
+    {
+      "id": "cmgiswmgg001iiae0meniht14",
+      "slug": "furcamp",
+      "name": "FURCAMP",
+      "path": "data/conventions/furcamp.json",
+      "sha256": "88c0405390ba989fc52da4c0afdd5436aefda311332814f944b6109d3602b653",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmgiswmgm005tiae0no0g9cl5",
+      "slug": "furcamp-michigan",
+      "name": "FurCamp Michigan",
+      "path": "data/conventions/furcamp-michigan.json",
+      "sha256": "5fbb2e352ded46c2604b5255d89421f3ccfa84e47a3324ee421b50a5fc1b6cc0",
+      "lastModified": "2026-11-01T17:16:29.567Z"
+    },
+    {
+      "id": "cmgiswmgh0027iae05q9bpmp3",
+      "slug": "furcan",
+      "name": "FurCan",
+      "path": "data/conventions/furcan.json",
+      "sha256": "9ab72dce6d25be55a8fe3291582e591cc6eebdf6a86ecbae631b26ec3886dca6",
+      "lastModified": "2026-11-01T17:08:59.196Z"
+    },
+    {
+      "id": "cmgiswmgd000kiae0hmjtwofu",
+      "slug": "furcation",
+      "name": "Furcation",
+      "path": "data/conventions/furcation.json",
+      "sha256": "3fe9ad47dce1a0896479f2311d71d1ee865b47a0421daf83d843c7a9b3947edf",
+      "lastModified": "2026-11-01T17:05:49.616Z"
+    },
+    {
+      "id": "cmgiswmgj003oiae04ydj6v7n",
+      "slug": "furcationland",
+      "name": "Furcationland",
+      "path": "data/conventions/furcationland.json",
+      "sha256": "cf46728f7902194ab879cbb755f99e63281bd153c3d0981a32e0eeb047c9f116",
+      "lastModified": "2026-11-01T17:12:45.221Z"
+    },
+    {
+      "id": "cmgiswmgk004hiae0hbwlqbkn",
+      "slug": "furconsin",
+      "name": "FURconsin",
+      "path": "data/conventions/furconsin.json",
+      "sha256": "fb6e195bf8e31424ac745bec018a7f783fa3faef735c049924434eebbc22c3e6",
+      "lastModified": "2026-11-01T17:14:43.982Z"
+    },
+    {
+      "id": "cmgiswmgm005uiae0ih99jbfg",
+      "slug": "furconz",
+      "name": "FurcoNZ Hotel",
+      "path": "data/conventions/furconz.json",
+      "sha256": "2b0f34a98d7fff3c6ea91529cd66ab0ed5ab58b7fa6474aad19ed4b4e65bf5c9",
+      "lastModified": "2026-11-01T17:16:31.349Z"
+    },
+    {
+      "id": "cmgiswmgm005viae0bsnjmr6m",
+      "slug": "furdance-budapest",
+      "name": "Furdance Budapest",
+      "path": "data/conventions/furdance-budapest.json",
+      "sha256": "e5e0b6dbcfe557152e08b9580aa7a12c5a3d343b467ad75ecfc4a1f9c4accb93",
+      "lastModified": "2026-11-01T17:16:35.528Z"
+    },
+    {
+      "id": "cmgiswmgk004aiae0869aqbbb",
+      "slug": "furdu",
+      "name": "Furry Down Under",
+      "path": "data/conventions/furdu.json",
+      "sha256": "fb9261453eb55557cf908e55413787fe8ad384b19dc41703feacaddb26720fbe",
+      "lastModified": "2026-11-01T17:13:48.928Z"
+    },
+    {
+      "id": "cmgiswmgm005wiae0e90c77o5",
+      "slug": "fureast",
+      "name": "FurEast",
+      "path": "data/conventions/fureast.json",
+      "sha256": "6e122e4ab2ba226fde8d53bd42fd57f9fd353d92695f4ef0034e811118923e1a",
+      "lastModified": "2026-11-01T17:16:38.331Z"
+    },
+    {
+      "id": "cmgiswmgm005xiae0y13wdsa5",
+      "slug": "furever-west",
+      "name": "Furever West",
+      "path": "data/conventions/furever-west.json",
+      "sha256": "de0f7ae7ab6f14b15ededfa6aa270e3ad4bedef9e18e8f6d10e260d861fdbd37",
+      "lastModified": "2026-11-01T17:16:39.268Z"
+    },
+    {
+      "id": "cmgiswmgm005yiae03gjg5u1d",
+      "slug": "furfright",
+      "name": "FurFright",
+      "path": "data/conventions/furfright.json",
+      "sha256": "3a7814cebf747918f1554cf7a47f4285e4b594d8794262f5c51851380dc4c8cc",
+      "lastModified": "2026-11-01T17:16:41.349Z"
+    },
+    {
+      "id": "cmgiswmgm005ziae0bvfxi9dz",
+      "slug": "furgeddaboutit",
+      "name": "Furgeddaboutit",
+      "path": "data/conventions/furgeddaboutit.json",
+      "sha256": "7346365146a4c6a56c9e175073bf6c69d820bec6747811f4456994689d7efde8",
+      "lastModified": "2026-11-01T17:16:48.598Z"
+    },
+    {
+      "id": "cmmjrr0zm000goa01jwz7lh8w",
+      "slug": "furgether",
+      "name": "Furgether",
+      "path": "data/conventions/furgether.json",
+      "sha256": "427d4e04debb3756943a2a12f2b2cd2902ddda64e44f52151bec86357ef8a2fa",
+      "lastModified": "2026-11-01T17:20:29.257Z"
+    },
+    {
+      "id": "cmgiswmgn0060iae093xxf5vn",
+      "slug": "furgiv",
+      "name": "Furry Gathering in Vietnam",
+      "path": "data/conventions/furgiv.json",
+      "sha256": "3ed5e59eea3056d86cb3edfa442021c3949d32c2d4133f989123120764d243fd",
+      "lastModified": "2026-11-01T17:16:51.416Z"
+    },
+    {
+      "id": "cmgiswmgn0061iae0nta319ai",
+      "slug": "furidaho",
+      "name": "FurIdaho",
+      "path": "data/conventions/furidaho.json",
+      "sha256": "e1ad280489d0ed5cab47a244a5d6efc9f0e01d7587856c67f9221b264bb77b5b",
+      "lastModified": "2026-11-01T17:16:53.597Z"
+    },
+    {
+      "id": "cmgiswmgk0042iae02p7o7plv",
+      "slug": "furizon",
+      "name": "Furizon",
+      "path": "data/conventions/furizon.json",
+      "sha256": "ed19aceef0ed5ed48d68b173e08f2c4d370b9c21616ef7f0d3842dd3dc6f3039",
+      "lastModified": "2026-11-06T02:00:16.307Z"
+    },
+    {
+      "id": "cmgiswmgg001miae05nakl5a4",
+      "slug": "furjam",
+      "name": "FurJAM",
+      "path": "data/conventions/furjam.json",
+      "sha256": "d6009bd9b625c8a87b1c14ce07d1a28b32bc58936e2bf94f9ccdde305f29c7c2",
+      "lastModified": "2026-11-01T17:07:55.531Z"
+    },
+    {
+      "id": "cmgiswmgh0026iae0n0cqmr79",
+      "slug": "furlandia",
+      "name": "Furlandia",
+      "path": "data/conventions/furlandia.json",
+      "sha256": "aa4fc76d0dee7feea75634d4b70be7262fe3aba667d4289971ec5a6a5b0754b0",
+      "lastModified": "2026-11-01T17:08:50.709Z"
+    },
+    {
+      "id": "cmho1q92t000cia944w1gt76z",
+      "slug": "furlaxation",
+      "name": "Furlaxation",
+      "path": "data/conventions/furlaxation.json",
+      "sha256": "d36a999be18bbefb4883dc97a8fe33344cbd67a82d8dad03a645b5fc7b4f37ce",
+      "lastModified": "2026-11-01T17:20:07.725Z"
+    },
+    {
+      "id": "cml6uekjo0008lx01g3k4yjv2",
+      "slug": "furlingame",
+      "name": "Furlingame",
+      "path": "data/conventions/furlingame.json",
+      "sha256": "26f66c087a57d08bfa96e35caeae6a563dd96889d85a13c9bbb41eac76b8d7b5",
+      "lastModified": "2026-11-01T17:20:23.591Z"
+    },
+    {
+      "id": "cmgiswmgh002liae0ea12knv5",
+      "slug": "furloween",
+      "name": "Furloween",
+      "path": "data/conventions/furloween.json",
+      "sha256": "224db6e01df7877b7405db4acc25559f72785ef36d66095eaf0782c57032185d",
+      "lastModified": "2026-11-01T17:10:30.374Z"
+    },
+    {
+      "id": "cmgiswmgn0062iae0701axv8m",
+      "slug": "furmit",
+      "name": "FurMIT",
+      "path": "data/conventions/furmit.json",
+      "sha256": "ddfcb8f11ab1cee510c8ce7847307ef7945f2a6f4a7064cfd76b84a0bdaa068b",
+      "lastModified": "2026-11-01T17:16:55.469Z"
+    },
+    {
+      "id": "cmgiswmgi0034iae0uyr3sm8h",
+      "slug": "furnal-equinox",
+      "name": "Furnal Equinox",
+      "path": "data/conventions/furnal-equinox.json",
+      "sha256": "57c2373a15d08ba330a65879ac37c24bc5fbb8296e903d6e8e531a991bcd232d",
+      "lastModified": "2026-11-05T14:35:50.627Z"
+    },
+    {
+      "id": "cmgiswmgb000ciae0yz6k7vrj",
+      "slug": "furnavia",
+      "name": "Furnavia",
+      "path": "data/conventions/furnavia.json",
+      "sha256": "772583f45097fa1dac8ffe841989147406b2e7bd1e5a471ceb7422d5b4b8ca7f",
+      "lastModified": "2026-11-01T20:29:06.209Z"
+    },
+    {
+      "id": "cmgiswmgn0063iae04w4svvf9",
+      "slug": "furnexion",
+      "name": "Furnexion",
+      "path": "data/conventions/furnexion.json",
+      "sha256": "6d8fd350a00715b8780156ed25823400e286c9194761c4c65b9dcf43058798c6",
+      "lastModified": "2026-11-01T17:16:57.129Z"
+    },
+    {
+      "id": "cmgiswmgn0064iae02cp03ynz",
+      "slug": "furoween",
+      "name": "Furoween",
+      "path": "data/conventions/furoween.json",
+      "sha256": "93b8d0714525df6953c0f4eb253c72516d15533676fee98f6bce46968c107260",
+      "lastModified": "2026-11-01T17:16:58.275Z"
+    },
+    {
+      "id": "cmgiswmgn0065iae0cul1j023",
+      "slug": "furpile",
+      "name": "Furpile",
+      "path": "data/conventions/furpile.json",
+      "sha256": "c393fd259b178096d7e586b662c5b472f4e63c2956812f8b3605dd62e79c6315",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgf0013iae0sedv5qq0",
+      "slug": "furpocalypse",
+      "name": "Furpocalypse",
+      "path": "data/conventions/furpocalypse.json",
+      "sha256": "c38cb23c6172b15f2d9a99d38cb5fb5c0534f0cbf1dc928cdeec34d8b526a406",
+      "lastModified": "2026-11-05T23:39:17.339Z"
+    },
+    {
+      "id": "cms6pigsw003gp60106y0jy5w",
+      "slug": "furraymi",
+      "name": "Fur Raymi",
+      "path": "data/conventions/furraymi.json",
+      "sha256": "dcd2064aa7594db4b68f64652f7d3acb85158d8d67ad85495e145293af4b9782",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmlhhezk0000blj0173wjzzlf",
+      "slug": "furrburg",
+      "name": "Furrburg",
+      "path": "data/conventions/furrburg.json",
+      "sha256": "afff44e839c1fb30f7cc23b36073639d14f8cac52f48966ca4b8290581b748ad",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgn0066iae0m2we3o6k",
+      "slug": "furrest-city",
+      "name": "Furrest City",
+      "path": "data/conventions/furrest-city.json",
+      "sha256": "b6f65c50feaac48d853c6a135761ae0a8d7a02b295b6ba143b30f40c675e77a6",
+      "lastModified": "2026-11-10T00:44:15.228Z"
+    },
+    {
+      "id": "cmmfsmzx400bomo01mm4gs34y",
+      "slug": "furrest-con",
+      "name": "Furrest Con",
+      "path": "data/conventions/furrest-con.json",
+      "sha256": "877d598587cd064af9520a09e8fbc92aa06b11202a551c9b15217cd5e3539966",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgi002xiae0ph1rsfbm",
+      "slug": "furrnion",
+      "name": "Furrnion",
+      "path": "data/conventions/furrnion.json",
+      "sha256": "5c7a35a6c774b5d4bf9fb0b831a0b483b2d7ce067d6d56529fb352ceb5fd4da5",
+      "lastModified": "2026-11-01T17:11:06.178Z"
+    },
+    {
+      "id": "cmgiswmgn0067iae06hvw00c8",
+      "slug": "furror",
+      "name": "Furror",
+      "path": "data/conventions/furror.json",
+      "sha256": "3a5c73bb383c0bce14664e7d9c945ac87458b1c0381318b212b6ba6d555e4c33",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgn0068iae06kzxseo3",
+      "slug": "furrstein",
+      "name": "Furrstein",
+      "path": "data/conventions/furrstein.json",
+      "sha256": "bbe02b11cd46b556ea7f5aeb3e1d88f93938410131faadd9444fff7782d535ad",
+      "lastModified": "2026-11-01T17:17:00.372Z"
+    },
+    {
+      "id": "cmgiswmgf000uiae0gc6tx46o",
+      "slug": "furry-blacklight",
+      "name": "Furry BlackLight",
+      "path": "data/conventions/furry-blacklight.json",
+      "sha256": "2f632ba40db2467968779960eddd8e440465aa48a308034967eb9e2a1475b7b4",
+      "lastModified": "2026-11-01T17:06:15.548Z"
+    },
+    {
+      "id": "cmgiswmgn0069iae0b0kz54fa",
+      "slug": "furry-connection-north",
+      "name": "Furry Connection North",
+      "path": "data/conventions/furry-connection-north.json",
+      "sha256": "0c8ff13665f6727318becf829b2d4e4a8c92ec3545cc40336afba0eeeb3706ae",
+      "lastModified": "2026-11-01T17:17:02.722Z"
+    },
+    {
+      "id": "cmwcip8tb0001rx01ly1qf60a",
+      "slug": "furry-constellation-nippon",
+      "name": "Furry Constellation Nippon",
+      "path": "data/conventions/furry-constellation-nippon.json",
+      "sha256": "6a34acc2105d157fee1c6220923cb6909c156be977d2dc56665042fca770a6b2",
+      "lastModified": "2026-11-11T20:00:14.945Z"
+    },
+    {
+      "id": "cmgiswmg90003iae0mlrlabp7",
+      "slug": "furry-cruise",
+      "name": "Furry Cruise",
+      "path": "data/conventions/furry-cruise.json",
+      "sha256": "28871abdacc1309c0964d68ae0dc13d7cf715e3eda9aa227809bbc3268c4e55c",
+      "lastModified": "2026-11-01T17:04:44.820Z"
+    },
+    {
+      "id": "cmgiswmgr008liae0mlcs67xw",
+      "slug": "furry-fiesta",
+      "name": "Texas Furry Fiesta",
+      "path": "data/conventions/furry-fiesta.json",
+      "sha256": "3a00c31205fd2ce98374ae2bf6807cd18c189316cff1612374d75fd9942206df",
+      "lastModified": "2026-11-01T17:19:14.648Z"
+    },
+    {
+      "id": "cmgiswmgn006biae0twrch2os",
+      "slug": "furry-joa",
+      "name": "Furry JoA",
+      "path": "data/conventions/furry-joa.json",
+      "sha256": "4464bd5d06b8081edf02ad7f4bc01a6a38edf7eadc8de2ca36f35ca96e90e637",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgh002biae0k2x10nel",
+      "slug": "furry-migration",
+      "name": "Furry Migration",
+      "path": "data/conventions/furry-migration.json",
+      "sha256": "b9a5a67dc39bb8454974521ce8b60c48349084e0b3920e7d2dd79d68bf004295",
+      "lastModified": "2026-11-01T17:09:31.084Z"
+    },
+    {
+      "id": "cmgiswmgi002viae03bi15e2h",
+      "slug": "furry-night",
+      "name": "Furry Night",
+      "path": "data/conventions/furry-night.json",
+      "sha256": "df1bd4e78ffd03de4d9cd16034b768b0ffdd422199b29830dcd0120e90418982",
+      "lastModified": "2026-11-01T17:11:03.128Z"
+    },
+    {
+      "id": "cmgiswmgn006ciae02f666gzv",
+      "slug": "furry-r-con",
+      "name": "Furry R Con",
+      "path": "data/conventions/furry-r-con.json",
+      "sha256": "1a8062d379c0c8aa6c2d1be9947e47ef3905c2ebf4c8d590a81b727869fc1d81",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgj003qiae05g6wnyv4",
+      "slug": "furry-retreat",
+      "name": "Furry Retreat",
+      "path": "data/conventions/furry-retreat.json",
+      "sha256": "471e23c654bcb38507d38c41c9b282d3a2888bb1c5fb5975d0706c762697009d",
+      "lastModified": "2026-11-01T17:12:49.216Z"
+    },
+    {
+      "id": "cmgiswmgr008miae0g5ew2jqy",
+      "slug": "furry-siesta",
+      "name": "Texas Furry Siesta",
+      "path": "data/conventions/furry-siesta.json",
+      "sha256": "3066a71cff802a7bd32638e68cfa84f5764888aea2b53e7ccd62d39542eee325",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgj003iiae0fjtxoi0t",
+      "slug": "furry-ski-weekend",
+      "name": "Furry Ski Weekend",
+      "path": "data/conventions/furry-ski-weekend.json",
+      "sha256": "f935bde488311a18ee44094500891617c4238a1eb735a49bd9f73f619af93d22",
+      "lastModified": "2026-11-01T17:12:34.357Z"
+    },
+    {
+      "id": "cmgiswmgn006diae0hd0xy8sy",
+      "slug": "furry-spring-break",
+      "name": "Furry Spring Break",
+      "path": "data/conventions/furry-spring-break.json",
+      "sha256": "1524fdde85797d95e054c46133936b197e59726a2144aee8f432c12048f2ada3",
+      "lastModified": "2026-11-01T17:17:07.511Z"
+    },
+    {
+      "id": "cmgiswmgn006eiae0u9rofxau",
+      "slug": "furry-summer-festival",
+      "name": "Furry Summer Festival",
+      "path": "data/conventions/furry-summer-festival.json",
+      "sha256": "de6dd1fd9fab7a89dda0b223ee90a3415f9c1c2697f3f7ab575174559108fad0",
+      "lastModified": "2026-11-01T17:17:08.663Z"
+    },
+    {
+      "id": "cmgiswmgk004kiae094ef9yue",
+      "slug": "furry-summer-mexico",
+      "name": "Furry Summer Mexico",
+      "path": "data/conventions/furry-summer-mexico.json",
+      "sha256": "d0a362fccb7df941a4c03737b51c23fe4245501e4030095934a854597f1f3587",
+      "lastModified": "2026-11-01T17:15:03.373Z"
+    },
+    {
+      "id": "cmgiswmgn006fiae05icyebx4",
+      "slug": "furry-takeover",
+      "name": "Furry Takeover",
+      "path": "data/conventions/furry-takeover.json",
+      "sha256": "bac0ff4303ac9731c7a763285262db7b61e68a5b083d958cff7d46d5f24407b9",
+      "lastModified": "2026-11-01T17:17:09.087Z"
+    },
+    {
+      "id": "cmgiswmgg001liae0aslpdlda",
+      "slug": "furry-weekend-holland",
+      "name": "Furry Weekend Holland",
+      "path": "data/conventions/furry-weekend-holland.json",
+      "sha256": "29ea0367a9e749d9df5a8f055f6a899352ded2f7c8482a4d484c2fec76b2e84e",
+      "lastModified": "2026-11-01T17:07:51.469Z"
+    },
+    {
+      "id": "cmgiswmgn006giae0abyvg449",
+      "slug": "furry-weekend-los-angeles",
+      "name": "Furry Weekend Los Angeles",
+      "path": "data/conventions/furry-weekend-los-angeles.json",
+      "sha256": "1019fda27a8fd32e5ed97bddaa1bb3e5acd32a076e57aa7ebf9fc8260115a522",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgn006hiae0g5lp4yvf",
+      "slug": "furrycon",
+      "name": "FurryCon",
+      "path": "data/conventions/furrycon.json",
+      "sha256": "bc92ef77e879d6019027f269698bc946029cf2b628ad64a73c19a9add57daa32",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgj003eiae0bdg25rvw",
+      "slug": "furrydelphia",
+      "name": "Furrydelphia",
+      "path": "data/conventions/furrydelphia.json",
+      "sha256": "f5837d946ead749ae7c6d2b74b76a43cc5d1a8bc469ae4fecbe2d0454dace5f2",
+      "lastModified": "2026-11-01T17:12:22.997Z"
+    },
+    {
+      "id": "cmgiswmgk0048iae0x8x2fuad",
+      "slug": "furryest",
+      "name": "FurryEST",
+      "path": "data/conventions/furryest.json",
+      "sha256": "324093a253593e0cdc082ed64dc2b5d6751b601deee04d96c6975739d1d87c5a",
+      "lastModified": "2026-11-01T17:13:45.666Z"
+    },
+    {
+      "id": "cmho6ood6000eia9433yho0za",
+      "slug": "furryjoa",
+      "name": "FurryJoA",
+      "path": "data/conventions/furryjoa.json",
+      "sha256": "a6a0d85c97dc04ed1b831c603da10475acd5afd5a2cbd06667c1d165c879fee6",
+      "lastModified": "2026-11-01T17:20:10.317Z"
+    },
+    {
+      "id": "cmho6z3a3000fia94abkh65js",
+      "slug": "furrylah",
+      "name": "FurryLah",
+      "path": "data/conventions/furrylah.json",
+      "sha256": "45da2319762619a15ff7bd329423f06121297930fabab430f4af32040878f9a3",
+      "lastModified": "2026-11-01T17:20:13.004Z"
+    },
+    {
+      "id": "cmgiswmgf0012iae0iz8j4lhs",
+      "slug": "furrymosa",
+      "name": "Furrymosa",
+      "path": "data/conventions/furrymosa.json",
+      "sha256": "931a8b7f3f19ad2a9935bd00c3b4f4fad213203b0cf8f9e4987d823d3b431ba7",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgk0046iae0xfdh7g4v",
+      "slug": "furrypinas",
+      "name": "FurryPinas",
+      "path": "data/conventions/furrypinas.json",
+      "sha256": "dc6caf713a48310425dec3879f16cfc9dcaf05e952a7a5378ae76db12fe3ff1c",
+      "lastModified": "2026-11-01T17:13:42.205Z"
+    },
+    {
+      "id": "cmgiswmgn006iiae0vb4yyvsd",
+      "slug": "furryteaparty",
+      "name": "FurryTeaParty",
+      "path": "data/conventions/furryteaparty.json",
+      "sha256": "5ada88f22aabeda524f53eb8ab6928ebba8a1263d9a188428d36748ccd57a9b2",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgn006jiae095twotv8",
+      "slug": "furs-upon-malaysia",
+      "name": "Furs Upon Malaysia",
+      "path": "data/conventions/furs-upon-malaysia.json",
+      "sha256": "c5c2a4c894e31048c726eceb275f8749f60577e7c50255420118cfe912ac1763",
+      "lastModified": "2026-11-01T17:17:12.236Z"
+    },
+    {
+      "id": "cmgiswmgn006kiae07mrxt1ci",
+      "slug": "fursang",
+      "name": "Fursang",
+      "path": "data/conventions/fursang.json",
+      "sha256": "bd6255c7aab22776f4594682afd88b5bdd150145bc25a202a0a94ad4f001ba9c",
+      "lastModified": "2026-11-01T17:17:18.868Z"
+    },
+    {
+      "id": "cmgiswmgh002iiae0z9g3d8jg",
+      "slug": "fursonacon",
+      "name": "FursonaCon",
+      "path": "data/conventions/fursonacon.json",
+      "sha256": "b9380bd5da73eb2db814321458ea8f556f9c91674e414d2e2c88e2af39951c80",
+      "lastModified": "2026-11-01T17:10:12.174Z"
+    },
+    {
+      "id": "cmgiswmgf000tiae08an5jsi4",
+      "slug": "fursquare",
+      "name": "FurSquare",
+      "path": "data/conventions/fursquare.json",
+      "sha256": "ea239e3d8f15b05596a3d55dec11377fd6153cc0efedbcd062a1ac0b5ad7e54e",
+      "lastModified": "2026-11-01T17:06:13.772Z"
+    },
+    {
+      "id": "cmlv2yupm000oqj016c7x6no9",
+      "slug": "furst-class",
+      "name": "Furst Class",
+      "path": "data/conventions/furst-class.json",
+      "sha256": "ba34858b8ed165c1ab17b6bb6813e2baadefe56dc075392dce0f82fa95e0afad",
+      "lastModified": "2026-11-01T17:20:28.118Z"
+    },
+    {
+      "id": "cmrvi3ybx0022lh016yr93wx9",
+      "slug": "furtal",
+      "name": "Furtal",
+      "path": "data/conventions/furtal.json",
+      "sha256": "1f467b546ab915131e7f73db616205f7dc1ee5b623019b8e1916e4f0221b27bb",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgg001uiae0jav2gi51",
+      "slug": "furtastic",
+      "name": "Furtastic",
+      "path": "data/conventions/furtastic.json",
+      "sha256": "e0b88a2e11d3ea8626f2251c33ddf8e42cc687d5bf8de849716ec6fc709b9afa",
+      "lastModified": "2026-11-01T17:08:10.207Z"
+    },
+    {
+      "id": "cmgiswmgb0009iae03phuoayz",
+      "slug": "further-confusion",
+      "name": "Further Confusion",
+      "path": "data/conventions/further-confusion.json",
+      "sha256": "efec4823b6b43c582a7f1c8394a6d2167e7b3b56e435e93de039d7c7e9a53eec",
+      "lastModified": "2026-11-01T17:04:58.359Z"
+    },
+    {
+      "id": "cmkt6uslp001uqg01mvj46dqw",
+      "slug": "further-south",
+      "name": "Further South",
+      "path": "data/conventions/further-south.json",
+      "sha256": "3d5533c4f4badfc17e6550e9db68d12e1aa50d898bf466dbcbeb3ef905b70d89",
+      "lastModified": "2026-11-01T17:20:21.936Z"
+    },
+    {
+      "id": "cmgiswmgg001xiae0nj7vdbh0",
+      "slug": "furthest-north",
+      "name": "Furthest North",
+      "path": "data/conventions/furthest-north.json",
+      "sha256": "7417af178e1912f08aab81fb839f19868e479f7b7c550b99464f2c341368b8ac",
+      "lastModified": "2026-11-01T17:08:26.685Z"
+    },
+    {
+      "id": "cmgiswmgh002hiae0my59r88f",
+      "slug": "furvana",
+      "name": "Furvana",
+      "path": "data/conventions/furvana.json",
+      "sha256": "9f3ad87dc37e61975ef582ec87fbeffb7dd2a248da0b324a08b7038f50f07d70",
+      "lastModified": "2026-11-01T17:10:08.826Z"
+    },
+    {
+      "id": "cmkj8uvjm000cp40183cuyvyv",
+      "slug": "furvaria",
+      "name": "Furvaria",
+      "path": "data/conventions/furvaria.json",
+      "sha256": "546ef2080c6634b480c08187124a50f09fe1681c1e03609d69e51a8b214b276d",
+      "lastModified": "2026-11-01T17:20:17.898Z"
+    },
+    {
+      "id": "cmgiswmgj0040iae0pu562yiz",
+      "slug": "furvester",
+      "name": "Furvester",
+      "path": "data/conventions/furvester.json",
+      "sha256": "7e0b74480f6d3593f8dc78609281533e6e577436acc834af757c4ef77dd9c965",
+      "lastModified": "2026-11-01T17:13:21.986Z"
+    },
+    {
+      "id": "cmgiswmgo006oiae0rt51qhoq",
+      "slug": "furwag",
+      "name": "FurWAG",
+      "path": "data/conventions/furwag.json",
+      "sha256": "7fb129bfc2641ca36fbba2200e5d8cffe862ab3dfc9d968bf1490c2e3ed41470",
+      "lastModified": "2026-11-01T17:17:27.285Z"
+    },
+    {
+      "id": "cmgiswmgk0047iae0fi2861u8",
+      "slug": "furway",
+      "name": "Furway",
+      "path": "data/conventions/furway.json",
+      "sha256": "958c01aea8de5eb7ec0ed2aee460fc036041fcd1a8c74f517b4a16ea4918b1e2",
+      "lastModified": "2026-11-01T17:13:44.086Z"
+    },
+    {
+      "id": "cmgiswmgo006piae0bqt51w0x",
+      "slug": "furwood-campout",
+      "name": "Furwood Campout",
+      "path": "data/conventions/furwood-campout.json",
+      "sha256": "3ff876571e6f224eb16937be74b51791a97fc97c67d74d811d854ab72ff729ac",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgi0033iae0jaqzzwux",
+      "slug": "futerkon",
+      "name": "Futerkon",
+      "path": "data/conventions/futerkon.json",
+      "sha256": "75ca24d1cef88b14562b0eced012d338cd82715b40702a65082176d021a34fb9",
+      "lastModified": "2026-11-01T17:11:48.864Z"
+    },
+    {
+      "id": "cmgiswmgo006riae0q3a9rk9n",
+      "slug": "futrolajki",
+      "name": "Futrołajki",
+      "path": "data/conventions/futrolajki.json",
+      "sha256": "b9d10b85d378e47ab6287f5384820ac582d92c2b811529fe90fa17d1ecdc4c51",
+      "lastModified": "2026-11-01T17:17:32.480Z"
+    },
+    {
+      "id": "cmgiswmgh0024iae0hlkvmf6b",
+      "slug": "fuve",
+      "name": "Furry Vietnam Eternity",
+      "path": "data/conventions/fuve.json",
+      "sha256": "b52d7e19ffaf0ecc45eecd025e5058deab532ec954548a1e70b0ae4f1881d8e3",
+      "lastModified": "2026-11-01T17:08:46.227Z"
+    },
+    {
+      "id": "cmho76ts0000gia948upb710f",
+      "slug": "fuzzyoasisparty",
+      "name": "FuzzyOasisParty",
+      "path": "data/conventions/fuzzyoasisparty.json",
+      "sha256": "d81323c6677b4d6970f7df84b743645cdf31b07b231129f7c376c7433b163c7b",
+      "lastModified": "2026-11-01T17:20:14.043Z"
+    },
+    {
+      "id": "cmgiswmgk004diae0jhrotlv4",
+      "slug": "fwa",
+      "name": "Furry Weekend Atlanta",
+      "path": "data/conventions/fwa.json",
+      "sha256": "769318645ce1e200c22743f7444d575ac206a7411816ed68d69bc177271925bb",
+      "lastModified": "2026-11-01T17:14:14.317Z"
+    },
+    {
+      "id": "cmgiswmgg001qiae0xzqiero7",
+      "slug": "galactic-camp",
+      "name": "Galactic Camp",
+      "path": "data/conventions/galactic-camp.json",
+      "sha256": "70e457dfe556cd25f6867ae594a85d7568ff90b59a6c749bd74d37bb785bc358",
+      "lastModified": "2026-11-01T17:08:08.540Z"
+    },
+    {
+      "id": "cmgiswmgi0036iae0lfw13soh",
+      "slug": "garden-state-fur-the-weekend",
+      "name": "Garden State Fur The Weekend",
+      "path": "data/conventions/garden-state-fur-the-weekend.json",
+      "sha256": "173babd9b1957d84c05a943187b898700cbe83962bbd80f27c6fb5ffa5a6346d",
+      "lastModified": "2026-11-01T17:11:52.200Z"
+    },
+    {
+      "id": "cmgiswmgi003biae07pdwl5ax",
+      "slug": "gateway-furmeet",
+      "name": "Gateway Furmeet",
+      "path": "data/conventions/gateway-furmeet.json",
+      "sha256": "d84f3ada8f891f8a5321f9f94b37f3e5eed206254166278eb71b75e9eca2ca1a",
+      "lastModified": "2026-11-06T01:25:43.975Z"
+    },
+    {
+      "id": "cmgiswmgg0023iae0fr05tcce",
+      "slug": "gdakon",
+      "name": "Gdakon",
+      "path": "data/conventions/gdakon.json",
+      "sha256": "b0c4e4d34e60ac3047a7945030fb0d338d1e1e2bf442e9724aa93bd23c90ae38",
+      "lastModified": "2026-11-01T17:08:41.304Z"
+    },
+    {
+      "id": "cmgiswmgo006siae07jpgz42h",
+      "slug": "genderverse-furcon",
+      "name": "Genderverse FurCon",
+      "path": "data/conventions/genderverse-furcon.json",
+      "sha256": "5026d3e844dd08c49d6b5c79d3967dcbbd8a4abd015aa917447a02245ad93866",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgo006tiae0kfdjfpsw",
+      "slug": "get-out-the-float",
+      "name": "Get Out The Float",
+      "path": "data/conventions/get-out-the-float.json",
+      "sha256": "55d7dbf15ffe19a0cc742ebbc028c93d78c197fdc259ca3b7b244d3d5a4e4d4f",
+      "lastModified": "2026-11-10T01:00:15.862Z"
+    },
+    {
+      "id": "cmgiswmgg001jiae0mrdkyqxm",
+      "slug": "golden-leaves-con",
+      "name": "Golden Leaves Con",
+      "path": "data/conventions/golden-leaves-con.json",
+      "sha256": "5ba7e9967d453e0004c354b563879828523baf148c6885534937e153f4ed8a1c",
+      "lastModified": "2026-11-01T17:07:41.112Z"
+    },
+    {
+      "id": "cmgiswmgf001diae0px571lve",
+      "slug": "golden-state-fur-con",
+      "name": "Golden State Fur Con",
+      "path": "data/conventions/golden-state-fur-con.json",
+      "sha256": "cf6bfc763f46ec531714e9d68161d06d1778de40d8bf0d23f4a6e83a20442f70",
+      "lastModified": "2026-11-01T17:07:15.356Z"
+    },
+    {
+      "id": "cmgiswmgo006uiae02my4fhls",
+      "slug": "goldenhorn",
+      "name": "GoldenHorn",
+      "path": "data/conventions/goldenhorn.json",
+      "sha256": "829019368022040b2fb1932b00b3b51d7a62fd1b10e2ac78cdfdb37e69695af5",
+      "lastModified": "2026-11-01T17:17:37.773Z"
+    },
+    {
+      "id": "cmgiswmgo006viae0pn65yuyy",
+      "slug": "great-lakes-fur-con",
+      "name": "Great Lakes Fur Con",
+      "path": "data/conventions/great-lakes-fur-con.json",
+      "sha256": "59ed94a92feab6757abd529bc2d3cd03a440764c1ec788a6ec111b52f0a4fb01",
+      "lastModified": "2026-11-01T17:17:39.539Z"
+    },
+    {
+      "id": "cmgiswmgj003fiae0p59q83md",
+      "slug": "h-con",
+      "name": "H-Con",
+      "path": "data/conventions/h-con.json",
+      "sha256": "290a0de74058d1345ca1be8c375e948720339f72c5b919ac9b72acf1852fc0d9",
+      "lastModified": "2026-11-01T17:12:30.150Z"
+    },
+    {
+      "id": "cmgiswmgo006wiae0hs3sberp",
+      "slug": "hac-young-summerhosting",
+      "name": "HAC#young: SummerHosting",
+      "path": "data/conventions/hac-young-summerhosting.json",
+      "sha256": "301e7e1ae67d1c863e3f488e56b5f809ec5d08e731432f1b2921a0ef9e94bc94",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgo006xiae0hk8l98t4",
+      "slug": "harbour-city-fur-con",
+      "name": "Harbour City Fur Con",
+      "path": "data/conventions/harbour-city-fur-con.json",
+      "sha256": "d09ce620a5b44d961014b964c7962e181787e009a6ce5326aab7139ded6094b9",
+      "lastModified": "2026-11-01T17:17:41.729Z"
+    },
+    {
+      "id": "cmgiswmgo006yiae057rrha36",
+      "slug": "heartland-howloween",
+      "name": "Heartland Howloween",
+      "path": "data/conventions/heartland-howloween.json",
+      "sha256": "5ead6d2d14dd01a62eda62aea2e39b1b722553e245f46c4ef12754c9af886696",
+      "lastModified": "2026-11-01T17:17:43.907Z"
+    },
+    {
+      "id": "cmlk9qzl50004sa01f9fxtusq",
+      "slug": "hi-furry",
+      "name": "Hi-Furry",
+      "path": "data/conventions/hi-furry.json",
+      "sha256": "f5239981b4c01ce89567a2e813983dd1261a720c223df4c66b7e4d598a9ca341",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmkj85khl0000p401o9yw9mdb",
+      "slug": "howlcon",
+      "name": "HowlCon",
+      "path": "data/conventions/howlcon.json",
+      "sha256": "8f74a57209977147e47b0b4fbc3d34290c7da9d4e010e534f411c25b4099731a",
+      "lastModified": "2026-11-01T17:20:17.271Z"
+    },
+    {
+      "id": "cmv6u69sa000lp201o37qrc53",
+      "slug": "howlfest",
+      "name": " Las Vegas Howlfest",
+      "path": "data/conventions/howlfest.json",
+      "sha256": "5b316b6d93078bb30c2bde4adedaecda3883b458b5f201cff53f627500d54e45",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgk004eiae0eyzszv0p",
+      "slug": "howloween",
+      "name": "Howloween",
+      "path": "data/conventions/howloween.json",
+      "sha256": "7b377340423317b46ccd6fd75a80e716c91cc7d548052cb57f33d9767e80968a",
+      "lastModified": "2026-11-01T17:14:32.050Z"
+    },
+    {
+      "id": "cmgiswmgo006ziae01r4ts3l0",
+      "slug": "ibercon",
+      "name": "Ibercon",
+      "path": "data/conventions/ibercon.json",
+      "sha256": "16011fe96ee44e3befc232312c3c8d53a9f47242bf63217aeb0f8a81f83c7c62",
+      "lastModified": "2026-11-01T17:17:45.370Z"
+    },
+    {
+      "id": "cmgiswmgo0070iae03x9wcz8h",
+      "slug": "indonesia-weekend-anthro-gathering",
+      "name": "Indonesia Weekend Anthro Gathering",
+      "path": "data/conventions/indonesia-weekend-anthro-gathering.json",
+      "sha256": "4b2878712053afa35fa32d6e46840a80eccd7d34ac26192c1f54e3ef71132c65",
+      "lastModified": "2026-11-01T17:17:46.835Z"
+    },
+    {
+      "id": "cmgiswmgk004iiae0lgfm7flz",
+      "slug": "indyfurcon",
+      "name": "IndyFurCon",
+      "path": "data/conventions/indyfurcon.json",
+      "sha256": "c30483d79e0df8faa33d27b2b0f66fb6f5d1728cd4d4e5e636e4401f99cceaf5",
+      "lastModified": "2026-11-01T17:14:47.811Z"
+    },
+    {
+      "id": "cmgiswmgo0071iae0mvcbtafp",
+      "slug": "infurnity",
+      "name": "Infurnity",
+      "path": "data/conventions/infurnity.json",
+      "sha256": "31993a5cd7e338fbe39a2a50e945d032fdedfdacf23df30292c2f8e1e61c32bf",
+      "lastModified": "2026-11-05T23:43:06.785Z"
+    },
+    {
+      "id": "cmgiswmgi002tiae0szw0lpa7",
+      "slug": "its-ruff-out",
+      "name": "It's Ruff Out",
+      "path": "data/conventions/its-ruff-out.json",
+      "sha256": "a52b49e496ea7f5c2bc931fbdb0828890c35d741b942ecf616d09b95e97f1d04",
+      "lastModified": "2026-11-01T17:11:02.379Z"
+    },
+    {
+      "id": "cmgiswmgb000biae0mwtlgi1y",
+      "slug": "itty-bitty-fur-con",
+      "name": "Itty Bitty Fur Con",
+      "path": "data/conventions/itty-bitty-fur-con.json",
+      "sha256": "b4f2d5d4d5f29735f11f982d8963a2498c3035e5cfe09cd2300edd2a2ba8f214",
+      "lastModified": "2026-11-01T17:05:15.694Z"
+    },
+    {
+      "id": "cmgiswmgg001oiae02lqtjsvx",
+      "slug": "japan-meeting-of-furries",
+      "name": "Japan Meeting of Furries",
+      "path": "data/conventions/japan-meeting-of-furries.json",
+      "sha256": "c868677d36817df9e4a8c70dd81473287296c0c8bde4fce9f8ca50e66576945b",
+      "lastModified": "2026-11-01T17:07:59.169Z"
+    },
+    {
+      "id": "cmgiswmgg0021iae0qp1lgqbd",
+      "slug": "just-fur-the-weekend",
+      "name": "Just Fur The Weekend",
+      "path": "data/conventions/just-fur-the-weekend.json",
+      "sha256": "188770dc13f3ce77b500ccc87225da086ee47b02e025857658d0bb2aa5770d12",
+      "lastModified": "2026-11-01T17:08:37.164Z"
+    },
+    {
+      "id": "cmgiswmgo0074iae0lr0ytdq1",
+      "slug": "kansas-furcon",
+      "name": "Kansas Furcon",
+      "path": "data/conventions/kansas-furcon.json",
+      "sha256": "648386eeb363eff49ecc1dc02114e8bce28b37325a141ff5c3bad6afbd28eb7d",
+      "lastModified": "2026-11-01T17:17:56.595Z"
+    },
+    {
+      "id": "cmgiswmgh002qiae05kr4xlnh",
+      "slug": "kemocon",
+      "name": "Kemocon",
+      "path": "data/conventions/kemocon.json",
+      "sha256": "c3fa3f39b7daca9dfd1099b05b7d04d38d9893d73c00099d8155ae373c1e46ae",
+      "lastModified": "2026-11-01T17:10:41.788Z"
+    },
+    {
+      "id": "cmgiswmgk004ciae0mqub7elg",
+      "slug": "kemoket",
+      "name": "Kemoket",
+      "path": "data/conventions/kemoket.json",
+      "sha256": "775d6c7171dc7938ae71f5c9048698d6331047efc3aef5c6a1d44f08e5caf827",
+      "lastModified": "2026-11-01T17:14:11.372Z"
+    },
+    {
+      "id": "cmgiswmgg0020iae06u3tydku",
+      "slug": "kraz",
+      "name": "KRAZ",
+      "path": "data/conventions/kraz.json",
+      "sha256": "ccfaa242aaec375bb92871c8125dc2921b5e1f2d699434dcf403ad94ca90dfb4",
+      "lastModified": "2026-11-01T17:08:32.488Z"
+    },
+    {
+      "id": "cmv0b1bpz000moz01ya1f5lu7",
+      "slug": "la-kdd",
+      "name": "LA KDD",
+      "path": "data/conventions/la-kdd.json",
+      "sha256": "9585dadaf14b9427a1e563487ebae19731aa3528862264525502daec8ba31de6",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgo0075iae0vb9m1ss4",
+      "slug": "lakeside-furs",
+      "name": "Lakeside Furs",
+      "path": "data/conventions/lakeside-furs.json",
+      "sha256": "9195a5cb94d72e8261984ee2eb03dfd1689b2e5e08f09213cb81504ed40e97d6",
+      "lastModified": "2026-11-01T17:17:57.013Z"
+    },
+    {
+      "id": "cmgiswmgk004liae0c3zmeyk7",
+      "slug": "las-vegas-fur-con",
+      "name": "Las Vegas Fur Con",
+      "path": "data/conventions/las-vegas-fur-con.json",
+      "sha256": "487f4b05234776ec5aed1d4a7400710cdc8f4e0f9bde6e4dbe282e998ea6bdb2",
+      "lastModified": "2026-11-01T17:15:04.448Z"
+    },
+    {
+      "id": "cmgiswmgo0076iae07c5cibmu",
+      "slug": "les-furfurieux",
+      "name": "Les Furfurieux",
+      "path": "data/conventions/les-furfurieux.json",
+      "sha256": "bd3f6db0cdf97a5cfcc305f96faccbd0ecb18bd11dc42cf65ea8ab59251ad2b6",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmn4rwx9q005yti01j43027pr",
+      "slug": "lethfuridge-mini-con",
+      "name": "LethFURidge Mini-Con",
+      "path": "data/conventions/lethfuridge-mini-con.json",
+      "sha256": "2633265d8cabdeea30a75ad5e40a0c81ada527ebf9df375575d2ffd9ec4eef5c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmga0006iae0641eug5a",
+      "slug": "little-island-furcon",
+      "name": "Little Island Furcon",
+      "path": "data/conventions/little-island-furcon.json",
+      "sha256": "cc83f3bebaf46eeaaaea4ad08daa50cd7f7a2bb80eabb6bee1b583d11dcae879",
+      "lastModified": "2026-11-01T17:04:49.282Z"
+    },
+    {
+      "id": "cmgiswmgo0078iae0g0ider7u",
+      "slug": "lone-star-fur-con",
+      "name": "Lone Star Fur Con",
+      "path": "data/conventions/lone-star-fur-con.json",
+      "sha256": "32bd5458c88ce4f85fec5da1ea28045cad0a2372e03aed4deabad8c0383e5dba",
+      "lastModified": "2026-11-01T17:18:03.227Z"
+    },
+    {
+      "id": "cmgiswmgm005riae0lln7raiv",
+      "slug": "louisianthro",
+      "name": "Louisianthro",
+      "path": "data/conventions/louisianthro.json",
+      "sha256": "ce4c7c7a18d92f56050d91dcf43ac3fde6f532cc87c097a03c6ff0f255d42a48",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgg001niae0kbbl8bnl",
+      "slug": "lvivfur",
+      "name": "LvivFur",
+      "path": "data/conventions/lvivfur.json",
+      "sha256": "3671fc930adeace20ae0a9c2305edf78d46b28597bc1027d0f49b9bc60470f01",
+      "lastModified": "2026-11-01T17:07:58.436Z"
+    },
+    {
+      "id": "cmgiswmgp0079iae0iis8l9yy",
+      "slug": "maltese-fur-con",
+      "name": "Maltese Fur-Con",
+      "path": "data/conventions/maltese-fur-con.json",
+      "sha256": "f43b025ff2e01f65984059101ce3665c7d993abf329501b43ac3e3214b4fd1a0",
+      "lastModified": "2026-11-01T17:18:05.090Z"
+    },
+    {
+      "id": "cmp2vqn6h001nlf01cx1lltrb",
+      "slug": "maw",
+      "name": "Michigan Anthro Weekend",
+      "path": "data/conventions/maw.json",
+      "sha256": "03324eb257348dfaa3a4caaa1c1caa0ae81d58f8858d87a6b367625dd1cc9436",
+      "lastModified": "2026-11-01T17:20:36.609Z"
+    },
+    {
+      "id": "cmgiswmgi0032iae0c9606lxd",
+      "slug": "megaplex",
+      "name": "Megaplex",
+      "path": "data/conventions/megaplex.json",
+      "sha256": "30e037feadc076e401e81ec36922c9bf99d869157fdaf970a039679811df56f9",
+      "lastModified": "2026-11-01T17:11:31.119Z"
+    },
+    {
+      "id": "cmgiswmgp007aiae0qr1mt0tj",
+      "slug": "melbourne-fur-con",
+      "name": "Melbourne Furry Convention",
+      "path": "data/conventions/melbourne-fur-con.json",
+      "sha256": "acc10ddb37b85fad44f75724f0fb0d0c2bb5fc729e291a47058874aaa994fb2f",
+      "lastModified": "2026-11-01T17:18:05.830Z"
+    },
+    {
+      "id": "cmgiswmgk004biae0qewjbrhj",
+      "slug": "mephit-fur-meet",
+      "name": "Mephit Fur Meet",
+      "path": "data/conventions/mephit-fur-meet.json",
+      "sha256": "d8b3ed7122cd6ab825e47b4f2ec6063fd7387d896066dd3711c8b32e6ce8302c",
+      "lastModified": "2026-11-01T17:13:59.831Z"
+    },
+    {
+      "id": "cmgiswmge000liae0v5tppe0e",
+      "slug": "mephit-mini-con",
+      "name": "Mephit Mini Con",
+      "path": "data/conventions/mephit-mini-con.json",
+      "sha256": "8be1de34e79434a765517831371fd0af69d50133dafc3de6940546ce68912803",
+      "lastModified": "2026-11-01T17:05:52.757Z"
+    },
+    {
+      "id": "cmgiswmge000siae0a5ez28oo",
+      "slug": "midwest-furfest",
+      "name": "Midwest FurFest",
+      "path": "data/conventions/midwest-furfest.json",
+      "sha256": "b5edc173d42436567ce6c2e0875fb59fad643da29928059b5c393b8d12f833f1",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmgiswmgp007diae0qcfp4g0b",
+      "slug": "midwinter-frolic",
+      "name": "Midwinter Frolic",
+      "path": "data/conventions/midwinter-frolic.json",
+      "sha256": "6530a10650a7e0dddd71c0511919072d292c07534d987524eee996454a9128fa",
+      "lastModified": "2026-11-01T17:18:07.398Z"
+    },
+    {
+      "id": "cmgiswmgg001riae06h6pi9e9",
+      "slug": "minicon",
+      "name": "MiniCon",
+      "path": "data/conventions/minicon.json",
+      "sha256": "adca063b79e7ede4f88e80325230ced7c16a2b39cc4157e2ea11d770afb4a26e",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgp007fiae0twdxvilt",
+      "slug": "mission-city-hero-fest",
+      "name": "Mission City Hero Fest",
+      "path": "data/conventions/mission-city-hero-fest.json",
+      "sha256": "d31f1ee43e460717604a49231ce5e71f0ea607fce2b41b73bec7a8177a4f5846",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmge000miae0azqgbvpr",
+      "slug": "mnfurs",
+      "name": "MNFurs",
+      "path": "data/conventions/mnfurs.json",
+      "sha256": "828ab0c6bd335cb3d5247c9c8b26868995b7bb7eb54a54ad66b84a64446a5827",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmg90002iae0y7xannp0",
+      "slug": "montana-anthro-ski-weekend",
+      "name": "Montana Anthro Ski Weekend",
+      "path": "data/conventions/montana-anthro-ski-weekend.json",
+      "sha256": "d43c6a82730a5f9a8fae9eafafba08a24280d85453335c0573187d60dfce801a",
+      "lastModified": "2026-11-01T17:04:43.474Z"
+    },
+    {
+      "id": "cmgiswmgg0022iae0jbl0bk64",
+      "slug": "morph-parade",
+      "name": "Morph Parade",
+      "path": "data/conventions/morph-parade.json",
+      "sha256": "18698d1fe9cab6b5b1de9ead9a6859a0082b14f184e17a8ad7c69026112a7b82",
+      "lastModified": "2026-11-01T17:08:39.649Z"
+    },
+    {
+      "id": "cmgiswmgg001wiae0iqzyleo4",
+      "slug": "motor-city-furry-con",
+      "name": "Motor City Furry Con",
+      "path": "data/conventions/motor-city-furry-con.json",
+      "sha256": "3a897437d5af2169db9e5d16f61d00b202403d231cb3b865e493400e7365bf31",
+      "lastModified": "2026-11-01T17:08:17.158Z"
+    },
+    {
+      "id": "cmny3q9ew000qsb01c8urtdg8",
+      "slug": "muzzled",
+      "name": "MUZZLED",
+      "path": "data/conventions/muzzled.json",
+      "sha256": "b05631bf726afdc2c87bb3c2d0a942726a4ed3cd382e8903b3cd6982e9afef02",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmoq2iw3s0020mw01lwzsaiz6",
+      "slug": "myfur",
+      "name": "MYFurCon",
+      "path": "data/conventions/myfur.json",
+      "sha256": "d520e52a2a9c7cb5be88136f13cce19ed1d644e81ea636a2dce6f19230a2cf4c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgp007hiae0y82f03d2",
+      "slug": "nackte-furry-camping-con",
+      "name": "Nackte Furry Camping Con",
+      "path": "data/conventions/nackte-furry-camping-con.json",
+      "sha256": "5ba84ea7557640fc35cdc6a928ee7b6a5df7f5af453fc6fac064497d40b0159b",
+      "lastModified": "2026-11-01T17:18:08.132Z"
+    },
+    {
+      "id": "cmgiswmgp007iiae0ookla8r4",
+      "slug": "nashum-furcon",
+      "name": "Nashum FurCon",
+      "path": "data/conventions/nashum-furcon.json",
+      "sha256": "58185b53fbe5f87a1dc19896058c14619c86f84106a10fa5ac397834e77bd5f5",
+      "lastModified": "2026-11-01T17:18:09.178Z"
+    },
+    {
+      "id": "cmgiswmgg001yiae0btopvomt",
+      "slug": "neonfur",
+      "name": "NeonFur",
+      "path": "data/conventions/neonfur.json",
+      "sha256": "e1c3d85732502bcc9e97bc626d5125fc079a97456031db27ddd18887cdc6c8e4",
+      "lastModified": "2026-11-01T17:08:31.139Z"
+    },
+    {
+      "id": "cmgiswmgp007jiae0q50r5kxy",
+      "slug": "nep-dustpaws",
+      "name": "NEP DustPaws",
+      "path": "data/conventions/nep-dustpaws.json",
+      "sha256": "86513e1da2acb9cc189d06225dd03901246244e7a332b643d81a639dacb17f56",
+      "lastModified": "2026-11-01T17:18:10.219Z"
+    },
+    {
+      "id": "cmpzowsr5000mlh0185lme7zf",
+      "slug": "new-anthrodam",
+      "name": "New Anthrodam",
+      "path": "data/conventions/new-anthrodam.json",
+      "sha256": "b48f7fc74bb75fdd4fa81e64632625a86c73c926470caa425caaf8d3421bd28c",
+      "lastModified": "2026-11-01T17:20:38.085Z"
+    },
+    {
+      "id": "cmgiswmgf0010iae0nn5b0ell",
+      "slug": "new-years-eve-con",
+      "name": "New Year's Eve Con",
+      "path": "data/conventions/new-years-eve-con.json",
+      "sha256": "ca67b3a82d11ea633095714656de313fe1c84e7f5ab519c656bb1a3542ff2d17",
+      "lastModified": "2026-11-01T17:06:31.392Z"
+    },
+    {
+      "id": "cmgiswmgj003uiae0904lv2hd",
+      "slug": "new-years-furry-ball",
+      "name": "New Years Furry Ball",
+      "path": "data/conventions/new-years-furry-ball.json",
+      "sha256": "aec1d486e246261f8e05ca58c8621fa3f505f2486696738c7516c980de2fed6b",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgp007miae0m3lh6ijr",
+      "slug": "noctfurnal",
+      "name": "Noctfurnal",
+      "path": "data/conventions/noctfurnal.json",
+      "sha256": "5b36c7e1d027ee7746407e377541f60cd614a0074ae33a5ef88dee16df3b858a",
+      "lastModified": "2026-11-01T17:18:11.275Z"
+    },
+    {
+      "id": "cmgiswmgp007niae0b41w5z2l",
+      "slug": "nomadicon",
+      "name": "NomadiCon",
+      "path": "data/conventions/nomadicon.json",
+      "sha256": "85289d882011ef2fc56558fdbe9228d2d2bfa500a063f6908342093bc761d38f",
+      "lastModified": "2026-11-01T17:18:12.220Z"
+    },
+    {
+      "id": "cmgiswmgk0043iae0chjtxd44",
+      "slug": "nordicfuzzcon",
+      "name": "NordicFuzzCon",
+      "path": "data/conventions/nordicfuzzcon.json",
+      "sha256": "a3b94932dd9bece3bf885f4683e3701e883a32fdfb1073f629b856f4e3e0f7fe",
+      "lastModified": "2026-11-01T17:13:31.843Z"
+    },
+    {
+      "id": "cmgiswmgp007oiae0lncv7pyz",
+      "slug": "northern-michigan-furcamp",
+      "name": "Northern Michigan FurCamp",
+      "path": "data/conventions/northern-michigan-furcamp.json",
+      "sha256": "288d612247fa0f0b11659bcdec493eaca8b19136f85bb6f831603344ca4396ed",
+      "lastModified": "2026-11-01T17:18:13.369Z"
+    },
+    {
+      "id": "cmgiswmgh002oiae0ohnr2lzi",
+      "slug": "northwest-campcon",
+      "name": "NorthWest CampCon",
+      "path": "data/conventions/northwest-campcon.json",
+      "sha256": "c01b431c2f5afe8c2a8ca0fdb0e862adba201eb887e837b1faeac56e647b3506",
+      "lastModified": "2026-11-01T17:10:34.341Z"
+    },
+    {
+      "id": "cmp5mqxcg004clf01lzkmbvjp",
+      "slug": "nyff",
+      "name": "New Year's Furry Festival",
+      "path": "data/conventions/nyff.json",
+      "sha256": "eb43896b9b73777e36ff0bcfb9a931082c7bb24705970510d829c582877872ea",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmkt4k2mu0002qg01ud8mn3vt",
+      "slug": "offf",
+      "name": "Osaka Furry Fun Festa",
+      "path": "data/conventions/offf.json",
+      "sha256": "87fdc183049cd22e945eb23f4a481bcbd2329fea1df8773f4cc061527dd47290",
+      "lastModified": "2026-11-01T17:20:19.240Z"
+    },
+    {
+      "id": "cmgiswmgp007piae0f605gk6i",
+      "slug": "oklacon",
+      "name": "Oklacon",
+      "path": "data/conventions/oklacon.json",
+      "sha256": "2f451d41fef74ba53dbe7b7a7eabc574e0ae38927efe2894ecbf32c3f9e385b8",
+      "lastModified": "2026-11-01T17:18:15.353Z"
+    },
+    {
+      "id": "cmgiswmgp007qiae0hvwkgbvt",
+      "slug": "orli-forsztival",
+      "name": "Örli Försztivál",
+      "path": "data/conventions/orli-forsztival.json",
+      "sha256": "6e2997bdd45b191be36464724bbeb917ef115efbd831e3d4d7539833230ce6a5",
+      "lastModified": "2026-11-01T17:18:23.866Z"
+    },
+    {
+      "id": "cmgiswmgp007riae0zy6jwo1j",
+      "slug": "otterdance",
+      "name": "Otterdance",
+      "path": "data/conventions/otterdance.json",
+      "sha256": "9dee22b2ea843aa74afc19b5298a9342022578ec5739e699f8388bddde8e6ca9",
+      "lastModified": "2026-11-01T17:18:25.547Z"
+    },
+    {
+      "id": "cmgiswmgg001giae0p5oanduj",
+      "slug": "painted-desert-fur-con",
+      "name": "Painted Desert Fur Con",
+      "path": "data/conventions/painted-desert-fur-con.json",
+      "sha256": "e3fd6e131121251686346ced92e1139816b7cab546bb5d74b8620ca68d33abad",
+      "lastModified": "2026-11-01T17:07:30.704Z"
+    },
+    {
+      "id": "cms9ungdr006pp601z9vgwgqh",
+      "slug": "palmetto-anthro-weekend",
+      "name": "Palmetto Anthro Weekend",
+      "path": "data/conventions/palmetto-anthro-weekend.json",
+      "sha256": "8eeb6a3229a52c0b21dc753d07727422f55694e7785b3d50692774ed64e26885",
+      "lastModified": "2026-11-01T17:20:42.480Z"
+    },
+    {
+      "id": "cmgiswmgp007tiae0c2wzpncv",
+      "slug": "palmetto-fur-the-season",
+      "name": "Palmetto Fur The Season",
+      "path": "data/conventions/palmetto-fur-the-season.json",
+      "sha256": "26ddbd640504b68712728823974fe1e48efd65aa145bdd9c220ee782dbd2728b",
+      "lastModified": "2026-11-01T17:18:26.919Z"
+    },
+    {
+      "id": "cmgiswmgp007uiae08tad5xjl",
+      "slug": "party-along-with-anthro-indonesia",
+      "name": "Party Along With Anthro Indonesia",
+      "path": "data/conventions/party-along-with-anthro-indonesia.json",
+      "sha256": "5eda4b5b06b4f0804711c06841fd0a3acf31c6fcb26406f13bf86bbd76f499ad",
+      "lastModified": "2026-11-01T17:18:27.657Z"
+    },
+    {
+      "id": "cmkzpbr63000bp001oln3rqpp",
+      "slug": "patas",
+      "name": "Patas",
+      "path": "data/conventions/patas.json",
+      "sha256": "4bbf34b25e0911a9cd7d4ff40f8d72f4a4f07716af4932d6388075321e1dcf6d",
+      "lastModified": "2026-10-30T19:52:46.940Z"
+    },
+    {
+      "id": "cmgiswmgf001aiae0i8c87r95",
+      "slug": "pawai",
+      "name": "Party Along With Anthro Indonesia",
+      "path": "data/conventions/pawai.json",
+      "sha256": "d918a00bd85325124fc242f888092f6fe3a4ae9c786bc42431a553e5acbf2fa6",
+      "lastModified": "2026-11-01T17:07:09.424Z"
+    },
+    {
+      "id": "cmgiswmgg001kiae00ts4vp48",
+      "slug": "pawcon",
+      "name": "PAWCon",
+      "path": "data/conventions/pawcon.json",
+      "sha256": "06f1c91fa79b7935ca59345e012e3ee1f1a91c17e30b5176f8ed9a36d863ce2a",
+      "lastModified": "2026-11-11T23:26:00.736Z"
+    },
+    {
+      "id": "cmgiswmgp007viae0gw3sye2l",
+      "slug": "pawercon",
+      "name": "Pawercon",
+      "path": "data/conventions/pawercon.json",
+      "sha256": "0ace83558b05d4ff0f91b6dd162a01d196e770a22a2b656d63501046cb4fede8",
+      "lastModified": "2026-11-01T17:18:28.805Z"
+    },
+    {
+      "id": "cmrfjm1um003clh0181zs71pj",
+      "slug": "paws-and-praries",
+      "name": "Paws & Prairies",
+      "path": "data/conventions/paws-and-praries.json",
+      "sha256": "9af5ecfaca912a65dffe52bb0c702a4be87c5fa4d12d98270aa304f14fd4b2ab",
+      "lastModified": "2026-11-01T17:20:41.852Z"
+    },
+    {
+      "id": "cmlwlqq9x0000mp01sg0vbsdx",
+      "slug": "paws-outdoors",
+      "name": "Paws Outdoors",
+      "path": "data/conventions/paws-outdoors.json",
+      "sha256": "39ae3eedd4886896cbbf05712c834e3d3be1fd21fa7f8a88ccebfc3cb3791451",
+      "lastModified": "2026-11-01T17:20:28.842Z"
+    },
+    {
+      "id": "cmgiswmgq007wiae0y32fh78i",
+      "slug": "pawska",
+      "name": "Pawska",
+      "path": "data/conventions/pawska.json",
+      "sha256": "c4d13d70d0788eb47fcf744aac04986a4bcc31fb8e9c5b725ad928bbc37c1434",
+      "lastModified": "2026-11-01T17:18:29.841Z"
+    },
+    {
+      "id": "cmgiswmgq007xiae0bdhdrm8o",
+      "slug": "pawsome",
+      "name": "Pawsome",
+      "path": "data/conventions/pawsome.json",
+      "sha256": "80cc56ddcb4849bfd668783d77fe7d6484a8caa00854b0b5358eb022737abffe",
+      "lastModified": "2026-11-01T17:18:30.882Z"
+    },
+    {
+      "id": "cmgiswmgq007yiae0yhz04pyc",
+      "slug": "pawstral",
+      "name": "Pawstral",
+      "path": "data/conventions/pawstral.json",
+      "sha256": "b358e316bd245922ece04b2cbea07f238fb6ee2b1fee4c184a08813b4ac11685",
+      "lastModified": "2026-11-01T17:18:32.959Z"
+    },
+    {
+      "id": "cms7yonqo0062p601v93a4rsu",
+      "slug": "pawtucky",
+      "name": "Pawtucky Fur Con",
+      "path": "data/conventions/pawtucky.json",
+      "sha256": "5b0a1ba3fe962e5070938c5a6c061cc2289364eb2698f8f27e4673e25ffebf6c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmkzoa3p90000p001r93kvc5p",
+      "slug": "pfc",
+      "name": "Purple Clouds Festival",
+      "path": "data/conventions/pfc.json",
+      "sha256": "ad59db6e49fe5fc0a18b6ec5f6ccb28e20c90d06d6ee87768f3e38d8e6f460db",
+      "lastModified": "2026-11-01T17:20:22.664Z"
+    },
+    {
+      "id": "cmmxodtwo0018ti01r68zdzfs",
+      "slug": "pfg",
+      "name": "Poznan Furry Gathering",
+      "path": "data/conventions/pfg.json",
+      "sha256": "3279a8b75d5b3eea212807dfd0f2d3c8b3f49bdf2596db704421c19ae294b44c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq007ziae094mpifvw",
+      "slug": "philifur",
+      "name": "PhiliFur",
+      "path": "data/conventions/philifur.json",
+      "sha256": "eaaef30f7d14fc59bf1bfecf91fd894fe035596c871522aabee04e121901bace",
+      "lastModified": "2026-11-01T17:18:34.939Z"
+    },
+    {
+      "id": "cmquzgcuf001clh01emovag0a",
+      "slug": "phoenix-valley-con",
+      "name": "Phoenix Valley Con",
+      "path": "data/conventions/phoenix-valley-con.json",
+      "sha256": "f7087f9b9c97c71e5cffbe5f3c5fbf2a68da35b9e0b8f99d3f4a18a4f3f62000",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0080iae0vdn482o8",
+      "slug": "pine-fur-con",
+      "name": "Pine Fur Con",
+      "path": "data/conventions/pine-fur-con.json",
+      "sha256": "5582d76f79bbb81a8784be09f8546ae2fec66b95c9f37c6ea1b5a81c53c17d6a",
+      "lastModified": "2026-11-01T17:18:37.538Z"
+    },
+    {
+      "id": "cmpf8ytxl0001mk013te8g17v",
+      "slug": "powsup-night",
+      "name": "PowsUp! Night",
+      "path": "data/conventions/powsup-night.json",
+      "sha256": "b5afa7b2ddecc6f9ecc729723f70a35ce3c391eab359d4ce12317d7cc217a7e7",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0083iae09quoq8dg",
+      "slug": "pride-unbound-london",
+      "name": "Pride Unbound*London",
+      "path": "data/conventions/pride-unbound-london.json",
+      "sha256": "f2df50fffd8dfe7d05492814d270e11641a1ab6c44e065d07d76fa863bd09a31",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0084iae0ror8vdeq",
+      "slug": "quinte-mini-con",
+      "name": "Quinte Mini Con",
+      "path": "data/conventions/quinte-mini-con.json",
+      "sha256": "2bfc30ddfb9d6e0a5333a74a9c089bc276a3d657eec9017328e70e1320a68c74",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0085iae04bj3q5g6",
+      "slug": "rainfurrest",
+      "name": "RainFurrest",
+      "path": "data/conventions/rainfurrest.json",
+      "sha256": "53af57d4db4c47571fda3030fad68084c7143f21e324d6284206eeced6c7c069",
+      "lastModified": "2026-11-01T17:18:38.996Z"
+    },
+    {
+      "id": "cmho7h46p000hia94c2v3bb2z",
+      "slug": "rbw",
+      "name": "Rather Brilliant Weekend",
+      "path": "data/conventions/rbw.json",
+      "sha256": "e0e9b9ad3dfa2aaee0e276fb29c22e142e410014b1605212317f6e64b47fc8c3",
+      "lastModified": "2026-11-01T17:20:14.780Z"
+    },
+    {
+      "id": "cmgiswmgi0039iae0t8bf8ggg",
+      "slug": "red-deer-mini-con",
+      "name": "Red Deer Mini Con",
+      "path": "data/conventions/red-deer-mini-con.json",
+      "sha256": "545aa50a0256b8f6ea6726640d8e903ead36213f9561b900edddce0a177f6a6e",
+      "lastModified": "2026-11-01T17:12:02.389Z"
+    },
+    {
+      "id": "cmgiswmgh0025iae020x7srv3",
+      "slug": "reffurence",
+      "name": "Reffurence",
+      "path": "data/conventions/reffurence.json",
+      "sha256": "5ffbff167691f405ad7bf7bcd997187927fe1f1b01ff1147930e41151542c760",
+      "lastModified": "2026-11-01T17:08:49.139Z"
+    },
+    {
+      "id": "cmgiswmgq0086iae0wuo1s9qw",
+      "slug": "revolution-furfest-chile",
+      "name": "Revolution FurFest Chile",
+      "path": "data/conventions/revolution-furfest-chile.json",
+      "sha256": "44989fa4eb459301678ed40a6726926337d0271875a04ab53650e3997607ffa5",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0087iae0wz2jbvqs",
+      "slug": "ring-of-fire",
+      "name": "Ring of Fire",
+      "path": "data/conventions/ring-of-fire.json",
+      "sha256": "14ce4a2446b4633feb95e7dc5a7408cff0665e3f1bac9e32d5beda4cff1b16d1",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq0088iae0815szup9",
+      "slug": "rocket-city-furmeet",
+      "name": "Rocket City FurMeet",
+      "path": "data/conventions/rocket-city-furmeet.json",
+      "sha256": "205da9769bd72ba26b9d6d5d1b0267f7f75cd9ed6c5a0bb41aac7b96ab6048d0",
+      "lastModified": "2026-11-01T17:18:45.829Z"
+    },
+    {
+      "id": "cmgiswmgq0089iae05wx2zi63",
+      "slug": "rocky-mountain-fur-con",
+      "name": "Rocky Mountain Fur Con",
+      "path": "data/conventions/rocky-mountain-fur-con.json",
+      "sha256": "3cf2a921756f635bc257d89f0a77cbdb6668a6ba53d9cd07e872cfe6fa0d57c7",
+      "lastModified": "2026-11-01T17:18:53.618Z"
+    },
+    {
+      "id": "cmgiswmgq008aiae05cc8vfyh",
+      "slug": "rose-city-fursanity",
+      "name": "Rose City Fursanity",
+      "path": "data/conventions/rose-city-fursanity.json",
+      "sha256": "9405d59e6d8b5555d39675ba311071b7b4d0234c51d6a1f5691fcc541f5dbb00",
+      "lastModified": "2026-11-01T17:19:00.490Z"
+    },
+    {
+      "id": "cmgiswmgq008biae0rktsdktf",
+      "slug": "rugenfurcon",
+      "name": "Rügen Furcon",
+      "path": "data/conventions/rugenfurcon.json",
+      "sha256": "8db0abf9596eabab15c792690eaa5cd6ed867079455c618ee74752ad87ba6c91",
+      "lastModified": "2026-11-01T17:19:01.251Z"
+    },
+    {
+      "id": "cmgiswmgc000fiae0lwbju2ju",
+      "slug": "rusfurence",
+      "name": "Rusfurence",
+      "path": "data/conventions/rusfurence.json",
+      "sha256": "75cff42a77c98792d75e80b84730f02b69d4e43e1eb7e3c3a47f4d18fd01c082",
+      "lastModified": "2026-11-01T17:05:29.326Z"
+    },
+    {
+      "id": "cmgiswmgr0094iae0u94gm8vs",
+      "slug": "rustys-garage",
+      "name": "Rusty's Garage",
+      "path": "data/conventions/rustys-garage.json",
+      "sha256": "9b1dc74cb44a724223f283bf1398414331122c82777b645ebfa9839efc2cea4e",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq008ciae0hvu5ua49",
+      "slug": "santiago-anthro-fest",
+      "name": "Santiago Anthro Fest",
+      "path": "data/conventions/santiago-anthro-fest.json",
+      "sha256": "da1f636f4c00d11cc49202476f5b4edc4441d8faaea0d12b2c877ebace562cd4",
+      "lastModified": "2026-11-01T17:19:01.694Z"
+    },
+    {
+      "id": "cmgiswmgj003liae0lm8ubk8d",
+      "slug": "scotiacon",
+      "name": "Scotiacon",
+      "path": "data/conventions/scotiacon.json",
+      "sha256": "26014934232f8fed0b0a17d92828b4eadbb431445c7393d5d620a6f313ab176c",
+      "lastModified": "2026-11-01T17:12:36.254Z"
+    },
+    {
+      "id": "cmlegdk23001ulx014fbua067",
+      "slug": "seafur",
+      "name": "SeaFur",
+      "path": "data/conventions/seafur.json",
+      "sha256": "124579f6b7eed97407797e535b15097fd0704160c0c88ae030c7dbcb125fccb6",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmmxokbo3001pti01nyg6zd8e",
+      "slug": "sfj",
+      "name": "Sachsen Furs Jahreswechsel",
+      "path": "data/conventions/sfj.json",
+      "sha256": "9ea9452c20609d1340d07a45ddb2a2d311c3d685622092164dcb4aacb7585036",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmkt61wvk001jqg013bxm94w6",
+      "slug": "siampaws",
+      "name": "SiamPaws",
+      "path": "data/conventions/siampaws.json",
+      "sha256": "c32a8d8bde72ff19a82e7dce74b93822ec7206eb2b8cd5891fc2ded00b005837",
+      "lastModified": "2026-11-01T17:20:20.791Z"
+    },
+    {
+      "id": "cmgiswmgq008diae00zkn8kqo",
+      "slug": "silfur",
+      "name": "SilFur",
+      "path": "data/conventions/silfur.json",
+      "sha256": "c86f81420dce6211882c10af41b57769ed9dfad75098a496e7d0a9ea390b061e",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgk004jiae00oma3mkb",
+      "slug": "sillycon",
+      "name": "SillyCon",
+      "path": "data/conventions/sillycon.json",
+      "sha256": "24a42a3756afdb7bdd5623778e996d69a1149a60c3045ac580660e68abdef557",
+      "lastModified": "2026-11-01T17:14:59.721Z"
+    },
+    {
+      "id": "cmgiswmgk0045iae0gwjpmwes",
+      "slug": "sin-city-murr-con",
+      "name": "Sin City Murr Con",
+      "path": "data/conventions/sin-city-murr-con.json",
+      "sha256": "86b63b6dbfd402c4426442ccc11c886abe722b3537ea92a563caa8772c63db5a",
+      "lastModified": "2026-11-01T17:13:41.044Z"
+    },
+    {
+      "id": "cmgiswmgq008eiae0dup79459",
+      "slug": "slofluffcon",
+      "name": "SloFluffCon",
+      "path": "data/conventions/slofluffcon.json",
+      "sha256": "3bcc4236edc20a22d502427b4231a5209a43fd35340161a004e2d3d215397716",
+      "lastModified": "2026-11-01T17:19:02.769Z"
+    },
+    {
+      "id": "cmgiswmgq008giae03utdmhgf",
+      "slug": "soda-city-fur-con",
+      "name": "Soda City Fur Con",
+      "path": "data/conventions/soda-city-fur-con.json",
+      "sha256": "11cc8cb2a3767aac8e04bcce134e5ccab9f570923a325d4daad3e8f475f36637",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgh002miae00e9aee18",
+      "slug": "south-afrifur",
+      "name": "South Afrifur",
+      "path": "data/conventions/south-afrifur.json",
+      "sha256": "ee5dd88caaa47a7b2749328266b267d3d3b4d70c18d2f3d789c4793c14bef2b7",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgk004giae07fwmgspd",
+      "slug": "southern-paws",
+      "name": "Southern Paws",
+      "path": "data/conventions/southern-paws.json",
+      "sha256": "27e68e6b24ae2ae45956e083d5b7ae231336b6f0ca20b7c5d02c1ddffb679141",
+      "lastModified": "2026-11-01T17:14:42.526Z"
+    },
+    {
+      "id": "cmgiswmgk004fiae0k4hu72o1",
+      "slug": "spokanthro",
+      "name": "SpokAnthro",
+      "path": "data/conventions/spokanthro.json",
+      "sha256": "bbd30cceba0890c557d774e136d119118371b31c168ea3c5ea72bf96ed52b903",
+      "lastModified": "2026-11-01T17:14:41.275Z"
+    },
+    {
+      "id": "cmgiswmgq008hiae0ruhnhlu6",
+      "slug": "spooktacufur",
+      "name": "Spooktacufur",
+      "path": "data/conventions/spooktacufur.json",
+      "sha256": "a2b29f16bc302bde3559eae890f1c5f778bdadfd801477fd70ddc711295850d9",
+      "lastModified": "2026-11-01T17:19:05.577Z"
+    },
+    {
+      "id": "cmkj9isqw000kp401szcqmzcr",
+      "slug": "spring-fur-con",
+      "name": "SpringFurCon",
+      "path": "data/conventions/spring-fur-con.json",
+      "sha256": "4c9c99f6845dff136e27b3dc147615d6dd75643fc709eb56ccf0d44dd5ca2861",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgq008iiae09fckwdvp",
+      "slug": "stratosfur",
+      "name": "StratosFur",
+      "path": "data/conventions/stratosfur.json",
+      "sha256": "d2ee8349c3a9efe09c826ca42708eb5e3bd2be8fdf313a3c55b1ebd97249495e",
+      "lastModified": "2026-11-01T17:19:07.041Z"
+    },
+    {
+      "id": "cmgiswmgq008jiae0c67xve3u",
+      "slug": "super-furry-fusion",
+      "name": "Super Furry Fusion",
+      "path": "data/conventions/super-furry-fusion.json",
+      "sha256": "b1a762e1f52a355c80740f2e6fb7281dabb772756f031a05e08a5bde09321b48",
+      "lastModified": "2026-11-01T17:19:11.827Z"
+    },
+    {
+      "id": "cmgiswmgr008kiae0l7eqjewj",
+      "slug": "tails-and-tornadoes",
+      "name": "Tails and Tornadoes Fur Con",
+      "path": "data/conventions/tails-and-tornadoes.json",
+      "sha256": "20577661e460faf43cc556ee8b2e36497386bcfb203eaf4d5218f777462c6b06",
+      "lastModified": "2026-11-01T17:19:14.022Z"
+    },
+    {
+      "id": "cmmksy9of004ioa0110jk6762",
+      "slug": "tails-of-summer",
+      "name": "Tails of Summer",
+      "path": "data/conventions/tails-of-summer.json",
+      "sha256": "472664dc31f40188735f761046243a9487e8fd84d3bbda7adf1f5dfa06111739",
+      "lastModified": "2026-11-01T17:20:32.457Z"
+    },
+    {
+      "id": "cmleh5egm002alx01ld6k3jex",
+      "slug": "techfurmeet",
+      "name": "TechFurMeet",
+      "path": "data/conventions/techfurmeet.json",
+      "sha256": "6dcf300de1ec2ebe94f4299bc2e8a6d50776578e91ee7c5e2300794800b6f56b",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgi003ciae0t5252b18",
+      "slug": "thaitails",
+      "name": "Thaitails",
+      "path": "data/conventions/thaitails.json",
+      "sha256": "e87b6aecdf897d185f3ddbde055fd396cb1fd536b57090684f122f22eca29b83",
+      "lastModified": "2026-11-01T17:12:14.840Z"
+    },
+    {
+      "id": "cmqqtxnec0000lh01ajoms02c",
+      "slug": "trashcan",
+      "name": "TrashCån",
+      "path": "data/conventions/trashcan.json",
+      "sha256": "510ff6b5cad546cd8e016ab1fbd3d65bd048f53ac0b234679ac9808b428a02fc",
+      "lastModified": "2026-11-01T17:20:40.275Z"
+    },
+    {
+      "id": "cmgiswmgr008qiae011l4i5r0",
+      "slug": "tropical-furry-islands",
+      "name": "Tropical Furry Islands",
+      "path": "data/conventions/tropical-furry-islands.json",
+      "sha256": "1d160718a3e8486a8f3aea1619e764892ac6c45e0d579b3a2291c35c08694ef1",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgr008riae00rar926z",
+      "slug": "tropicon",
+      "name": "Tropicon",
+      "path": "data/conventions/tropicon.json",
+      "sha256": "f150a211e74a13d0ca59dc5f61ed25598a1ea0772eeb28e8310876a11d1ca15b",
+      "lastModified": "2026-11-01T17:19:21.710Z"
+    },
+    {
+      "id": "cmgiswmgr008siae02um75izu",
+      "slug": "unfurgettable-taiwan-furry-gathering",
+      "name": "Unfurgettable Taiwan Furry Gathering",
+      "path": "data/conventions/unfurgettable-taiwan-furry-gathering.json",
+      "sha256": "f5e033a92ebc4bf176573dc13a4b3805ff1cc9ecc73faf3fcc8433c448dbd1e1",
+      "lastModified": "2026-11-01T17:19:23.387Z"
+    },
+    {
+      "id": "cmw849j210000ql012oa61jfy",
+      "slug": "united-furry-convention",
+      "name": "United Furry Convention",
+      "path": "data/conventions/united-furry-convention.json",
+      "sha256": "f1e66fefbf406bae10690e8bc150a7495bc456766332a4b72cf38cb7326696a7",
+      "lastModified": "2026-11-08T18:00:15.099Z"
+    },
+    {
+      "id": "cmgiswmgi0031iae0cgqh5aea",
+      "slug": "vancoufur",
+      "name": "VancouFur",
+      "path": "data/conventions/vancoufur.json",
+      "sha256": "102a70334ce54182c771e0cf7265d416943ea321ac2b6f170745e5d30b5dd218",
+      "lastModified": "2026-11-03T23:33:30.468Z"
+    },
+    {
+      "id": "cmgiswmg80000iae0d0pg783d",
+      "slug": "waff",
+      "name": "West Aussie Fur Frenzy",
+      "path": "data/conventions/waff.json",
+      "sha256": "21b40aedfe460f9b720179a762dc7ba1da1c42554d4732fceb7dcef56d6b895f",
+      "lastModified": "2026-11-01T17:04:27.539Z"
+    },
+    {
+      "id": "cmgiswmgf0015iae0o3l0gb32",
+      "slug": "waldcon",
+      "name": "WaldCon",
+      "path": "data/conventions/waldcon.json",
+      "sha256": "8593076375d022c615074fdccb88462ede43df20ad08533a0bc0838f8742b11c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgr008tiae01ig8ukov",
+      "slug": "watauga-county-furry-convention",
+      "name": "Watauga County Furry Convention",
+      "path": "data/conventions/watauga-county-furry-convention.json",
+      "sha256": "7fee4450ebc86ea277081378c20c3fe602a3844d90b3c926de80abb13c11702b",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgr008viae0m5rghv4w",
+      "slug": "westside-con",
+      "name": "Westside-Con",
+      "path": "data/conventions/westside-con.json",
+      "sha256": "f7451f4055236c35e9ef0886fd293bbe066851b13ec5b482f01670ce0771423c",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmn4rmwx2005tti01dtmmg97s",
+      "slug": "wfw",
+      "name": "Wild Furloween West",
+      "path": "data/conventions/wfw.json",
+      "sha256": "a7eb3fffe7f8e165872a404092aea64b9b167c6c373ff0d1fbd25bd4baa7a78e",
+      "lastModified": "2026-11-04T19:58:53.274Z"
+    },
+    {
+      "id": "cmgiswmgr008wiae0czwz2beq",
+      "slug": "what-the-fur",
+      "name": "What The Fur",
+      "path": "data/conventions/what-the-fur.json",
+      "sha256": "4f710e84546954637b974954e06860db17c401e69c92eaeafc8f919bf2686dac",
+      "lastModified": "2026-11-01T17:19:24.739Z"
+    },
+    {
+      "id": "cmgiswmgf0014iae092nu9edq",
+      "slug": "wild-nights",
+      "name": "Wild Nights",
+      "path": "data/conventions/wild-nights.json",
+      "sha256": "20d9e01da08cc0fa5640c5851a1d68bbdf75b4bd96f113d443c04de431803d3e",
+      "lastModified": "2026-11-01T17:06:42.494Z"
+    },
+    {
+      "id": "cmgiswmgg001hiae0io20jcan",
+      "slug": "wild-north",
+      "name": "Wild North",
+      "path": "data/conventions/wild-north.json",
+      "sha256": "afbec7be24620c526994260b77d7c2170adfc293a9ff8cc974427ac2286b19ff",
+      "lastModified": "2026-11-01T17:07:36.429Z"
+    },
+    {
+      "id": "cmgiswmgi003aiae0an8fghcv",
+      "slug": "wild-prairie-fur-con",
+      "name": "Wild Prairie Fur Con",
+      "path": "data/conventions/wild-prairie-fur-con.json",
+      "sha256": "135a14b5b727a2767f4e20bc17656b0aa774809eab8ea492ec754b5fd3dc1771",
+      "lastModified": "2026-11-01T17:12:03.887Z"
+    },
+    {
+      "id": "cmgiswmgr008xiae0k4z1qvrq",
+      "slug": "wild-times",
+      "name": "Wild Times",
+      "path": "data/conventions/wild-times.json",
+      "sha256": "9c73fdca269549ae1b069dc81138dd57491340b4df8ac7459a99dbdfaf298b50",
+      "lastModified": "2026-11-01T17:19:32.450Z"
+    },
+    {
+      "id": "cmgiswmgr008yiae0pvsakjvv",
+      "slug": "winter-furry-fusion",
+      "name": "Winter Furry Fusion",
+      "path": "data/conventions/winter-furry-fusion.json",
+      "sha256": "d65b8be0f3b0682b1d54c772aec943f95c8679cc95e3c4faf37f36ebe188a35f",
+      "lastModified": "2026-10-29T03:00:23.802Z"
+    },
+    {
+      "id": "cmgiswmgf0019iae0baofsqap",
+      "slug": "wisconsin-wilderness-campout",
+      "name": "Wisconsin Wilderness Campout",
+      "path": "data/conventions/wisconsin-wilderness-campout.json",
+      "sha256": "ba1536909eb26f0e4fb7432c9ba57d061f8c91ca31700272eedabb923b0b34e0",
+      "lastModified": "2026-11-01T17:07:06.278Z"
+    },
+    {
+      "id": "cmgiswmgr0090iae0p7glcww0",
+      "slug": "woods-flock",
+      "name": "Woods Flock",
+      "path": "data/conventions/woods-flock.json",
+      "sha256": "6f796cc7ac3064af6fad8e266acb05fa2c0deae5a038d1ea4247a48f1e466c1c",
+      "lastModified": "2026-11-01T17:19:34.330Z"
+    },
+    {
+      "id": "cmgiswmgk0041iae08nvr8ej9",
+      "slug": "world-wild-fur-camp",
+      "name": "World Wild Fur Camp",
+      "path": "data/conventions/world-wild-fur-camp.json",
+      "sha256": "a1d6e5ec73180366b3ca21f188999a12a36ce67ed8ce68451a204e5d421c666f",
+      "lastModified": "2026-11-01T17:13:24.189Z"
+    },
+    {
+      "id": "cmgiswmgd000jiae0zp5ykkgn",
+      "slug": "wpafw",
+      "name": "Western Pennsylvania Furry Weekend",
+      "path": "data/conventions/wpafw.json",
+      "sha256": "5068c072d609a0969e7c7b4d5781374ce0db4924eb2fcb273f600b1828efa802",
+      "lastModified": "2026-11-01T17:05:43.143Z"
+    },
+    {
+      "id": "cmgiswmgr0091iae0qe3wrgxq",
+      "slug": "wuellas-furfest",
+      "name": "Wüellas FurFest",
+      "path": "data/conventions/wuellas-furfest.json",
+      "sha256": "fc83194fbb66404b0cf37f4df50617e22655bdc65843d0d1b1d512efb3c341c6",
+      "lastModified": "2026-11-05T23:50:20.498Z"
+    },
+    {
+      "id": "cmgiswmgh0028iae0078dyz24",
+      "slug": "wuff",
+      "name": "WUFF",
+      "path": "data/conventions/wuff.json",
+      "sha256": "22607ec4704d9deec61ff3d46a078b8d8cc24242bd80909215288157ba7fb85a",
+      "lastModified": "2026-11-01T17:09:01.300Z"
+    },
+    {
+      "id": "cmgiswmgr0092iae0ba124y5z",
+      "slug": "yunyou-island",
+      "name": "Yunyou Island",
+      "path": "data/conventions/yunyou-island.json",
+      "sha256": "3e3b393cae9ab4756665243fcc8924493619ae37e7d7f7ae7f50b1d112ceda15",
+      "lastModified": "2026-11-01T17:19:37.164Z"
+    },
+    {
+      "id": "cmq9lqm7f002olh014h91vd0n",
+      "slug": "zampacon",
+      "name": "Zampacon",
+      "path": "data/conventions/zampacon.json",
+      "sha256": "cefca8587b194fbf4fc7b5b6f2146e7be2309784202b22d258ce1aa8503b9bca",
+      "lastModified": "2026-11-01T17:20:38.711Z"
+    },
+    {
+      "id": "cmgiswmgj003yiae0z6gcx274",
+      "slug": "zillercon",
+      "name": "Zillercon",
+      "path": "data/conventions/zillercon.json",
+      "sha256": "17e0cd69f540de9c513368af631a4b699fd6781ff6d3906eef8bdfa6b69b2709",
+      "lastModified": "2026-11-01T17:13:07.288Z"
+    },
+    {
+      "id": "cmgiswmgi0030iae0t1o9k6nu",
+      "slug": "zodiacon",
+      "name": "ZodiaCon",
+      "path": "data/conventions/zodiacon.json",
+      "sha256": "bf76141092ee380c6f79efc87d60fff9b682d9ec19710a746f2c79a32ebe2dc9",
+      "lastModified": "2026-11-01T17:11:17.358Z"
+    },
+    {
+      "id": "cmgiswmgr0093iae0pwyixzwc",
+      "slug": "zoniecon",
+      "name": "ZonieCon",
+      "path": "data/conventions/zoniecon.json",
+      "sha256": "01047de274737559d0574865adcb6a5bff3e919018078a43a86082691c02005a",
+      "lastModified": "2026-11-01T17:19:38.104Z"
+    }
+  ]
+}

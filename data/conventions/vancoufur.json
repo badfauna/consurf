@@ -1,0 +1,436 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgi0031iae0cgqh5aea",
+  "slug": "vancoufur",
+  "name": "VancouFur",
+  "shortName": "VF",
+  "description": "VancouFur is a furry convention, held over four days since 2014, in the Vancouver area of British Columbia, run by volunteers and the British Columbia Anthropomorphic Events Association. It was first held in March 2012 at the Executive Hotel and Conference Centre in Burnaby, with 347 attendees. It moved to Richmond in 2016, spent 2020 and 2022 to 2024 at the Sheraton Vancouver Guildford in Surrey, and returned to the Richmond conference centre near the airport in 2025. Attendance reached 3,069 in 2026. Since 2021 its charity partner has been QMUNITY, which received C$20,000 from the convention in both 2023 and 2024.",
+  "blueskyHandle": "vancoufur.bsky.social",
+  "moreInformation": "https://t.me/vancoufurcon",
+  "codeOfConduct": null,
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": "https://vancoufur.org",
+  "url": "https://consurf.net/conventions/vancoufur",
+  "lastModified": "2026-11-03T23:33:30.468Z",
+  "events": [
+    {
+      "id": "cmhpe4z2l0070ian0xlqeij7u",
+      "slug": "vancoufur-2012",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2012",
+      "address": "Executive Hotel & Conference Centre, 4201 Lougheed Highway, Burnaby, BC V5C 3Y6, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2012-03-09",
+      "endDate": "2012-03-11",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 347,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "BC Siberian Husky Club",
+      "guestsOfHonor": [
+        "Thumper"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2012"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2m0083ian04a7xu39d",
+      "slug": "vancoufur-2013",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2013",
+      "address": "Executive Hotel & Conference Centre, 4201 Lougheed Highway, Burnaby, BC V5C 3Y6, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2013-03-01",
+      "endDate": "2013-03-03",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 484,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1275,
+      "charityName": "BC Siberian Husky Club",
+      "guestsOfHonor": [
+        "Jana Stout",
+        "Jon DiFrancesco",
+        "Omekin Lutz"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2013"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2n009bian0s4uh9nxi",
+      "slug": "vancoufur-2014",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2014",
+      "address": "Executive Hotel & Conference Centre, 4201 Lougheed Highway, Burnaby, BC V5C 3Y6, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2014-02-27",
+      "endDate": "2014-03-02",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 602,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1700,
+      "charityName": "VOKRA",
+      "guestsOfHonor": [
+        "BlooFox",
+        "Wolever Wuff"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2014"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00awian0l0nld8ch",
+      "slug": "vancoufur-2015",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2015",
+      "address": "Executive Hotel & Conference Centre, 4201 Lougheed Highway, Burnaby, BC V5C 3Y6, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2015-03-05",
+      "endDate": "2015-03-08",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 724,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1600,
+      "charityName": "VOKRA",
+      "guestsOfHonor": [
+        "Seylyn",
+        "Razzy Lee",
+        "Akonite"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2015"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2q00cjian0qctlzkjx",
+      "slug": "vancoufur-2016",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2016",
+      "address": "Executive Airport Plaza Hotel Richmond, 7311 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2016-03-03",
+      "endDate": "2016-03-06",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 810,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 1750,
+      "charityName": "O.W.L. Orphaned Wildlife Rehabilitation Society",
+      "guestsOfHonor": [
+        "Onnanoko",
+        "Recca"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2016"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00elian0br9gmybh",
+      "slug": "vancoufur-2017",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2017",
+      "address": "Executive Airport Plaza Hotel Richmond, 7311 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2017-03-09",
+      "endDate": "2017-03-12",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 941,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 3166,
+      "charityName": "O.W.L. Orphaned Wildlife Rehabilitation Society",
+      "guestsOfHonor": [
+        "Kappy Rayne",
+        "Lawrence M"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2017"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2u00h6ian0xluxv31f",
+      "slug": "vancoufur-2018",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2018",
+      "address": "Executive Airport Plaza Hotel Richmond, 7311 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2018-03-08",
+      "endDate": "2018-03-11",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1012,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 2500,
+      "charityName": "S.A.I.N.T.S",
+      "guestsOfHonor": [
+        "Jai the Jackodile",
+        "Dervacor The Blue Dragon"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2018"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00jyian0a9rnb5k3",
+      "slug": "vancoufur-2019",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2019",
+      "address": "Sheraton Vancouver Airport Hotel, 7551 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2019-03-07",
+      "endDate": "2019-03-10",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1121,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 5051.9,
+      "charityName": "SAINTS Rescue",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2019"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3000nfian0vrtugy1g",
+      "slug": "vancoufur-2020",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2020",
+      "address": "Sheraton Vancouver Guildford Hotel, Guildford, Surrey, BC, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2020-03-05",
+      "endDate": "2020-03-08",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1211,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 8230.35,
+      "charityName": "BCSPCA Wild Animal Rehabilitation Centre",
+      "guestsOfHonor": [
+        "Matrices",
+        "NitroShep"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2020"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400t0ian0l03ymym9",
+      "slug": "vancoufur-2022",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2022",
+      "address": "Sheraton Vancouver Guildford Hotel, Guildford, Surrey, BC, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2022-03-03",
+      "endDate": "2022-03-06",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1019,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 8000,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [
+        "Rhukai",
+        "Beekin"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2022"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700w7ian0jtxb37zj",
+      "slug": "vancoufur-2023",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2023",
+      "address": "Sheraton Vancouver Guildford Hotel, Guildford, Surrey, BC, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2023-03-02",
+      "endDate": "2023-03-05",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1528,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20000,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2023"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a00zqian0bxs3hrdg",
+      "slug": "vancoufur-2024",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2024",
+      "address": "Sheraton Vancouver Guildford Hotel, Guildford, Surrey, BC, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2024-03-07",
+      "endDate": "2024-03-10",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 1955,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20000,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d013bian01jid66vw",
+      "slug": "vancoufur-2025",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2025",
+      "address": "Sheraton Vancouver Airport Hotel, 7551 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2025-03-06",
+      "endDate": "2025-03-09",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 2298,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 20000,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur_2025"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g0170ian0oy8rsxnl",
+      "slug": "vancoufur-2026",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2026",
+      "address": "Sheraton Vancouver Airport Hotel, 7551 Westminster Highway, Richmond, BC V6X 1A3, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-03-05",
+      "endDate": "2026-03-08",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 3069,
+      "fursuiterCount": 0,
+      "vendorCount": 80,
+      "charityRaised": 0,
+      "charityName": "Qmunity",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "All-Days-Pass",
+          "amount": 120,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass - Fri",
+          "amount": 75,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass - Sat",
+          "amount": 75,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass - Sun",
+          "amount": 50,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass - Thu",
+          "amount": 60,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmmijd55i0005oa01o1cudkdx",
+      "slug": "vancoufur-2027",
+      "name": "VancouFur",
+      "url": "https://consurf.net/vancoufur-2027",
+      "address": "Richmond Conference Centre Richmond, 7551 Westminster Hwy, Richmond, BC V6X 1A1",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2027-03-04",
+      "endDate": "2027-03-07",
+      "timezone": "America/Vancouver",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "QMUNITY",
+      "guestsOfHonor": [
+        "Skuru"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/VancouFur"
+      ],
+      "createdAt": "2026-03-09T02:02:18.582Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

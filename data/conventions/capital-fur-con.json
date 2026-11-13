@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmkj9alxl000jp401ad4ye0sw",
+  "slug": "capital-fur-con",
+  "name": "Capital Fur Con",
+  "shortName": "CFC",
+  "description": "Capital FurCon (CFC) is a new 21+ furry convention which will be held annually at the Gaylord National Resort & Convention Center! And you heard that right, 21+! We know what you're all here for!",
+  "blueskyHandle": "capitalfurcon.org",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://www.capitalfurcon.org/",
+  "url": "https://consurf.net/conventions/capital-fur-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": []
+}

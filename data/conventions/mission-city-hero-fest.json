@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgp007fiae0twdxvilt",
+  "slug": "mission-city-hero-fest",
+  "name": "Mission City Hero Fest",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/mission-city-hero-fest",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3400snian0y8db4e7q",
+      "slug": "mission-city-hero-fest-2021",
+      "name": "Mission City Hero Fest",
+      "url": "https://consurf.net/mission-city-hero-fest-2021",
+      "address": "San Antonio Shrine Auditorium, 901 North Loop 1604 West, San Antonio, TX 78232, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-12-11",
+      "endDate": "2021-12-11",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmn4rwx9q005yti01j43027pr",
+  "slug": "lethfuridge-mini-con",
+  "name": "LethFURidge Mini-Con",
+  "shortName": null,
+  "description": "A two day mini-sized furry convention!",
+  "blueskyHandle": "lethfuridge.ca",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": "https://lethfuridge.ca/",
+  "url": "https://consurf.net/conventions/lethfuridge-mini-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmn4rxmg00060ti0173x9dmhq",
+      "slug": "lethfuridge-mini-con-2026",
+      "name": "LethFURidge Mini-Con",
+      "url": "https://consurf.net/lethfuridge-mini-con-2026",
+      "address": "McNally Community Center, Lethbridge, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-06-06",
+      "endDate": "2026-06-07",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-24T15:33:06.912Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

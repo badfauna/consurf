@@ -1,0 +1,206 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006uiae02my4fhls",
+  "slug": "goldenhorn",
+  "name": "GoldenHorn",
+  "shortName": "GH",
+  "description": "GoldenHorn is an annual furry convention in Slovenia organised by SloFurs. The convention focuses on the social aspect and panels, and pulls its themes from local history and folklore.",
+  "blueskyHandle": "goldenhorn.si",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "SVN",
+  "minAge": 18,
+  "website": "https://goldenhorn.si/",
+  "url": "https://consurf.net/conventions/goldenhorn",
+  "lastModified": "2026-11-01T17:17:37.773Z",
+  "events": [
+    {
+      "id": "cmqnlvxuh00iolh01d6w451zb",
+      "slug": "goldenhorn-2023",
+      "name": "GoldenHorn",
+      "url": "https://consurf.net/goldenhorn-2023",
+      "address": "Youth Hostel Ajdovščina, Cesta IV. prekomorske 61a, Ajdovščina, Slovenia",
+      "country": "SVN",
+      "isCancelled": false,
+      "startDate": "2023-09-15",
+      "endDate": "2023-09-17",
+      "timezone": "Europe/Belgrade",
+      "attendeeCount": 79,
+      "fursuiterCount": 37,
+      "vendorCount": 6,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-06-21T09:50:35.033Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "All-days, all-inclusive (vegan/GF menu) ticket",
+          "amount": 126,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "All-days, all-inclusive ticket",
+          "amount": 114,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Saturday ticket",
+          "amount": 55,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmqnlhg8m00i2lh016m4xce9g",
+      "slug": "goldenhorn-2024",
+      "name": "GoldenHorn",
+      "url": "https://consurf.net/goldenhorn-2024",
+      "address": "Adria Ankaran, Ankaran, Slovenia",
+      "country": "SVN",
+      "isCancelled": false,
+      "startDate": "2024-11-07",
+      "endDate": "2024-11-10",
+      "timezone": "Europe/Belgrade",
+      "attendeeCount": 163,
+      "fursuiterCount": 73,
+      "vendorCount": 8,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-06-21T09:39:19.030Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "All-days ticket",
+          "amount": 100,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "All-days ticket",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": "2024-06-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Goldy's friend (Sponsor)",
+          "amount": 40,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmhpe4z3g016fian0gb50hyor",
+      "slug": "goldenhorn-2025",
+      "name": "GoldenHorn",
+      "url": "https://consurf.net/goldenhorn-2025",
+      "address": "Adria Ankaran, Ankaran, Slovenia",
+      "country": "SVN",
+      "isCancelled": false,
+      "startDate": "2025-11-13",
+      "endDate": "2025-11-16",
+      "timezone": "Europe/Belgrade",
+      "attendeeCount": 303,
+      "fursuiterCount": 155,
+      "vendorCount": 14,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Oggy123"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "All-days ticket",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Goldy's bestie (Super Sponsor)",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Goldy's friend (Sponsor)",
+          "amount": 40,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmkc1l85k0019qk01fgejqpou",
+      "slug": "goldenhorn-2026",
+      "name": "GoldenHorn",
+      "url": "https://consurf.net/goldenhorn-2026",
+      "address": "Hotel Slovenija, Obala 35, 6320 Portorož / Portorose, Slovenia",
+      "country": "SVN",
+      "isCancelled": false,
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-08",
+      "timezone": "Europe/Belgrade",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "dont_jinxit"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-13T03:38:40.905Z",
+      "venues": [
+        {
+          "id": "cmkc1mcf5001bqk01hbf46qjs",
+          "name": "Hotel Slovenija",
+          "address": "Obala 33, 6320 Portorož, Slovenia",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Daily",
+          "amount": 40,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Elder",
+          "amount": 200,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Follower",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Shaman",
+          "amount": 130,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend",
+          "amount": 60,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

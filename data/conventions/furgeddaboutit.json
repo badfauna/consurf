@@ -1,0 +1,126 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgm005ziae0bvfxi9dz",
+  "slug": "furgeddaboutit",
+  "name": "Furgeddaboutit",
+  "shortName": "Furg",
+  "description": "Furgeddaboutit (Furg) is an annual furry convention in New Jersey, begun in 2025 by members of local meetup groups and conventions including Furrydelphia, The Furst State, AOA, Furgen County and Pinefurs. It is run by Furgeddaboutit, a New Jersey 501(c)(3) non-profit. The first convention was held May 2 to 4, 2025, at the DoubleTree Suites in Mount Laurel, with 638 attendees, and the second in April 2026 at the DoubleTree in Fairfield with 1,101. Its charity is the Cedar Run Wildlife Refuge, and its themes play on New Jersey culture.",
+  "blueskyHandle": "furgeddaboutit.org",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://furgeddaboutit.org/",
+  "url": "https://consurf.net/conventions/furgeddaboutit",
+  "lastModified": "2026-11-01T17:16:48.598Z",
+  "events": [
+    {
+      "id": "cmhpe4z3d013uian0h8cjpb2m",
+      "slug": "furgeddaboutit-2025",
+      "name": "Furgeddaboutit",
+      "url": "https://consurf.net/furgeddaboutit-2025",
+      "address": "Doubletree Suites By Hilton Hotel Mt. Laurel, Ramblewood, NJ, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-05-02",
+      "endDate": "2025-05-04",
+      "timezone": "America/New_York",
+      "attendeeCount": 638,
+      "fursuiterCount": 169,
+      "vendorCount": null,
+      "charityRaised": 8260.23,
+      "charityName": "Cedar Run Wildlife Refuge",
+      "guestsOfHonor": [
+        "Jay the Gryphon",
+        "Gadget",
+        "Gizmo"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkc1ez7m0015qk01irt6oh8r",
+      "slug": "furgeddaboutit-2026",
+      "name": "Furgeddaboutit",
+      "url": "https://consurf.net/furgeddaboutit-2026",
+      "address": "Mount Laurel Township, Mount Laurel, NJ, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-04-23",
+      "endDate": "2026-04-26",
+      "timezone": "America/New_York",
+      "attendeeCount": 1101,
+      "fursuiterCount": 0,
+      "vendorCount": 16,
+      "charityRaised": 11899.84,
+      "charityName": "Cedar Run Wildlife Refuge",
+      "guestsOfHonor": [
+        "Glitzy Fox",
+        "Roxi Wheels"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-13T03:33:49.378Z",
+      "venues": [
+        {
+          "id": "cmkc1fi8c0017qk01xwvn54iv",
+          "name": "The DoubleTree by Hilton Fairfield",
+          "address": "690 US-46, Fairfield, NJ 07004, USA",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 70,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 125,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 200,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Under 14 years old (with 18+ guardian)",
+          "amount": 0,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmolrewy1000nmw014zvh7inr",
+      "slug": "furgeddaboutit-2027",
+      "name": "Furgeddaboutit",
+      "url": "https://consurf.net/furgeddaboutit-2027",
+      "address": "Mount Laurel Township, Mount Laurel, NJ, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-26",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Astra Kitty"
+      ],
+      "sources": [],
+      "createdAt": "2026-04-30T17:30:21.385Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

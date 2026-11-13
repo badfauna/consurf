@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgg001riae06h6pi9e9",
+  "slug": "minicon",
+  "name": "MiniCon",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CZE",
+  "minAge": 18,
+  "website": "https://minicon.cz",
+  "url": "https://consurf.net/conventions/minicon",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3c012lian0lz916oux",
+      "slug": "minicon-2024",
+      "name": "MiniCon",
+      "url": "https://consurf.net/minicon-2024",
+      "address": "Hlavatce, 1359, 391 73 Hlavatce, Czechia",
+      "country": "CZE",
+      "isCancelled": false,
+      "startDate": "2024-11-20",
+      "endDate": "2024-11-24",
+      "timezone": "Europe/Prague",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

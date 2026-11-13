@@ -1,0 +1,52 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmhnx8rat0002ia947hcess15",
+  "slug": "anthro-new-mexico",
+  "name": "Anthro New Mexico",
+  "shortName": "ANM",
+  "description": "Anthro New Mexico started with just three locals from Albuquerque. An impromptu photoshoot turned into a meet one day and the idea to create the ABQ Fursuit Group came to mind. In one month, their telegram grew to 280 members, and they revived a dead community with their biweekly Furmeets. Three months later, they began the process of creating New Mexico's first and only Furry Convention, Anthro New Mexico!",
+  "blueskyHandle": null,
+  "moreInformation": "https://x.com/AnthroNewMexico",
+  "codeOfConduct": "https://anthronewmexico.com/con-rules",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://anthronewmexico.com",
+  "url": "https://consurf.net/conventions/anthro-new-mexico",
+  "lastModified": "2026-11-01T17:19:46.011Z",
+  "events": [
+    {
+      "id": "cmhpe4z3q01j5ian0re3fpqtf",
+      "slug": "anthro-new-mexico-2026",
+      "name": "Anthro New Mexico",
+      "url": "https://consurf.net/anthro-new-mexico-2026",
+      "address": "Crowne Plaza Hotel, 1901 University Blvd NE, Albuquerque, NM, 87102 USA",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-06",
+      "timezone": "America/Denver",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Wild Spirit Wolf Sanctuary",
+      "guestsOfHonor": [
+        "BGN",
+        "JayJay Idingo",
+        "Kyell Gold"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmkumeovk003cqg018lbfehva",
+          "name": "Crowne Plaza Hotel",
+          "address": "1901 University Blvd NE, Albuquerque, NM, 87102 USA",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

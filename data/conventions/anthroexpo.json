@@ -1,0 +1,291 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf000xiae0bb2rcok2",
+  "slug": "anthroexpo",
+  "name": "AnthroExpo",
+  "shortName": "AnEx",
+  "description": "AnthroExpo (AnEx) is a hotel-based furry convention in central Oklahoma, run by volunteers of the non-profit Scissortail Fandoms Inc., originally called Our Way Oklahoma. The first edition took place in Oklahoma City in early 2020, and the 2021 edition was held online because of the COVID-19 pandemic. After the 2022 and 2023 editions at the Sheraton Oklahoma City Downtown, it moved to the Embassy Suites in Norman in 2024. In-person attendance has grown every year since 2022, reaching 1,867 in 2026. Each edition has a theme and a charity partner, and the mascots are Andrea the Scissortail Flycatcher and Exavier the Prairie Dog. The 2027 edition moves from early February to Memorial Day weekend because of hotel renovations.",
+  "blueskyHandle": "anthroexpo.com",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://anthroexpo.net",
+  "url": "https://consurf.net/conventions/anthroexpo",
+  "lastModified": "2026-11-03T23:33:30.468Z",
+  "events": [
+    {
+      "id": "cmhpe4z2z00m7ian0b5195948",
+      "slug": "anthroexpo-2019",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2019",
+      "address": "Wyndham Garden Oklahoma City Airport, 2101 South Meridian Avenue, Oklahoma City, OK 73108, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2019-10-18",
+      "endDate": "2019-10-20",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2z00n4ian08aqz764x",
+      "slug": "anthroexpo-2020",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2020",
+      "address": "Oklahoma City, OK, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-01-31",
+      "endDate": "2020-02-02",
+      "timezone": "America/Chicago",
+      "attendeeCount": 607,
+      "fursuiterCount": 150,
+      "vendorCount": 18,
+      "charityRaised": 7503.63,
+      "charityName": "WildCare Oklahoma",
+      "guestsOfHonor": [
+        "AuroraBloom",
+        "Sub-Level 03"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/AnthroExpo_2020"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qdian05azb0cvt",
+      "slug": "anthroexpo-2021",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2021",
+      "address": "Oklahoma City, OK, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-04-10",
+      "endDate": "2021-04-11",
+      "timezone": "America/Chicago",
+      "attendeeCount": 772,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 1500,
+      "charityName": "Asian Mental Health Collective",
+      "guestsOfHonor": [
+        "Coopertom"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400stian0w73jfwf9",
+      "slug": "anthroexpo-2022",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2022",
+      "address": "Sheraton Oklahoma City Downtown Hotel, 1 North Broadway Avenue, Oklahoma City, OK 73102, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2022-01-21",
+      "endDate": "2022-01-23",
+      "timezone": "America/Chicago",
+      "attendeeCount": 669,
+      "fursuiterCount": 74,
+      "vendorCount": 0,
+      "charityRaised": 7777,
+      "charityName": "SISU Youth Services",
+      "guestsOfHonor": [
+        "SBGothik",
+        "Chise"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700w0ian0nhje3vlb",
+      "slug": "anthroexpo-2023",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2023",
+      "address": "Sheraton Oklahoma City Downtown Hotel, 1 North Broadway Avenue, Oklahoma City, OK 73102, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-01-27",
+      "endDate": "2023-01-29",
+      "timezone": "America/Chicago",
+      "attendeeCount": 896,
+      "fursuiterCount": 114,
+      "vendorCount": 0,
+      "charityRaised": 14135,
+      "charityName": "Pivot OKC",
+      "guestsOfHonor": [
+        "Golden Reliic",
+        "Omnom Nomnomnom"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a00zhian0bwfsx95m",
+      "slug": "anthroexpo-2024",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2024",
+      "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-04",
+      "timezone": "America/Chicago",
+      "attendeeCount": 1094,
+      "fursuiterCount": 236,
+      "vendorCount": 60,
+      "charityRaised": 14000,
+      "charityName": "Pivot OKC",
+      "guestsOfHonor": [
+        "Zero the Kangaroo",
+        "Odyssey Eurobeat",
+        "ChappieFrog"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d0131ian0wt9z0dw2",
+      "slug": "anthroexpo-2025",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2025",
+      "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-01-30",
+      "endDate": "2025-02-02",
+      "timezone": "America/Chicago",
+      "attendeeCount": 1450,
+      "fursuiterCount": null,
+      "vendorCount": 0,
+      "charityRaised": 17801,
+      "charityName": "Pivot OKC",
+      "guestsOfHonor": [
+        "RadWah",
+        "HOWL OUT",
+        "Keagan",
+        "TokensArcade",
+        "Betu"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g016sian07xvumdl9",
+      "slug": "anthroexpo-2026",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2026",
+      "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-02-05",
+      "endDate": "2026-02-08",
+      "timezone": "America/Chicago",
+      "attendeeCount": 1867,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 18000,
+      "charityName": "Sisu Youth Services",
+      "guestsOfHonor": [
+        "Zray",
+        "Sox",
+        "Token"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmli5c53n000xlj01y18ao6fi",
+      "slug": "anthroexpo-2027",
+      "name": "AnthroExpo",
+      "url": "https://consurf.net/anthroexpo-2027",
+      "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-05-27",
+      "endDate": "2027-05-30",
+      "timezone": "America/Chicago",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Sisu Youth Services",
+      "guestsOfHonor": [
+        "Tatujapa"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/AnthroExpo"
+      ],
+      "createdAt": "2026-02-11T14:49:54.900Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "At the door weekend pass",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": "2027-05-29T00:00:00.000Z"
+        },
+        {
+          "priceType": "Early bird basic",
+          "amount": 50,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Early bird sponsor",
+          "amount": 130,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Early bird super sponsor",
+          "amount": 250,
+          "currency": "USD",
+          "rateCutoff": "2026-11-30T00:00:00.000Z"
+        },
+        {
+          "priceType": "Pre-reg basic",
+          "amount": 65,
+          "currency": "USD",
+          "rateCutoff": "2027-03-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Pre-reg sponsor",
+          "amount": 175,
+          "currency": "USD",
+          "rateCutoff": "2027-03-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Pre-reg super sponsor",
+          "amount": 300,
+          "currency": "USD",
+          "rateCutoff": "2027-03-31T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmw849j210000ql012oa61jfy",
+  "slug": "united-furry-convention",
+  "name": "United Furry Convention",
+  "shortName": "UFC",
+  "description": "United Furry Convention (UFC) is a recent furry convention in Russia. Its first iteration debuted in April 2026 attracting 118 participants. Set in a secluded hotel in Druzhba for 3 days. Its premiere edition was by invitation only.\r\n\r\nUFC was founded by Nutlet and Vizzey.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/united_furry_con",
+  "codeOfConduct": "https://ufcon.ru/rules",
+  "hostCountry": "RUS",
+  "minAge": 18,
+  "website": "https://ufcon.ru",
+  "url": "https://consurf.net/conventions/united-furry-convention",
+  "lastModified": "2026-11-08T18:00:15.099Z",
+  "events": [
+    {
+      "id": "cmw84h8140004ql01vgsf1v66",
+      "slug": "united-furry-convention-2026",
+      "name": "United Furry Convention",
+      "url": "https://consurf.net/united-furry-convention-2026",
+      "address": "Druzhba Holiday Resort - Gromkovo, Bogorodsky Urban Okrug, Moscow Oblast",
+      "country": "RUS",
+      "isCancelled": false,
+      "startDate": "2026-04-16",
+      "endDate": "2026-04-19",
+      "timezone": null,
+      "attendeeCount": 188,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://en.wikifur.com/wiki/United_Furry_Convention"
+      ],
+      "createdAt": "2026-11-08T17:44:56.296Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Economy (2 people room)",
+          "amount": 19000,
+          "currency": "RUB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Party (5 people room)",
+          "amount": 20000,
+          "currency": "RUB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard (2-3 people room)",
+          "amount": 21000,
+          "currency": "RUB",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmw84r6kb000cql018x8h4f48",
+      "slug": "united-furry-convention-2027",
+      "name": "United Furry Convention",
+      "url": "https://consurf.net/united-furry-convention-2027",
+      "address": "Moscow Oblast, Russia",
+      "country": "RUS",
+      "isCancelled": false,
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-14",
+      "timezone": "Europe/Moscow",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://t.me/united_furry_con/86"
+      ],
+      "createdAt": "2026-11-08T17:52:40.955Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

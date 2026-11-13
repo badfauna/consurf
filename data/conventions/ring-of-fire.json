@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq0087iae0wz2jbvqs",
+  "slug": "ring-of-fire",
+  "name": "Ring of Fire",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/ring-of-fire",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z2q00coian0z8t07oub",
+      "slug": "ring-of-fire-2016",
+      "name": "Ring of Fire",
+      "url": "https://consurf.net/ring-of-fire-2016",
+      "address": "Hampton Roads Convention Center, 1610 Coliseum Drive, Hampton, VA 23666, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2016-03-18",
+      "endDate": "2016-03-20",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

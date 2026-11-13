@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn0063iae04w4svvf9",
+  "slug": "furnexion",
+  "name": "Furnexion",
+  "shortName": null,
+  "description": "Furnexion is a furry convention in Monterrey, Nuevo León, Mexico, organized by Furros del Norte, a group formed in October 2018 to bring together the furry community of Nuevo León, Tamaulipas and Coahuila after a local Halloween furmeet. The convention was announced in July 2019 for March 2020 but was postponed several times because of the pandemic, and the first Furnexion was finally held March 18 to 20, 2022. Its charity is Corazones Incondicionales.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "MEX",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furnexion",
+  "lastModified": "2026-11-01T17:16:57.129Z",
+  "events": [
+    {
+      "id": "cmhpe4z3500t8ian0h3j2737c",
+      "slug": "furnexion-2022",
+      "name": "Furnexion",
+      "url": "https://consurf.net/furnexion-2022",
+      "address": "Archivo Histórico de Nuevo León, 64800 Monterrey, NLE, Mexico",
+      "country": "MEX",
+      "isCancelled": false,
+      "startDate": "2022-03-18",
+      "endDate": "2022-03-20",
+      "timezone": "America/Monterrey",
+      "attendeeCount": 81,
+      "fursuiterCount": 37,
+      "vendorCount": null,
+      "charityRaised": 7835,
+      "charityName": "Corazones Incondicionales",
+      "guestsOfHonor": [
+        "Ettevy"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

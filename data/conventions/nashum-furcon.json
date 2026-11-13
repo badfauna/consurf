@@ -1,0 +1,45 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgp007iiae0ookla8r4",
+  "slug": "nashum-furcon",
+  "name": "Nashum FurCon",
+  "shortName": null,
+  "description": "Welcome all to Nashum FurCon! We are Nashville's new furry convention, to be held at the Sheraton Music City Hotel in 2026. We look forward to all of you joining us in our latest adventure into a forgotten world and beyond!",
+  "blueskyHandle": "nashumfurcon.org",
+  "moreInformation": null,
+  "codeOfConduct": "https://www.nashumfurcon.org/attendee-policy",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://nashumfurcon.org",
+  "url": "https://consurf.net/conventions/nashum-furcon",
+  "lastModified": "2026-11-01T17:18:09.178Z",
+  "events": [
+    {
+      "id": "cmhpe4z3g017fian0cpiea8x8",
+      "slug": "nashum-furcon-2026",
+      "name": "Nashum FurCon",
+      "url": "https://consurf.net/nashum-furcon-2026",
+      "address": "Nashville, TN, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-24",
+      "timezone": "America/Chicago",
+      "attendeeCount": 1137,
+      "fursuiterCount": 413,
+      "vendorCount": 24,
+      "charityRaised": 4000,
+      "charityName": "Harmony Wildlife",
+      "guestsOfHonor": [
+        "Ash",
+        "Aspen",
+        "russelbuck"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

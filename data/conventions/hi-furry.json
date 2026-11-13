@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmlk9qzl50004sa01f9fxtusq",
+  "slug": "hi-furry",
+  "name": "Hi-Furry",
+  "shortName": null,
+  "description": "Hi Furry was founded in early 2023. We are committed to promoting excellent Furry culture, adhering to the vision of \"bringing convenient, pleasant and comfortable gathering experiences to furries\", and striving to make every gathering leave a pleasant memory for everyone with a sincere and friendly attitude!",
+  "blueskyHandle": null,
+  "moreInformation": "https://x.com/HiFurryOfficial",
+  "codeOfConduct": "https://hi-furry.cn/#/archive/ticket-terms-of-service",
+  "hostCountry": "CHN",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/hi-furry",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmlk9vu4c0006sa01c5zvv2kv",
+      "slug": "hi-furry-2026",
+      "name": "Hi-Furry",
+      "url": "https://consurf.net/hi-furry-2026",
+      "address": "Foshan, FS, China",
+      "country": "CHN",
+      "isCancelled": false,
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-04",
+      "timezone": "Asia/Shanghai",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-13T02:32:44.605Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

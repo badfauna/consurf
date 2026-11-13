@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmhnxy2yy0004ia94e60qemzc",
+  "slug": "aural-alliance-festival",
+  "name": "Aural Alliance Festival",
+  "shortName": null,
+  "description": "Aural Alliance Festival is a music-based furry convention run by the indie label Aural Alliance. Its first edition was held August 27 to 28, 2024, at the Kulturzentrum Faust events venue in Hannover, Germany. The festival featured over 30 music acts on two live stages, along with an open canvas event for charity and fursuit meetups, and drew on local German businesses and art communities as contributors.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": null,
+  "website": "https://en.wikifur.com/wiki/Aural_Alliance_Festival",
+  "url": "https://consurf.net/conventions/aural-alliance-festival",
+  "lastModified": "2026-11-01T17:19:50.598Z",
+  "events": [
+    {
+      "id": "cmhpe4z3q01jaian0ezzy26kj",
+      "slug": "aural-alliance-festival-2024",
+      "name": "Aural Alliance Festival",
+      "url": "https://consurf.net/aural-alliance-festival-2024",
+      "address": "Kulturzentrum Faust, Berdingstraße, 30451 Hanover, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2024-08-27",
+      "endDate": "2024-08-28",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": 200,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "WHSPRS",
+        "Ivycomb",
+        "CaseJackal",
+        "Mailpup"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

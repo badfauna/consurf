@@ -1,0 +1,145 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf001aiae0i8c87r95",
+  "slug": "pawai",
+  "name": "Party Along With Anthro Indonesia",
+  "shortName": "PAWAI",
+  "description": "Party Along With Anthro Indonesia (PAWAI) was a furry convention in Jakarta, Indonesia, organized by the PAWAI Team of Anthro Indonesia. The name is a bilingual acronym, and \"pawai\" is also the Indonesian word for parade. It was first held August 11, 2018, and held again in 2019, with an online edition in 2022 and in-person events in 2023 and 2026 after a hiatus. In October 2026 it was announced that the convention had been discontinued, with \"Gods Paradise\" as its last.",
+  "blueskyHandle": "pawaiid.bsky.social",
+  "moreInformation": "https://t.me/pawai_info",
+  "codeOfConduct": "https://link.anthro.id/3QtdDQ",
+  "hostCountry": "IDN",
+  "minAge": null,
+  "website": "https://pawai.id",
+  "url": "https://consurf.net/conventions/pawai",
+  "lastModified": "2026-11-01T17:07:09.424Z",
+  "events": [
+    {
+      "id": "cmhpe4z3p01heian0afp3d6fs",
+      "slug": "pawai-2018",
+      "name": "PAWAI",
+      "url": "https://consurf.net/pawai-2018",
+      "address": "South Jakarta, Java, Indonesia",
+      "country": "IDN",
+      "isCancelled": false,
+      "startDate": "2018-08-11",
+      "endDate": "2018-08-11",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 90,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Daza",
+        "Kecap Asin"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3p01hfian0zxdb5bqt",
+      "slug": "pawai-2019",
+      "name": "PAWAI",
+      "url": "https://consurf.net/pawai-2019",
+      "address": "YELLO Manggarai Jakarta, Jakarta, Indonesia",
+      "country": "IDN",
+      "isCancelled": false,
+      "startDate": "2019-07-27",
+      "endDate": "2019-07-27",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 120,
+      "fursuiterCount": 36,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Koku Boku Boo",
+        "MinTea"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3p01hgian0fzjayvj3",
+      "slug": "pawai-2023",
+      "name": "PAWAI",
+      "url": "https://consurf.net/pawai-2023",
+      "address": "Malaka Hotel, Jalan Terusan Halimun 36, Bandung City 40263, JR, Indonesia",
+      "country": "IDN",
+      "isCancelled": false,
+      "startDate": "2023-06-24",
+      "endDate": "2023-06-25",
+      "timezone": "Asia/Jakarta",
+      "attendeeCount": 240,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Ocaritna",
+        "Joseph A.K"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3p01hhian0kfpg5txm",
+      "slug": "pawai-2026",
+      "name": "PAWAI",
+      "url": "https://consurf.net/pawai-2026",
+      "address": "Grand Istana Rama, Jalan Pantai Kuta, Kuta 80361, Bali, Indonesia",
+      "country": "IDN",
+      "isCancelled": false,
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "timezone": "Asia/Makassar",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "AgiType01",
+        "YonKaGor"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmqk2vknp00ejlh01bkzpikpi",
+          "name": "Grand Istana Rama Hotel",
+          "address": "Jl. Pantai Kuta, Kec. Kuta, Kab. Badung, Bali, 80361",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Baris",
+          "amount": 350000,
+          "currency": "IDR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Kecak",
+          "amount": 1664000,
+          "currency": "IDR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Pendet",
+          "amount": 832000,
+          "currency": "IDR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

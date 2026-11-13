@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq008aiae05cc8vfyh",
+  "slug": "rose-city-fursanity",
+  "name": "Rose City Fursanity",
+  "shortName": null,
+  "description": "Rose City Fursanity was a \"dance heavy\" furry and anime convention in Tyler, Texas, first held April 20 to 22, 2018, at the Hollywood Theaters. Staff described it as an event where furries can take part in a small series of coordinated events in a moderately small space, a theater with four panel rooms upstairs, and planned events included a fursuiter pet auction for charity, a Saturday night dance and a \"floor war\".",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/rose-city-fursanity",
+  "lastModified": "2026-11-01T17:19:00.490Z",
+  "events": [
+    {
+      "id": "cmhpe4z2u00hgian0znczm0zw",
+      "slug": "rose-city-fursanity-2018",
+      "name": "Rose City Fursanity",
+      "url": "https://consurf.net/rose-city-fursanity-2018",
+      "address": "Tyler, TX, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2018-04-20",
+      "endDate": "2018-04-22",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": 20,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

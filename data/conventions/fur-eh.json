@@ -1,0 +1,475 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf001fiae0lk2o413d",
+  "slug": "fur-eh",
+  "name": "Fur-Eh!",
+  "shortName": null,
+  "description": "Held each year in Edmonton, Fur-Eh! has grown from 200 attendees at its May 2012 debut to 2,497 in 2026. The non-profit Canadian Anthropomorphics Inc. organises it. Planning began in 2010, led by Thallanor Rasmuson with Fallout Coyote, and it became the first furry convention in Alberta. Its dates later shifted to June (2017) and then to July (2022). After using several Edmonton hotels, it made the Wyndham Edmonton Hotel and Conference Centre its home in 2024. The 2020 and 2021 editions were cancelled.",
+  "blueskyHandle": "fur-eh.bsky.social",
+  "moreInformation": "https://t.me/furehcanada",
+  "codeOfConduct": "https://fureh.ca/code-of-conduct/",
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": "https://fureh.ca",
+  "url": "https://consurf.net/conventions/fur-eh",
+  "lastModified": "2026-11-03T23:33:30.468Z",
+  "events": [
+    {
+      "id": "cmhpe4z3i019cian0ezri173a",
+      "slug": "fur-eh-2012",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2012",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2012-05-04",
+      "endDate": "2012-05-06",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 200,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Silent Ravyn"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2012"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3i019dian0sn4fsnt7",
+      "slug": "fur-eh-2013",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2013",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2013-05-03",
+      "endDate": "2013-05-05",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 273,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Strawberry Neko"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2013"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3i019eian0irm9xy49",
+      "slug": "fur-eh-2014",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2014",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2014-05-02",
+      "endDate": "2014-05-04",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 351,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Shinigamigirl"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2014"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00b5ian0gu75kljj",
+      "slug": "fur-eh-2015",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2015",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2015-05-08",
+      "endDate": "2015-05-10",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 471,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Strype"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2015"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2q00cwian0d3iswxby",
+      "slug": "fur-eh-2016",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2016",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2016-05-06",
+      "endDate": "2016-05-08",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 625,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 3242,
+      "charityName": "Underdogs Rescue Society",
+      "guestsOfHonor": [
+        "Redcoat Cat"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2016"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00f5ian02b1twx7g",
+      "slug": "fur-eh-2017",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2017",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2017-06-15",
+      "endDate": "2017-06-18",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 734,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 3946.95,
+      "charityName": "Underdogs Rescue Society",
+      "guestsOfHonor": [
+        "Davecko"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2017"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2v00htian0pjymoxo9",
+      "slug": "fur-eh-2018",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2018",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2018-06-14",
+      "endDate": "2018-06-17",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 743,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 7801,
+      "charityName": "Underdogs Rescue Society",
+      "guestsOfHonor": [
+        "Demicoeur"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2018"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00klian0yzdfwezt",
+      "slug": "fur-eh-2019",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2019",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2019-06-13",
+      "endDate": "2019-06-16",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 867,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 11600,
+      "charityName": "Underdogs Rescue Society",
+      "guestsOfHonor": [
+        "Eerie Eden"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2019"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3000o6ian0ihqyx2gd",
+      "slug": "fur-eh-2020",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2020",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": true,
+      "startDate": "2020-06-18",
+      "endDate": "2020-06-21",
+      "timezone": "America/Edmonton",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3300qzian0tmrynmlt",
+      "slug": "fur-eh-2021",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2021",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": true,
+      "startDate": "2021-07-15",
+      "endDate": "2021-07-18",
+      "timezone": "America/Edmonton",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500u1ian0id3h650v",
+      "slug": "fur-eh-2022",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2022",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2022-07-14",
+      "endDate": "2022-07-17",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 1222,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 13172.55,
+      "charityName": "Greater Edmonton Animal Rescue Society (GEARS)",
+      "guestsOfHonor": [
+        "Nicnak"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2022"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3800x8ian0oam2ndwc",
+      "slug": "fur-eh-2023",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2023",
+      "address": "Edmonton Inn & Conference Centre, 11834 Kingsway Ave NW, Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2023-07-06",
+      "endDate": "2023-07-09",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 1594,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 16746.23,
+      "charityName": "Greater Edmonton Animal Rescue Society (GEARS)",
+      "guestsOfHonor": [
+        "Apoxon",
+        "Tarrin Rudders"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2023"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3b010oian0ekijdm54",
+      "slug": "fur-eh-2024",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2024",
+      "address": "Wyndham Edmonton Hotel and Conference Centre, 4440 Gateway Boulevard NW, Edmonton, AB T6H 5C2, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2024-07-18",
+      "endDate": "2024-07-21",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 1964,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 19000,
+      "charityName": "Greater Edmonton Animal Rescue Society (GEARS)",
+      "guestsOfHonor": [
+        "Anyare",
+        "Beetlecat"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2024"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e014lian00ei4nzeo",
+      "slug": "fur-eh-2025",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2025",
+      "address": "Wyndham Edmonton Hotel and Conference Centre, 4440 Gateway Boulevard NW, Edmonton, AB T6H 5C2, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2025-07-17",
+      "endDate": "2025-07-20",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 2120,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 25000,
+      "charityName": "Greater Edmonton Animal Rescue Society (GEARS)",
+      "guestsOfHonor": [
+        "CorgiCam",
+        "Ookami Kemono"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!_2025"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3h017iian0om6au9z9",
+      "slug": "fur-eh-2026",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2026",
+      "address": "Edmonton, AB, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2026-07-16",
+      "endDate": "2026-07-19",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 2497,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 20000,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Ollie Canal",
+        "Temperance"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!"
+      ],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmkjb0e570018p401lz0xwm5f",
+          "name": "Wyndham Edmonton Hotel and Conference Centre",
+          "address": "4440 Gateway Blvd, Edmonton, AB, Canada",
+          "isMain": true
+        },
+        {
+          "id": "cmkjb0s80001ap401yyd5ajxx",
+          "name": "Delta Hotels Edmonton South Conference Centre",
+          "address": "4404 Gateway Blvd NW, Edmonton, AB, Canada",
+          "isMain": false
+        },
+        {
+          "id": "cmqd8k28y0049lh01h7olse6q",
+          "name": "Holiday Inn: Conference Ctr Edmonton South",
+          "address": "4485 Gateway Blvd NW, Edmonton, AB",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Guardians",
+          "amount": 280,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Rangers",
+          "amount": 130,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Ringbearers",
+          "amount": 460,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Wanderers",
+          "amount": 85,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmrtvctzd000vlh01mjli806m",
+      "slug": "fur-eh-2027",
+      "name": "Fur-Eh!",
+      "url": "https://consurf.net/fur-eh-2027",
+      "address": "Wyndham Edmonton Hotel and Conference Centre, 4440 Gateway Blvd, Edmonton, AB T6H 5C2, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2027-07-15",
+      "endDate": "2027-07-18",
+      "timezone": "America/Edmonton",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Fox in the Bush"
+      ],
+      "sources": [
+        "https://en.wikifur.com/wiki/Fur-Eh!"
+      ],
+      "createdAt": "2026-07-20T23:41:59.113Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

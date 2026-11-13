@@ -1,0 +1,70 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmkj8k4yx0007p4017u15h6pc",
+  "slug": "borneo-anthro-hub",
+  "name": "Borneo Anthro Hub",
+  "shortName": "BAH",
+  "description": "As the seasons change and the Golden Harvest nears, a call spreads across the land. Sean & Aminah seek out new hands and hopeful hearts to not only help out, but to also join along the celebration afterwards to share the joy of enjoying the fruits of labour together. Whether you are a seeker, a guardian, or a champion — your story starts here.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/+CpTP7JC9qdYyZGQ1",
+  "codeOfConduct": null,
+  "hostCountry": "MYS",
+  "minAge": null,
+  "website": "https://borneoanthrohub.com/",
+  "url": "https://consurf.net/conventions/borneo-anthro-hub",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmkj8n90k0009p401ax51yl21",
+      "slug": "borneo-anthro-club-2026",
+      "name": "Borneo Anthro Hub",
+      "url": "https://consurf.net/borneo-anthro-club-2026",
+      "address": "Jalan Tun Razak, 88675 Kota Kinabalu, Sabah, Malaysia",
+      "country": "MYS",
+      "isCancelled": false,
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-21",
+      "timezone": "Asia/Kuching",
+      "attendeeCount": 236,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 11460.76,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-18T04:30:35.876Z",
+      "venues": [
+        {
+          "id": "cmkj8omzb000bp401rdh5c9qq",
+          "name": "Horizon Hotel",
+          "address": "Kota Kinabalu, Sabah, Malaysia",
+          "isMain": true
+        }
+      ],
+      "prices": []
+    },
+    {
+      "id": "cmveetljo001cp201arq8uqjg",
+      "slug": "borneo-anthro-hub-2027",
+      "name": "Borneo Anthro Hub",
+      "url": "https://consurf.net/borneo-anthro-hub-2027",
+      "address": "Jalan Tun Razak, 88675 Kota Kinabalu, Sabah, Malaysia",
+      "country": "MYS",
+      "isCancelled": false,
+      "startDate": "2027-07-10",
+      "endDate": "2027-07-11",
+      "timezone": "Asia/Kuching",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-10-18T22:41:24.565Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmho76ts0000gia948upb710f",
+  "slug": "fuzzyoasisparty",
+  "name": "FuzzyOasisParty",
+  "shortName": null,
+  "description": "FuzzyOasisParty (绿洲派对, FOP) was a furry convention in Shenzhen, in southern China. Its project team began fundraising in January 2020 for a first convention planned for July 2020 at the Crowne Plaza Holiday Hotel in Longgang District, which was postponed because of the pandemic, and the first convention was held August 7 to 8, 2021, at the Yating Haiwan International Hotel, a seaside hotel in Yantian District. A \"FuzzyOasisParty Lite\" event followed in July 2023, and the project's final event was held in October 2023.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CHN",
+  "minAge": null,
+  "website": "https://en.wikifur.com/wiki/FuzzyOasisParty",
+  "url": "https://consurf.net/conventions/fuzzyoasisparty",
+  "lastModified": "2026-11-01T17:20:14.043Z",
+  "events": [
+    {
+      "id": "cmhpe4z3s01kpian0f6hzzggj",
+      "slug": "fuzzyoasisparty-2021",
+      "name": "FuzzyOasisParty",
+      "url": "https://consurf.net/fuzzyoasisparty-2021",
+      "address": "Shenzhen, Guangdong, China",
+      "country": "CHN",
+      "isCancelled": false,
+      "startDate": "2021-08-07",
+      "endDate": "2021-08-08",
+      "timezone": "Asia/Shanghai",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmfsmzx400bomo01mm4gs34y",
+  "slug": "furrest-con",
+  "name": "Furrest Con",
+  "shortName": null,
+  "description": "FurrestCon is a Ukrainian furry convention that celebrates the freedom of nature by moving the fandom experience out of traditional \"four-wall\" hotel settings and into the great outdoors.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/FurrestCon",
+  "codeOfConduct": "https://furrest.com.ua/terms",
+  "hostCountry": "UKR",
+  "minAge": null,
+  "website": "https://furrest.com.ua",
+  "url": "https://consurf.net/conventions/furrest-con",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmp3dowyb002tlf01hq13yvw0",
+      "slug": "furrest-con-2025",
+      "name": "Furrest Con",
+      "url": "https://consurf.net/furrest-con-2025",
+      "address": "Myla, 08124, Ukraine",
+      "country": "UKR",
+      "isCancelled": false,
+      "startDate": "2025-06-14",
+      "endDate": "2025-06-15",
+      "timezone": "Europe/Kyiv",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-13T01:26:04.499Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmnwjllwl003smc01d286ugau",
+      "slug": "furrest-con-2026",
+      "name": "Furrest Con",
+      "url": "https://consurf.net/furrest-con-2026",
+      "address": "Borisfen, Kyiv, 04176, Ukraine",
+      "country": "UKR",
+      "isCancelled": false,
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-26",
+      "timezone": "Europe/Kyiv",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-04-13T01:57:22.341Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Friday Guest Ticket (Daypass)",
+          "amount": 850,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Saturday Guest Ticket (Daypass)",
+          "amount": 1200,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor Ticket (At-door)",
+          "amount": 6000,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor Ticket (Pre-reg)",
+          "amount": 5700,
+          "currency": "UAH",
+          "rateCutoff": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Standard Ticket (At-door)",
+          "amount": 3000,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard Ticket (Pre-reg)",
+          "amount": 2850,
+          "currency": "UAH",
+          "rateCutoff": "2026-05-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sunday Guest Ticket (Daypass)",
+          "amount": 1200,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor Ticket (At-door)",
+          "amount": 8000,
+          "currency": "UAH",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor Ticket (Pre-reg)",
+          "amount": 7600,
+          "currency": "UAH",
+          "rateCutoff": "2026-05-31T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

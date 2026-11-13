@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl004viae0jbpnieda",
+  "slug": "anthro-northern-lights",
+  "name": "Anthro Northern Lights",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "NOR",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/anthro-northern-lights",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3400sbian05c8e3uhm",
+      "slug": "anthro-northern-lights-2021",
+      "name": "Anthro Northern Lights",
+      "url": "https://consurf.net/anthro-northern-lights-2021",
+      "address": "Sommarøy, Myre, Norway",
+      "country": "NOR",
+      "isCancelled": true,
+      "startDate": "2021-11-04",
+      "endDate": "2021-11-07",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

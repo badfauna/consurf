@@ -1,0 +1,70 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgi0036iae0lfw13soh",
+  "slug": "garden-state-fur-the-weekend",
+  "name": "Garden State Fur The Weekend",
+  "shortName": "GSFTW",
+  "description": "Garden State Fur The Weekend (GSFTW) was a short-lived annual furry convention in New Brunswick, New Jersey, organized by Garden State Fur The Weekend LLC, with The Pipsqueakery as its charity. Two editions were held, in May 2024 and May 2025, and the planned 2026 edition was not held.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/+LlZiz0VomBs4ZDc5",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://gsftw.org",
+  "url": "https://consurf.net/conventions/garden-state-fur-the-weekend",
+  "lastModified": "2026-11-01T17:11:52.200Z",
+  "events": [
+    {
+      "id": "cmhpe4z3a0109ian0ei7mh1uz",
+      "slug": "garden-state-fur-the-weekend-2024",
+      "name": "Garden State Fur The Weekend",
+      "url": "https://consurf.net/garden-state-fur-the-weekend-2024",
+      "address": "Hyatt Regency New Brunswick, 2 Albany Street, New Brunswick, NJ 08901, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-05-03",
+      "endDate": "2024-05-05",
+      "timezone": "America/New_York",
+      "attendeeCount": 957,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 6000,
+      "charityName": "The Pipsqueakery",
+      "guestsOfHonor": [
+        "Leaf Dubois",
+        "Coopertom"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d013vian092qo0kfn",
+      "slug": "garden-state-fur-the-weekend-2025",
+      "name": "Garden State Fur The Weekend",
+      "url": "https://consurf.net/garden-state-fur-the-weekend-2025",
+      "address": "Hyatt Regency New Brunswick, 2 Albany Street, New Brunswick, NJ 08901, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-05-02",
+      "endDate": "2025-05-04",
+      "timezone": "America/New_York",
+      "attendeeCount": 348,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "The Pipsqueakery",
+      "guestsOfHonor": [
+        "NIIC the Singing Dog",
+        "Stargazer Borealis",
+        "Photographotter"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

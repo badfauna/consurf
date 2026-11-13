@@ -1,0 +1,63 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmusg29f0074oa01yg49778f",
+  "slug": "fern",
+  "name": "Furry Enthusiast's Rendezvous in New Mexico",
+  "shortName": "FERN",
+  "description": "Furry Enthusiast's Rendezvous in New Mexico (FERN) is an annual three-day furry convention in Gallup, New Mexico. It is organized by FERNM, headed by PhoenixFolf, MoonshineFox and BadKarma. The first edition was held March 13 to 15, 2026, at the Best Western Gallup West, with 156 attendees and 204 preregistrations.",
+  "blueskyHandle": "furryernm.bsky.social",
+  "moreInformation": "https://t.me/furryERN",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 18,
+  "website": "https://www.fernm.org/",
+  "url": "https://consurf.net/conventions/fern",
+  "lastModified": "2026-11-01T17:20:33.081Z",
+  "events": [
+    {
+      "id": "cmmusj68j0078oa01jekrnxia",
+      "slug": "fern-2026",
+      "name": "Furry Enthusiast's Rendezvous in New Mexico",
+      "url": "https://consurf.net/fern-2026",
+      "address": "Best Western Gallup West, 111 Twin Buttes Road, Gallup, NM 87301, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-03-13",
+      "endDate": "2026-03-15",
+      "timezone": "America/Denver",
+      "attendeeCount": 156,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [
+        "DJ Wildf1re"
+      ],
+      "sources": [],
+      "createdAt": "2026-03-17T15:52:10.579Z",
+      "venues": [
+        {
+          "id": "cmmuvl9po007koa019itfv3s1",
+          "name": "Best Western Gallup West",
+          "address": "111 Twin Buttes Road, Gallup, NM 87301, United States of America",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "General Registration",
+          "amount": 0,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 50,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

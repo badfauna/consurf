@@ -1,0 +1,257 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgc000eiae00wr24w16",
+  "slug": "carolina-furfare",
+  "name": "Carolina Furfare",
+  "shortName": "CFF",
+  "description": "Carolina Furfare (previously known as Blue Ridge Furfare) is a convention inspired by its origin city of Asheville, NC, much like our mascots Petal, possum of the city, and her best squirrel friend Aster, the forest ranger, that represents a unique blend of those two worlds. A family-friendly celebration of those inspirations, CFF is devoted to the art, culture, and community of the furry fandom, Hickory, and the Blue Ridge Mountains!",
+  "blueskyHandle": "carolinafurfare.bsky.social",
+  "moreInformation": "https://t.me/furfare",
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://www.carolinafurfare.org/",
+  "url": "https://consurf.net/conventions/carolina-furfare",
+  "lastModified": "2026-11-01T17:05:27.445Z",
+  "events": [
+    {
+      "id": "cmhpe4z3000niian02tjuem68",
+      "slug": "blue-ridge-furfare-2020",
+      "name": "Blue Ridge Furfare",
+      "url": "https://consurf.net/blue-ridge-furfare-2020",
+      "address": "Asheville, NC, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-03-12",
+      "endDate": "2020-03-15",
+      "timezone": "America/New_York",
+      "attendeeCount": 639,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qiian0yjqz4s4g",
+      "slug": "blue-ridge-furfare-2021",
+      "name": "Blue Ridge Furfare",
+      "url": "https://consurf.net/blue-ridge-furfare-2021",
+      "address": "Virtual",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-03-12",
+      "endDate": "2021-03-14",
+      "timezone": null,
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3400t3ian0iouhz2a8",
+      "slug": "blue-ridge-furfare-2022",
+      "name": "Blue Ridge Furfare",
+      "url": "https://consurf.net/blue-ridge-furfare-2022",
+      "address": "Crowne Plaza Hotels & Resorts Asheville, 1 Resort Drive, Asheville, NC 28806, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2022-03-11",
+      "endDate": "2022-03-13",
+      "timezone": "America/New_York",
+      "attendeeCount": 883,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4610,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700wbian02hcrvj9r",
+      "slug": "blue-ridge-furfare-2023",
+      "name": "Blue Ridge Furfare",
+      "url": "https://consurf.net/blue-ridge-furfare-2023",
+      "address": "Virtual",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-03-17",
+      "endDate": "2023-03-19",
+      "timezone": null,
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3c011zian06r40pw6u",
+      "slug": "carolina-furfare-2024",
+      "name": "Carolina Furfare",
+      "url": "https://consurf.net/carolina-furfare-2024",
+      "address": "Hickory Metro Convention Center, 13th Avenue Drive Southeast, Hickory, NC 28603, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2024-10-04",
+      "endDate": "2024-10-06",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3f016aian0cncutv2c",
+      "slug": "carolina-furfare-2025",
+      "name": "Carolina Furfare",
+      "url": "https://consurf.net/carolina-furfare-2025",
+      "address": "Hickory Metro Convention Center, 13th Avenue Drive Southeast, Hickory, NC 28603, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-11-06",
+      "endDate": "2025-11-09",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "Rescue Tails Animal Sanctuary",
+      "guestsOfHonor": [
+        "Nicole"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmkt8iqks002mqg019p5l9cmf",
+      "slug": "carolina-furfare-2026",
+      "name": "Carolina Furfare",
+      "url": "https://consurf.net/carolina-furfare-2026",
+      "address": "Hickory Metro Convention Center, 13th Avenue Drive Southeast, Hickory, NC 28603, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "timezone": "America/New_York",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Rescue Tails Animal Sanctuary",
+      "guestsOfHonor": [
+        "Art Studio Hare Coven"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-25T04:24:47.116Z",
+      "venues": [
+        {
+          "id": "cmkt8mi9l002sqg01e399q2ag",
+          "name": "Best Western",
+          "address": "1520 13th Ave Dr SE, Hickory, NC 28602, USA",
+          "isMain": false
+        },
+        {
+          "id": "cmkt8ld4w002oqg01w9xhbo29",
+          "name": "Courtyard by Marriott",
+          "address": "1946 13th Ave Dr SE, Hickory, NC 28602, USA",
+          "isMain": false
+        },
+        {
+          "id": "cmkt8lzq6002qqg013kqcvr48",
+          "name": "Fairfield by Marriott",
+          "address": "1950 13th Ave Dr SE, Hickory, NC 28602, USA",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Child",
+          "amount": 45,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Child (Early)",
+          "amount": 30,
+          "currency": "USD",
+          "rateCutoff": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "priceType": "Day Pass - Adult (No Thu - Early)",
+          "amount": 45,
+          "currency": "USD",
+          "rateCutoff": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "priceType": "Day Pass - Adult (No Thu)",
+          "amount": 52,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass - Child (No Thu - Early)",
+          "amount": 20,
+          "currency": "USD",
+          "rateCutoff": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "priceType": "Day Pass - Child (No Thu)",
+          "amount": 27,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "General",
+          "amount": 95,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "General (Early)",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 120,
+          "currency": "USD",
+          "rateCutoff": "2026-08-05T00:00:00.000Z"
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 220,
+          "currency": "USD",
+          "rateCutoff": "2026-08-05T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

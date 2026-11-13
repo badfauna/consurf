@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmmxodtwo0018ti01r68zdzfs",
+  "slug": "pfg",
+  "name": "Poznan Furry Gathering",
+  "shortName": "PFG",
+  "description": "Poznań Fursuit Walk, which has been going on for five editions already (2021-2025), from now on becomes a part of the larger ecosystem called Poznań Furry Gathering (PFG).",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/PoznanFurryGatheringNews",
+  "codeOfConduct": null,
+  "hostCountry": "POL",
+  "minAge": null,
+  "website": "https://poznan.furrygathering.com/",
+  "url": "https://consurf.net/conventions/pfg",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmmxofdjd001ati01n5ve8kka",
+      "slug": "pfg-2026",
+      "name": "Poznan Furry Gathering",
+      "url": "https://consurf.net/pfg-2026",
+      "address": "Camping Malta, 61-036 Poznan, Poland",
+      "country": "POL",
+      "isCancelled": false,
+      "startDate": "2026-04-16",
+      "endDate": "2026-04-19",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-03-19T16:20:33.481Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor Entry",
+          "amount": 350,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard Entry",
+          "amount": 220,
+          "currency": "PLN",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor Entry",
+          "amount": 450,
+          "currency": "PLN",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

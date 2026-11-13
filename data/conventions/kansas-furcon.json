@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo0074iae0lr0ytdq1",
+  "slug": "kansas-furcon",
+  "name": "Kansas Furcon",
+  "shortName": null,
+  "description": "Kansas Furcon is a proposed family-friendly furry convention in Great Bend, Kansas, organized by Furry Fansago. It is planned to feature games, music, art, vendors and a group photo on the third night, with three-day tickets priced at $25 for adults and $12 for children ages 5 to 17. The first event has been postponed until at least 2025, with the location and date to be decided.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/kansas-furcon",
+  "lastModified": "2026-11-01T17:17:56.595Z",
+  "events": [
+    {
+      "id": "cmhpe4z3800xhian0hdjwqydr",
+      "slug": "kansas-furcon-2023",
+      "name": "Kansas Furcon",
+      "url": "https://consurf.net/kansas-furcon-2023",
+      "address": "Great Bend (Great Bend), KS, United States of America",
+      "country": "USA",
+      "isCancelled": true,
+      "startDate": "2023-07-21",
+      "endDate": "2023-07-23",
+      "timezone": "America/Chicago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

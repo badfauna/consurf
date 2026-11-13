@@ -1,0 +1,108 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq007xiae0bdhdrm8o",
+  "slug": "pawsome",
+  "name": "Pawsome",
+  "shortName": null,
+  "description": "The only UK con with a US con style dress code!",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "GBR",
+  "minAge": 18,
+  "website": "https://www.pawsome.org.uk",
+  "url": "https://consurf.net/conventions/pawsome",
+  "lastModified": "2026-11-01T17:18:30.882Z",
+  "events": [
+    {
+      "id": "cmhpe4z3c0120ian0e55lsblm",
+      "slug": "pawsome-2024",
+      "name": "Pawsome",
+      "url": "https://consurf.net/pawsome-2024",
+      "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2024-10-04",
+      "endDate": "2024-10-07",
+      "timezone": "Europe/London",
+      "attendeeCount": 228,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3f015uian02xvr37jn",
+      "slug": "pawsome-2025",
+      "name": "Pawsome",
+      "url": "https://consurf.net/pawsome-2025",
+      "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2025-10-03",
+      "endDate": "2025-10-06",
+      "timezone": "Europe/London",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4393.75,
+      "charityName": "Brook",
+      "guestsOfHonor": [
+        "Candy Coated"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3h017nian0y2pdkq4w",
+      "slug": "pawsome-2026",
+      "name": "Pawsome",
+      "url": "https://consurf.net/pawsome-2026",
+      "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-05",
+      "timezone": "Europe/London",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Holly Hedge Animal Sanctuary",
+      "guestsOfHonor": [
+        "Pinky Fennec"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attendance",
+          "amount": 130,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Residential (Add-on)",
+          "amount": 490,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsorship (Add-on)",
+          "amount": 40,
+          "currency": "GBP",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

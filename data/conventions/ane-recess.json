@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmuhgyhhm001wp601skfx0d4q",
+  "slug": "ane-recess",
+  "name": "ANE: Recess!",
+  "shortName": "ANER",
+  "description": "ANE: Recess! is a brand new experience brought to you by the same folks at Anthro New England! We’re aiming to bring a new, cozier experience to the New England area in the late Summer – inviting the community to experience and explore the beautiful nature along the banks of the Charles River and Norumbega Park, which offer plenty of green space to explore outside of our hotel. Whether you’re lounging by the water, or hanging out in the hotel, we invite you to join us for a tighter-knit experience in the heart of New England!",
+  "blueskyHandle": "anerecess.com",
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://anerecess.com/",
+  "url": "https://consurf.net/conventions/ane-recess",
+  "lastModified": "2026-11-01T17:20:43.519Z",
+  "events": [
+    {
+      "id": "cmuhh0xys001yp601rqqf8bkx",
+      "slug": "ane-recess-2027",
+      "name": " ANE: Recess!",
+      "url": "https://consurf.net/ane-recess-2027",
+      "address": "Boston Marriott Newton, 2345 Commonwealth Avenue, Newton, MA 02466, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-08-13",
+      "endDate": "2027-08-15",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "NEADS Service Animals",
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-25T21:26:42.676Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

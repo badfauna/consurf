@@ -1,0 +1,60 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmlwlqq9x0000mp01sg0vbsdx",
+  "slug": "paws-outdoors",
+  "name": "Paws Outdoors",
+  "shortName": null,
+  "description": "Paws Outdoors is a biannual 18+ camp held near Sydney, New South Wales, usually in March and October. The first camp of the year, \"Vibe in the Bush\", is a smaller, less programmed event focused on socializing, and a larger programmed camp follows around October, usually with a Halloween theme. First held in spring 2019, it has grown steadily and now hosts up to 60 furs. Meals are catered and the venue has toilets and showers, while guests bring their own tents and gear. Activities include trivia, board games, campfires, stargazing, corn hole, archery and a scavenger hunt.",
+  "blueskyHandle": "pawsoutdoors.au",
+  "moreInformation": "https://t.me/pawsoutdoorsau",
+  "codeOfConduct": null,
+  "hostCountry": "AUS",
+  "minAge": null,
+  "website": "https://pawsoutdoors.au/",
+  "url": "https://consurf.net/conventions/paws-outdoors",
+  "lastModified": "2026-11-01T17:20:28.842Z",
+  "events": [
+    {
+      "id": "cmlwlxn540002mp01nbo2vcno",
+      "slug": "paws-outdoors-2026",
+      "name": "Paws Outdoors",
+      "url": "https://consurf.net/paws-outdoors-2026",
+      "address": "Sydney, NSW, Australia",
+      "country": "AUS",
+      "isCancelled": false,
+      "startDate": "2026-05-21",
+      "endDate": "2026-05-24",
+      "timezone": "Australia/Sydney",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-02-21T17:43:18.376Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Catered Camping",
+          "amount": 240,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 390,
+          "currency": "AUD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Uncatered Camping",
+          "amount": 160,
+          "currency": "AUD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

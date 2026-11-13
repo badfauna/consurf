@@ -1,0 +1,66 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmv6u69sa000lp201o37qrc53",
+  "slug": "howlfest",
+  "name": " Las Vegas Howlfest",
+  "shortName": "Howlfest",
+  "description": "\r\nLas Vegas Fur Con (LVFC) has been held at the Alexis Park Resort since 2023, with the open, greenspace-oriented property granting LVFC a unique vibe. Since inception, several LVFC attendees have called for the con to happen twice a year; it was from this idea that Las Vegas Howlfest was born! Howlfest is a second convention offering more of what makes so many furs love LVFC – 21+ admission, a full buyout of our hotel (every room is a furry!), an open block party for attendees, a location just off the Strip in fabulous Las Vegas…\r\n\r\n… but now with a Halloween twist! The first Howlfest will be held October 21-24, 2027 at the Alexis Park Resort in Las Vegas, Nevada. Join us for a howling (and maybe haunted) good time in our furry village!",
+  "blueskyHandle": "howlfest.vegas",
+  "moreInformation": null,
+  "codeOfConduct": "https://howlfest.org/attendee-policies/",
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://howlfest.org/",
+  "url": "https://consurf.net/conventions/howlfest",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmv6y0k1t000pp201it0aexlr",
+      "slug": "howlfest-2027",
+      "name": " Las Vegas Howlfest",
+      "url": "https://consurf.net/howlfest-2027",
+      "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-10-21",
+      "endDate": "2027-10-24",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-10-13T17:16:32.514Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 85,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver State Sponsor",
+          "amount": 1600,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 175,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 250,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

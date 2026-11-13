@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn006iiae0vb4yyvsd",
+  "slug": "furryteaparty",
+  "name": "FurryTeaParty",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "TWN",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furryteaparty",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3a0103ian08qdhcsv7",
+      "slug": "furryteaparty-2024",
+      "name": "FurryTeaParty",
+      "url": "https://consurf.net/furryteaparty-2024",
+      "address": "TAi Urban Resort, Kaohsiung City, Taiwan",
+      "country": "TWN",
+      "isCancelled": false,
+      "startDate": "2024-04-13",
+      "endDate": "2024-04-14",
+      "timezone": null,
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

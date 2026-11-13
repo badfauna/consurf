@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgl005biae08agiz7i3",
+  "slug": "capital-city-fur-con",
+  "name": "Capital City Fur Con",
+  "shortName": null,
+  "description": "Capital City Fur Con was a furry convention held in Harrisburg, Pennsylvania, organized by Nitro Rooski and Cinnamon Fennec. A single edition took place, in January 2020 at the Hilton Harrisburg, and its charity was the ALS Association.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/capital-city-fur-con",
+  "lastModified": "2026-11-01T17:15:55.026Z",
+  "events": [
+    {
+      "id": "cmhpe4z2z00mxian0e7jkzx6g",
+      "slug": "capital-city-fur-con-2020",
+      "name": "Capital City Fur Con",
+      "url": "https://consurf.net/capital-city-fur-con-2020",
+      "address": "Hilton Harrisburg, Strawberry Street, Harrisburg, PA 17126, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-01-02",
+      "endDate": "2020-01-05",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": "ALS Association",
+      "guestsOfHonor": [
+        "Tuners the Wolf",
+        "Saphi",
+        "Xusho Wolf",
+        "Riley the Fox",
+        "Odin Wolf",
+        "Made Fur You"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

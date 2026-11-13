@@ -1,0 +1,84 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgo006siae07jpgz42h",
+  "slug": "genderverse-furcon",
+  "name": "Genderverse FurCon",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": "genderversefurcon.com",
+  "moreInformation": "https://t.me/gvfurcon",
+  "codeOfConduct": "https://genderversefurcon.com/code-of-conduct/",
+  "hostCountry": "CAN",
+  "minAge": null,
+  "website": "https://genderversefurcon.com/",
+  "url": "https://consurf.net/conventions/genderverse-furcon",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3f015mian0d5hg7lr0",
+      "slug": "genderverse-furcon-2025",
+      "name": "Genderverse FurCon",
+      "url": "https://consurf.net/genderverse-furcon-2025",
+      "address": "655 Dixon Road, Mississauga, ON L4V 1N1, Canada",
+      "country": "CAN",
+      "isCancelled": false,
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-20",
+      "timezone": "America/Toronto",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Attendee (Early Bird)",
+          "amount": 25,
+          "currency": "CAD",
+          "rateCutoff": "2025-01-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Attendee (Extended Pre-Reg)",
+          "amount": 35,
+          "currency": "CAD",
+          "rateCutoff": "2025-09-20T00:00:00.000Z"
+        },
+        {
+          "priceType": "Attendee (Pre-Reg)",
+          "amount": 30,
+          "currency": "CAD",
+          "rateCutoff": "2025-08-29T00:00:00.000Z"
+        },
+        {
+          "priceType": "Reduced Price Attendee (Pre-Reg)",
+          "amount": 15,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor (Early Bird)",
+          "amount": 45,
+          "currency": "CAD",
+          "rateCutoff": "2025-01-31T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Extended Pre-Reg)",
+          "amount": 65,
+          "currency": "CAD",
+          "rateCutoff": "2025-09-20T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Pre-Reg)",
+          "amount": 55,
+          "currency": "CAD",
+          "rateCutoff": "2025-08-29T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

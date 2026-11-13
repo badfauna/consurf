@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgn0061iae0nta319ai",
+  "slug": "furidaho",
+  "name": "FurIdaho",
+  "shortName": null,
+  "description": "FurIdaho, nicknamed PotatoCon after Idaho's famous crop, was a furry convention in Boise, Idaho, and the first furry convention held in the state. Two editions were held, in March 2012 and March 2013, with guests including artists Mokusei Kaze and Kadath, the Fur What It's Worth podcasters and the comedy troupe The Fine Young Deviants. The 2014 edition was cancelled, and later attempts to revive the convention did not result in further editions.",
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/furidaho",
+  "lastModified": "2026-11-01T17:16:53.597Z",
+  "events": [
+    {
+      "id": "cmhpe4z2l0073ian0z373lktb",
+      "slug": "furidaho-2012",
+      "name": "FurIdaho",
+      "url": "https://consurf.net/furidaho-2012",
+      "address": "Boise, ID, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2012-03-23",
+      "endDate": "2012-03-25",
+      "timezone": "America/Boise",
+      "attendeeCount": 253,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Kadath",
+        "Mokusei Kaze"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2m0084ian0038mzyww",
+      "slug": "furidaho-2013",
+      "name": "FurIdaho",
+      "url": "https://consurf.net/furidaho-2013",
+      "address": "Holiday Inn Boise Airport, Boise, ID, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2013-03-08",
+      "endDate": "2013-03-10",
+      "timezone": "America/Boise",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Mokusei Kaze"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

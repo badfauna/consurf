@@ -1,0 +1,205 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgk004liae0c3zmeyk7",
+  "slug": "las-vegas-fur-con",
+  "name": "Las Vegas Fur Con",
+  "shortName": "LVFC",
+  "description": "Las Vegas Fur Con (LVFC) is a gathering for fans of anthropomorphic (commonly known as “furry”) art and works held in Las Vegas, Nevada. The convention is organized by Southern Nevada Anthropomorphic Events (SNAE), a 501(c)(3) nonprofit organization incorporated in Nevada",
+  "blueskyHandle": "lasvegasfurcon.org",
+  "moreInformation": "https://t.me/LasVegasFurCon",
+  "codeOfConduct": "https://lasvegasfurcon.org/attendee-policies/",
+  "hostCountry": "USA",
+  "minAge": 21,
+  "website": "https://lasvegasfurcon.org",
+  "url": "https://consurf.net/conventions/las-vegas-fur-con",
+  "lastModified": "2026-11-01T17:15:04.448Z",
+  "events": [
+    {
+      "id": "cmhpe4z3700wlian0lal11b6j",
+      "slug": "las-vegas-fur-con-2023",
+      "name": "Las Vegas Fur Con",
+      "url": "https://consurf.net/las-vegas-fur-con-2023",
+      "address": "Las Vegas, NV, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-04-14",
+      "endDate": "2023-04-16",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 1483,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 6220,
+      "charityName": "Las Vegas TransPride",
+      "guestsOfHonor": [
+        "HOWL OUT",
+        "Kris Yim",
+        "Whiskey Dingo",
+        "Orlando Fox",
+        "Run",
+        "Definitely Run!"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a00zwian0bvenzu66",
+      "slug": "las-vegas-fur-con-2024",
+      "name": "Las Vegas Fur Con",
+      "url": "https://consurf.net/las-vegas-fur-con-2024",
+      "address": "Las Vegas, NV, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-03-29",
+      "endDate": "2024-03-31",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 2141,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 10352.97,
+      "charityName": "Las Vegas TransPride",
+      "guestsOfHonor": [
+        "BardicRJ",
+        "Rahne",
+        "RoSphix",
+        "Oddy",
+        "TokensArcade"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d013mian0sb869i37",
+      "slug": "las-vegas-fur-con-2025",
+      "name": "Las Vegas Fur Con",
+      "url": "https://consurf.net/las-vegas-fur-con-2025",
+      "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-04-17",
+      "endDate": "2025-04-20",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 3022,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 15110,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Sean Chiplock",
+        "Aviators",
+        "SeiRruf"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g0176ian0jkagge43",
+      "slug": "las-vegas-fur-con-2026",
+      "name": "Las Vegas Fur Con",
+      "url": "https://consurf.net/las-vegas-fur-con-2026",
+      "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-05",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": 4609,
+      "fursuiterCount": 0,
+      "vendorCount": 105,
+      "charityRaised": 21000,
+      "charityName": "The LGBTQ+ Center of Las Vegas",
+      "guestsOfHonor": [
+        "Aydan Fox",
+        "Marks Barks",
+        "Cloud Husky Landar",
+        "Suka Vulpe"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmnmgygmb0001mt01ukr3dhir",
+          "name": "Serene Vegas Boutique Hotel",
+          "address": "455 E Harmon Ave, Las Vegas, NV 89169",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 99,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Attendee (Saturday onwards)",
+          "amount": 60,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Attendee (Sunday)",
+          "amount": 25,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Lifetime Attendee",
+          "amount": 1200,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 199,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 299,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmnmjvt270009mt01jocrs4eg",
+      "slug": "las-vegas-fur-con-2027",
+      "name": "Las Vegas Fur Con",
+      "url": "https://consurf.net/las-vegas-fur-con-2027",
+      "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-03-25",
+      "endDate": "2027-03-28",
+      "timezone": "America/Los_Angeles",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [
+        "CassMutt",
+        "Flipy"
+      ],
+      "sources": [],
+      "createdAt": "2026-04-06T02:07:36.415Z",
+      "venues": [
+        {
+          "id": "cmoqhxdo20047mw01aoie4l30",
+          "name": "Serene Vegas Boutique Hotel",
+          "address": "455 E Harmon Ave, Las Vegas, NV 89169",
+          "isMain": false
+        }
+      ],
+      "prices": []
+    }
+  ]
+}

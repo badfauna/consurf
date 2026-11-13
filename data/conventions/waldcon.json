@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgf0015iae0o3l0gb32",
+  "slug": "waldcon",
+  "name": "WaldCon",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "DEU",
+  "minAge": 18,
+  "website": "https://waldcon.de",
+  "url": "https://consurf.net/conventions/waldcon",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z3p01hdian0c38p8jwy",
+      "slug": "waldcon-2025",
+      "name": "WaldCon",
+      "url": "https://consurf.net/waldcon-2025",
+      "address": "Heidebrinkstraße, 46539 Dinslaken, Germany",
+      "country": "DEU",
+      "isCancelled": false,
+      "startDate": "2025-08-20",
+      "endDate": "2025-08-24",
+      "timezone": "Europe/Berlin",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgk004diae0jhrotlv4",
+  "slug": "fwa",
+  "name": "Furry Weekend Atlanta",
+  "shortName": "FWA",
+  "description": "Furry Weekend Atlanta is one of the largest furry conventions in the world! We are a community-driven, volunteer-led organization that is devoted to providing memorable, educational, inclusive, and safe experiences where our community is encouraged to explore and express their true self.",
+  "blueskyHandle": "furryweekend.com",
+  "moreInformation": "https://t.me/furryweekend",
+  "codeOfConduct": "https://furryweekend.com/policies/",
+  "hostCountry": "USA",
+  "minAge": null,
+  "website": "https://furryweekend.com",
+  "url": "https://consurf.net/conventions/fwa",
+  "lastModified": "2026-11-01T17:14:14.317Z",
+  "events": [
+    {
+      "id": "cmhpe4z2h001sian0m5mk87p5",
+      "slug": "fwa-2004",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2004",
+      "address": "Holiday Inn & Suites Atlanta Airport - North, East Point, GA 30344, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2004-02-13",
+      "endDate": "2004-02-15",
+      "timezone": "America/New_York",
+      "attendeeCount": 270,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 2000,
+      "charityName": null,
+      "guestsOfHonor": [
+        "Latin Vixen"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2h0026ian042pn6q8j",
+      "slug": "fwa-2005",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2005",
+      "address": "Holiday Inn & Suites Atlanta Airport - North, East Point, GA 30344, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2005-02-11",
+      "endDate": "2005-02-13",
+      "timezone": "America/New_York",
+      "attendeeCount": 500,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 3000,
+      "charityName": "Ellijay Wildlife Rehabilitation Sanctuary",
+      "guestsOfHonor": [
+        "Jessie T. Wolf",
+        "Fel"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2h002lian073kfnd7z",
+      "slug": "fwa-2006",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2006",
+      "address": "Holiday Inn & Suites Atlanta Airport - North, East Point, GA 30344, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2006-02-17",
+      "endDate": "2006-02-19",
+      "timezone": "America/New_York",
+      "attendeeCount": 563,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4000,
+      "charityName": "Ellijay Wildlife Rehabilitation Sanctuary",
+      "guestsOfHonor": [
+        "Bill Holbrook",
+        "Matt Burt"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2i0032ian01k8k20k7",
+      "slug": "fwa-2007",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2007",
+      "address": "Sheraton Gateway Hotel Atlanta Airport, College Park, GA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2007-02-16",
+      "endDate": "2007-02-18",
+      "timezone": "America/New_York",
+      "attendeeCount": 762,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4000,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "Strider Orion",
+        "Daria McGrain"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2i003nian090ef3ilf",
+      "slug": "fwa-2008",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2008",
+      "address": "Sheraton Gateway Hotel Atlanta Airport, College Park, GA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2008-02-15",
+      "endDate": "2008-02-17",
+      "timezone": "America/New_York",
+      "attendeeCount": 1046,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 5001,
+      "charityName": "Conservator's Center",
+      "guestsOfHonor": [
+        "Tit Longtail",
+        "Bonk"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2j004eian0q8oe7a2s",
+      "slug": "fwa-2009",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2009",
+      "address": "Hilton Atlanta, 255 Courtland Street Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2009-03-19",
+      "endDate": "2009-03-22",
+      "timezone": "America/New_York",
+      "attendeeCount": 1371,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 5054,
+      "charityName": "Conservators' Center Inc",
+      "guestsOfHonor": [
+        "Matthew Ebel",
+        "Lizardbeth"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2k0055ian0i12c8fjg",
+      "slug": "fwa-2010",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2010",
+      "address": "Hilton Atlanta, 255 Courtland Street Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2010-03-25",
+      "endDate": "2010-03-28",
+      "timezone": "America/New_York",
+      "attendeeCount": 1564,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 4600,
+      "charityName": "Conservators' Center Inc",
+      "guestsOfHonor": [
+        "Kami Cheetah"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2k0062ian0mjx876n1",
+      "slug": "fwa-2011",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2011",
+      "address": "Sheraton Buckhead Hotel Atlanta, Lenox, Atlanta, GA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2011-03-17",
+      "endDate": "2011-03-21",
+      "timezone": "America/New_York",
+      "attendeeCount": 1621,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 18000,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "Lacy",
+        "CloudPouncer",
+        "Zhivago"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2l0071ian0e3uh8xic",
+      "slug": "fwa-2012",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2012",
+      "address": "Sheraton Buckhead Hotel Atlanta, Lenox, Atlanta, GA, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2012-03-15",
+      "endDate": "2012-03-19",
+      "timezone": "America/New_York",
+      "attendeeCount": 1902,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 18400,
+      "charityName": "Conservators' Center Inc",
+      "guestsOfHonor": [
+        "Kyell Gold",
+        "Rukis"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2m0086ian0dk9ycqu6",
+      "slug": "fwa-2013",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2013",
+      "address": "The Westin Peachtree Plaza, Atlanta, 210 Peachtree Street Northwest, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2013-03-14",
+      "endDate": "2013-03-17",
+      "timezone": "America/New_York",
+      "attendeeCount": 2396,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20000,
+      "charityName": "Conservators' Center Inc",
+      "guestsOfHonor": [
+        "Jimmy Chin",
+        "Hibbary"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2n009gian0rbvt4bs1",
+      "slug": "fwa-2014",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2014",
+      "address": "The Westin Peachtree Plaza, Atlanta, 210 Peachtree Street Northwest, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2014-03-20",
+      "endDate": "2014-03-23",
+      "timezone": "America/New_York",
+      "attendeeCount": 2488,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 20000,
+      "charityName": "Conservator’s Center",
+      "guestsOfHonor": [
+        "Louvelex"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2p00b0ian0gmjuzu16",
+      "slug": "fwa-2015",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2015",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2015-04-09",
+      "endDate": "2015-04-12",
+      "timezone": "America/New_York",
+      "attendeeCount": 3252,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 28000,
+      "charityName": "Conservators' Center",
+      "guestsOfHonor": [
+        "Princess Rei"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2q00cqian0thxjw6z8",
+      "slug": "fwa-2016",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2016",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2016-03-31",
+      "endDate": "2016-04-03",
+      "timezone": "America/New_York",
+      "attendeeCount": 3431,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 28922,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "Demicoeur"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2s00epian0h7dyjq64",
+      "slug": "fwa-2017",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2017",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2017-04-06",
+      "endDate": "2017-04-09",
+      "timezone": "America/New_York",
+      "attendeeCount": 4274,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 35000,
+      "charityName": "Conservator's Center",
+      "guestsOfHonor": [
+        "Chibi-Marrow"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2u00hbian07nopclh2",
+      "slug": "fwa-2018",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2018",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2018-04-05",
+      "endDate": "2018-04-08",
+      "timezone": "America/New_York",
+      "attendeeCount": 5193,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 50000,
+      "charityName": "Conservators Center",
+      "guestsOfHonor": [
+        "Strype",
+        "Kazul"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z2x00kaian0ojx2keak",
+      "slug": "fwa-2019",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2019",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2019-05-09",
+      "endDate": "2019-05-13",
+      "timezone": "America/New_York",
+      "attendeeCount": 5645,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 50000,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "Caraid",
+        "Sean Chiplock"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3000nwian0zaim8m1g",
+      "slug": "fwa-2020",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2020",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2020-05-07",
+      "endDate": "2020-05-11",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3200qqian0kc3q5a8u",
+      "slug": "fwa-2021",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2021",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2021-05-07",
+      "endDate": "2021-05-08",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3500thian0y7ox4efl",
+      "slug": "fwa-2022",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2022",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2022-05-05",
+      "endDate": "2022-05-08",
+      "timezone": "America/New_York",
+      "attendeeCount": 7212,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 50000,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "El Ranno"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3700wnian0vw61iiwi",
+      "slug": "fwa-2023",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2023",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2023-05-11",
+      "endDate": "2023-05-14",
+      "timezone": "America/New_York",
+      "attendeeCount": 10328,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 100000,
+      "charityName": "Animal Park at the Conservators Center",
+      "guestsOfHonor": [
+        "Jacato"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3a010aian0lairfea4",
+      "slug": "fwa-2024",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2024",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2024-05-09",
+      "endDate": "2024-05-12",
+      "timezone": "America/New_York",
+      "attendeeCount": 15021,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 100000,
+      "charityName": "Lost-n-Found Youth",
+      "guestsOfHonor": [
+        "WickedInsignia"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3d013xian0rgrnxbut",
+      "slug": "fwa-2025",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2025",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2025-05-08",
+      "endDate": "2025-05-11",
+      "timezone": "America/New_York",
+      "attendeeCount": 17736,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": 150000,
+      "charityName": "Lost-n-Found Youth",
+      "guestsOfHonor": [
+        "Red Means Recording",
+        "Sasha R. Jones"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3g017bian0t3pfrtl5",
+      "slug": "fwa-2026",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2026",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-10",
+      "timezone": "America/New_York",
+      "attendeeCount": 17301,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 150000,
+      "charityName": "Lost-n-Found Youth",
+      "guestsOfHonor": [
+        "Kipper Otter"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [
+        {
+          "id": "cmle1b4cm001clx01sbrrlpi8",
+          "name": "Aloft Atlanta Downtown",
+          "address": "300 Ted Turner Drive N.W., Atlanta, GA 30308, US",
+          "isMain": false
+        },
+        {
+          "id": "cmle1as0g0018lx01dk74f7n1",
+          "name": "Courtland Grand Hotel",
+          "address": "165 Courtland Street NE, Atlanta, GA 30303, US",
+          "isMain": false
+        },
+        {
+          "id": "cmle1ak890016lx01jub0kgjv",
+          "name": "Hilton Atlanta",
+          "address": "255 Courtland Street NE, Atlanta, GA 30303, US",
+          "isMain": false
+        },
+        {
+          "id": "cmle1aegk0014lx01q574yk04",
+          "name": "Hyatt Regency Atlanta",
+          "address": "265 Peachtree Street NE, Atlanta, GA, 30303, US",
+          "isMain": false
+        },
+        {
+          "id": "cmle1a6vw0012lx01bjm40f3b",
+          "name": "Marriott Marquis",
+          "address": "265 Peachtree Center Avenue, Atlanta, GA 30303, US",
+          "isMain": false
+        },
+        {
+          "id": "cmle1ay81001alx01yojjut9g",
+          "name": "The Westin Peachtree Plaza",
+          "address": "210 Peachtree St NW, Atlanta, GA 30303, US",
+          "isMain": false
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "Day Pass (Fri)",
+          "amount": 95,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sat)",
+          "amount": 95,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sun)",
+          "amount": 80,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold",
+          "amount": 600,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Platinum",
+          "amount": 4000,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 300,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 200,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 120,
+          "currency": "USD",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmp3awj1i001zlf01fyqhfqp1",
+      "slug": "fwa-2027",
+      "name": "Furry Weekend Atlanta",
+      "url": "https://consurf.net/fwa-2027",
+      "address": "Atlanta Marriott Marquis, 265 Peachtree Center Avenue Northeast, Atlanta, GA 30303, United States of America",
+      "country": "USA",
+      "isCancelled": false,
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-09",
+      "timezone": "America/New_York",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-05-13T00:08:00.870Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Gold",
+          "amount": 600,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Platinum",
+          "amount": 4250,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 350,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 200,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor (Early Bird)",
+          "amount": 180,
+          "currency": "USD",
+          "rateCutoff": "2027-03-01T00:00:00.000Z"
+        },
+        {
+          "priceType": "Sponsor (Pre-Sale)",
+          "amount": 170,
+          "currency": "USD",
+          "rateCutoff": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "priceType": "Standard",
+          "amount": 120,
+          "currency": "USD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard (Early Bird)",
+          "amount": 100,
+          "currency": "USD",
+          "rateCutoff": "2027-03-01T00:00:00.000Z"
+        },
+        {
+          "priceType": "Standard (Pre-Sale)",
+          "amount": 90,
+          "currency": "USD",
+          "rateCutoff": "2026-08-01T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

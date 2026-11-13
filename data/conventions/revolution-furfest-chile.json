@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgq0086iae0wuo1s9qw",
+  "slug": "revolution-furfest-chile",
+  "name": "Revolution FurFest Chile",
+  "shortName": null,
+  "description": null,
+  "blueskyHandle": null,
+  "moreInformation": null,
+  "codeOfConduct": null,
+  "hostCountry": "CHL",
+  "minAge": null,
+  "website": null,
+  "url": "https://consurf.net/conventions/revolution-furfest-chile",
+  "lastModified": "2026-10-29T03:00:23.802Z",
+  "events": [
+    {
+      "id": "cmhpe4z2z00n0ian06fbruh9x",
+      "slug": "revolution-furfest-chile-2020",
+      "name": "Revolution FurFest Chile",
+      "url": "https://consurf.net/revolution-furfest-chile-2020",
+      "address": "Providencia, 832 0000 Santiago, Chile",
+      "country": "CHL",
+      "isCancelled": false,
+      "startDate": "2020-01-11",
+      "endDate": "2020-01-11",
+      "timezone": "America/Santiago",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

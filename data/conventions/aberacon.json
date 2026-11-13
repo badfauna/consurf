@@ -1,0 +1,137 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 2,
+  "id": "cmgiswmgk004oiae0o1vjiqto",
+  "slug": "aberacon",
+  "name": "Aberacon",
+  "shortName": null,
+  "description": "Aberacon is a furry convention based in Port Talbot, which celebrates the arts and culture of the furry community, and which is held annually over the August Bank Holiday. We began life as a one-day trial event in 2024 at the Best Western Aberavon Beach Hotel, and successfully held our first multi-day convention in 2025.",
+  "blueskyHandle": "aberacon.wales",
+  "moreInformation": "https://t.me/Aberacon",
+  "codeOfConduct": "https://aberacon.wales/code-of-conduct/",
+  "hostCountry": "GBR",
+  "minAge": 18,
+  "website": "https://aberacon.wales/",
+  "url": "https://consurf.net/conventions/aberacon",
+  "lastModified": "2026-11-01T17:15:17.069Z",
+  "events": [
+    {
+      "id": "cmhpe4z3h018hian0yt9r5q1n",
+      "slug": "aberacon-2024",
+      "name": "Aberacon",
+      "url": "https://consurf.net/aberacon-2024",
+      "address": "Port Talbot, NTL, WLS, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2024-08-24",
+      "endDate": "2024-08-24",
+      "timezone": "Europe/London",
+      "attendeeCount": 70,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmhpe4z3e0153ian050cvf90i",
+      "slug": "aberacon-2025",
+      "name": "Aberacon",
+      "url": "https://consurf.net/aberacon-2025",
+      "address": "The Princess Margaret Way, Port Talbot, SA12 6QP, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2025-08-23",
+      "endDate": "2025-08-24",
+      "timezone": "Europe/London",
+      "attendeeCount": 120,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 735.01,
+      "charityName": "Maesteg Animal Welfare Society",
+      "guestsOfHonor": [
+        "BlooDoodles"
+      ],
+      "sources": [],
+      "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmmf968ka00apmo01l6gi5n33",
+      "slug": "aberacon-2026",
+      "name": "Aberacon",
+      "url": "https://consurf.net/aberacon-2026",
+      "address": "Port Talbot, Neath Port Talbot, WLS, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2026-08-28",
+      "endDate": "2026-08-30",
+      "timezone": "Europe/London",
+      "attendeeCount": 174,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 2179.01,
+      "charityName": "Maesteg Animal Welfare Society",
+      "guestsOfHonor": [
+        "Amethyst Mare"
+      ],
+      "sources": [],
+      "createdAt": "2026-03-06T18:53:41.722Z",
+      "venues": [
+        {
+          "id": "cmmf9iffo00bdmo01mwnn4zsv",
+          "name": "Best Western Aberavon Beach Hotel",
+          "address": "Swansea, Port Talbot SA12 6QP, United Kingdom",
+          "isMain": true
+        }
+      ],
+      "prices": [
+        {
+          "priceType": "All Days",
+          "amount": 70,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "All Days (Sponsor)",
+          "amount": 90,
+          "currency": "GBP",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass (Sun or Sat)",
+          "amount": 50,
+          "currency": "GBP",
+          "rateCutoff": null
+        }
+      ]
+    },
+    {
+      "id": "cmtpvl9fp007ip601eajapx7q",
+      "slug": "aberacon-2027",
+      "name": "Aberacon",
+      "url": "https://consurf.net/aberacon-2027",
+      "address": "Port Talbot, Neath Port Talbot, WLS, United Kingdom",
+      "country": "GBR",
+      "isCancelled": false,
+      "startDate": "2027-09-03",
+      "endDate": "2027-09-05",
+      "timezone": "Europe/London",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [],
+      "createdAt": "2026-09-06T13:56:52.357Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}
