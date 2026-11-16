@@ -11,9 +11,9 @@
   "codeOfConduct": null,
   "hostCountry": "MEX",
   "minAge": null,
-  "website": null,
+  "website": "https://imfur.org/",
   "url": "https://consurf.net/conventions/pawercon",
-  "lastModified": "2026-11-01T17:18:28.805Z",
+  "lastModified": "2026-11-16T00:00:18.841Z",
   "events": [
     {
       "id": "cmhpe4z3a010dian00940bf4i",
@@ -56,6 +56,31 @@
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmwigsw18000do901ao0zw8rp",
+      "slug": "pawercon-2027",
+      "name": "PawerCon",
+      "url": "https://consurf.net/pawercon-2027",
+      "address": "Expo Reforma, Avenida Morelos 67, Roma, Juárez, Cuauhtémoc, 06600 Mexico City, Mexico",
+      "country": "MEX",
+      "isCancelled": false,
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-23",
+      "timezone": "America/Mexico_City",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "guestsOfHonor": [],
+      "sources": [
+        "https://imfur-fundacion-pawercon.org/",
+        "https://imfur.org/"
+      ],
+      "createdAt": "2026-11-15T23:27:37.772Z",
       "venues": [],
       "prices": []
     }

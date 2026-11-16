@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/index.schema.json",
   "schemaVersion": 2,
-  "generatedAt": "2026-11-13T01:54:55.414Z",
+  "generatedAt": "2026-11-16T16:54:53.715Z",
   "conventions": [
     {
       "id": "cmnwk0g800049mc011x2mi3in",
@@ -376,8 +376,8 @@
       "slug": "borneo-anthro-hub",
       "name": "Borneo Anthro Hub",
       "path": "data/conventions/borneo-anthro-hub.json",
-      "sha256": "69c7ac82cf948b89b5a7a24fc2bf07a4d74fdf2b4d068aec693b2a716d71622b",
-      "lastModified": "2026-10-29T03:00:23.802Z"
+      "sha256": "93b8353c17e34241eddc695136fe32cde7f5e0dec1cb9076fe11aa24294f4f0f",
+      "lastModified": "2026-11-16T03:31:00.623Z"
     },
     {
       "id": "cmgiswmgf000viae0201083tc",
@@ -680,8 +680,8 @@
       "slug": "eufuria",
       "name": "Eufuria",
       "path": "data/conventions/eufuria.json",
-      "sha256": "b755f8a5ad841c741ecb25c1937add93ef9efc4085c80b94356bde743865e16a",
-      "lastModified": "2026-11-01T17:13:01.123Z"
+      "sha256": "5225f6a7b71aafd0c22ffede5dcf29d6c4d27071ae38f40bf8d06f1ccfc5f914",
+      "lastModified": "2026-11-15T23:31:47.051Z"
     },
     {
       "id": "cmgiswmgi002riae0b8sibevk",
@@ -2160,8 +2160,8 @@
       "slug": "pawercon",
       "name": "Pawercon",
       "path": "data/conventions/pawercon.json",
-      "sha256": "0ace83558b05d4ff0f91b6dd162a01d196e770a22a2b656d63501046cb4fede8",
-      "lastModified": "2026-11-01T17:18:28.805Z"
+      "sha256": "9a00b09c93c2823242518f720320f0eb6b608da8b395b1987de21709bd58bcab",
+      "lastModified": "2026-11-16T00:00:18.841Z"
     },
     {
       "id": "cmrfjm1um003clh0181zs71pj",
@@ -2240,7 +2240,7 @@
       "slug": "phoenix-valley-con",
       "name": "Phoenix Valley Con",
       "path": "data/conventions/phoenix-valley-con.json",
-      "sha256": "f7087f9b9c97c71e5cffbe5f3c5fbf2a68da35b9e0b8f99d3f4a18a4f3f62000",
+      "sha256": "3a5bdc8aba437b3965e6dc0fd18b5c66883b7d26c5bbf2edf829fb13273af09d",
       "lastModified": "2026-10-29T03:00:23.802Z"
     },
     {
@@ -2544,8 +2544,8 @@
       "slug": "trashcan",
       "name": "TrashCån",
       "path": "data/conventions/trashcan.json",
-      "sha256": "510ff6b5cad546cd8e016ab1fbd3d65bd048f53ac0b234679ac9808b428a02fc",
-      "lastModified": "2026-11-01T17:20:40.275Z"
+      "sha256": "e3fa1bf841d5f67a6410b575185ca8923e1fdab19f8117a7e0a1858f8c762001",
+      "lastModified": "2026-11-16T15:39:40.257Z"
     },
     {
       "id": "cmgiswmgr008qiae011l4i5r0",

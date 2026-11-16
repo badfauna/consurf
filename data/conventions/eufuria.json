@@ -13,7 +13,7 @@
   "minAge": 18,
   "website": "https://eufuria.org",
   "url": "https://consurf.net/conventions/eufuria",
-  "lastModified": "2026-11-01T17:13:01.123Z",
+  "lastModified": "2026-11-15T23:31:47.051Z",
   "events": [
     {
       "id": "cmhpe4z3800xiian0fub12oft",
@@ -96,13 +96,15 @@
       "startDate": "2026-07-23",
       "endDate": "2026-07-25",
       "timezone": "America/New_York",
-      "attendeeCount": null,
-      "fursuiterCount": null,
-      "vendorCount": null,
-      "charityRaised": null,
-      "charityName": null,
+      "attendeeCount": 1191,
+      "fursuiterCount": 276,
+      "vendorCount": 18,
+      "charityRaised": 5929.97,
+      "charityName": "Prism Counseling & Advocacy",
       "guestsOfHonor": [],
-      "sources": [],
+      "sources": [
+        "https://eufuria.org/about/past-years/2026/"
+      ],
       "createdAt": "2026-01-13T03:29:39.644Z",
       "venues": [
         {
