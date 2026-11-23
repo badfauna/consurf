@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgf000viae0201083tc",
   "slug": "brasil-furfest",
   "name": "Brasil FurFest",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/brasilfurfest",
   "codeOfConduct": "https://bff.brasilfurfest.com.br/en/informacoes/regulamentos",
   "hostCountry": "BRA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://brasilfurfest.com.br",
   "url": "https://consurf.net/conventions/brasil-furfest",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/brasil-furfest-2016",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-09-09",
       "endDate": "2016-09-11",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 435.45,
       "charityName": "MAPAN – Movimento de Apoio aos Protetores de Animais e da Natureza",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "El Ranno",
         "Latin Vixen"
@@ -56,6 +60,7 @@
       "url": "https://consurf.net/brasil-furfest-2017",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-08-25",
       "endDate": "2017-08-27",
@@ -65,6 +70,7 @@
       "vendorCount": 0,
       "charityRaised": 2668.1,
       "charityName": "SOS Vida Pet Baixada Santista",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Igor Cebarros",
         "Felipe Marcantonio"
@@ -83,6 +89,7 @@
       "url": "https://consurf.net/brasil-furfest-2018",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-17",
       "endDate": "2018-08-19",
@@ -92,6 +99,7 @@
       "vendorCount": 0,
       "charityRaised": 12359.15,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Crash Azarel",
         "Fox Amoore"
@@ -110,6 +118,7 @@
       "url": "https://consurf.net/brasil-furfest-2019",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-08-23",
       "endDate": "2019-08-25",
@@ -119,6 +128,7 @@
       "vendorCount": 0,
       "charityRaised": 11000,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Pepper Coyote",
         "Zeng Tiger"
@@ -137,6 +147,7 @@
       "url": "https://consurf.net/brasil-furfest-2020",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2020-08-01",
       "endDate": "2020-08-01",
@@ -146,6 +157,7 @@
       "vendorCount": null,
       "charityRaised": 7300,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Brasil_FurFest_2020"
@@ -161,6 +173,7 @@
       "url": "https://consurf.net/brasil-furfest-2021",
       "address": "Mercure Santos Hotel, Avenida Washington Luiz 565, Boqueirão, Santos - SP, 11045-500, Brazil",
       "country": "BRA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2021-07-16",
       "endDate": "2021-07-18",
@@ -170,6 +183,7 @@
       "vendorCount": null,
       "charityRaised": 26000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Brasil_FurFest_2021"
@@ -185,6 +199,7 @@
       "url": "https://consurf.net/brasil-furfest-2022",
       "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-07-15",
       "endDate": "2022-07-17",
@@ -194,6 +209,7 @@
       "vendorCount": null,
       "charityRaised": 33570.69,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],
@@ -218,6 +234,7 @@
       "url": "https://consurf.net/brasil-furfest-2023",
       "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-07-14",
       "endDate": "2023-07-16",
@@ -227,6 +244,7 @@
       "vendorCount": null,
       "charityRaised": 26574.13,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ash Coyote"
       ],
@@ -251,6 +269,7 @@
       "url": "https://consurf.net/brasil-furfest-2024",
       "address": "Sheraton Santos Hotel - Santos, SP, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-19",
       "endDate": "2024-07-21",
@@ -260,6 +279,7 @@
       "vendorCount": null,
       "charityRaised": 32136.93,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Telephone"
       ],
@@ -284,6 +304,7 @@
       "url": "https://consurf.net/brasil-furfest-2025",
       "address": "Hotel Nacional Inn, Avenida Cásper Líbero 125, Santa Ifigênia, São Paulo - SP, 01033-001, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-07-18",
       "endDate": "2025-07-20",
@@ -293,6 +314,7 @@
       "vendorCount": 0,
       "charityRaised": 46100,
       "charityName": "SOS Vida Pet Litoral",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Aurora Bloom"
       ],
@@ -310,6 +332,7 @@
       "url": "https://consurf.net/brasil-furfest-2026",
       "address": "Premium Hotel, Rua Novotel, Vila Padre Anchieta, Campinas - SP, 13067-360, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-17",
       "endDate": "2026-07-19",
@@ -319,6 +342,7 @@
       "vendorCount": 0,
       "charityRaised": 75000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Illumi-Nation Cyberwear",
         "Astra"
@@ -393,6 +417,7 @@
       "url": "https://consurf.net/brasil-furfest-2027",
       "address": "Av. Vereador Edmundo Cardillo, 3500, Jardim Del Rey, Poços de Caldas - MG, 37706-106, Brazil",
       "country": "BRA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-09-10",
       "endDate": "2027-09-12",
@@ -402,6 +427,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Paciulo",
         "WHSPRS",

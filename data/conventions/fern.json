@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmmusg29f0074oa01yg49778f",
   "slug": "fern",
   "name": "Furry Enthusiast's Rendezvous in New Mexico",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/furryERN",
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://www.fernm.org/",
   "url": "https://consurf.net/conventions/fern",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/fern-2026",
       "address": "Best Western Gallup West, 111 Twin Buttes Road, Gallup, NM 87301, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-03-13",
       "endDate": "2026-03-15",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "DJ Wildf1re"
       ],

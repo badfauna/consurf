@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgf000xiae0bb2rcok2",
   "slug": "anthroexpo",
   "name": "AnthroExpo",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://anthroexpo.net",
   "url": "https://consurf.net/conventions/anthroexpo",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthroexpo-2019",
       "address": "Wyndham Garden Oklahoma City Airport, 2101 South Meridian Avenue, Oklahoma City, OK 73108, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2019-10-18",
       "endDate": "2019-10-20",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/anthroexpo-2020",
       "address": "Oklahoma City, OK, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2020-01-31",
       "endDate": "2020-02-02",
@@ -53,6 +58,7 @@
       "vendorCount": 18,
       "charityRaised": 7503.63,
       "charityName": "WildCare Oklahoma",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "AuroraBloom",
         "Sub-Level 03"
@@ -71,6 +77,7 @@
       "url": "https://consurf.net/anthroexpo-2021",
       "address": "Oklahoma City, OK, United States of America",
       "country": "USA",
+      "category": "ONLINE",
       "isCancelled": false,
       "startDate": "2021-04-10",
       "endDate": "2021-04-11",
@@ -80,6 +87,7 @@
       "vendorCount": null,
       "charityRaised": 1500,
       "charityName": "Asian Mental Health Collective",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Coopertom"
       ],
@@ -95,6 +103,7 @@
       "url": "https://consurf.net/anthroexpo-2022",
       "address": "Sheraton Oklahoma City Downtown Hotel, 1 North Broadway Avenue, Oklahoma City, OK 73102, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-01-21",
       "endDate": "2022-01-23",
@@ -104,6 +113,7 @@
       "vendorCount": 0,
       "charityRaised": 7777,
       "charityName": "SISU Youth Services",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "SBGothik",
         "Chise"
@@ -120,6 +130,7 @@
       "url": "https://consurf.net/anthroexpo-2023",
       "address": "Sheraton Oklahoma City Downtown Hotel, 1 North Broadway Avenue, Oklahoma City, OK 73102, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-01-27",
       "endDate": "2023-01-29",
@@ -129,6 +140,7 @@
       "vendorCount": 0,
       "charityRaised": 14135,
       "charityName": "Pivot OKC",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Golden Reliic",
         "Omnom Nomnomnom"
@@ -145,6 +157,7 @@
       "url": "https://consurf.net/anthroexpo-2024",
       "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-02-01",
       "endDate": "2024-02-04",
@@ -154,6 +167,7 @@
       "vendorCount": 60,
       "charityRaised": 14000,
       "charityName": "Pivot OKC",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Zero the Kangaroo",
         "Odyssey Eurobeat",
@@ -171,6 +185,7 @@
       "url": "https://consurf.net/anthroexpo-2025",
       "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-01-30",
       "endDate": "2025-02-02",
@@ -180,6 +195,7 @@
       "vendorCount": 0,
       "charityRaised": 17801,
       "charityName": "Pivot OKC",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "RadWah",
         "HOWL OUT",
@@ -199,6 +215,7 @@
       "url": "https://consurf.net/anthroexpo-2026",
       "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-02-05",
       "endDate": "2026-02-08",
@@ -208,6 +225,7 @@
       "vendorCount": 0,
       "charityRaised": 18000,
       "charityName": "Sisu Youth Services",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Zray",
         "Sox",
@@ -225,6 +243,7 @@
       "url": "https://consurf.net/anthroexpo-2027",
       "address": "Embassy Suites, 2501 Conference Drive, Norman, OK 73069, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-05-27",
       "endDate": "2027-05-30",
@@ -234,6 +253,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Sisu Youth Services",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Tatujapa"
       ],

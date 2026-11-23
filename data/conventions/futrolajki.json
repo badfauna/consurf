@@ -1,19 +1,21 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006riae0q3a9rk9n",
   "slug": "futrolajki",
   "name": "Futrołajki",
   "shortName": "Futrolajki",
-  "description": "The biggest and fluffiest furry convention in Poland. Join us in this amazing adventure!\r\n\r\nTwitter: https://x.com/futrolajki\r\nInfo in PL: https://t.me/infofutrolajki\r\n\r\n\r\n",
+  "description": "The biggest and fluffiest furry convention in Poland. Join us in this amazing adventure!\r\n\r\nInfo in PL: https://t.me/infofutrolajki\r\nInfo in EN: https://t.me/infofutrolajki_en\r\nTwitter: https://x.com/futrolajki\r\nBsky: https://bsky.app/profile/futrolajki.pl\r\nYouTube: https://youtube.com/@futrolajki\r\nTikTok: https://tiktok.com/@futrolajki\r\nInstagram: https://instagram.com/@futrolajki\r\n\r\n\r\n",
   "blueskyHandle": "futrolajki.pl",
   "moreInformation": "https://t.me/infofutrolajki_en",
   "codeOfConduct": "https://futrolajki.pl/page/rules",
   "hostCountry": "POL",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://futrolajki.pl/",
   "url": "https://consurf.net/conventions/futrolajki",
-  "lastModified": "2026-11-01T17:17:32.480Z",
+  "lastModified": "2026-11-22T18:25:34.990Z",
   "events": [
     {
       "id": "cmhpe4z3400saian00vmf3rhs",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/futrolajki-2021",
       "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2021-11-03",
       "endDate": "2021-11-05",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 1000,
       "charityName": "DKMS",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Dariusz Gacek"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/futrolajki-2022",
       "address": "Hotel Great Polonia Conrad Kraków, Josepha Conrada 29, 30-357 Krakow, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-12-01",
       "endDate": "2022-12-04",
@@ -55,6 +60,7 @@
       "vendorCount": 0,
       "charityRaised": 5000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Surreaktor"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/futrolajki-2023",
       "address": "Hotel Great Polonia Conrad Kraków, Josepha Conrada 29, 30-357 Krakow, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-12-06",
       "endDate": "2023-12-10",
@@ -79,6 +86,7 @@
       "vendorCount": 0,
       "charityRaised": 10178.37,
       "charityName": "Children's Oncology in Kielce",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Przemysław Szczepańczyk"
       ],
@@ -94,6 +102,7 @@
       "url": "https://consurf.net/futrolajki-2024",
       "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-11-13",
       "endDate": "2024-11-17",
@@ -103,6 +112,7 @@
       "vendorCount": 0,
       "charityRaised": 18482,
       "charityName": "Children's Oncology and Hematology Ward in Kielce",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "WHSPRS",
         "Surreaktor",
@@ -120,6 +130,7 @@
       "url": "https://consurf.net/futrolajki-2025",
       "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-11-12",
       "endDate": "2025-11-16",
@@ -128,7 +139,8 @@
       "fursuiterCount": 0,
       "vendorCount": 0,
       "charityRaised": 16288.36,
-      "charityName": "Schronisko dla Bezdomnych Zwierząt w Józefowie Foundation",
+      "charityName": "Fundacja Schronisko dla Bezdomnych Zwierząt w Józefowie",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "WHSPRS",
         "Fons & Friends",
@@ -166,16 +178,24 @@
       "url": "https://consurf.net/futrolajki-2026",
       "address": "Best Western Grand Hotel, Henryka Sienkiewicza 78, 25-501 Kielce, Poland",
       "country": "POL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-11-11",
       "endDate": "2026-11-15",
       "timezone": "Europe/Warsaw",
-      "attendeeCount": 0,
-      "fursuiterCount": 0,
-      "vendorCount": 0,
+      "attendeeCount": 862,
+      "fursuiterCount": 368,
+      "vendorCount": 34,
       "charityRaised": 0,
-      "charityName": null,
-      "guestsOfHonor": [],
+      "charityName": "Schronisko dla Bezdomnych Zwierząt w Kielcach",
+      "onlinePlatforms": [],
+      "guestsOfHonor": [
+        "Fox Amoore",
+        "Little Alpha Pup",
+        "The Overworked Animals",
+        "WHSPRS",
+        "Yes, It's Warm"
+      ],
       "sources": [],
       "createdAt": "2026-03-04T15:33:05.808Z",
       "venues": [
@@ -224,6 +244,39 @@
           "rateCutoff": null
         }
       ]
+    },
+    {
+      "id": "cmwp6dnii001lnc01qzt46963",
+      "slug": "futrolajki-2027",
+      "name": "Futrołajki",
+      "url": "https://consurf.net/futrolajki-2027",
+      "address": "Metropolo Krakow by Golden Tulip - Ul. Orzechowa 11, 30-422 Kraków",
+      "country": "POL",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-11-10",
+      "endDate": "2027-11-14",
+      "timezone": "Europe/Warsaw",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://t.me/infofutrolajki",
+        "https://t.me/infofutrolajki_en",
+        "https://bsky.app/profile/futrolajki.pl",
+        "https://x.com/futrolajki",
+        "https://barq.app/e/Y3ghJsl",
+        "https://youtube.com/@futrolajki",
+        "https://tiktok.com/@futrolajki",
+        "https://instagram.com/@futrolajki"
+      ],
+      "createdAt": "2026-11-20T16:10:13.963Z",
+      "venues": [],
+      "prices": []
     }
   ]
 }

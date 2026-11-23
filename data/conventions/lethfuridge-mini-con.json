@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmn4rwx9q005yti01j43027pr",
   "slug": "lethfuridge-mini-con",
   "name": "LethFURidge Mini-Con",
@@ -10,10 +10,12 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "CAN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://lethfuridge.ca/",
   "url": "https://consurf.net/conventions/lethfuridge-mini-con",
-  "lastModified": "2026-10-29T03:00:23.802Z",
+  "lastModified": "2026-11-19T03:00:18.773Z",
   "events": [
     {
       "id": "cmn4rxmg00060ti0173x9dmhq",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/lethfuridge-mini-con-2026",
       "address": "McNally Community Center, Lethbridge, AB, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-06-06",
       "endDate": "2026-06-07",
@@ -31,11 +34,75 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-03-24T15:33:06.912Z",
       "venues": [],
       "prices": []
+    },
+    {
+      "id": "cmwmx35sq002snw0140iwbydm",
+      "slug": "lethfuridge-mini-con-2027",
+      "name": "LethFURidge Mini-Con",
+      "url": "https://consurf.net/lethfuridge-mini-con-2027",
+      "address": "McNally Community Center, Lethbridge, AB, Canada",
+      "country": "CAN",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-06-05",
+      "endDate": "2027-06-06",
+      "timezone": "America/Edmonton",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://lethfuridge.ca/2027-mini-con/"
+      ],
+      "createdAt": "2026-11-19T02:14:35.546Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Chromed-out (Add-on)",
+          "amount": 250,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Corporat (Add-on)",
+          "amount": 500,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass",
+          "amount": 10,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Enhanced (Add-on)",
+          "amount": 100,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Streetrunner (Add-on)",
+          "amount": 50,
+          "currency": "CAD",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Weekend Pass",
+          "amount": 20,
+          "currency": "CAD",
+          "rateCutoff": null
+        }
+      ]
     }
   ]
 }

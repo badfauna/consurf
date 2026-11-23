@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgn006jiae095twotv8",
   "slug": "furs-upon-malaysia",
   "name": "Furs Upon Malaysia",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "MYS",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 13,
   "website": "https://furum.org",
   "url": "https://consurf.net/conventions/furs-upon-malaysia",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2015",
       "address": "Mines Wellness Hotel, Seri Kembangan, Petaling, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-12-19",
       "endDate": "2015-12-20",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Silverfox5213"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2016",
       "address": "Shah's Village Hotel, Lorong Sultan, Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-12-10",
       "endDate": "2016-12-11",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CheetahPaws"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2017",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-12-09",
       "endDate": "2017-12-10",
@@ -79,6 +86,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "JC"
       ],
@@ -94,6 +102,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2018",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-12-08",
       "endDate": "2018-12-09",
@@ -103,6 +112,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ben-Ben"
       ],
@@ -118,6 +128,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2019",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-12-14",
       "endDate": "2019-12-15",
@@ -127,6 +138,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Katzen Cat Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],
@@ -142,6 +154,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2020",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-12-12",
       "endDate": "2020-12-13",
@@ -151,6 +164,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -164,6 +178,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2022",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-12-10",
       "endDate": "2022-12-11",
@@ -173,6 +188,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Zephyxus"
       ],
@@ -188,6 +204,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2023",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-12-09",
       "endDate": "2023-12-10",
@@ -197,6 +214,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Katzen Cat Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kékéflipnote"
       ],
@@ -212,6 +230,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2024",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-12-07",
       "endDate": "2024-12-08",
@@ -221,6 +240,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sean Chiplock"
       ],
@@ -236,6 +256,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2025",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-12-13",
       "endDate": "2025-12-14",
@@ -245,6 +266,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -258,6 +280,7 @@
       "url": "https://consurf.net/furs-upon-malaysia-2026",
       "address": "Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
       "country": "MYS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-12-11",
       "endDate": "2026-12-13",
@@ -267,6 +290,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-04-13T18:47:54.299Z",

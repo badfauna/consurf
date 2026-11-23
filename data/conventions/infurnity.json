@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo0071iae0mvcbtafp",
   "slug": "infurnity",
   "name": "Infurnity",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/infurnity",
   "codeOfConduct": null,
   "hostCountry": "TWN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://www.infurnity.com/en/",
   "url": "https://consurf.net/conventions/infurnity",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/infurnity-2015",
       "address": "U House, 忠孝東路五段236巷27弄, Xinyi District, Taipei 11060, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-10-31",
       "endDate": "2015-10-31",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 7250,
       "charityName": "Animal Rescue Team TAIWAN",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/infurnity-2016",
       "address": "Primasia Conference & Business Center, Taipei, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-12-24",
       "endDate": "2016-12-24",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": 62050,
       "charityName": "Raptor Research Group of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -66,6 +72,7 @@
       "url": "https://consurf.net/infurnity-2017",
       "address": "Freedom Design Hotel, 55 Changrong Road, Wayao Village, Taoyuan City 338019, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-10-28",
       "endDate": "2017-10-28",
@@ -75,6 +82,7 @@
       "vendorCount": null,
       "charityRaised": 96450,
       "charityName": "Raptor Research Group of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Takemoto"
       ],
@@ -90,6 +98,7 @@
       "url": "https://consurf.net/infurnity-2018",
       "address": "Freedom Design Hotel, 55 Changrong Road, Wayao Village, Taoyuan City 338019, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-10-27",
       "endDate": "2018-10-28",
@@ -99,6 +108,7 @@
       "vendorCount": null,
       "charityRaised": 123320,
       "charityName": "Raptor Research Group of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Silverfox5213",
         "Foxamoore"
@@ -115,6 +125,7 @@
       "url": "https://consurf.net/infurnity-2019",
       "address": "Fullon Hotel Tamsui Fishermen'S Wharf, New Taipei City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-10-26",
       "endDate": "2019-10-27",
@@ -124,6 +135,7 @@
       "vendorCount": null,
       "charityRaised": 178800,
       "charityName": "Raptor Research Group of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Nviek5",
         "Basteki"
@@ -140,6 +152,7 @@
       "url": "https://consurf.net/infurnity-2020",
       "address": "Fullon Hotel Tamsui Fishermen'S Wharf, New Taipei City, Taiwan",
       "country": "TWN",
+      "category": "MOVED_ONLINE",
       "isCancelled": true,
       "startDate": "2020-10-30",
       "endDate": "2020-11-01",
@@ -149,6 +162,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],
@@ -164,6 +178,7 @@
       "url": "https://consurf.net/infurnity-2021",
       "address": "Fullon Hotel Tamsui Fishermen'S Wharf, New Taipei City, Taiwan",
       "country": "TWN",
+      "category": "MOVED_ONLINE",
       "isCancelled": true,
       "startDate": "2021-10-29",
       "endDate": "2021-10-31",
@@ -173,6 +188,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -186,6 +202,7 @@
       "url": "https://consurf.net/infurnity-2022",
       "address": "Fullon Hotel Tamsui Fishermen'S Wharf, New Taipei City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-10-29",
       "endDate": "2022-10-30",
@@ -195,6 +212,7 @@
       "vendorCount": null,
       "charityRaised": 140200,
       "charityName": "Raptor Research Group of Taiwan, Bat Association of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -208,6 +226,7 @@
       "url": "https://consurf.net/infurnity-2023",
       "address": "Fullon Hotel Tamsui Fishermen'S Wharf, New Taipei City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-10-27",
       "endDate": "2023-10-28",
@@ -217,6 +236,7 @@
       "vendorCount": 0,
       "charityRaised": 393950,
       "charityName": "Raptor Research Group of Taiwan",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Zisak",
         "Raccoonwolf",
@@ -234,6 +254,7 @@
       "url": "https://consurf.net/infurnity-2024",
       "address": "Fullon Hotel Lihpao Land, Taichung City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-10-25",
       "endDate": "2024-10-27",
@@ -243,6 +264,7 @@
       "vendorCount": null,
       "charityRaised": 950800,
       "charityName": "Raptor Research Group of Taiwan, The WildOne Wildlife Conservation Association",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Murayama Ryota"
       ],
@@ -258,6 +280,7 @@
       "url": "https://consurf.net/infurnity-2025",
       "address": "Fullon Hotel Lihpao Land, Taichung City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-10-31",
       "endDate": "2025-11-02",
@@ -267,6 +290,7 @@
       "vendorCount": 0,
       "charityRaised": 961500,
       "charityName": "Raptor Research Group of Taiwan, Taiwan Black Bear Conservation Association",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage",
         "Nagabe"
@@ -283,6 +307,7 @@
       "url": "https://consurf.net/infurnity-2026",
       "address": "Fullon Hotel Lihpao Land, Taichung City, Taiwan",
       "country": "TWN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-30",
       "endDate": "2026-11-01",
@@ -292,6 +317,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Telephone",
         "wintom"

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgl005biae08agiz7i3",
   "slug": "capital-city-fur-con",
   "name": "Capital City Fur Con",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/capital-city-fur-con",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/capital-city-fur-con-2020",
       "address": "Hilton Harrisburg, Strawberry Street, Harrisburg, PA 17126, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2020-01-02",
       "endDate": "2020-01-05",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "ALS Association",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Tuners the Wolf",
         "Saphi",

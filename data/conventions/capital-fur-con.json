@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmkj9alxl000jp401ad4ye0sw",
   "slug": "capital-fur-con",
   "name": "Capital Fur Con",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 21,
   "website": "https://www.capitalfurcon.org/",
   "url": "https://consurf.net/conventions/capital-fur-con",

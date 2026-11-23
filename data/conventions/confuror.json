@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgh002fiae0wgvrpadr",
   "slug": "confuror",
   "name": "Confuror",
@@ -10,6 +10,8 @@
   "moreInformation": "https://x.com/ConFuror",
   "codeOfConduct": "https://confuror.org/en/code_of_conduct/",
   "hostCountry": "MEX",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://confuror.org",
   "url": "https://consurf.net/conventions/confuror",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/confuror-2018",
       "address": "Hoteles Laffayette, Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-10-12",
       "endDate": "2018-10-14",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 9044.5,
       "charityName": "Rescate Zarigüeyal (Opossum Rescue)",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Magolobo",
         "Khazoo"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/confuror-2019",
       "address": "Fiesta Americana Guadalajara, Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-10-11",
       "endDate": "2019-10-13",
@@ -56,6 +61,7 @@
       "vendorCount": 0,
       "charityRaised": 54049.5,
       "charityName": "UMA Coatepec Harinas",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Majira",
         "Fox Amoore"
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/confuror-2020",
       "address": "Virtual",
       "country": "MEX",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2020-10-09",
       "endDate": "2020-10-11",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": 58496.2,
       "charityName": "Selva Teenek",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage",
         "Jib Kodi"
@@ -97,6 +105,7 @@
       "url": "https://consurf.net/confuror-2021",
       "address": "Virtual",
       "country": "MEX",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2021-10-29",
       "endDate": "2021-10-31",
@@ -106,6 +115,7 @@
       "vendorCount": null,
       "charityRaised": 89356.4,
       "charityName": "El Cora",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -119,6 +129,7 @@
       "url": "https://consurf.net/confuror-2022",
       "address": "Fiesta Americana Guadalajara, Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-10-20",
       "endDate": "2022-10-23",
@@ -128,6 +139,7 @@
       "vendorCount": 0,
       "charityRaised": 153526,
       "charityName": "Desmitificando Tiburones",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage",
         "Animal Art Crimes"
@@ -144,6 +156,7 @@
       "url": "https://consurf.net/confuror-2023",
       "address": "Barceló Guadalajara, Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-10-19",
       "endDate": "2023-10-22",
@@ -153,6 +166,7 @@
       "vendorCount": 0,
       "charityRaised": 256711,
       "charityName": "Nutrias de México",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Dr. Wildlife",
         "Adler the Eagle",
@@ -170,6 +184,7 @@
       "url": "https://consurf.net/confuror-2024",
       "address": "Barceló Guadalajara, Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-10-10",
       "endDate": "2024-10-13",
@@ -179,6 +194,7 @@
       "vendorCount": 0,
       "charityRaised": 469124,
       "charityName": "Programa de Conservación de los Murciélagos de México",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Alkali",
         "Whiskey Dingo",
@@ -197,6 +213,7 @@
       "url": "https://consurf.net/confuror-2025",
       "address": "Avenida de las Rosas, 44510 Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-10-23",
       "endDate": "2025-10-26",
@@ -206,6 +223,7 @@
       "vendorCount": 0,
       "charityRaised": 433585,
       "charityName": "Proyecto Tamandua México",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CheetahPaws",
         "Takemoto"
@@ -222,6 +240,7 @@
       "url": "https://consurf.net/confuror-2026",
       "address": "Avenida de las Rosas, 44510 Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-29",
       "endDate": "2026-11-01",
@@ -231,6 +250,7 @@
       "vendorCount": 0,
       "charityRaised": 508232,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kyell Gold"
       ],
@@ -249,6 +269,7 @@
       "url": "https://consurf.net/confuror-2027",
       "address": "Avenida de las Rosas, 44510 Guadalajara, JAL, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-10-07",
       "endDate": "2027-10-10",
@@ -258,6 +279,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-11-05T03:57:28.926Z",

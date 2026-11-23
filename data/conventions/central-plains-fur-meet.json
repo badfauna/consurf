@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgj003wiae0pvfc4dx4",
   "slug": "central-plains-fur-meet",
   "name": "Central Plains Fur Meet",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://centralplainsfurmeet.com",
   "url": "https://consurf.net/conventions/central-plains-fur-meet",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/central-plains-fur-meet-2010",
       "address": "Cheney, KS, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-05-29",
       "endDate": "2010-05-30",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/central-plains-fur-meet-2011",
       "address": "Goddard, KS, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-06-25",
       "endDate": "2011-06-26",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Luthien Nightwolf"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/central-plains-fur-meet-2012",
       "address": "Goddard, KS, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-05-18",
       "endDate": "2012-05-20",
@@ -77,6 +84,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Wolfaya"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/central-plains-fur-meet-2013",
       "address": "Goddard, KS, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-05-16",
       "endDate": "2013-05-19",
@@ -101,6 +110,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Zahzu"
       ],
@@ -116,6 +126,7 @@
       "url": "https://consurf.net/central-plains-fur-meet-2014",
       "address": "Goddard, KS, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-05-22",
       "endDate": "2014-05-25",
@@ -125,6 +136,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Blitz Victor Foxtrot",
         "Idle Valley"

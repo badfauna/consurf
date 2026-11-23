@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmhnzesp80008ia94b4clb5m3",
   "slug": "conifur-northwest",
   "name": "Conifur Northwest",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://en.wikifur.com/wiki/Conifur_Northwest",
   "url": "https://consurf.net/conventions/conifur-northwest",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/conifur-northwest-1998",
       "address": "SeaTac/Airport, Seatac, WA 98188, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "1998-09-04",
       "endDate": "1998-09-06",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Diana Vick"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/conifur-northwest-1999",
       "address": "Fife (Fife), WA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "1999-10-01",
       "endDate": "1999-10-03",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jimmy Chin"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/conifur-northwest-2000",
       "address": "Fife (Fife), WA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2000-11-03",
       "endDate": "2000-11-05",
@@ -79,6 +86,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Roy D. Pounds II"
       ],
@@ -94,6 +102,7 @@
       "url": "https://consurf.net/conifur-northwest-2001",
       "address": "Fife (Fife), WA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2001-10-26",
       "endDate": "2001-10-28",
@@ -103,6 +112,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Washington State Ferret Rescue and Shelter",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Max Black Rabbit"
       ],
@@ -118,6 +128,7 @@
       "url": "https://consurf.net/conifur-northwest-2002",
       "address": "Greater Tacoma Convention Center Parking Garage, Court C, Tacoma, WA 98402, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2002-10-04",
       "endDate": "2002-10-06",
@@ -127,6 +138,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Marci McAdam"
       ],
@@ -142,6 +154,7 @@
       "url": "https://consurf.net/conifur-northwest-2003",
       "address": "Greater Tacoma Convention Center Parking Garage, Court C, Tacoma, WA 98402, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2003-09-26",
       "endDate": "2003-09-28",
@@ -151,6 +164,7 @@
       "vendorCount": null,
       "charityRaised": 3011,
       "charityName": "Washington State Ferret Rescue and Shelter",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Grrrwolf",
         "Chuck Melville"
@@ -167,6 +181,7 @@
       "url": "https://consurf.net/conifur-northwest-2004",
       "address": "Greater Tacoma Convention Center Parking Garage, Court C, Tacoma, WA 98402, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2004-09-24",
       "endDate": "2004-09-26",
@@ -176,6 +191,7 @@
       "vendorCount": null,
       "charityRaised": 2000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Chad Krueger",
         "Edd Vick"
@@ -192,6 +208,7 @@
       "url": "https://consurf.net/conifur-northwest-2005",
       "address": "SeaTac, WA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2005-11-21",
       "endDate": "2005-11-23",
@@ -201,6 +218,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "David Hopkins"
       ],

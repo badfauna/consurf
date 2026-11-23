@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cml6uekjo0008lx01g3k4yjv2",
   "slug": "furlingame",
   "name": "Furlingame",
@@ -10,6 +10,8 @@
   "moreInformation": "http://t.me/furlingame",
   "codeOfConduct": "https://furlingame.com/code-of-conduct",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://furlingame.com/",
   "url": "https://consurf.net/conventions/furlingame",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furlingame-2026",
       "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-04-03",
       "endDate": "2026-04-05",
@@ -31,6 +34,7 @@
       "vendorCount": 32,
       "charityRaised": 8057,
       "charityName": "National Institute of Canine Service and Training",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Limey the Cheetah",
         "Justyne Gurley"
@@ -54,6 +58,7 @@
       "url": "https://consurf.net/furlingame-2027",
       "address": "1333 Old Bayshore Highway, Burlingame, CA 94010, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-03-26",
       "endDate": "2027-03-28",
@@ -63,6 +68,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Esky",
         "FORFUN Bangkok"

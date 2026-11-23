@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgi0032iae0c9606lxd",
   "slug": "megaplex",
   "name": "Megaplex",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://megaplexcon.org",
   "url": "https://consurf.net/conventions/megaplex",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/megaplex-2002",
       "address": "Orlando, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2002-03-08",
       "endDate": "2002-03-08",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 1378.49,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/megaplex-2003",
       "address": "Orlando, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2003-03-21",
       "endDate": "2003-03-23",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "SueDeer"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/megaplex-2004",
       "address": "Orlando, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2004-03-19",
       "endDate": "2004-03-21",
@@ -77,6 +84,7 @@
       "vendorCount": null,
       "charityRaised": 2500,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Trace Beaulieu"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/megaplex-2005",
       "address": "Orlando, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2005-03-14",
       "endDate": "2005-03-16",
@@ -101,6 +110,7 @@
       "vendorCount": null,
       "charityRaised": 2210,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "John Kennedy"
       ],
@@ -116,6 +126,7 @@
       "url": "https://consurf.net/megaplex-2006",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2006-03-17",
       "endDate": "2006-03-19",
@@ -125,6 +136,7 @@
       "vendorCount": null,
       "charityRaised": 3100.4,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Brian Reynolds",
         "4:2:Five"
@@ -141,6 +153,7 @@
       "url": "https://consurf.net/megaplex-2007",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-03-02",
       "endDate": "2007-03-04",
@@ -150,6 +163,7 @@
       "vendorCount": null,
       "charityRaised": 2825,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mike Kazaleh"
       ],
@@ -165,6 +179,7 @@
       "url": "https://consurf.net/megaplex-2008",
       "address": "Wyndham Jacksonville Riverwalk, Jacksonville, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2008-03-28",
       "endDate": "2008-03-30",
@@ -174,6 +189,7 @@
       "vendorCount": null,
       "charityRaised": 1185,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Adam Wan",
         "Hali"
@@ -190,6 +206,7 @@
       "url": "https://consurf.net/megaplex-2009",
       "address": "Kissimmee, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2009-07-24",
       "endDate": "2009-07-26",
@@ -199,6 +216,7 @@
       "vendorCount": null,
       "charityRaised": 1500,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BigBlueFox"
       ],
@@ -214,6 +232,7 @@
       "url": "https://consurf.net/megaplex-2010",
       "address": "Radisson Worldgate Resort, Osceola County, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-07-23",
       "endDate": "2010-07-25",
@@ -223,6 +242,7 @@
       "vendorCount": null,
       "charityRaised": 2928,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Paul Zaloom"
       ],
@@ -238,6 +258,7 @@
       "url": "https://consurf.net/megaplex-2011",
       "address": "Radisson Worldgate Resort, Osceola County, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-07-29",
       "endDate": "2011-07-31",
@@ -247,6 +268,7 @@
       "vendorCount": null,
       "charityRaised": 1368,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Chad Krueger"
       ],
@@ -262,6 +284,7 @@
       "url": "https://consurf.net/megaplex-2012",
       "address": "Radisson Worldgate Resort, Osceola County, FL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-07-27",
       "endDate": "2012-07-29",
@@ -271,6 +294,7 @@
       "vendorCount": null,
       "charityRaised": 4257,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ron Schneider",
         "Noel MacNeal"
@@ -287,6 +311,7 @@
       "url": "https://consurf.net/megaplex-2013",
       "address": "Marriott Orlando Airport Lakeside, 7499 Augusta National Drive, Orlando, FL 32822, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-07-26",
       "endDate": "2013-07-28",
@@ -296,6 +321,7 @@
       "vendorCount": null,
       "charityRaised": 4038,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Fox Amoore",
         "Tirrel"
@@ -312,6 +338,7 @@
       "url": "https://consurf.net/megaplex-2014",
       "address": "Marriott Orlando Airport Lakeside, 7499 Augusta National Drive, Orlando, FL 32822, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-07-25",
       "endDate": "2014-07-27",
@@ -321,6 +348,7 @@
       "vendorCount": null,
       "charityRaised": 10696.98,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mary Minch",
         "TaniDaReal"
@@ -337,6 +365,7 @@
       "url": "https://consurf.net/megaplex-2015",
       "address": "Marriott Orlando Airport Lakeside, 7499 Augusta National Drive, Orlando, FL 32822, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-07-31",
       "endDate": "2015-08-02",
@@ -346,6 +375,7 @@
       "vendorCount": null,
       "charityRaised": 8260.23,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Fizz Otter"
       ],
@@ -361,6 +391,7 @@
       "url": "https://consurf.net/megaplex-2016",
       "address": "South Bass Road, Kissimmee, FL 34742, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-08-05",
       "endDate": "2016-08-07",
@@ -370,6 +401,7 @@
       "vendorCount": null,
       "charityRaised": 8467.86,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CosmicWuffy",
         "Kenket"
@@ -386,6 +418,7 @@
       "url": "https://consurf.net/megaplex-2017",
       "address": "DoubleTree by Hilton Hotel Orlando at SeaWorld, 10100 International Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-08-04",
       "endDate": "2017-08-06",
@@ -395,6 +428,7 @@
       "vendorCount": null,
       "charityRaised": 12394.89,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kodi",
         "Rick Griffin"
@@ -411,6 +445,7 @@
       "url": "https://consurf.net/megaplex-2018",
       "address": "DoubleTree by Hilton Hotel Orlando at SeaWorld, 10100 International Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-03",
       "endDate": "2018-08-05",
@@ -420,6 +455,7 @@
       "vendorCount": null,
       "charityRaised": 10849.88,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "NIIC the Singing Dog",
         "Paco Panda"
@@ -436,6 +472,7 @@
       "url": "https://consurf.net/megaplex-2019",
       "address": "Caribe Royale Orlando, 8101 World Center Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-08-09",
       "endDate": "2019-08-11",
@@ -445,6 +482,7 @@
       "vendorCount": null,
       "charityRaised": 40000,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "J.D. Puppy",
         "SonicFox"
@@ -461,6 +499,7 @@
       "url": "https://consurf.net/megaplex-2020",
       "address": "Caribe Royale Orlando, 8101 World Center Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2020-08-21",
       "endDate": "2020-08-23",
@@ -470,6 +509,7 @@
       "vendorCount": null,
       "charityRaised": 10079.73,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -483,6 +523,7 @@
       "url": "https://consurf.net/megaplex-2021",
       "address": "Caribe Royale Orlando, 8101 World Center Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2021-08-06",
       "endDate": "2021-08-08",
@@ -492,6 +533,7 @@
       "vendorCount": null,
       "charityRaised": 50000,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Hyena Agenda",
         "Kyell Gold"
@@ -508,6 +550,7 @@
       "url": "https://consurf.net/megaplex-2022",
       "address": "Caribe Royale Orlando, 8101 World Center Drive, Orlando, FL 32821, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-08-05",
       "endDate": "2022-08-07",
@@ -517,6 +560,7 @@
       "vendorCount": null,
       "charityRaised": 70000,
       "charityName": "C.A.R.E. Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Illumi-Nation Cyberwear",
         "Lofi"
@@ -533,6 +577,7 @@
       "url": "https://consurf.net/megaplex-2023",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-09-15",
       "endDate": "2023-09-17",
@@ -542,6 +587,7 @@
       "vendorCount": null,
       "charityRaised": 88000,
       "charityName": "Brevard County Street Dog Coalition",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ash Coyote",
         "Bemani",
@@ -559,6 +605,7 @@
       "url": "https://consurf.net/megaplex-2024",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-08-30",
       "endDate": "2024-09-01",
@@ -568,6 +615,7 @@
       "vendorCount": null,
       "charityRaised": 81000,
       "charityName": "Street Dog Coalition",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jonah Scott",
         "Tom Fischbach"
@@ -584,6 +632,7 @@
       "url": "https://consurf.net/megaplex-2025",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-08-30",
       "endDate": "2025-09-01",
@@ -593,6 +642,7 @@
       "vendorCount": null,
       "charityRaised": 90600,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Charlie Adler",
         "Dingoroo"
@@ -609,6 +659,7 @@
       "url": "https://consurf.net/megaplex-2026",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-08-21",
       "endDate": "2026-08-23",
@@ -618,6 +669,7 @@
       "vendorCount": 0,
       "charityRaised": 100000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-18T05:10:26.666Z",
@@ -681,6 +733,7 @@
       "url": "https://consurf.net/megaplex-2027",
       "address": "Hyatt Regency Orlando, 9801 International Drive, Orlando, FL 32819, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-08-20",
       "endDate": "2027-08-22",
@@ -690,6 +743,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-08-23T22:56:01.287Z",

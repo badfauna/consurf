@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgp007uiae08tad5xjl",
   "slug": "party-along-with-anthro-indonesia",
   "name": "Party Along With Anthro Indonesia",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "IDN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/party-along-with-anthro-indonesia",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/party-along-with-anthro-indonesia-2019",
       "address": "YELLO Hotel, Jalan Minangkabau Timur Raya 9, Setiabudi, South Jakarta 12970, JK, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-07-27",
       "endDate": "2019-07-27",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Koku Boku Boo",
         "MinTea"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/party-along-with-anthro-indonesia-2020",
       "address": "Luminor Hotel, Jalan Mangga Besar Raya, Taman Sari, West Jakarta 11150, Java, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-07-25",
       "endDate": "2020-07-26",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",

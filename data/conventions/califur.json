@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgl0056iae0e931p729",
   "slug": "califur",
   "name": "Califur",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/califur",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/califur-2004",
       "address": "Atrium Hotel, 18700 MacArthur Boulevard, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2004-05-28",
       "endDate": "2004-05-30",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "2 The Ranting Gryphon",
         "FoxxFire",
@@ -51,6 +55,7 @@
       "url": "https://consurf.net/califur-2005",
       "address": "Holiday Inn Express Costa Mesa, 2070 Newport Boulevard, Costa Mesa, CA 92627, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2005-05-20",
       "endDate": "2005-05-22",
@@ -60,6 +65,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -73,6 +79,7 @@
       "url": "https://consurf.net/califur-2006",
       "address": "Holiday Inn Express Costa Mesa, 2070 Newport Boulevard, Costa Mesa, CA 92627, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2006-05-05",
       "endDate": "2006-05-07",
@@ -82,6 +89,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Lisanne Norman",
         "Mitch de la Guardia"
@@ -98,6 +106,7 @@
       "url": "https://consurf.net/califur-2007",
       "address": "Holiday Inn Express Costa Mesa, 2070 Newport Boulevard, Costa Mesa, CA 92627, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-05-04",
       "endDate": "2007-05-06",
@@ -107,6 +116,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Balaa",
         "Roz Gibson"
@@ -123,6 +133,7 @@
       "url": "https://consurf.net/califur-2008",
       "address": "Hyatt Regency Irvine, San Joaquin Marsh, Irvine, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2008-05-15",
       "endDate": "2008-05-18",
@@ -132,6 +143,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -145,6 +157,7 @@
       "url": "https://consurf.net/califur-2009",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2009-06-05",
       "endDate": "2009-06-07",
@@ -154,6 +167,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -167,6 +181,7 @@
       "url": "https://consurf.net/califur-2010",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-06-04",
       "endDate": "2010-06-06",
@@ -176,6 +191,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Fossil",
         "Amber Williams"
@@ -192,6 +208,7 @@
       "url": "https://consurf.net/califur-2011",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-06-03",
       "endDate": "2011-06-05",
@@ -201,6 +218,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Cat House on the Kings",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Touch My Badger",
         "Matrices"
@@ -217,6 +235,7 @@
       "url": "https://consurf.net/califur-2012",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-06-01",
       "endDate": "2012-06-03",
@@ -226,6 +245,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mochi"
       ],
@@ -241,6 +261,7 @@
       "url": "https://consurf.net/califur-2013",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-05-31",
       "endDate": "2013-06-02",
@@ -250,6 +271,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Maxwell Alexander Drake",
         "NecroDrone"
@@ -266,6 +288,7 @@
       "url": "https://consurf.net/califur-2014",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-05-30",
       "endDate": "2014-06-01",
@@ -275,6 +298,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Megan Giles",
         "Beastcub"
@@ -291,6 +315,7 @@
       "url": "https://consurf.net/califur-2015",
       "address": "Irvine Marriott, 18000 Von Karman Avenue, Irvine, CA 92612, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-06-05",
       "endDate": "2015-06-07",
@@ -300,6 +325,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Amadhia Albee",
         "Zhivago"
@@ -316,6 +342,7 @@
       "url": "https://consurf.net/califur-2016",
       "address": "Pomona, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-06-03",
       "endDate": "2016-06-05",
@@ -325,6 +352,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sixth Leaf Clover",
         "Terrie Denman"
@@ -341,6 +369,7 @@
       "url": "https://consurf.net/califur-2017",
       "address": "Pomona, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-05-19",
       "endDate": "2017-05-21",
@@ -350,6 +379,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -363,6 +393,7 @@
       "url": "https://consurf.net/califur-2018",
       "address": "Pomona, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2018-06-01",
       "endDate": "2018-06-03",
@@ -372,6 +403,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",

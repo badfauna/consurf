@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmhnwxcq40001ia942i0mjwfw",
   "slug": "all-fur-fun",
   "name": "All Fur Fun",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://en.wikifur.com/wiki/All_Fur_Fun",
   "url": "https://consurf.net/conventions/all-fur-fun",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/all-fur-fun-2007",
       "address": "Otis Hotel, West Railroad Alley, Spokane, WA 99201, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-03-30",
       "endDate": "2007-04-01",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Katie Hofgard"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/all-fur-fun-2008",
       "address": "Otis Hotel, West Railroad Alley, Spokane, WA 99201, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2008-04-18",
       "endDate": "2008-04-20",
@@ -55,6 +60,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "FoxyFennec"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/all-fur-fun-2009",
       "address": "Spokane, WA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2009-05-15",
       "endDate": "2009-05-17",
@@ -79,6 +86,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Flinters"
       ],

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgq008eiae0dup79459",
   "slug": "slofluffcon",
   "name": "SloFluffCon",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/slofluffconvention",
   "codeOfConduct": null,
   "hostCountry": "SVN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://slofluffcon.org/",
   "url": "https://consurf.net/conventions/slofluffcon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/slofluffcon-2023",
       "address": "Hotel Evropa, Krekov trg 4, 3000 Celje, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-08-19",
       "endDate": "2023-08-22",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/slofluffcon-2024",
       "address": "Hotel Evropa, Krekov trg 4, 3000 Celje, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-08-24",
       "endDate": "2024-08-27",
@@ -53,6 +58,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/slofluffcon-2026",
       "address": "Grand Hotel Union Eurostars, Miklošičeva cesta 1, 1000 Ljubljana, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-01-22",
       "endDate": "2026-01-25",
@@ -77,6 +84,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Thabo Meerkat"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/slofluffcon-2027",
       "address": "Grand Hotel Union Eurostars, Miklošičeva cesta 1, 1000 Ljubljana, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-01-21",
       "endDate": "2027-01-24",
@@ -101,6 +110,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ronnie Noodles"
       ],

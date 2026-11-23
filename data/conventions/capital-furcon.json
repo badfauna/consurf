@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmnex06ps0028no0102ztvl7t",
   "slug": "capital-furcon",
   "name": "Capital Furcon",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/capitalfurconsfw",
   "codeOfConduct": "https://capitalfurcon.org/code-of-conduct",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 21,
   "website": "https://capitalfurcon.org/",
   "url": "https://consurf.net/conventions/capital-furcon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/capital-furcon-2027",
       "address": "Gaylord National Resort and Convention Center, 201 Waterfront Street, National Harbor, MD 20745, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-02-18",
       "endDate": "2027-02-21",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "NoVA Prism Center, Inc.",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mark's Barks"
       ],

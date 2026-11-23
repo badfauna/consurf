@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo0078iae0g0ider7u",
   "slug": "lone-star-fur-con",
   "name": "Lone Star Fur Con",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/+5KHPlnCT6J83ZmMx",
   "codeOfConduct": "https://lonestarfurcon.com/attend/code-of-conduct/",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 16,
   "website": "https://lonestarfurcon.com/",
   "url": "https://consurf.net/conventions/lone-star-fur-con",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/lone-star-fur-con-2025",
       "address": "Middle Fiskville Road, Austin, TX 78752, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-02-28",
       "endDate": "2025-03-02",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 4198,
       "charityName": "Queertopia",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Semira"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/lone-star-fur-con-2026",
       "address": "Middle Fiskville Road, Austin, TX 78752, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-02-19",
       "endDate": "2026-02-22",
@@ -55,6 +60,7 @@
       "vendorCount": 0,
       "charityRaised": 4000,
       "charityName": "Queertopia",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Neffertity"
       ],
@@ -89,6 +95,7 @@
       "url": "https://consurf.net/lone-star-fur-con-2027",
       "address": "Hilton Austin Airport, 9515 Hotel Drive, Austin, TX 78719",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-02-25",
       "endDate": "2027-02-28",
@@ -98,6 +105,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-02-27T20:26:08.124Z",

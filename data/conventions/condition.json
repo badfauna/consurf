@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgm005giae0jrrss75z",
   "slug": "condition",
   "name": "Condition",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "CAN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/condition",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/condition-2010",
       "address": "Four Points Sheraton London, Wellington Road, London, ON N6E 1M8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-08-06",
       "endDate": "2010-08-08",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 2192,
       "charityName": "Salthaven Wildlife Rehabilitation and Education Centre",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Potoroo",
         "Roxikat",
@@ -48,6 +52,7 @@
       "url": "https://consurf.net/condition-2011",
       "address": "Four Points Sheraton London, Wellington Road, London, ON N6E 1M8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-07-22",
       "endDate": "2012-07-24",
@@ -57,6 +62,7 @@
       "vendorCount": null,
       "charityRaised": 10586,
       "charityName": "Salthaven Wildlife Rehabilitation and Education Centre",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sophie Cabra",
         "Strype",
@@ -74,6 +80,7 @@
       "url": "https://consurf.net/condition-2012",
       "address": "Four Points Sheraton London, Wellington Road, London, ON N6E 1M8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-07-27",
       "endDate": "2012-07-29",
@@ -83,6 +90,7 @@
       "vendorCount": null,
       "charityRaised": 10085,
       "charityName": "Salthaven Wildlife Rehabilitation and Education Centre",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Amber Williams",
         "Mary Minch"
@@ -99,6 +107,7 @@
       "url": "https://consurf.net/condition-2013",
       "address": "Four Points Sheraton London, Wellington Road, London, ON N6E 1M8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-08-02",
       "endDate": "2013-08-04",
@@ -108,6 +117,7 @@
       "vendorCount": null,
       "charityRaised": 5800,
       "charityName": "Salthaven Wildlife Rehabilitation and Education Centre",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Eevachu",
         "Caltroplay"
@@ -124,6 +134,7 @@
       "url": "https://consurf.net/condition-2014",
       "address": "Four Points Sheraton London, Wellington Road, London, ON N6E 1M8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-08-01",
       "endDate": "2014-08-03",
@@ -133,6 +144,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sigil",
         "Dixie von Fur"

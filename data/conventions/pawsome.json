@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgq007xiae0bdhdrm8o",
   "slug": "pawsome",
   "name": "Pawsome",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "GBR",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://www.pawsome.org.uk",
   "url": "https://consurf.net/conventions/pawsome",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/pawsome-2024",
       "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
       "country": "GBR",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-10-04",
       "endDate": "2024-10-07",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/pawsome-2025",
       "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
       "country": "GBR",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-10-03",
       "endDate": "2025-10-06",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": 4393.75,
       "charityName": "Brook",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Candy Coated"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/pawsome-2026",
       "address": "Mercure Gloucester Bowden Hall, Upton St Leonards, Gloucestershire, ENG, United Kingdom",
       "country": "GBR",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-01",
       "endDate": "2026-10-05",
@@ -77,6 +84,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Holly Hedge Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Pinky Fennec"
       ],

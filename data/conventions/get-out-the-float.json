@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006tiae0kfdjfpsw",
   "slug": "get-out-the-float",
   "name": "Get Out The Float",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://getoutthefloat.com/",
   "url": "https://consurf.net/conventions/get-out-the-float",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/get-out-the-float-2024",
       "address": "Oceanway Street, Seaside, OR 97138, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-02-02",
       "endDate": "2024-02-04",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 2350.16,
       "charityName": "Sunset Parks and Recreation Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/get-out-the-float-2025",
       "address": "Oceanway Street, Seaside, OR 97138, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-02-06",
       "endDate": "2025-02-09",
@@ -53,6 +58,7 @@
       "vendorCount": 0,
       "charityRaised": 4096,
       "charityName": "Sunset Parks and Recreation Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://getoutthefloat.com/about-our-charity"
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/get-out-the-float-2026",
       "address": "Oceanway Street, Seaside, OR 97138, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-02-12",
       "endDate": "2026-02-15",
@@ -77,6 +84,7 @@
       "vendorCount": 0,
       "charityRaised": 4913.11,
       "charityName": "Sunset Parks and Recreation Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://getoutthefloat.com/about-our-charity"
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/get-out-the-float-2027",
       "address": "Oceanway Street, Seaside, OR 97138, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2027-02-04",
       "endDate": "2027-02-07",
@@ -101,6 +110,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://getoutthefloat.com/gotf-postponement-to-2028",
@@ -136,6 +146,7 @@
       "url": "https://consurf.net/get-out-the-float-2028",
       "address": "Oceanway Street, Seaside, OR 97138, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2028-02-03",
       "endDate": "2028-02-06",
@@ -145,6 +156,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Sunset Empire Park & Recreation Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://bsky.app/profile/getoutthefloat.com/post/3mvgehzbjmc2r"

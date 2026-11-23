@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgk004liae0c3zmeyk7",
   "slug": "las-vegas-fur-con",
   "name": "Las Vegas Fur Con",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/LasVegasFurCon",
   "codeOfConduct": "https://lasvegasfurcon.org/attendee-policies/",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 21,
   "website": "https://lasvegasfurcon.org",
   "url": "https://consurf.net/conventions/las-vegas-fur-con",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/las-vegas-fur-con-2023",
       "address": "Las Vegas, NV, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-04-14",
       "endDate": "2023-04-16",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 6220,
       "charityName": "Las Vegas TransPride",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "HOWL OUT",
         "Kris Yim",
@@ -51,6 +55,7 @@
       "url": "https://consurf.net/las-vegas-fur-con-2024",
       "address": "Las Vegas, NV, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-03-29",
       "endDate": "2024-03-31",
@@ -60,6 +65,7 @@
       "vendorCount": null,
       "charityRaised": 10352.97,
       "charityName": "Las Vegas TransPride",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BardicRJ",
         "Rahne",
@@ -79,6 +85,7 @@
       "url": "https://consurf.net/las-vegas-fur-con-2025",
       "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-04-17",
       "endDate": "2025-04-20",
@@ -88,6 +95,7 @@
       "vendorCount": null,
       "charityRaised": 15110,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sean Chiplock",
         "Aviators",
@@ -105,6 +113,7 @@
       "url": "https://consurf.net/las-vegas-fur-con-2026",
       "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-04-02",
       "endDate": "2026-04-05",
@@ -114,6 +123,7 @@
       "vendorCount": 105,
       "charityRaised": 21000,
       "charityName": "The LGBTQ+ Center of Las Vegas",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Aydan Fox",
         "Marks Barks",
@@ -176,6 +186,7 @@
       "url": "https://consurf.net/las-vegas-fur-con-2027",
       "address": "Alexis Park Resort, 375 East Harmon Avenue, Las Vegas, NV 89169, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-03-25",
       "endDate": "2027-03-28",
@@ -185,6 +196,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CassMutt",
         "Flipy"

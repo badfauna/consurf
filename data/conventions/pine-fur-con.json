@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgq0080iae0vdn482o8",
   "slug": "pine-fur-con",
   "name": "Pine Fur Con",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/pine-fur-con",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/pine-fur-con-2018",
       "address": "South Portland, ME, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-04-27",
       "endDate": "2018-04-29",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 3400,
       "charityName": "Short Folks For Hope",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/pine-fur-con-2019",
       "address": "Doubletree By Hilton Portland Me, South Portland, ME, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-04-05",
       "endDate": "2019-04-07",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": 8397.37,
       "charityName": "Short Folks For Hope",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Nexus Folf",
         "Adler the Eagle"

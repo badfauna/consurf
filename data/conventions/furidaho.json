@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgn0061iae0nta319ai",
   "slug": "furidaho",
   "name": "FurIdaho",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/furidaho",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furidaho-2012",
       "address": "Boise, ID, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-03-23",
       "endDate": "2012-03-25",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kadath",
         "Mokusei Kaze"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/furidaho-2013",
       "address": "Holiday Inn Boise Airport, Boise, ID, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-03-08",
       "endDate": "2013-03-10",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mokusei Kaze"
       ],

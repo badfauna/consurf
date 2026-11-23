@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 3,
+  "id": "cmwk1j06j000lnw01ahae7596",
+  "slug": "furzue",
+  "name": "Furzuê",
+  "shortName": null,
+  "description": "Furzuê is a Brazilian furry convention established in 2026 with its first iteration set for 2027. Ran by Gio as a chairperson, a local furry from the Estate of Parana (PR) Brazil.",
+  "blueskyHandle": null,
+  "moreInformation": "https://t.me/eventofurzue",
+  "codeOfConduct": null,
+  "hostCountry": "BRA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
+  "minAge": null,
+  "website": "https://furzue.com/",
+  "url": "https://consurf.net/conventions/furzue",
+  "lastModified": "2026-11-17T03:00:16.468Z",
+  "events": [
+    {
+      "id": "cmwk21jjq000qnw01qzd3rh1j",
+      "slug": "furzue-2027",
+      "name": "Furzuê",
+      "url": "https://consurf.net/furzue-2027",
+      "address": "Sumatra Hotel e Centro de Convenções, Rua Senador Souza Naves, 803, Londrina, PR, Brazil",
+      "country": "BRA",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-05-28",
+      "endDate": "2027-05-30",
+      "timezone": "America/Sao_Paulo",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [
+        "Mock",
+        "Mekhy",
+        "Arkoss"
+      ],
+      "sources": [
+        "https://furzue.com"
+      ],
+      "createdAt": "2026-11-17T02:09:59.606Z",
+      "venues": [],
+      "prices": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgn0064iae02cp03ynz",
   "slug": "furoween",
   "name": "Furoween",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "SWE",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/furoween",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furoween-2017",
       "address": "Best Western Gustaf Fröding Hotell & Konferens, Karlstad, Sweden",
       "country": "SWE",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-10-27",
       "endDate": "2017-10-29",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Djurskyddet Karlstad",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],

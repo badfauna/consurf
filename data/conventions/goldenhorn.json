@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006uiae02my4fhls",
   "slug": "goldenhorn",
   "name": "GoldenHorn",
@@ -10,10 +10,12 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "SVN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://goldenhorn.si/",
   "url": "https://consurf.net/conventions/goldenhorn",
-  "lastModified": "2026-11-01T17:17:37.773Z",
+  "lastModified": "2026-11-20T18:00:11.846Z",
   "events": [
     {
       "id": "cmqnlvxuh00iolh01d6w451zb",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/goldenhorn-2023",
       "address": "Youth Hostel Ajdovščina, Cesta IV. prekomorske 61a, Ajdovščina, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-09-15",
       "endDate": "2023-09-17",
@@ -31,6 +34,7 @@
       "vendorCount": 6,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-06-21T09:50:35.033Z",
@@ -63,6 +67,7 @@
       "url": "https://consurf.net/goldenhorn-2024",
       "address": "Adria Ankaran, Ankaran, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-11-07",
       "endDate": "2024-11-10",
@@ -72,6 +77,7 @@
       "vendorCount": 8,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-06-21T09:39:19.030Z",
@@ -104,6 +110,7 @@
       "url": "https://consurf.net/goldenhorn-2025",
       "address": "Adria Ankaran, Ankaran, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-11-13",
       "endDate": "2025-11-16",
@@ -113,6 +120,7 @@
       "vendorCount": 14,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Oggy123"
       ],
@@ -145,17 +153,19 @@
       "slug": "goldenhorn-2026",
       "name": "GoldenHorn",
       "url": "https://consurf.net/goldenhorn-2026",
-      "address": "Hotel Slovenija, Obala 35, 6320 Portorož / Portorose, Slovenia",
+      "address": "Hotel Slovenija, Obala 35, Portorož / Portorose (naselje), 6320 Portorož / Portorose, Slovenia",
       "country": "SVN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-11-05",
       "endDate": "2026-11-08",
-      "timezone": "Europe/Belgrade",
+      "timezone": "Europe/Ljubljana",
       "attendeeCount": 0,
       "fursuiterCount": 0,
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "dont_jinxit"
       ],
@@ -201,6 +211,32 @@
           "rateCutoff": null
         }
       ]
+    },
+    {
+      "id": "cmwp89fvg001qnc013n6sa1of",
+      "slug": "goldenhorn-2027",
+      "name": "GoldenHorn",
+      "url": "https://consurf.net/goldenhorn-2027",
+      "address": "Hotel Slovenija, Obala 35, Portorož / Portorose (naselje), 6320 Portorož / Portorose, Slovenia",
+      "country": "SVN",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-11-05",
+      "endDate": "2027-11-08",
+      "timezone": "Europe/Ljubljana",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://slofurs.org/events/01a1cbf6-b9e5-73a4-8420-f7be638d0ae6"
+      ],
+      "createdAt": "2026-11-20T17:02:56.669Z",
+      "venues": [],
+      "prices": []
     }
   ]
 }

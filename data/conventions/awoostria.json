@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgf0011iae0askpzi1q",
   "slug": "awoostria",
   "name": "Awoostria",
@@ -10,10 +10,12 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "AUT",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://awoostria.at/",
   "url": "https://consurf.net/conventions/awoostria",
-  "lastModified": "2026-11-01T17:06:33.683Z",
+  "lastModified": "2026-11-21T18:00:12.907Z",
   "events": [
     {
       "id": "cmhpe4z3b010tian0oovdb0zi",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/awoostria-2024",
       "address": "Am Belvedere, 1100 Vienna, Austria",
       "country": "AUT",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-25",
       "endDate": "2024-07-28",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 5262.38,
       "charityName": "The Austrian Animal Protection Association",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "EmilyCreative",
         "Ash Coyote",
@@ -50,6 +54,7 @@
       "url": "https://consurf.net/awoostria-2025",
       "address": "ARCOTEL Wimberger, Neubaugürtel 34-36, 1070 Vienna, Austria",
       "country": "AUT",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-07-24",
       "endDate": "2025-07-27",
@@ -59,6 +64,7 @@
       "vendorCount": null,
       "charityRaised": 9730,
       "charityName": "Handicats Katzenhoffnung Steiermark",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BetaEtaDelota"
       ],
@@ -74,23 +80,54 @@
       "url": "https://consurf.net/awoostria-2026",
       "address": "ARCOTEL Wimberger, Neubaugürtel 34-36, 1070 Vienna, Austria",
       "country": "AUT",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-22",
       "endDate": "2026-07-25",
       "timezone": "Europe/Vienna",
-      "attendeeCount": null,
-      "fursuiterCount": null,
-      "vendorCount": null,
-      "charityRaised": null,
+      "attendeeCount": 1702,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
       "charityName": "Leon of Hope",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Chipflake",
         "CoVahr",
         "Karpour",
         "WHSPRS"
       ],
-      "sources": [],
+      "sources": [
+        "https://awoostria.at/news-articles/1702-at-awoostria2026"
+      ],
       "createdAt": "2026-01-12T16:29:47.458Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmwqnyrzn0020nc0160ghy3uy",
+      "slug": "awoostria-2027",
+      "name": "Awoostria",
+      "url": "https://consurf.net/awoostria-2027",
+      "address": "Hyatt Regency Vienna, Arsenalstraße 10, 1100 Vienna, Austria",
+      "country": "AUT",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-07-21",
+      "endDate": "2027-07-24",
+      "timezone": "Europe/Vienna",
+      "attendeeCount": null,
+      "fursuiterCount": null,
+      "vendorCount": null,
+      "charityRaised": null,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://t.me/awoostriaannouncements/635",
+        "https://t.me/EurofursEvents/276"
+      ],
+      "createdAt": "2026-11-21T17:10:19.187Z",
       "venues": [],
       "prices": []
     }

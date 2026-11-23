@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006yiae057rrha36",
   "slug": "heartland-howloween",
   "name": "Heartland Howloween",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://heartlandhowloween.com/",
   "url": "https://consurf.net/conventions/heartland-howloween",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/heartland-howloween-2025",
       "address": "Comfort Inn & Suites Omaha Central, 7007 Grover Street, Omaha, NE 68106, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-10-10",
       "endDate": "2025-10-12",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 2944.36,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/heartland-howloween-2026",
       "address": "DoubleTree by Hilton Hotel Omaha Downtown, 1616 Dodge Street, Omaha, NE 68102, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-09",
       "endDate": "2026-10-11",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Ponca Tribe of Nebraska",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Dragon Roast Coffee"
       ],

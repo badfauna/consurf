@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo0070iae03x9wcz8h",
   "slug": "indonesia-weekend-anthro-gathering",
   "name": "Indonesia Weekend Anthro Gathering",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "IDN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/indonesia-weekend-anthro-gathering",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/indonesia-weekend-anthro-gathering-2023",
       "address": "Ibis Styles Hotels Sunter, Sungai Bambu, North Jakarta 14330, JK, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-12-02",
       "endDate": "2023-12-02",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/indonesia-weekend-anthro-gathering-2024",
       "address": "Ibis Styles Hotels Sunter, Sungai Bambu, North Jakarta 14330, JK, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-13",
       "endDate": "2024-07-14",
@@ -53,6 +58,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "OatMegaPlus"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/indonesia-weekend-anthro-gathering-2025",
       "address": "ibis Styles Serpong BSD City, Kabupaten Tangerang, Banten, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-07-12",
       "endDate": "2025-07-13",
@@ -77,6 +84,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kuttoyaki"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/indonesia-weekend-anthro-gathering-2026",
       "address": "ibis Styles Serpong BSD City, Kabupaten Tangerang, Banten, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-04",
       "endDate": "2026-07-05",
@@ -101,6 +110,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Auveiss"
       ],

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmge000niae0kzysbkt9",
   "slug": "anthro-weekend-utah",
   "name": "Anthro Weekend Utah",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": "https://anthroweekendutah.org/policies",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://anthroweekendutah.org",
   "url": "https://consurf.net/conventions/anthro-weekend-utah",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2017",
       "address": "Radisson Hotel Salt Lake City Downtown, Salt Lake City, UT",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-10-27",
       "endDate": "2017-10-28",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Tayerr",
         "RUdragon"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2018",
       "address": "Layton, UT, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-10",
       "endDate": "2018-08-12",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Silvixen",
         "Atlas Inu"
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2019",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-07-19",
       "endDate": "2019-07-21",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": 2677.58,
       "charityName": "Wild Wonders",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ritwells",
         "Injured Songbird"
@@ -97,6 +105,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2020",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-07-17",
       "endDate": "2020-07-19",
@@ -106,6 +115,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -119,6 +129,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2021",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2021-07-16",
       "endDate": "2021-07-18",
@@ -128,6 +139,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -141,6 +153,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2022",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-07-15",
       "endDate": "2022-07-17",
@@ -150,6 +163,7 @@
       "vendorCount": null,
       "charityRaised": 10716.26,
       "charityName": "Wild Wonders",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Titus Weiss",
         "Weremagnus"
@@ -166,6 +180,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2023",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-07-14",
       "endDate": "2023-07-16",
@@ -175,6 +190,7 @@
       "vendorCount": null,
       "charityRaised": 26572.11,
       "charityName": "Wild Wonders",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "VulpesVant",
         "Ribbontini",
@@ -192,6 +208,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2024",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-19",
       "endDate": "2024-07-21",
@@ -201,6 +218,7 @@
       "vendorCount": null,
       "charityRaised": 35577.05,
       "charityName": "Nuzzles & Co.",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ciderbunz",
         "Tim Weeks"
@@ -217,6 +235,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2025",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-08-01",
       "endDate": "2025-08-03",
@@ -226,6 +245,7 @@
       "vendorCount": null,
       "charityRaised": 36830,
       "charityName": "Nuzzles & Co.",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Aycee",
         "Shoom'lah"
@@ -242,6 +262,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2026",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-31",
       "endDate": "2026-08-02",
@@ -251,6 +272,7 @@
       "vendorCount": 0,
       "charityRaised": 35000,
       "charityName": "Nuzzles & Co.",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sean Chiplock",
         "Tokyozilla"
@@ -292,6 +314,7 @@
       "url": "https://consurf.net/anthro-weekend-utah-2027",
       "address": "Davis Conference Center, 1651 North 700 West, Layton, UT 84041, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-07-30",
       "endDate": "2027-08-01",
@@ -301,6 +324,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-08-03T07:07:10.342Z",

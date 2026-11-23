@@ -12,6 +12,7 @@
     "slug",
     "name",
     "hostCountry",
+    "format",
     "url",
     "lastModified",
     "events"
@@ -22,7 +23,7 @@
       "format": "uri"
     },
     "schemaVersion": {
-      "const": 2
+      "const": 3
     },
     "id": {
       "type": "string",
@@ -68,7 +69,21 @@
     },
     "hostCountry": {
       "type": "string",
-      "description": "ISO 3166-1 alpha-3 country code"
+      "description": "ISO 3166-1 alpha-3 country code, or ZZZ for online conventions and editions"
+    },
+    "format": {
+      "enum": [
+        "IN_PERSON",
+        "VIRTUAL"
+      ],
+      "description": "Default format for new editions; each edition has its own category"
+    },
+    "anchorTimezone": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "IANA time zone a virtual convention bases its schedule on"
     },
     "minAge": {
       "type": [
@@ -109,9 +124,11 @@
         "slug",
         "name",
         "url",
+        "category",
         "isCancelled",
         "startDate",
         "endDate",
+        "onlinePlatforms",
         "guestsOfHonor",
         "sources",
         "createdAt",
@@ -147,7 +164,15 @@
             "string",
             "null"
           ],
-          "description": "ISO 3166-1 alpha-3 country code"
+          "description": "ISO 3166-1 alpha-3 country code, or ZZZ for online conventions and editions"
+        },
+        "category": {
+          "enum": [
+            "ON_SITE",
+            "ONLINE",
+            "MOVED_ONLINE"
+          ],
+          "description": "ONLINE editions have no address and use country ZZZ; MOVED_ONLINE keeps the original venue on record"
         },
         "isCancelled": {
           "type": "boolean"
@@ -203,6 +228,13 @@
             "null"
           ]
         },
+        "onlinePlatforms": {
+          "type": "array",
+          "description": "Where an online edition takes place; empty for on-site editions",
+          "items": {
+            "$ref": "#/$defs/onlinePlatform"
+          }
+        },
         "guestsOfHonor": {
           "type": "array",
           "items": {
@@ -230,6 +262,34 @@
           "items": {
             "$ref": "#/$defs/price"
           }
+        }
+      }
+    },
+    "onlinePlatform": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "platform",
+        "url"
+      ],
+      "properties": {
+        "platform": {
+          "enum": [
+            "VRCHAT",
+            "RESONITE",
+            "CHILLOUTVR",
+            "DISCORD",
+            "TWITCH",
+            "YOUTUBE",
+            "OTHER"
+          ]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "label": {
+          "type": "string"
         }
       }
     },

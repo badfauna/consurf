@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgl004tiae03ubea38z",
   "slug": "antheria",
   "name": "Antheria",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://en.wikifur.com/wiki/Antheria",
   "url": "https://consurf.net/conventions/antheria",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/antheria-2010",
       "address": "Redondo Beach, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-10-01",
       "endDate": "2010-10-03",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Stan Sakai"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/antheria-2011",
       "address": "Redondo Beach, CA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-09-30",
       "endDate": "2011-10-02",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mike Kazaleh"
       ],

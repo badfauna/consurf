@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgi0036iae0lfw13soh",
   "slug": "garden-state-fur-the-weekend",
   "name": "Garden State Fur The Weekend",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/+LlZiz0VomBs4ZDc5",
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://gsftw.org",
   "url": "https://consurf.net/conventions/garden-state-fur-the-weekend",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/garden-state-fur-the-weekend-2024",
       "address": "Hyatt Regency New Brunswick, 2 Albany Street, New Brunswick, NJ 08901, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-05-03",
       "endDate": "2024-05-05",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 6000,
       "charityName": "The Pipsqueakery",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Leaf Dubois",
         "Coopertom"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/garden-state-fur-the-weekend-2025",
       "address": "Hyatt Regency New Brunswick, 2 Albany Street, New Brunswick, NJ 08901, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-05-02",
       "endDate": "2025-05-04",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "The Pipsqueakery",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "NIIC the Singing Dog",
         "Stargazer Borealis",

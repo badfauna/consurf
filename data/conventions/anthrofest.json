@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmhnwt2740000ia94a902f2d0",
   "slug": "anthrofest",
   "name": "Anthrofest",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "CAN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://en.wikifur.com/wiki/Anthrofest",
   "url": "https://consurf.net/conventions/anthrofest",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthrofest-2006",
       "address": "Montreal, QC, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2006-08-11",
       "endDate": "2006-08-13",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Firestorm Six",
         "Noble Wolf"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/anthrofest-2007",
       "address": "Montreal, QC, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-07-27",
       "endDate": "2007-07-29",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Palladinthug",
         "Furbo"

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmho1az6r000bia94r8bpff4z",
   "slug": "f3con",
   "name": "F3 Convention",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://en.wikifur.com/wiki/F3_Convention",
   "url": "https://consurf.net/conventions/f3con",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/f3con-2012",
       "address": "Springfield, MO, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-12-14",
       "endDate": "2012-12-16",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 348,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Calamity Cougar",
         "Oki Doki Coyote",
@@ -48,6 +52,7 @@
       "url": "https://consurf.net/f3con-2013",
       "address": "Branson, MO, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-12-13",
       "endDate": "2013-12-16",
@@ -57,6 +62,7 @@
       "vendorCount": null,
       "charityRaised": 1021.75,
       "charityName": "National Tiger Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Bucktown Tiger"
       ],
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/f3con-2014",
       "address": "Springfield, MO, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-11-20",
       "endDate": "2014-11-23",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "OzFoxes",
         "Telephone"

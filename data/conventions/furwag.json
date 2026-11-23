@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006oiae0rt51qhoq",
   "slug": "furwag",
   "name": "FurWAG",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "AUS",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/furwag",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furwag-2013",
       "address": "Rendezvous Studio Hotel, Perth WA 6000, Australia",
       "country": "AUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-10-04",
       "endDate": "2013-10-06",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 4800,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Paul Kidd"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/furwag-2014",
       "address": "ibis Styles Perth, Northbridge, Western Australia, Australia",
       "country": "AUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-10-03",
       "endDate": "2014-10-05",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": 5000,
       "charityName": "Painted Dog Conservation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Amadhia Albee",
         "Blü"
@@ -71,6 +77,7 @@
       "url": "https://consurf.net/furwag-2015",
       "address": "ibis Styles Perth, Northbridge, Western Australia, Australia",
       "country": "AUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-10-02",
       "endDate": "2015-10-04",
@@ -80,6 +87,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Muttasaur"
       ],
@@ -95,6 +103,7 @@
       "url": "https://consurf.net/furwag-2016",
       "address": "ibis Styles Perth, Northbridge, Western Australia, Australia",
       "country": "AUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-09-30",
       "endDate": "2016-10-02",
@@ -104,6 +113,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Silverfox5213"
       ],

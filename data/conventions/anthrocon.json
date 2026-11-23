@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgh002aiae0m35n1n90",
   "slug": "anthrocon",
   "name": "Anthrocon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": "https://www.anthrocon.org/standards-of-conduct/",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://anthrocon.org",
   "url": "https://consurf.net/conventions/anthrocon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthrocon-1997",
       "address": "Albany, NY, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "1997-07-04",
       "endDate": "1997-07-06",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 2200,
       "charityName": "Therapy Dogs",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Daphne Lage",
         "Watts Martin"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/anthrocon-1998",
       "address": "Albany, NY, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "1998-07-03",
       "endDate": "1998-07-05",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": 3092,
       "charityName": "Whiskers",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jeffrey A. Carver",
         "Jim Groat"
@@ -74,6 +80,7 @@
       "url": "https://consurf.net/anthrocon-1999",
       "address": "Doubletree By Hilton Philadelphia - Valley Forge, King of Prussia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "1999-07-02",
       "endDate": "1999-07-04",
@@ -83,6 +90,7 @@
       "vendorCount": null,
       "charityRaised": 3600,
       "charityName": "Great Valley Nature Center",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "S. Andrew Swann",
         "Vicky Wyman"
@@ -101,6 +109,7 @@
       "url": "https://consurf.net/anthrocon-2000",
       "address": "Doubletree By Hilton Philadelphia - Valley Forge, King of Prussia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2000-06-30",
       "endDate": "2000-07-02",
@@ -110,6 +119,7 @@
       "vendorCount": null,
       "charityRaised": 6534,
       "charityName": "National Greyhound Adoption Program",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Caribou",
         "Paul Kidd"
@@ -128,6 +138,7 @@
       "url": "https://consurf.net/anthrocon-2001",
       "address": "Philadelphia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2001-07-27",
       "endDate": "2001-07-29",
@@ -137,6 +148,7 @@
       "vendorCount": null,
       "charityRaised": 7273,
       "charityName": "Reins of Life",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Dan DeCarlo",
         "Bill Holbrook"
@@ -155,6 +167,7 @@
       "url": "https://consurf.net/anthrocon-2002",
       "address": "Philadelphia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2002-07-11",
       "endDate": "2002-07-14",
@@ -164,6 +177,7 @@
       "vendorCount": null,
       "charityRaised": 13280,
       "charityName": "Canine Partners for Life",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Heather Bruton",
         "Lisanne Norman"
@@ -182,6 +196,7 @@
       "url": "https://consurf.net/anthrocon-2003",
       "address": "Philadelphia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2003-07-17",
       "endDate": "2003-07-20",
@@ -191,6 +206,7 @@
       "vendorCount": null,
       "charityRaised": 8348,
       "charityName": "Support Our Shelters",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Guy Gilchrist",
         "Mark E. Rogers"
@@ -209,6 +225,7 @@
       "url": "https://consurf.net/anthrocon-2004",
       "address": "Philadelphia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2004-07-08",
       "endDate": "2004-07-11",
@@ -218,6 +235,7 @@
       "vendorCount": null,
       "charityRaised": 7200,
       "charityName": "Forgotten Felines & Fidos",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Michel Gagné",
         "Stan Sakai"
@@ -236,6 +254,7 @@
       "url": "https://consurf.net/anthrocon-2005",
       "address": "Philadelphia, PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2005-07-07",
       "endDate": "2005-07-10",
@@ -245,6 +264,7 @@
       "vendorCount": null,
       "charityRaised": 6470,
       "charityName": "Greater Philadelphia Search and Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Peter Laird",
         "Timothy Albee"
@@ -263,6 +283,7 @@
       "url": "https://consurf.net/anthrocon-2006",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2006-06-15",
       "endDate": "2006-06-18",
@@ -272,6 +293,7 @@
       "vendorCount": null,
       "charityRaised": 8407,
       "charityName": "Western Pennsylvania National Wild Animal Orphanage",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Diane Duane",
         "Scott Shaw!",
@@ -291,6 +313,7 @@
       "url": "https://consurf.net/anthrocon-2007",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-07-05",
       "endDate": "2007-07-08",
@@ -300,6 +323,7 @@
       "vendorCount": null,
       "charityRaised": 7608,
       "charityName": "Animal Friends",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Mark Evanier",
         "Carolyn Kelly",
@@ -319,6 +343,7 @@
       "url": "https://consurf.net/anthrocon-2008",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2008-06-26",
       "endDate": "2008-06-29",
@@ -328,6 +353,7 @@
       "vendorCount": null,
       "charityRaised": 13154,
       "charityName": "Pittsburgh Parrot Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Floyd Norman"
       ],
@@ -345,6 +371,7 @@
       "url": "https://consurf.net/anthrocon-2009",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2009-07-02",
       "endDate": "2009-07-05",
@@ -354,6 +381,7 @@
       "vendorCount": null,
       "charityRaised": 8992,
       "charityName": "Animal Rescue League Wildlife Rehabilitation Center",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ben Balistreri",
         "Joe Harris",
@@ -373,6 +401,7 @@
       "url": "https://consurf.net/anthrocon-2010",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-06-24",
       "endDate": "2010-06-27",
@@ -382,6 +411,7 @@
       "vendorCount": null,
       "charityRaised": 12849,
       "charityName": "Fayette Friends Of Animals",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "James Gurney",
         "Jim Martin"
@@ -400,6 +430,7 @@
       "url": "https://consurf.net/anthrocon-2011",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-06-23",
       "endDate": "2011-06-26",
@@ -409,6 +440,7 @@
       "vendorCount": null,
       "charityRaised": 11522,
       "charityName": "ToonSeum: Pittsburgh Museum of Cartoon Art",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Andy Runton",
         "Peter S. Beagle"
@@ -427,6 +459,7 @@
       "url": "https://consurf.net/anthrocon-2012",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-06-14",
       "endDate": "2012-06-17",
@@ -436,6 +469,7 @@
       "vendorCount": null,
       "charityRaised": 20656,
       "charityName": "Hello Bully",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Dev Madan",
         "Mike Kazaleh",
@@ -455,6 +489,7 @@
       "url": "https://consurf.net/anthrocon-2013",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-07-04",
       "endDate": "2013-07-07",
@@ -464,6 +499,7 @@
       "vendorCount": null,
       "charityRaised": 31255,
       "charityName": "Equine Angels Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Larry Dixon",
         "Mercedes Lackey",
@@ -484,6 +520,7 @@
       "url": "https://consurf.net/anthrocon-2014",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-07-03",
       "endDate": "2014-07-06",
@@ -493,6 +530,7 @@
       "vendorCount": null,
       "charityRaised": 32372,
       "charityName": "The National Aviary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jim Cummings",
         "Lee Tockar"
@@ -511,6 +549,7 @@
       "url": "https://consurf.net/anthrocon-2015",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-07-09",
       "endDate": "2015-07-12",
@@ -520,6 +559,7 @@
       "vendorCount": null,
       "charityRaised": 35910,
       "charityName": "Western Pennsylvania Humane Society",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kimlinh Tran",
         "The San Diego Chicken"
@@ -538,6 +578,7 @@
       "url": "https://consurf.net/anthrocon-2016",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-06-30",
       "endDate": "2016-07-03",
@@ -547,6 +588,7 @@
       "vendorCount": null,
       "charityRaised": 32579,
       "charityName": "Pittsburgh Zoo & PPG Aquarium",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Joaquin Baldwin",
         "Trevor Devall",
@@ -566,6 +608,7 @@
       "url": "https://consurf.net/anthrocon-2017",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-06-29",
       "endDate": "2017-07-02",
@@ -575,6 +618,7 @@
       "vendorCount": null,
       "charityRaised": 37598,
       "charityName": "Hope Haven Farm Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Charlie Adler"
       ],
@@ -592,6 +636,7 @@
       "url": "https://consurf.net/anthrocon-2018",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-07-05",
       "endDate": "2018-07-08",
@@ -601,6 +646,7 @@
       "vendorCount": null,
       "charityRaised": 42051,
       "charityName": "South Hills Pet Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Len Simon",
         "Ursula Vernon"
@@ -619,6 +665,7 @@
       "url": "https://consurf.net/anthrocon-2019",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-07-04",
       "endDate": "2019-07-07",
@@ -628,6 +675,7 @@
       "vendorCount": null,
       "charityRaised": 45852,
       "charityName": "PEARL Parrot Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Benjamin Diskin",
         "Steve Gallacci",
@@ -647,6 +695,7 @@
       "url": "https://consurf.net/anthrocon-2020",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2020-07-02",
       "endDate": "2020-07-05",
@@ -656,6 +705,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2020"
@@ -671,6 +721,7 @@
       "url": "https://consurf.net/anthrocon-2021",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2021-07-01",
       "endDate": "2021-07-04",
@@ -680,6 +731,7 @@
       "vendorCount": null,
       "charityRaised": 20000,
       "charityName": "Wildlife Works, Inc.",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2021"
@@ -695,6 +747,7 @@
       "url": "https://consurf.net/anthrocon-2022",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-06-30",
       "endDate": "2022-07-03",
@@ -704,6 +757,7 @@
       "vendorCount": null,
       "charityRaised": 41553,
       "charityName": "Wildlife Works Inc",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "SueDeer",
         "Kékéflipnote"
@@ -722,6 +776,7 @@
       "url": "https://consurf.net/anthrocon-2023",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-06-29",
       "endDate": "2023-07-02",
@@ -731,6 +786,7 @@
       "vendorCount": null,
       "charityRaised": 52000,
       "charityName": "Rabbit Wranglers",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "City of Pittsburgh"
       ],
@@ -748,6 +804,7 @@
       "url": "https://consurf.net/anthrocon-2024",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-04",
       "endDate": "2024-07-07",
@@ -757,6 +814,7 @@
       "vendorCount": null,
       "charityRaised": 100000,
       "charityName": "Gray Paws Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2024"
@@ -772,6 +830,7 @@
       "url": "https://consurf.net/anthrocon-2025",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-07-03",
       "endDate": "2025-07-06",
@@ -781,6 +840,7 @@
       "vendorCount": null,
       "charityRaised": 87267,
       "charityName": "Nose 2 Tail Cat Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2025"
@@ -796,6 +856,7 @@
       "url": "https://consurf.net/anthrocon-2026",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-02",
       "endDate": "2026-07-05",
@@ -805,6 +866,7 @@
       "vendorCount": 0,
       "charityRaised": 86000,
       "charityName": "J & J Farms Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2026"
@@ -857,6 +919,7 @@
       "url": "https://consurf.net/anthrocon-2027",
       "address": "David L. Lawrence Convention Center, 1000 Fort Duquesne Boulevard, Pittsburgh, PA 15222, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-07-01",
       "endDate": "2027-07-04",
@@ -866,6 +929,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/Anthrocon_2027",

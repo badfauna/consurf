@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006ziae01r4ts3l0",
   "slug": "ibercon",
   "name": "Ibercon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": "https://ibercon.org/policies/legal",
   "hostCountry": "ESP",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://ibercon.org",
   "url": "https://consurf.net/conventions/ibercon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/ibercon-2025",
       "address": "Rafaelhoteles Atocha, Calle de Méndez Álvaro, 30, 28045 Madrid, Spain",
       "country": "ESP",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-05-01",
       "endDate": "2025-05-04",
@@ -31,11 +34,31 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "La Gatoteca",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
       "venues": [],
-      "prices": []
+      "prices": [
+        {
+          "priceType": "Bronze-Paw",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold-Paw",
+          "amount": 180,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver-Paw",
+          "amount": 120,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
     },
     {
       "id": "cmhpe4z3j01apian0r7mezbh8",
@@ -44,6 +67,7 @@
       "url": "https://consurf.net/ibercon-2026",
       "address": "Novotel Madrid Center, Calle de O'Donnell, 53, 28009 Madrid, Spain",
       "country": "ESP",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-04-30",
       "endDate": "2026-05-03",
@@ -53,6 +77,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Cruz Roja Española",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Max Fluffy"
       ],
@@ -66,7 +91,26 @@
           "isMain": true
         }
       ],
-      "prices": []
+      "prices": [
+        {
+          "priceType": "Bronze",
+          "amount": 150,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold",
+          "amount": 225,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 175,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
     },
     {
       "id": "cmvo84o350008k601wuhp5fo7",
@@ -75,6 +119,7 @@
       "url": "https://consurf.net/ibercon-2027",
       "address": "Hotel Occidental Aranjuez, Plaza de la Unesco, 2, 28300 Aranjuez, Spain",
       "country": "ESP",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-06-17",
       "endDate": "2027-06-20",
@@ -84,11 +129,31 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-10-25T19:31:45.520Z",
       "venues": [],
-      "prices": []
+      "prices": [
+        {
+          "priceType": "Bronze",
+          "amount": 150,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Gold",
+          "amount": 225,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Silver",
+          "amount": 175,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgm005qiae04kta9tyl",
   "slug": "free-fur-all",
   "name": "Free Fur All",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/free-fur-all",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/free-fur-all-2022",
       "address": "Glenpool, OK, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-07-29",
       "endDate": "2022-07-31",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "2",
         "The Ranting Gryphon"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/free-fur-all-2023",
       "address": "Glenpool, OK, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-07-28",
       "endDate": "2023-07-30",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Lady Safaris' Zoo",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jasonafex",
         "Kabier"
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/free-fur-all-2024",
       "address": "Glenpool, OK, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2024-07-26",
       "endDate": "2024-07-28",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",

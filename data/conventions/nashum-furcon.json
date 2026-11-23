@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgp007iiae0ookla8r4",
   "slug": "nashum-furcon",
   "name": "Nashum FurCon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": "https://www.nashumfurcon.org/attendee-policy",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://nashumfurcon.org",
   "url": "https://consurf.net/conventions/nashum-furcon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/nashum-furcon-2026",
       "address": "Nashville, TN, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-05-22",
       "endDate": "2026-05-24",
@@ -31,6 +34,7 @@
       "vendorCount": 24,
       "charityRaised": 4000,
       "charityName": "Harmony Wildlife",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ash",
         "Aspen",

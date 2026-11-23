@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmge000qiae0cnx63myt",
   "slug": "argentina-furfiesta",
   "name": "Argentina FurFiesta",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/furfiesta",
   "codeOfConduct": "https://furfiesta.com/rules",
   "hostCountry": "ARG",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://furfiesta.com",
   "url": "https://consurf.net/conventions/argentina-furfiesta",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2019",
       "address": "Castelar, B, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-06-28",
       "endDate": "2019-06-30",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 80647,
       "charityName": "Bocalan Argentina",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Fox Amoore"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2021",
       "address": "Virtual",
       "country": "ARG",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2019-11-06",
       "endDate": "2019-11-07",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": 252703,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Negy",
         "Peritian"
@@ -71,6 +77,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2020",
       "address": "Castelar, B, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-09-25",
       "endDate": "2020-09-27",
@@ -80,6 +87,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -93,6 +101,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2022",
       "address": "Abasto Plaza Hotel, Avenida Corrientes, Balvanera, C1193 AAD Buenos Aires, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-08-12",
       "endDate": "2022-08-14",
@@ -102,6 +111,7 @@
       "vendorCount": null,
       "charityRaised": 1108840,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Alibi",
         "Zue"
@@ -118,6 +128,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2023",
       "address": "Abasto Plaza Hotel, Avenida Corrientes, Balvanera, C1193 AAD Buenos Aires, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-08-25",
       "endDate": "2023-08-28",
@@ -127,6 +138,7 @@
       "vendorCount": null,
       "charityRaised": 2141691,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Garoline"
       ],
@@ -142,6 +154,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2024",
       "address": "Abasto Plaza Hotel, Avenida Corrientes, Balvanera, C1193 AAD Buenos Aires, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-08-16",
       "endDate": "2024-08-18",
@@ -151,6 +164,7 @@
       "vendorCount": null,
       "charityRaised": 5078452,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CoddyBarks"
       ],
@@ -166,6 +180,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2025",
       "address": "Abasto Plaza Hotel, Avenida Corrientes, Balvanera, C1193 AAD Buenos Aires, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-06-20",
       "endDate": "2025-06-22",
@@ -175,6 +190,7 @@
       "vendorCount": null,
       "charityRaised": 7291502.25,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Chamaquense",
         "Fox Amoore"
@@ -191,6 +207,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2026",
       "address": "Sheraton Buenos Aires Hotel and Convention Center, Villa Crespo, Buenos Aires, Comuna 15, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-06-19",
       "endDate": "2026-06-21",
@@ -200,6 +217,7 @@
       "vendorCount": 0,
       "charityRaised": 12042592,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "ElMichi",
         "Velow"
@@ -216,6 +234,7 @@
       "url": "https://consurf.net/argentina-furfiesta-2027",
       "address": "Sheraton Buenos Aires Hotel and Convention Center, Villa Crespo, Buenos Aires, Comuna 15, Argentina",
       "country": "ARG",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-06-25",
       "endDate": "2027-06-27",
@@ -225,6 +244,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-09-23T15:52:25.965Z",

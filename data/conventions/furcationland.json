@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgj003oiae04ydj6v7n",
   "slug": "furcationland",
   "name": "Furcationland",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": "https://furcationland.org/policies/conduct",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://furcationland.com",
   "url": "https://consurf.net/conventions/furcationland",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furcationland-2023",
       "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-04-14",
       "endDate": "2023-04-16",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 7135.77,
       "charityName": "Short Folks For Hope Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Lagoona",
         "Barton Fox"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/furcationland-2024",
       "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-04-12",
       "endDate": "2024-04-14",
@@ -56,6 +61,7 @@
       "vendorCount": 0,
       "charityRaised": 9609.58,
       "charityName": "Short Folks For Hope Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Fleur",
         "Chise"
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/furcationland-2025",
       "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-04-10",
       "endDate": "2025-04-13",
@@ -81,6 +88,7 @@
       "vendorCount": 0,
       "charityRaised": 11097.81,
       "charityName": "Short Folks For Hope Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "PrismPaws",
         "Gojii"
@@ -97,6 +105,7 @@
       "url": "https://consurf.net/furcationland-2026",
       "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-04-09",
       "endDate": "2026-04-12",
@@ -106,6 +115,7 @@
       "vendorCount": 0,
       "charityRaised": 10584.81,
       "charityName": "Short Folks For Hope Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Bird Warde",
         "Bearic"
@@ -159,6 +169,7 @@
       "url": "https://consurf.net/furcationland-2027",
       "address": "Holiday Inn Portland By The Bay, 88 Spring Street, Portland, ME 04101, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-04-08",
       "endDate": "2027-04-11",
@@ -168,6 +179,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-07-07T14:46:00.052Z",

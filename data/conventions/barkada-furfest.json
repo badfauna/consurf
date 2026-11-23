@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgl0050iae0wakidsar",
   "slug": "barkada-furfest",
   "name": "Barkada Furfest",
@@ -10,6 +10,8 @@
   "moreInformation": "https://x.com/BarkadaCon",
   "codeOfConduct": "https://barkadafurfest.ph/terms",
   "hostCountry": "PHL",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://barkadafurfest.ph/",
   "url": "https://consurf.net/conventions/barkada-furfest",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/barkada-furfest-2025",
       "address": "Sequoia Hotel, 91-93 Mother Ignacia Avenue, Quezon City, 1103 Metro Manila, Philippines",
       "country": "PHL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-09-06",
       "endDate": "2025-09-07",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Gintan",
         "steviefeesh"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/barkada-furfest-2026",
       "address": "Sequoia Hotel, 91-93 Mother Ignacia Avenue, Quezon City, 1103 Metro Manila, Philippines",
       "country": "PHL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-09-05",
       "endDate": "2026-09-06",
@@ -56,6 +61,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "ABConservation Foundation Inc",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Koku Boku Boo",
         "Sorami"

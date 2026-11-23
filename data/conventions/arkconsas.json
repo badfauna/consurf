@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgl004yiae0mc8yeb2p",
   "slug": "arkconsas",
   "name": "ArkConsas",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/arkconsas",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/arkconsas-2017",
       "address": "Embassy Suites by Hilton Little Rock, 11301 Financial Centre Parkway, Little Rock, AR 72211, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-01-05",
       "endDate": "2017-01-09",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ryngs D. Ratt",
         "Bucktown Tiger"

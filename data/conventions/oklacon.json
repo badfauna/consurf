@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgp007piae0f605gk6i",
   "slug": "oklacon",
   "name": "Oklacon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/oklacon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/oklacon-2003",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2003-10-31",
       "endDate": "2003-11-02",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Bucky Boy",
         "Nexxus"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/oklacon-2004",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2004-10-29",
       "endDate": "2004-10-31",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "2",
         "DBruin",
@@ -73,6 +79,7 @@
       "url": "https://consurf.net/oklacon-2005",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2005-10-27",
       "endDate": "2005-10-30",
@@ -82,6 +89,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jakebe",
         "Wolf Heart"
@@ -98,6 +106,7 @@
       "url": "https://consurf.net/oklacon-2006",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2006-10-27",
       "endDate": "2006-10-29",
@@ -107,6 +116,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Goldenwolf",
         "Lightfoot Kyohti"
@@ -123,6 +133,7 @@
       "url": "https://consurf.net/oklacon-2007",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2007-10-25",
       "endDate": "2007-10-29",
@@ -132,6 +143,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Blotch",
         "EbonyTigress"
@@ -148,6 +160,7 @@
       "url": "https://consurf.net/oklacon-2008",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2008-10-23",
       "endDate": "2008-10-27",
@@ -157,6 +170,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jeff Goode"
       ],
@@ -172,6 +186,7 @@
       "url": "https://consurf.net/oklacon-2009",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2009-10-22",
       "endDate": "2009-10-26",
@@ -181,6 +196,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Stephanie de la Loba Negra",
         "Ringtail Cafe"
@@ -197,6 +213,7 @@
       "url": "https://consurf.net/oklacon-2010",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2010-10-27",
       "endDate": "2010-11-01",
@@ -206,6 +223,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Balto",
         "KnotCast"
@@ -222,6 +240,7 @@
       "url": "https://consurf.net/oklacon-2011",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2011-10-19",
       "endDate": "2011-10-24",
@@ -231,6 +250,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Myenia",
         "Bucktown Tiger"
@@ -247,6 +267,7 @@
       "url": "https://consurf.net/oklacon-2012",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-10-17",
       "endDate": "2012-10-22",
@@ -256,6 +277,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Safari's Interactive Animal Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ugly Little Monster",
         "Kyell Gold"
@@ -272,6 +294,7 @@
       "url": "https://consurf.net/oklacon-2014",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-10-23",
       "endDate": "2014-10-27",
@@ -281,6 +304,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "WildCare Foundation of Oklahoma",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kimzie",
         "Laken Steeljaw"
@@ -297,6 +321,7 @@
       "url": "https://consurf.net/oklacon-2015",
       "address": "Roman Nose State Park, 3236, Watonga, OK 73772, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2015-10-29",
       "endDate": "2015-11-01",
@@ -306,6 +331,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",

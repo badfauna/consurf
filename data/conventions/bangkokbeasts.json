@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmlegmaee001xlx01x7i2x6ak",
   "slug": "bangkokbeasts",
   "name": "BangkokBeasts",
@@ -10,10 +10,12 @@
   "moreInformation": "https://t.me/BKBAnnouncement",
   "codeOfConduct": null,
   "hostCountry": "THA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://bangkokbeasts.com/",
   "url": "https://consurf.net/conventions/bangkokbeasts",
-  "lastModified": "2026-11-01T17:20:25.860Z",
+  "lastModified": "2026-11-20T15:57:08.067Z",
   "events": [
     {
       "id": "cmlegx6ke0027lx01l9u08fdf",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/bangkokbeasts-2023",
       "address": "Bangkok Art and Culture Centre, 939, Rama I Road, Pathum Wan District, 10330, Thailand",
       "country": "THA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-11-11",
       "endDate": "2023-11-11",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 5200,
       "charityName": "Wildlife of Thailand",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Betsuto"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/bangkokbeasts-2024",
       "address": "Huai Khwang District, 10310, Thailand",
       "country": "THA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-11-10",
       "endDate": "2024-11-10",
@@ -55,6 +60,7 @@
       "vendorCount": 0,
       "charityRaised": 26080,
       "charityName": "Wildlife of Thailand",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "CheetahPaws"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/bangkokbeasts-2025",
       "address": "Embassy of Luxembourg, 1, Sathon Tai Road, Sathon District, BM 10120, Thailand",
       "country": "THA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-11-15",
       "endDate": "2025-11-15",
@@ -79,6 +86,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-02-09T00:59:52.383Z",
@@ -92,20 +100,53 @@
       "url": "https://consurf.net/bangkokbeasts-2026",
       "address": "Embassy of Luxembourg, 1, Sathon Tai Road, Sathon District, BM 10120, Thailand",
       "country": "THA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-11-14",
       "endDate": "2026-11-15",
       "timezone": "Asia/Jakarta",
-      "attendeeCount": null,
-      "fursuiterCount": null,
-      "vendorCount": null,
-      "charityRaised": null,
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-02-09T00:58:03.404Z",
       "venues": [],
-      "prices": []
+      "prices": [
+        {
+          "priceType": "Attendee",
+          "amount": 850,
+          "currency": "THB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Day Pass",
+          "amount": 290,
+          "currency": "THB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Sponsor",
+          "amount": 3390,
+          "currency": "THB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Attendee",
+          "amount": 1590,
+          "currency": "THB",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 6990,
+          "currency": "THB",
+          "rateCutoff": null
+        }
+      ]
     }
   ]
 }

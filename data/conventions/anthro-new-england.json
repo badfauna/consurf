@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgj003ziae0welqtjno",
   "slug": "anthro-new-england",
   "name": "Anthro New England",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/OfficialANE",
   "codeOfConduct": "https://www.anthronewengland.com/policies/#coc",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://anthronewengland.com",
   "url": "https://consurf.net/conventions/anthro-new-england",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthro-new-england-2015",
       "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-02-27",
       "endDate": "2015-03-01",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 10000,
       "charityName": "Massachusetts Vest-A-Dog",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Vallhund",
         "Fivel"
@@ -54,6 +58,7 @@
       "url": "https://consurf.net/anthro-new-england-2016",
       "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-01-21",
       "endDate": "2016-01-24",
@@ -63,6 +68,7 @@
       "vendorCount": 0,
       "charityRaised": 11000,
       "charityName": "Massachusetts Vest-A-Dog",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kittiara",
         "Jennifer Rodriguez"
@@ -86,6 +92,7 @@
       "url": "https://consurf.net/anthro-new-england-2017",
       "address": "Hyatt Regency Boston / Cambridge, 575 Memorial Drive, Cambridge, MA 02139, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-01-19",
       "endDate": "2017-01-22",
@@ -95,6 +102,7 @@
       "vendorCount": null,
       "charityRaised": 15000,
       "charityName": "Massachusetts Vest-A-Dog",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Wintersnowolf",
         "Riley"
@@ -118,6 +126,7 @@
       "url": "https://consurf.net/anthro-new-england-2018",
       "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-02-23",
       "endDate": "2018-02-25",
@@ -127,6 +136,7 @@
       "vendorCount": null,
       "charityRaised": 21000,
       "charityName": "Massachusetts Vest-A-Dog",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Rabbit Valley Comics",
         "NowAndLater"
@@ -150,6 +160,7 @@
       "url": "https://consurf.net/anthro-new-england-2019",
       "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-02-21",
       "endDate": "2019-02-24",
@@ -159,6 +170,7 @@
       "vendorCount": null,
       "charityRaised": 22500,
       "charityName": "Massachusetts Vest-A-Dog",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Meesh",
         "Enro the Mutt"
@@ -182,6 +194,7 @@
       "url": "https://consurf.net/anthro-new-england-2020",
       "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2020-02-20",
       "endDate": "2020-02-23",
@@ -191,6 +204,7 @@
       "vendorCount": null,
       "charityRaised": 25700,
       "charityName": "NEADS World Class Service Dogs, Massachusetts ALS Society",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BooBun",
         "Pulex"
@@ -214,6 +228,7 @@
       "url": "https://consurf.net/anthro-new-england-2021",
       "address": "Online Event",
       "country": "USA",
+      "category": "MOVED_ONLINE",
       "isCancelled": false,
       "startDate": "2021-02-19",
       "endDate": "2021-02-21",
@@ -223,6 +238,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -236,6 +252,7 @@
       "url": "https://consurf.net/anthro-new-england-2022",
       "address": "Hilton Boston Park Plaza, 50 Park Plaza, Boston, MA 02116, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-02-17",
       "endDate": "2022-02-20",
@@ -245,6 +262,7 @@
       "vendorCount": 0,
       "charityRaised": 27500,
       "charityName": "NEADS World Class Service Dogs, Youth on Fire",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Steve Domanski",
         "Andrew French",
@@ -271,6 +289,7 @@
       "url": "https://consurf.net/anthro-new-england-2023",
       "address": "Boston, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-01-20",
       "endDate": "2023-01-22",
@@ -280,6 +299,7 @@
       "vendorCount": null,
       "charityRaised": 21000,
       "charityName": "NEADS World Class Service Dogs, Youth on Fire",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Braeburned",
         "Tanya Song",
@@ -304,6 +324,7 @@
       "url": "https://consurf.net/anthro-new-england-2024",
       "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-01-18",
       "endDate": "2024-01-21",
@@ -313,6 +334,7 @@
       "vendorCount": 0,
       "charityRaised": 30000,
       "charityName": "Youth on Fire, WINGS Wildlife",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "DJ Woozie",
         "Declan Mouse",
@@ -349,6 +371,7 @@
       "url": "https://consurf.net/anthro-new-england-2025",
       "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-01-16",
       "endDate": "2025-01-19",
@@ -358,6 +381,7 @@
       "vendorCount": 0,
       "charityRaised": 40000,
       "charityName": "Queer Scouts, WINGS Wildlife",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Jaystor",
         "NONSTOPPUP",
@@ -394,6 +418,7 @@
       "url": "https://consurf.net/anthro-new-england-2026",
       "address": "The Westin Boston Seaport District, Boston, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-01-15",
       "endDate": "2026-01-18",
@@ -403,6 +428,7 @@
       "vendorCount": 0,
       "charityRaised": 50000,
       "charityName": "Queer Scouts, WINGS Wildlife",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "The Stupendium",
         "RitoBandito",
@@ -451,6 +477,7 @@
       "url": "https://consurf.net/anthro-new-england-2027",
       "address": "The Westin Boston Seaport District, 425 Summer St, Boston, MA 02210, United States",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-01-14",
       "endDate": "2027-01-17",
@@ -460,6 +487,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Queer Scouts, Connecticut Draft Horse Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "SnackPony",
         "PrismPaws",

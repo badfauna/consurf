@@ -1,0 +1,92 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
+  "schemaVersion": 3,
+  "id": "cmwsechmn006hnc01po7djrfx",
+  "slug": "wildout",
+  "name": "WildOut",
+  "shortName": "WO",
+  "description": "A new project for furry events in Italy!\r\nFollow us for news and updates!",
+  "blueskyHandle": "wildoutcon.bsky.social",
+  "moreInformation": "https://t.me/WildOutCON_announcements",
+  "codeOfConduct": "https://wildout.eu/static/uploads/documents/1776897643_Codice_di_condotta_-WildOut.pdf",
+  "hostCountry": "ITA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
+  "minAge": 18,
+  "website": "https://wildout.eu",
+  "url": "https://consurf.net/conventions/wildout",
+  "lastModified": "2026-11-22T23:00:15.322Z",
+  "events": [
+    {
+      "id": "cmwsfiebm0071nc01flw3qocv",
+      "slug": "wildout-2026",
+      "name": "WildOut",
+      "url": "https://consurf.net/wildout-2026",
+      "address": "Via Ponte Nuovo, 42, Pieve di Cento, Bologna, Emilia-Romagna 40066, Italy",
+      "country": "ITA",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-25",
+      "timezone": "Europe/Rome",
+      "attendeeCount": 83,
+      "fursuiterCount": 46,
+      "vendorCount": 5,
+      "charityRaised": 0,
+      "charityName": null,
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://wildout.eu/en/events/2026/back2fun"
+      ],
+      "createdAt": "2026-11-22T22:49:10.403Z",
+      "venues": [],
+      "prices": []
+    },
+    {
+      "id": "cmwseevk9006jnc014hzayy8k",
+      "slug": "wildout-2027",
+      "name": "WildOut",
+      "url": "https://consurf.net/wildout-2027",
+      "address": "Via Ponte Nuovo, 42, Pieve di Cento, Bologna, Emilia-Romagna 40066",
+      "country": "ITA",
+      "category": "ON_SITE",
+      "isCancelled": false,
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-25",
+      "timezone": "Europe/Rome",
+      "attendeeCount": 0,
+      "fursuiterCount": 0,
+      "vendorCount": 0,
+      "charityRaised": 0,
+      "charityName": "Fuori le Zampe ODV",
+      "onlinePlatforms": [],
+      "guestsOfHonor": [],
+      "sources": [
+        "https://wildout.eu/en/events/2027/wild-in-the-woods"
+      ],
+      "createdAt": "2026-11-22T22:18:26.506Z",
+      "venues": [],
+      "prices": [
+        {
+          "priceType": "Sponsor",
+          "amount": 90,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Standard",
+          "amount": 60,
+          "currency": "EUR",
+          "rateCutoff": null
+        },
+        {
+          "priceType": "Super Sponsor",
+          "amount": 140,
+          "currency": "EUR",
+          "rateCutoff": null
+        }
+      ]
+    }
+  ]
+}

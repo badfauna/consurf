@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgg001oiae02lqtjsvx",
   "slug": "japan-meeting-of-furries",
   "name": "Japan Meeting of Furries",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/jmof_official",
   "codeOfConduct": "https://www.jmof.jp/en/participation-policy",
   "hostCountry": "JPN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://www.jmof.jp/",
   "url": "https://consurf.net/conventions/japan-meeting-of-furries",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2013",
       "address": "Hotel Sunroute Hikone, Sawayama Dori, Hikone, Hikone, 522-0074, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-01-12",
       "endDate": "2013-01-14",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2014",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-01-11",
       "endDate": "2014-01-12",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Yuko Asami"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2015",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-01-10",
       "endDate": "2015-01-11",
@@ -77,6 +84,7 @@
       "vendorCount": null,
       "charityRaised": 262950,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Akira Himekawa"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2016",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-01-08",
       "endDate": "2016-01-10",
@@ -101,6 +110,7 @@
       "vendorCount": null,
       "charityRaised": 418600,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -114,6 +124,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2017",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-01-06",
       "endDate": "2017-01-08",
@@ -123,6 +134,7 @@
       "vendorCount": null,
       "charityRaised": 732050,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Hiroshi Matsuyama"
       ],
@@ -138,6 +150,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2018",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-01-05",
       "endDate": "2018-01-07",
@@ -147,6 +160,7 @@
       "vendorCount": null,
       "charityRaised": 1025050,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Latin Vixen"
       ],
@@ -162,6 +176,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2019",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-01-11",
       "endDate": "2019-01-13",
@@ -171,6 +186,7 @@
       "vendorCount": null,
       "charityRaised": 1571700,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Camellia"
       ],
@@ -186,6 +202,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2020",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2020-01-10",
       "endDate": "2020-01-12",
@@ -195,6 +212,7 @@
       "vendorCount": null,
       "charityRaised": 1383400,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Uncle Kage"
       ],
@@ -210,6 +228,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2021",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2021-01-07",
       "endDate": "2021-01-10",
@@ -219,6 +238,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -232,6 +252,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2022",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-01-08",
       "endDate": "2022-01-09",
@@ -241,6 +262,7 @@
       "vendorCount": null,
       "charityRaised": 1928716,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -254,6 +276,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2023",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-01-05",
       "endDate": "2023-01-08",
@@ -263,6 +286,7 @@
       "vendorCount": null,
       "charityRaised": 2206750,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Horimon"
       ],
@@ -278,6 +302,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2024",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-01-05",
       "endDate": "2024-01-07",
@@ -287,6 +312,7 @@
       "vendorCount": null,
       "charityRaised": 3290150,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Murayama Ryōta"
       ],
@@ -302,6 +328,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2025",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-01-10",
       "endDate": "2025-01-12",
@@ -311,6 +338,7 @@
       "vendorCount": null,
       "charityRaised": 3912300,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kappei Yamaguchi"
       ],
@@ -326,6 +354,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2026",
       "address": "Loisir Hotel Toyohashi, 藤沢町, Toyohashi, 441-8061, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-01-09",
       "endDate": "2026-01-11",
@@ -335,6 +364,7 @@
       "vendorCount": 0,
       "charityRaised": 5229650,
       "charityName": "Toyohashi Zoo Botanical Park",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kenji Watanabe"
       ],
@@ -350,6 +380,7 @@
       "url": "https://consurf.net/japan-meeting-of-furries-2027",
       "address": "Aichi Sky Expo / Aichi International Convention & Exhibition Center, Tokoname City, Aichi Prefecture, Japan",
       "country": "JPN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-01-08",
       "endDate": "2027-01-10",
@@ -359,6 +390,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-23T16:42:51.653Z",

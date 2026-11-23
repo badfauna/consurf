@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmp2vqn6h001nlf01cx1lltrb",
   "slug": "maw",
   "name": "Michigan Anthro Weekend",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/MIAnthroWkndChat",
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://michigananthroweekend.com/",
   "url": "https://consurf.net/conventions/maw",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/maw-2026",
       "address": "Sheraton Grand Rapids Airport Hotel, 5700 28th Street Southeast, Grand Rapids, MI 49546, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-01",
       "endDate": "2026-10-04",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Grand Rapids Trans Foundation",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Little Alpha Pup"
       ],

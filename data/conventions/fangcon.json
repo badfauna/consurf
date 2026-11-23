@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgh002diae076ermq7b",
   "slug": "fangcon",
   "name": "Fangcon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://fangcon.com",
   "url": "https://consurf.net/conventions/fangcon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/fangcon-2012",
       "address": "Millennium Maxwell House Hotel Nashville, 2025 Rosa L Parks Boulevard, Nashville, TN 37228, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2012-10-26",
       "endDate": "2012-10-28",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 1700,
       "charityName": "Tiger Haven",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Draconis",
         "Rhubarb the Bear",
@@ -48,6 +52,7 @@
       "url": "https://consurf.net/fangcon-2013",
       "address": "Holiday Inn Knoxville N - Merchant Drive, 5634 Merchants Center Boulevard, Knoxville, TN 37912, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2013-11-01",
       "endDate": "2013-11-03",
@@ -57,6 +62,7 @@
       "vendorCount": null,
       "charityRaised": 1806,
       "charityName": "Tiger Haven",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Kyoht"
       ],
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/fangcon-2014",
       "address": "Holiday Inn Knoxville N - Merchant Drive, 5634 Merchants Center Boulevard, Knoxville, TN 37912, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2014-11-07",
       "endDate": "2014-11-07",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": 3600,
       "charityName": "Tiger Haven",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "GalaxyOwls",
         "The Frozen Oasis"
@@ -97,6 +105,7 @@
       "url": "https://consurf.net/fangcon-2015",
       "address": "Holiday Inn Downtown, Knoxville, TN",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2015-10-30",
       "endDate": "2015-11-01",
@@ -106,6 +115,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Tzologist",
         "Gre7g",
@@ -124,6 +134,7 @@
       "url": "https://consurf.net/fangcon-2016",
       "address": "Hilton Birmingham Perimeter Park, Birmingham, AL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-10-27",
       "endDate": "2016-10-31",
@@ -133,6 +144,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Wolf Pup Wielder",
         "Wildlion"
@@ -149,6 +161,7 @@
       "url": "https://consurf.net/fangcon-2017",
       "address": "Hilton Birmingham Perimeter Park, Birmingham, AL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-10-19",
       "endDate": "2017-10-23",
@@ -158,6 +171,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Corsi Husky",
         "Eddie Bear",
@@ -175,6 +189,7 @@
       "url": "https://consurf.net/fangcon-2019",
       "address": "Birmingham, AL, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-01-09",
       "endDate": "2019-01-13",
@@ -184,6 +199,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "DJ Blondi",
         "Tavi Munk",
@@ -202,6 +218,7 @@
       "url": "https://consurf.net/fangcon-2020",
       "address": "Holiday Inn Birmingham-Airport, 5000 Richard Arrington Jr Boulevard North, Birmingham, AL 35212, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2020-02-05",
       "endDate": "2020-02-10",
@@ -211,6 +228,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Max DeGroot",
         "Exit Mouse",

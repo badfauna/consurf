@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmhnx8rat0002ia947hcess15",
   "slug": "anthro-new-mexico",
   "name": "Anthro New Mexico",
@@ -10,6 +10,8 @@
   "moreInformation": "https://x.com/AnthroNewMexico",
   "codeOfConduct": "https://anthronewmexico.com/con-rules",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://anthronewmexico.com",
   "url": "https://consurf.net/conventions/anthro-new-mexico",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/anthro-new-mexico-2026",
       "address": "Crowne Plaza Hotel, 1901 University Blvd NE, Albuquerque, NM, 87102 USA",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-09-04",
       "endDate": "2026-09-06",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Wild Spirit Wolf Sanctuary",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BGN",
         "JayJay Idingo",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgf0017iae0womhmlt2",
   "slug": "canfurence",
   "name": "CanFURence",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/canfurence",
   "codeOfConduct": "https://canfurence.ca/policies/code-of-conduct",
   "hostCountry": "CAN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://canfurence.ca",
   "url": "https://consurf.net/conventions/canfurence",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/canfurence-2016",
       "address": "Alt Hotel Ottawa, 185 Slater Street, Ottawa, ON K1P 0C8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-11-11",
       "endDate": "2016-11-13",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 5675.3,
       "charityName": "Ottawa Stray Cat Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Heather Bruton"
       ],
@@ -46,6 +50,7 @@
       "url": "https://consurf.net/canfurence-2017",
       "address": "Alt Hotel Ottawa, 185 Slater Street, Ottawa, ON K1P 0C8, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-11-10",
       "endDate": "2017-11-12",
@@ -55,6 +60,7 @@
       "vendorCount": null,
       "charityRaised": 5071,
       "charityName": "Ottawa Stray Cat Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Anyare"
       ],
@@ -70,6 +76,7 @@
       "url": "https://consurf.net/canfurence-2018",
       "address": "Brookstreet Hotel, 525 Legget Drive, Ottawa, ON K2K 3G4, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-03",
       "endDate": "2018-08-05",
@@ -79,6 +86,7 @@
       "vendorCount": null,
       "charityRaised": 10000.61,
       "charityName": "Courageous Companions",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "AirGuiTaR"
       ],
@@ -94,6 +102,7 @@
       "url": "https://consurf.net/canfurence-2019",
       "address": "Brookstreet Hotel, 525 Legget Drive, Ottawa, ON K2K 3G4, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-08-02",
       "endDate": "2019-08-04",
@@ -103,6 +112,7 @@
       "vendorCount": null,
       "charityRaised": 9055.7,
       "charityName": "Courageous Companions",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Betsy Beaver"
       ],
@@ -118,6 +128,7 @@
       "url": "https://consurf.net/canfurence-2020",
       "address": "The Westin Ottawa, 11 Colonel By Drive, Ottawa, ON K1N 9H4, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-07-31",
       "endDate": "2020-08-02",
@@ -127,6 +138,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -140,6 +152,7 @@
       "url": "https://consurf.net/canfurence-2021",
       "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2021-11-12",
       "endDate": "2021-11-14",
@@ -149,6 +162,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "Courageous Companions",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -162,6 +176,7 @@
       "url": "https://consurf.net/canfurence-2022",
       "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-07-29",
       "endDate": "2022-07-31",
@@ -171,6 +186,7 @@
       "vendorCount": null,
       "charityRaised": 11225,
       "charityName": "Ottawa Paw Pantry",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Nicnak",
         "Dodge"
@@ -187,6 +203,7 @@
       "url": "https://consurf.net/canfurence-2023",
       "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-08-04",
       "endDate": "2023-08-06",
@@ -196,6 +213,7 @@
       "vendorCount": null,
       "charityRaised": 11638.3,
       "charityName": "Ottawa Paw Pantry",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ookami Kemono",
         "Soryane",
@@ -213,6 +231,7 @@
       "url": "https://consurf.net/canfurence-2024",
       "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-08-02",
       "endDate": "2024-08-04",
@@ -222,6 +241,7 @@
       "vendorCount": null,
       "charityRaised": 9747.7,
       "charityName": "Ottawa Paw Pantry",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Grace Kraft",
         "Aver the Dorbley"
@@ -238,6 +258,7 @@
       "url": "https://consurf.net/canfurence-2025",
       "address": "Delta Ottawa City Centre, Centretown, Ottawa, ON, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-08-01",
       "endDate": "2025-08-03",
@@ -247,6 +268,7 @@
       "vendorCount": 0,
       "charityRaised": 13209.69,
       "charityName": "Holly's Haven Wildlife Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "IronRaptor",
         "Anubis Tenebrous"
@@ -263,6 +285,7 @@
       "url": "https://consurf.net/canfurence-2026",
       "address": "Ottawa Conference & Event Centre, 200 Coventry Road, Ottawa, ON K1K 4S3, Canada",
       "country": "CAN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-08-07",
       "endDate": "2026-08-09",
@@ -272,6 +295,7 @@
       "vendorCount": 0,
       "charityRaised": 22000,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",

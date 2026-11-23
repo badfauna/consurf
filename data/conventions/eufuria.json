@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgj003tiae07gon1axd",
   "slug": "eufuria",
   "name": "Eufuria",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/EufuriaCon",
   "codeOfConduct": "https://eufuria.org/policies",
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://eufuria.org",
   "url": "https://consurf.net/conventions/eufuria",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/eufuria-2023",
       "address": "Café Euphoria, 225 River Street, City of Troy, NY 12180, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-07-22",
       "endDate": "2023-07-22",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -44,6 +48,7 @@
       "url": "https://consurf.net/eufuria-2024",
       "address": "Albany Capital Center, 55 Eagle Street, City of Albany, NY 12244, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-07-19",
       "endDate": "2024-07-20",
@@ -53,6 +58,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": "American Foundation for Suicide Prevention",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Royalty"
       ],
@@ -68,6 +74,7 @@
       "url": "https://consurf.net/eufuria-2025",
       "address": "Albany Capital Center, 55 Eagle Street, City of Albany, NY 12244, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-07-17",
       "endDate": "2025-07-19",
@@ -77,6 +84,7 @@
       "vendorCount": 0,
       "charityRaised": 4459.47,
       "charityName": "Prism Counseling and Advocacy",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Hearth Fox"
       ],
@@ -92,6 +100,7 @@
       "url": "https://consurf.net/eufuria-2026",
       "address": "Albany Capital Center, 55 Eagle Street, City of Albany, NY 12244, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-07-23",
       "endDate": "2026-07-25",
@@ -101,6 +110,7 @@
       "vendorCount": 18,
       "charityRaised": 5929.97,
       "charityName": "Prism Counseling & Advocacy",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://eufuria.org/about/past-years/2026/"
@@ -123,6 +133,7 @@
       "url": "https://consurf.net/eufuria-2027",
       "address": "Albany Capital Center, 55 Eagle Street, City of Albany, NY 12244, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-07-22",
       "endDate": "2027-07-24",
@@ -132,6 +143,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-07-27T00:43:51.733Z",

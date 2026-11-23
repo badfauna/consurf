@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgj003eiae0bdg25rvw",
   "slug": "furrydelphia",
   "name": "Furrydelphia",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://furrydelphia.org",
   "url": "https://consurf.net/conventions/furrydelphia",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furrydelphia-2017",
       "address": "King of Prussia (Upper Merion Township), PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-08-18",
       "endDate": "2017-08-20",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 4260,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Wintersnowolf",
         "Poprock Grey"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/furrydelphia-2018",
       "address": "King of Prussia (Upper Merion Township), PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-10",
       "endDate": "2018-08-12",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": 5300,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Hyena Agenda"
       ],
@@ -71,6 +77,7 @@
       "url": "https://consurf.net/furrydelphia-2019",
       "address": "King of Prussia (Upper Merion Township), PA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-08-16",
       "endDate": "2019-08-18",
@@ -80,6 +87,7 @@
       "vendorCount": null,
       "charityRaised": 4260,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Rukis",
         "Kyell Gold"
@@ -96,6 +104,7 @@
       "url": "https://consurf.net/furrydelphia-2020",
       "address": "Valley Forge Casino Resort, 1160 1st Avenue, Upper Merion Township, PA 19406, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": true,
       "startDate": "2020-08-14",
       "endDate": "2020-08-16",
@@ -105,6 +114,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -118,6 +128,7 @@
       "url": "https://consurf.net/furrydelphia-2021",
       "address": "Valley Forge Casino Resort, 1160 1st Avenue, Upper Merion Township, PA 19406, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2021-08-12",
       "endDate": "2021-08-15",
@@ -127,6 +138,7 @@
       "vendorCount": null,
       "charityRaised": 7325,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-01-12T16:29:47.458Z",
@@ -140,6 +152,7 @@
       "url": "https://consurf.net/furrydelphia-2022",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-08-26",
       "endDate": "2022-08-28",
@@ -149,6 +162,7 @@
       "vendorCount": null,
       "charityRaised": 9063,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Made Fur You",
         "DJ Recca",
@@ -167,6 +181,7 @@
       "url": "https://consurf.net/furrydelphia-2023",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-08-25",
       "endDate": "2023-08-27",
@@ -176,6 +191,7 @@
       "vendorCount": null,
       "charityRaised": 11895.1,
       "charityName": "Bella Reed Pitbull Rescue",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Stripe Kazama",
         "Tail Ends"
@@ -192,6 +208,7 @@
       "url": "https://consurf.net/furrydelphia-2024",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2024-08-08",
       "endDate": "2024-08-11",
@@ -201,6 +218,7 @@
       "vendorCount": null,
       "charityRaised": 11560.69,
       "charityName": "DanceSafe Philadelphia",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Regular Car Reviews",
         "Little Arrow Dog"
@@ -217,6 +235,7 @@
       "url": "https://consurf.net/furrydelphia-2025",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-08-22",
       "endDate": "2025-08-24",
@@ -226,6 +245,7 @@
       "vendorCount": null,
       "charityRaised": 22552.09,
       "charityName": "Dancesafe Philadelphia",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "MAJIC Records team"
       ],
@@ -241,6 +261,7 @@
       "url": "https://consurf.net/furrydelphia-2026",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-08-06",
       "endDate": "2026-08-09",
@@ -250,6 +271,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "DanceSafe Philadelphia",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BarleyTheBurr"
       ],
@@ -296,6 +318,7 @@
       "url": "https://consurf.net/furrydelphia-2027",
       "address": "Sheraton Philadelphia Downtown Hotel, 201 North 17th Street, Philadelphia, PA 19130, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-08-05",
       "endDate": "2027-08-08",
@@ -305,6 +328,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [],
       "createdAt": "2026-08-09T22:50:09.783Z",

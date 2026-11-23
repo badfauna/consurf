@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgn0063iae04w4svvf9",
   "slug": "furnexion",
   "name": "Furnexion",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "MEX",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/furnexion",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/furnexion-2022",
       "address": "Archivo Histórico de Nuevo León, 64800 Monterrey, NLE, Mexico",
       "country": "MEX",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2022-03-18",
       "endDate": "2022-03-20",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 7835,
       "charityName": "Corazones Incondicionales",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ettevy"
       ],

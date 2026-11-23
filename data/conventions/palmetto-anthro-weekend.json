@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cms9ungdr006pp601z9vgwgqh",
   "slug": "palmetto-anthro-weekend",
   "name": "Palmetto Anthro Weekend",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/PalmettoAnthroWeekend",
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://www.palmettoanthroweekend.org/",
   "url": "https://consurf.net/conventions/palmetto-anthro-weekend",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/palmetto-anthro-weekend-2027",
       "address": "Crowne Plaza Greenville, 851 Congaree Road, Greenville, SC 29607, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-02-04",
       "endDate": "2027-02-08",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Wyviryn"
       ],

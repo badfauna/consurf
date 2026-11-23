@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmw849j210000ql012oa61jfy",
   "slug": "united-furry-convention",
   "name": "United Furry Convention",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/united_furry_con",
   "codeOfConduct": "https://ufcon.ru/rules",
   "hostCountry": "RUS",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": 18,
   "website": "https://ufcon.ru",
   "url": "https://consurf.net/conventions/united-furry-convention",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/united-furry-convention-2026",
       "address": "Druzhba Holiday Resort - Gromkovo, Bogorodsky Urban Okrug, Moscow Oblast",
       "country": "RUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-04-16",
       "endDate": "2026-04-19",
@@ -31,6 +34,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://en.wikifur.com/wiki/United_Furry_Convention"
@@ -65,6 +69,7 @@
       "url": "https://consurf.net/united-furry-convention-2027",
       "address": "Moscow Oblast, Russia",
       "country": "RUS",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2027-03-11",
       "endDate": "2027-03-14",
@@ -74,6 +79,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [],
       "sources": [
         "https://t.me/united_furry_con/86"

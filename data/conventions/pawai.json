@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgf001aiae0i8c87r95",
   "slug": "pawai",
   "name": "Party Along With Anthro Indonesia",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/pawai_info",
   "codeOfConduct": "https://link.anthro.id/3QtdDQ",
   "hostCountry": "IDN",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://pawai.id",
   "url": "https://consurf.net/conventions/pawai",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/pawai-2018",
       "address": "South Jakarta, Java, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2018-08-11",
       "endDate": "2018-08-11",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Daza",
         "Kecap Asin"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/pawai-2019",
       "address": "YELLO Manggarai Jakarta, Jakarta, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2019-07-27",
       "endDate": "2019-07-27",
@@ -56,6 +61,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Koku Boku Boo",
         "MinTea"
@@ -72,6 +78,7 @@
       "url": "https://consurf.net/pawai-2023",
       "address": "Malaka Hotel, Jalan Terusan Halimun 36, Bandung City 40263, JR, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2023-06-24",
       "endDate": "2023-06-25",
@@ -81,6 +88,7 @@
       "vendorCount": null,
       "charityRaised": null,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Ocaritna",
         "Joseph A.K"
@@ -97,6 +105,7 @@
       "url": "https://consurf.net/pawai-2026",
       "address": "Grand Istana Rama, Jalan Pantai Kuta, Kuta 80361, Bali, Indonesia",
       "country": "IDN",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-10-03",
       "endDate": "2026-10-04",
@@ -106,6 +115,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": null,
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "AgiType01",
         "YonKaGor"

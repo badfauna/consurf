@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgq007yiae0yhz04pyc",
   "slug": "pawstral",
   "name": "Pawstral",
@@ -10,6 +10,8 @@
   "moreInformation": "https://t.me/PawstralNews",
   "codeOfConduct": null,
   "hostCountry": "CHL",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": "https://pawstral.cl/",
   "url": "https://consurf.net/conventions/pawstral",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/pawstral-2025",
       "address": "ICON Hotel Santiago, Avenida Alonso de Córdova 6050, 832 0000 Santiago, Chile",
       "country": "CHL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2025-08-29",
       "endDate": "2025-08-31",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 4392,
       "charityName": "Fundación Esperanza Animal",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "BennyCartoonist",
         "Peritian"
@@ -47,6 +51,7 @@
       "url": "https://consurf.net/pawstral-2026",
       "address": "Hotel Le Méridien, Av. Alameda Libertador Bernardo O'Higgins 136, 6513491 Santiago de Chle, Santiago, Libertador General Bernardo O'Higgins, Chile",
       "country": "CHL",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2026-08-21",
       "endDate": "2026-08-23",
@@ -56,6 +61,7 @@
       "vendorCount": 0,
       "charityRaised": 0,
       "charityName": "Fundación Sudamérica Diversa",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "YeenTrash",
         "Herutastic",

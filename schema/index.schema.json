@@ -17,7 +17,7 @@
       "format": "uri"
     },
     "schemaVersion": {
-      "const": 2
+      "const": 3
     },
     "generatedAt": {
       "type": "string",

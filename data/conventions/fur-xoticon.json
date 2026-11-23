@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badfauna/consurf/main/schema/convention.schema.json",
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "cmgiswmgo006qiae0w54tj4c5",
   "slug": "fur-xoticon",
   "name": "Fur-Xoticon",
@@ -10,6 +10,8 @@
   "moreInformation": null,
   "codeOfConduct": null,
   "hostCountry": "USA",
+  "format": "IN_PERSON",
+  "anchorTimezone": null,
   "minAge": null,
   "website": null,
   "url": "https://consurf.net/conventions/fur-xoticon",
@@ -22,6 +24,7 @@
       "url": "https://consurf.net/fur-xoticon-2016",
       "address": "West Springfield, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2016-05-27",
       "endDate": "2016-05-29",
@@ -31,6 +34,7 @@
       "vendorCount": null,
       "charityRaised": 1137.43,
       "charityName": "Sweetpea F.O.R. Animals",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Sheppy Momma",
         "Logarth Sheppy",
@@ -49,6 +53,7 @@
       "url": "https://consurf.net/fur-xoticon-2017",
       "address": "West Springfield, MA, United States of America",
       "country": "USA",
+      "category": "ON_SITE",
       "isCancelled": false,
       "startDate": "2017-05-26",
       "endDate": "2017-05-28",
@@ -58,6 +63,7 @@
       "vendorCount": null,
       "charityRaised": 2583,
       "charityName": "Sweetpea F.O.R. Animals",
+      "onlinePlatforms": [],
       "guestsOfHonor": [
         "Craz"
       ],
